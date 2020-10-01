@@ -1,1 +1,1 @@
-/home/shane/notes/ws/distributed-computation/distributed-computation.txt
+/home/shane/notes/ws/distributed-computation/glossary.txt
