@@ -30,3 +30,7 @@ Myst
 Myst Island
     An age created by Catherine and Ti'ana,
     and the central hub for the game Myst. 
+
+cleft
+    A space or opening made by or as if by
+    splitting.
