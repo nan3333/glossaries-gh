@@ -21,3 +21,12 @@ Gehn
     
     By the end of his teen years, Atrus came
     to realize that Gehn was a madman.
+
+Myst
+    The book series.
+
+    See "Myst Island".
+
+Myst Island
+    An age created by Catherine and Ti'ana,
+    and the central hub for the game Myst. 
