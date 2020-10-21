@@ -7,7 +7,7 @@ man-in-the-middle proxy
     It differs from mitmdump in that all flows
     are kept in memory, which means that it´s
     intended for taking and manipulating
-    small-ish samples.
+    smallish samples.
     
     Use the ? shortcut key to view, context-
     sensitive documentation from any mitmproxy
@@ -50,3 +50,13 @@ Filter expressions
     - Header matching (~h, ~hq, ~hs) is against a string of the form “name: value”.
     - Strings with no operators are matched against the request URL.
     - The default binary operator is &.
+
+mitmdump
+    The command-line companion to mitmproxy.
+    
+    It provides tcpdump-like functionality to
+    let you view, record, and programmatically
+    transform HTTP traffic.
+    
+    See the --help flag output for complete
+    documentation.
