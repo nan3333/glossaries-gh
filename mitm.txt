@@ -1,3 +1,18 @@
+mitmproxy
+man-in-the-middle proxy
+    A console tool that allows interactive
+    examination and modification of HTTP
+    traffic.
+    
+    It differs from mitmdump in that all flows
+    are kept in memory, which means that it´s
+    intended for taking and manipulating
+    small-ish samples.
+    
+    Use the ? shortcut key to view, context-
+    sensitive documentation from any mitmproxy
+    screen.
+
 Filter expressions
     Many commands in the mitmproxy tool make use of filter expressions. Filter
     expressions consist of the following operators:        
