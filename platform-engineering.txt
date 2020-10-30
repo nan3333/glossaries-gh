@@ -13,8 +13,11 @@ SRE
     - service discovery
     - the ability to horizontally scale with ease
 
+forward proxy
+    An intermediary for its associated clients
+    to contact any server.
+
 reverse proxy
-    [#computer networks]
 
     A type of proxy server that retrieves
     resources on behalf of a client from one

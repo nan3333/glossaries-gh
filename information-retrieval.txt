@@ -632,3 +632,44 @@ relevance
     Relevance may include concerns such as
     timeliness, authority or novelty of the
     result.
+
+document retrieval
+    [IR problem]
+
+    The matching of some stated user query
+    against a set of free-text records.
+    
+    These records could be any type of mainly
+    unstructured text, such as newspaper
+    articles, real estate records or
+    paragraphs in a manual.
+    
+    User queries can range from multi-sentence
+    full descriptions of an information need
+    to a few words.
+    
+    Sometimes referred to as, or as a branch
+    of, text retrieval.
+    
+    Text retrieval is a branch of IR where the
+    information is stored primarily in the
+    form of text.
+    
+    Text databases became decentralized thanks
+    to the personal computer and the CD-ROM.
+    
+    Text retrieval is a critical area of study
+    today, since it is the fundamental basis
+    of all internet search engines.
+
+collaborative filtering
+    [IR problem]
+
+    A family of algorithms where there are
+    multiple ways to find similar users or
+    items and multiple ways to calculate
+    rating based on ratings of similar users.
+    
+    Depending on the choices you make, you end
+    up with a type of collaborative filtering
+    approach.

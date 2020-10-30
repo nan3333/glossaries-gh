@@ -1,3 +1,15 @@
+feature
+feature set
+    A feature is an individual measurable
+    property or characteristic of a phenomenon
+    being observed.
+    
+    Choosing informative, discriminating and
+    independent features is a crucial step for
+    effective algorithms in pattern
+    recognition, classification and
+    regression.
+
 perceptron
     An algorithm for supervised learning of
     binary classifiers.

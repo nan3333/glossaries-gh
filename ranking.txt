@@ -1,0 +1,31 @@
+ranking
+    Create a permutation of items in new,
+    unseen lists in a similar way to rankings
+    in the training data.
+
+Learning to rank
+machine-learned ranking
+MLR
+    The application of ML, typically
+    supervised, semi-supervised or RL, in the
+    construction of ranking models for IR
+    systems.
+    
+    Training data consists of lists of items
+    with some partial order specified between
+    items in each list.
+    
+    This order is typically induced by giving
+    a numerical or ordinal score or a binary
+    judgment (e.g. "relevant" or "not
+    relevant") for each item.
+    
+    The ranking model purposes to rank, i.e.
+    producing a permutation of items in new,
+    unseen lists in a similar way to rankings
+    in the training data.
+    
+    Ranking is a central part of many IR
+    problems, such as document retrieval,
+    collaborative filtering, sentiment
+    analysis, and online advertising.

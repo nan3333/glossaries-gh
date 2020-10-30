@@ -31,3 +31,11 @@ actor model
     The relationship of the model to other
     work is discussed in actor model and
     process calculi.
+
+deadlock
+stalemate
+standstill
+impasse
+    A situation, typically one involving
+    opposing parties, in which no progress can
+    be made. 

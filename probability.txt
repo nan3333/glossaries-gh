@@ -1,3 +1,97 @@
+Maximum Liklihood [Estimation]
+MLE
+    The goal of maximum likelihood is to find
+    the optimal way to fit a distribution to
+    the data.
+
+    Could be trying to fit the Normal
+    distribution, for example.
+
+    Closely related to maximum entropy.
+
+Maximum a-posteriori [estimation]
+MAP
+    Works on the posterior distribution
+    instead of the likelihood like MLE.
+
+Standard inference
+
+MPE inference
+Most probable explanation
+Max propagation
+    Computes the most probable configuration
+    of variables that do not have evidence.
+
+    This is NOT just a problog acronym.
+
+MPE inference vs Standard inference
+    For MPE inference:
+        When variables are marginalized out
+        from distributions in order to compute
+        queries, instead of summing values,
+        the maximum is used.
+
+MAP inference
+    http://deepdive.stanford.edu/inference
+
+Marginal inference
+    The task of inferring the probability of
+    one variable taking a particular value.
+    Using the law of total probability, it is
+    straightforward to express this
+    probability as the sum of the
+    probabilities of possible worlds that
+    contain the requested value for that
+    variable.
+
+Factor Graph
+    [probabilistic graphical model]
+    [model]
+
+    A bipartite graph representing the
+    factorization of a probability
+    distribution function.
+
+    Can be used too perform probabilistic
+    inference.
+
+    Has two types of nodes:
+    - Variables
+      Can be either evidence variables when
+      their value is known, or query variables
+      when their value should be predicted.
+    - Factors
+      Defines the relationships between
+      variables in the graph. Each factor can
+      be connected to many variables and comes
+      with a factor function to define the
+      relationship between these variables.
+
+      For example, if a factor node is
+      connected to two variables nodes A and
+      B, a possible factor function could be
+      imply(A,B), meaning that if the random
+      variable A takes value 1, then so must
+      the random variable B. Each factor
+      function has a weight associated with
+      it, which describes how much influence
+      the factor has on its variables in
+      relative terms. In other words, the
+      weight encodes the confidence we have in
+      the relationship expressed by the factor
+      function. If the weight is high and
+      positive, we are very confident in the
+      function that the factor encodes; if the
+      weight is high and negative, we are
+      confident that the function is
+      incorrect. The weight can be learned
+      from training data, or assigned
+      manually.
+
+possible world [of a factor graph]
+    An assignment to every variable in a
+    factor graph.
+
 stochastic process
 random process
 RP

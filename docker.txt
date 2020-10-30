@@ -1,3 +1,6 @@
+composure
+    v +/"- \[Docker Images\](#docker-images) Docker Images \/ Composures w\/ Solr." "$MYGIT/Anant/awesome-solr/README.md"
+
 executor
     Part of a Worker Node.
 
@@ -159,33 +162,6 @@ Docker Trusted Registry
 registries
     Stores Docker images.
 
-service
-    This is NOT gitlab service.
-
-    Docker service:
-        Docker service will be the image for a
-        microservice within the context of
-        some larger application.  Examples of
-        services might include an HTTP server,
-        a database, or any other type of
-        executable program that you wish to
-        run in a distributed environment.
-
-    When you create a service, you specify
-    which container image to use and which
-    commands to execute inside running
-    containers. You also define options for
-    the service including:
-
-    - the port where the swarm will make the
-      service available outside the swarm
-    - an overlay network for the service to
-      connect to other services in the swarm
-    - CPU and memory limits and reservations
-    - a rolling update policy
-    - the number of replicas of the image to
-      run in the swarm
-
 docker client
     - docker build
     - docker pull
@@ -335,12 +311,40 @@ docker host in swarm mode
     both roles.
 
 swarm
+swarm service
+service
+    This is NOT gitlab service.
+
+    Docker service:
+        Docker service will be the image for a
+        microservice within the context of
+        some larger application.  Examples of
+        services might include an HTTP server,
+        a database, or any other type of
+        executable program that you wish to
+        run in a distributed environment.
+
+    When you create a service, you specify
+    which container image to use and which
+    commands to execute inside running
+    containers. You also define options for
+    the service including:
+
+    - the port where the swarm will make the
+      service available outside the swarm
+    - an overlay network for the service to
+      connect to other services in the swarm
+    - CPU and memory limits and reservations
+    - a rolling update policy
+    - the number of replicas of the image to
+      run in the swarm
+
     A swarm consists of multiple Docker hosts
     which run in swarm mode and act as
     managers and workers .
     
-    When you create a service, you define its
-    optimal state:
+    When you create a swarm service, you
+    define its optimal state:
     - number of replicas,
     - network and storage resources available
       to it,
