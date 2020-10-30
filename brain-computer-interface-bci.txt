@@ -1,1 +1,24 @@
-/home/shane/notes/ws/brain-computer-interface-bci/glossary.txt
+mammalian neocortex
+    Neural decoding research generally centers
+    around this.
+
+Reconstruction
+    [#neural decoding]
+
+    Ability of the researcher to predict what
+    sensory stimuli the subject is receiving
+    based purely on neuron action potentials.
+
+neural decoding
+    [#neuroscienc]
+    [field of study]
+
+    The hypothetical reconstruction of sensory
+    and other stimuli from information that
+    has already been encoded and represented
+    in the brain by networks of neurons.
+    
+    Main goal:
+        To characterize how the electrical
+        activity of neurons elicit activity
+        and responses in the brain.

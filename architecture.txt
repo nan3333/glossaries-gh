@@ -1,1 +1,11 @@
-/home/shane/notes/ws/architecture/glossary.txt
+subtractive
+subtractive architecture
+    The roof cutouts are forms that are
+    subtracted from the main.
+    
+    They create space without altering the
+    shape of the home when viewed from the
+    front or back.
+
+    Example:
+        petra

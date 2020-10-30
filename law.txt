@@ -1,1 +1,46 @@
-/home/shane/notes/ws/law/glossary.txt
+Mens rea
+    The intent a person has behind committing
+    a crime.
+
+    Four different levels:
+    - purpose (same as intent),
+    - knowledge,
+    - recklessness, and
+    - negligence.
+
+Actus reus
+    The action the person takes to perform the
+    criminal act.
+    
+    This is the physical action behind the
+    crime.
+
+implied warranty
+    In common law jurisdictions, an implied
+    warranty is a contract law term for
+    certain assurances that are presumed to be
+    made in the sale of products or real
+    property, due to the circumstances of the
+    sale.
+
+merchantability
+    The state of being fit for market; ready
+    to be bought or sold.
+
+contract law
+    In order to have a valid and binding legal
+    contract, three elements are required:
+    - an offer,
+    - acceptance of that offer, and
+    - consideration.
+
+antitrust
+    The trust in antitrust refers to a group
+    of businesses that team up or form a
+    monopoly in order to dictate pricing in a
+    particular market.
+
+    Antitrust laws exist to promote
+    competition among sellers, limit
+    monopolies, and give consumers more
+    options

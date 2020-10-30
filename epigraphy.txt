@@ -1,1 +1,3 @@
-/home/shane/notes/ws/epigraphy/glossary.txt
+epigraphy
+    The study and interpretation of ancient
+    inscriptions.

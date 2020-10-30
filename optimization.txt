@@ -1,1 +1,12 @@
-/home/shane/notes/ws/optimization/glossary.txt
+Nearest neighbor search
+NNS
+    [form of proximity search]
+    
+    The optimization problem of finding the
+    point in a given set that is closest (or
+    most similar) to a given point.
+    
+    Closeness is typically expressed in terms
+    of a dissimilarity function: the less
+    similar the objects, the larger the
+    function values.

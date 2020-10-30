@@ -1,1 +1,75 @@
-/home/shane/notes/ws/french/words.txt
+sortie
+    exit
+
+alors
+    Then.
+    So.
+
+    Example:
+        Alors, ...
+
+        So, did you hear something on the
+        radio?
+
+incroyable
+    unbelievable, incredible, amazing, dandy
+
+oublier 
+    1 to forget
+    2 to leave something behind by accident
+
+pass compos
+    v +/"Expressing past events: le pass compos (1)" "$HOME/Calibre Library/Beginning French for the utterly confused-McGraw-Hill (2003)/Amilcar Sebastian Mercado (18)/Amilcar Sebastian Mercado - Beginning French for the utterly confused-.txt"
+    vim +/"1. The pass compos is used to express completed events in the past. Nevertheless, it may" "$HOME/Calibre Library/Beginning French for the utterly confused-McGraw-Hill (2003)/Amilcar Sebastian Mercado (18)/Amilcar Sebastian Mercado - Beginning French for the utterly confused-.txt"
+
+chre
+    "Cette robe est chre"
+
+    "This dress is expensive"
+
+beeline
+    He made a beeline for the refreshments. In
+    this expression, beeline means “the
+    shortest distance between two points,”
+    alluding to the route of worker bees
+    bringing nectar and pollen back to the
+    hive.
+
+supplant
+    Supersede and replace.
+
+heraldry
+    A broad term, encompassing the design,
+    display, and study of armorial bearings
+    (known as armory), as well as related
+    disciplines, such as vexillology, together
+    with the study of ceremony, rank, and
+    pedigree.
+
+dotard
+    An old person, especially one who has
+    become physically weak or whose mental
+    faculties have declined.
+
+gibbet
+    Any instrument of public execution, but
+    gibbeting refers to the use of a gallows-
+    type structure from which the dead or
+    dying bodies of criminals were hanged on
+    public display to deter other existing or
+    potential criminals
+
+hewing
+hewn
+    [woodworking]
+
+    The process of converting a log from its
+    rounded natural form into lumber with more
+    or less flat surfaces using primarily an
+    axe.
+    
+    It is an ancient method, and before the
+    advent of the industrial-era type of
+    sawmills, it was a standard way of
+    squaring up wooden beams for timber
+    framing.

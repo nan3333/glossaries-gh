@@ -1,1 +1,104 @@
-/home/shane/notes/ws/logic/glossary.txt
+Homotopy type theory
+HoTT
+    Various lines of development of
+    intuitionistic type theory, based on the
+    interpretation of types as objects to
+    which the intuition of (abstract) homotopy
+    theory applies.
+
+SMT instance
+    A generalization of a Boolean SAT instance
+    in which various sets of variables are
+    replaced by predicates from a variety of
+    underlying theories.
+    
+    SMT formulas provide a much richer
+    modeling language than is possible with
+    Boolean SAT formulas.
+
+SMT problem
+    An extended version of SAT problem.
+    
+    Given a formula, checking if there is a
+    set of values for variables that satisfies
+    the formula.
+    
+    The difference is, that SAT only deals
+    with boolean expressions, whereas SMT can
+    handle various types such as integer, bit
+    vector and real number.
+    
+    Depending on which theory to use, you can
+    express constraints in different formats.
+    
+    This time, we will use linear integer
+    arithmetic, where equations in the SMT
+    problems are linear equations over integer
+    variables.
+    
+    There are many SMT Solvers, but I chose Z3
+    because it is well documented and is
+    ported to Python language.
+    
+    It’s really easy to use.
+
+    https://dwheeler.com/essays/minisat-user-guide.html
+
+Conjunctive Normal Form
+CNF
+cnf
+    Like many SAT solvers, MiniSAT requires
+    that its input be in CNF.
+
+    Built from these building blocks:
+    - term
+      A term is either a boolean variable
+      (e.g., x4) or a negated boolean variable
+      (NOT x4, written here as -x4).
+
+    - clause
+      A clause is a set of one or more terms,
+      connected with OR (written here as |);
+      boolean variables may not repeat inside
+      a clause.
+
+    - expression
+      An expression is a set of one or more
+      clauses, each connected by AND (written
+      here as &).
+
+modus ponens
+method of affirming
+    [#logic]
+    [rule of logic]
+
+    The rule of logic which states that if a
+    conditional statement (‘if p then q ’) is
+    accepted, and the antecedent ( p ) holds,
+    then the consequent ( q ) may be inferred.
+
+    If a conditional statement (‘if p then q
+    ’) is accepted, and the antecedent ( p )
+    holds, then the consequent ( q ) may be
+    inferred.
+
+Predicate (logic)
+    Takes an argument as input and outputs
+    true or false.
+
+    Example, -type in the find command.
+        "-type f" is not a predicate.
+
+        The predicate is 'is the type', not
+        'the type is f'.
+
+        Predicates can take several variables.
+
+        "Socrates is the teacher of Plato",
+        the predicate "is the teacher of"
+        takes two variables.
+
+        Therefore the predicate "-type"
+        actually takes 2 variables, the
+        current node being checked and the
+        type of the node.

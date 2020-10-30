@@ -1,1 +1,6 @@
-/home/shane/notes/ws/mechanical-engineering/glossary.txt
+differential
+    A gear train with three shafts that has
+    the property that the rotational speed of
+    one shaft is the average of the speeds of
+    the others, or a fixed multiple of that
+    average.

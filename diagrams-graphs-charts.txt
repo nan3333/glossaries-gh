@@ -1,1 +1,6 @@
-/home/shane/notes/ws/diagrams-graphs-charts/glossary.txt
+roughviz
+    [tool]
+
+    https://github.com/jwilber/roughViz
+
+UML State Diagram

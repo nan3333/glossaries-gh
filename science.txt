@@ -1,1 +1,16 @@
-/home/shane/notes/ws/science/glossary.txt
+Batch testing
+    A laboratory testing procedure in which
+    one test is done simultaneously on
+    multiple specimens.
+
+scientific method
+    systematic:
+    - observation
+    - measurement
+    - experiment
+
+    the
+    - formulation,
+    - testing, and
+    - modification
+    of hypotheses

@@ -1,1 +1,1 @@
-/home/shane/notes/ws/onnx/glossary.txt
+model interchange format

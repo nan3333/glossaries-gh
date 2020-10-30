@@ -1,1 +1,89 @@
-/home/shane/notes/ws/nmt-neural-machine-translation/glossary.txt
+Neural machine translation
+NMT
+    One approach to machine translation.
+
+    The use of NN models to
+    - learn a statistical model for machine
+      translation.
+
+      i.e. predict the likelihood of a
+      sequence of words, typically modeling
+      entire sentences in a single integrated
+      model.
+
+    Key benefit:
+        A single system can be trained
+        directly on source and target text, no
+        longer requiring the pipeline of
+        specialized systems used in
+        statistical machine learning.
+
+    Unlike the traditional phrase-based
+    translation system which consists of many
+    small sub-components that are tuned
+    separately, neural machine translation
+    attempts to build and train a single,
+    large neural network that reads a sentence
+    and outputs a correct translation.
+
+    Widely used to translate natural langugae
+    text.
+
+NMT with code2vec
+    Learn from the previous code changes and
+    suggest the future edits.
+
+    For modeling code changes, NMT seem to be
+    a natural fit as they can learn the
+    translation (i.e. edits) from an original
+    to the changed version of the code.
+
+    Essentially, these models learn the
+    probability distribution of changes and
+    assign higher probabilities to plausible
+    code edits and lower probabilities to less
+    plausible ones.
+
+    In fact, Tufano et al. shows the
+    initial promise of using a
+    sequence-to-sequence translation model
+    (seq2seq) for fixing bugs in their new
+    idea paper.
+
+    In this work, we design an
+    encoder-decoder-based machin.
+
+Cross-lingual Language Model
+XLM
+
+XLM pretraining
+    Allows the seq2seq model to generate
+    high quality representations of input
+    sequences.
+
+Pretraining
+    A key ingredient of unsupervised machine
+    translation.
+    
+    It ensures that sequences with a similar
+    meaning are mapped to the same latent
+    representation, regardless of their
+    languages.
+
+three principles of unsupervised machine translation
+  - initialization,
+  - LMing, and
+  - back-translation.
+
+Monolingual word embeddings vs cross-lingual word embeddings
+    Monolingual word embeddings are pervasive
+    in NLP.
+    
+    To represent meaning and transfer
+    knowledge across different languages,
+    cross-lingual word embeddings can be used.
+    
+    Such methods learn representations of
+    words in a joint embedding space.
+
+masked language modeling

@@ -1,1 +1,4 @@
-/home/shane/notes/ws/anatomy/glossary.txt
+peritoneum
+    The serous membrane lining the cavity of
+    the abdomen and covering the abdominal
+    organs.

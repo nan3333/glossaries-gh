@@ -1,1 +1,333 @@
-/home/shane/notes/ws/probability/glossary.txt
+stochastic process
+random process
+RP
+    A mathematical object usually defined as a
+    family of random variables.
+
+    Important Classes of Random Processes:
+    - IID
+    - Random Walk Process
+    - Markov Processes
+    - Independent Increment Processes
+    - Counting processes and Poisson Process
+
+    An infinite indexed collection of random
+    variables {X(t) : t ∈ T }, defined over a
+    common probability space.
+
+    Examples:
+    - Bernoulli trial
+    - Brownian motion
+
+Bernoulli process
+    One of the simplest stochastic processes.
+
+    A sequence of independent and identically
+    distributed (iid) random variables, where
+    each random variable takes either the
+    value 1 with probability p, and value 0
+    with probability 1 - p.
+
+    This process can be likened to a coin
+    flip, where the probability of obtaining a
+    head is p and its value is 1, while the
+    value of a tail is 0.
+
+    In other words, a Bernoulli process is a
+    sequence of iid Bernoulli random
+    variables,where each coin flip is a
+    Bernoulli trial.
+
+Wiener motion
+Brownian motion
+    [stochastic process]
+
+    Widely considered the most studied and
+    central stochastic process in probability
+    theory.
+
+Pr(A)
+    Probability of event A occurring.
+
+C_n(A)
+    Number of occurrences of event A in n
+    trials.
+
+Sample space
+    The sample space S of a random process is
+    the set of all possible outcomes of that
+    process.
+
+    A model of 'all possible ways the world
+    can be'.
+
+    Formally, it's the space of all possible
+    values of the input and outputs to the
+    function.
+
+    Each of these defines one dimension of the
+    samples space.
+
+    Each possible combination is called a
+    sample point.
+
+    Can be:
+    - finite
+    - countably infinite
+    - uncountable
+
+    S={o_1, ..., o_j, ..., o_M}
+
+    The collection of all possible outcomes of
+    a random experiment.
+    
+    The elements of are called sample points.
+    
+    A sample space may be finite, countably
+    infinite or uncountable.
+    
+    A finite or countably infinite sample
+    space is called a discrete sample space.
+
+finite sample space
+    Example:
+        S = {H,T}
+
+infinite sample space
+
+event
+    A subset of the sample space.
+    
+sampling bias
+    Examples:
+    - Selection bias
+    - Under coverage bias
+
+random variable
+X
+
+probability and information
+    readsubs +/"we have a sample space a random variable" "https://www.youtube.com/watch?v=XUTk3pyHIxY"
+
+    You have
+
+    - sample space
+    - random variable associated with the
+      sample space
+    - a probability that the random variable
+      is some outcome (i.e. it occurs)
+
+joint probability and information
+    - sample space is doubly indexed
+    - p(x,y)
+      The probability that in a given trial, X
+      has value x and Y hase value y.
+    - we have marginal probabilities
+    - ca can calculate the joint information
+
+joint information
+    The base two logarithm of the probability
+
+    How surprised we are by an 'x,y' event.
+
+    -log_2(p(x,y))
+
+information
+surprisal
+    negative log base 2 of the probability
+
+expected information
+information-theoretic entropy
+entropy
+H
+    Measures the average amount of information
+    that you get when you learn the weather
+    each day, or more generally the average
+    amount of information that you get from
+    one sample drawn from a given probability
+    distribution p.
+    
+    It tells you how unpredictable that
+    probability distribution is.
+    
+    If you live in the middle of a desert
+    where it’s sunny every day, on average you
+    won’t get much information from the
+    weather station.
+    
+    The entropy will be close to zero.
+    
+    Conversely, if the weather varies a lot,
+    the entropy will be much larger.
+
+    Optimising codes:
+        For example, when we use a 2-bit
+        message for sunny weather, we’re
+        implicitly assuming that it will be
+        sunny every 4 days (2 to the power of
+        2), at least on average.
+
+        In other words, by using this code,
+        we’re implicitly predicting a
+        probability of 25% for sunny weather,
+        or else our code will not be optimal.
+
+        https://youtu.be/ErfnhcEV1O8?t=425
+
+joint entropy
+    <= to the sum of the entropies.
+
+joint self information
+    Sum of the informations.
+
+normal
+bell curve
+    [type of probability distribution]
+
+    The user simply defines the mean or
+    expected value and a standard deviation to
+    describe the variation about the mean.
+    Values in the middle near the mean are
+    most likely to occur. It is symmetric and
+    describes many natural phenomena such as
+    people's heights. Examples of variables
+    described by normal distributions include
+    inflation rates and energy prices.
+
+lognormal
+    [type of probability distribution]
+
+    Values are positively skewed, not
+    symmetric like a normal distribution. It
+    is used to represent values that don't go
+    below zero but have unlimited positive
+    potential. Examples of variables described
+    by lognormal distributions include real
+    estate property values, stock prices, and
+    oil reserves.
+
+uniform
+    [type of probability distribution]
+
+    All values have an equal chance of
+    occurring, and the user simply defines the
+    minimum and maximum. Examples of variables
+    that could be uniformly distributed
+    include manufacturing costs or future
+    sales revenues for a new product.
+
+triangular
+    [type of probability distribution]
+
+    The user defines the minimum, most likely,
+    and maximum values. Values around the most
+    likely are more likely to occur. Variables
+    that could be described by a triangular
+    distribution include past sales history
+    per unit of time and inventory levels.
+
+PERT
+    [type of probability distribution]
+
+    The user defines the minimum, most likely,
+    and maximum values, just like the
+    triangular distribution. Values around the
+    most likely are more likely to occur.
+    However values between the most likely and
+    extremes are more likely to occur than the
+    triangular; that is, the extremes are not
+    as emphasized. An example of the use of a
+    PERT distribution is to describe the
+    duration of a task in a project management
+    model.
+
+discrete
+    [type of probability distribution]
+
+    The user defines specific values that may
+    occur and the likelihood of each. An
+    example might be the results of a lawsuit:
+    20% chance of positive verdict, 30% change
+    of negative verdict, 40% chance of
+    settlement, and 10% chance of mistrial.
+
+Jensen Shannon Divergence
+JSD
+    [#probability theory]
+
+    A method of measuring the similarity
+    between two probability distributions.
+    
+    It is also known as information radius
+    (IRad) or total divergence to the
+    average.
+    
+    It is based on the Kullback–Leibler
+    divergence, with some notable (and useful)
+    differences, including that it is
+    symmetric and it always has a finite
+    value.
+    
+    The square root of the Jensen–Shannon
+    divergence is a metric often referred to
+    as Jensen-Shannon distance.c
+
+particle filter
+    [#bayesian filter]
+
+    An extension of Bayesian filter.
+
+bayesian filter
+    https://leimao.github.io/article/Introduction-to-Bayesian-Filter/
+
+    Estimate the distribution in a process
+    where there is incoming measurements.
+
+    Given a stream of observation data.
+    
+    The whole process with assumptions could
+    be described using a graph known as Hidden
+    Markov Model (HMM).
+    
+    Widely used in localization problems in
+    robotics.
+    
+    See "particle filter".
+
+maximum entropy
+The principle of maximum entropy
+    The probability distribution which best
+    represents the current state of knowledge
+    is the one with largest entropy, in the
+    context of precisely stated prior data
+    (such as a proposition that expresses
+    testable information).
+
+    Another way of stating this:
+        Take precisely stated prior data or
+        testable information about a
+        probability distribution function.
+        
+        Consider the set of all trial
+        probability distributions that would
+        encode the prior data.
+        
+        According to this principle, the
+        distribution with maximal information
+        entropy is the best choice.
+
+expectation
+expectation of a random variable
+    https://seeing-theory.brown.edu/basic-probability/index.html
+
+    A number that attempts to capture the
+    center of that random variable's
+    distribution.
+    
+    It can be interpreted as the long-run
+    average of many independent samples from
+    the given distribution.
+    
+    More precisely, it is defined as the
+    probability-weighted sum of all possible
+    values in the random variable's support,

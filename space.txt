@@ -1,1 +1,20 @@
-/home/shane/notes/ws/space/glossary.txt
+Makemake
+    [dwarf planet]
+
+    Resides in the outer solar system.
+    
+    It was the fourth body identified as a
+    dwarf planet, and was one of the bodies
+    that caused Pluto to lose its status as a
+    planet.
+    
+    Makemake is large enough and bright enough
+    to be studied by a high-end amateur
+    telescope.
+
+albedo
+    [optics]
+
+    The proportion of the incident light or
+    radiation that is reflected by a surface,
+    typically that of a planet or moon.

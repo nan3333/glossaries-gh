@@ -1,1 +1,38 @@
-/home/shane/notes/ws/bible/glossary.txt
+Psalm 51
+    vim +/"PSALM 51" "$MYGIT/mullikine/bible/KJV.txt"
+    vim +/"5Behold, I was shapen in iniquity; and in sin did my mother conceive me." "$MYGIT/mullikine/bible/KJV.txt"
+
+    Behold, we were shapen in asymmetry; and
+    in imperfection did the universe conceive
+    us.
+
+Naphtali
+    Naphtali was the sixth son of Jacob and
+    second son with Bilhah. He was the founder
+    of the Israelite Tribe of Naphtali.
+
+Pison
+Gihon
+Hiddekel
+Tigris
+Phirat
+Euphrates
+rivers of Eden
+    Genesis 2:10–14 lists four rivers in
+    association with the garden of Eden:
+    
+    Pishon, Gihon, Hiddekel (the Tigris), and
+    Phirat (the Euphrates).
+    
+    It also refers to the land of
+    Cush—translated/interpreted as Ethiopia,
+    but thought by some to equate to Cossaea,
+    a Greek name for the land of the Kassites.
+
+Havilah
+    Friedrich Delitzsch located the land of
+    Havilah in the Syrian Desert, west and
+    south of the Euphrates. P. Haupt, who
+    regarded the Pishon as the belt of water
+    formed by the Kerkha, Persian Gulf, and
+    Red Sea, identified Havilah with Arabia.

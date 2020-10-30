@@ -1,1 +1,20 @@
-/home/shane/notes/ws/artificial-intelligence-ai/glossary.txt
+policy
+    https://blog.google/topics/ai/ai-principles/
+
+ES
+evolution strategy
+    An optimization technique based on ideas
+    of evolution.
+    
+    It belongs to the general class of
+    evolutionary computation or artificial
+    evolution methodologies.
+
+Statistical Relational Learning
+    [subdiscipline of AI and ML]
+
+    Concerned with domain models exhibiting:
+    - uncertainty
+      (which can be dealt with using
+      statistical methods)
+    - complex, relational structure.

@@ -1,1 +1,8 @@
-/home/shane/notes/ws/web-development/glossary.txt
+websocket
+    Basically a two way connection between a
+    client and server.
+    
+    You would typically encounter one in any
+    use case when you would want the server to
+    send data to the browser without the
+    browser requesting it first.

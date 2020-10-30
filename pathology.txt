@@ -1,1 +1,12 @@
-/home/shane/notes/ws/pathology/glossary.txt
+Aplastic anemia
+    [#pathology]
+
+    A condition that occurs when your body
+    stops producing enough new blood cells.
+
+    Aplastic anemia leaves you feeling
+    fatigued and with a higher risk of
+    infections and uncontrolled bleeding.
+
+    A rare and serious condition, aplastic
+    anemia can develop at any age.

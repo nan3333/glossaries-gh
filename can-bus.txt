@@ -1,1 +1,1 @@
-/home/shane/notes/ws/can-bus/glossary.txt
+DID encoding

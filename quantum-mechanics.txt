@@ -1,1 +1,13 @@
-/home/shane/notes/ws/quantum-mechanics/glossary.txt
+Schrödinger equation
+    A linear partial differential equation
+    that describes the wave function or state
+    function of a quantum-mechanical system.
+    It is a key result in quantum mechanics,
+    and its discovery was a significant
+    landmark in the development of the
+    subject.
+
+    Describes how the state of a system
+    evolves.
+
+    https://youtu.be/hXgqik6HXc0?t=625

@@ -1,1 +1,17 @@
-/home/shane/notes/ws/microbiology/glossary.txt
+cytoskeleton
+    A microscopic network of protein filaments
+    and tubules in the cytoplasm of many
+    living cells, giving them shape and
+    coherence.
+    
+microtubules
+    Polymers of tubulin that form part of the
+    cytoskeleton and provide structure and
+    shape to eukaryotic cells.
+    
+    Microtubules can grow as long as 50
+    micrometres and are highly dynamic.
+    
+    The outer diameter of a microtubule is
+    between 23 and 27 nm while the inner
+    diameter is between 11 and 15 nm.

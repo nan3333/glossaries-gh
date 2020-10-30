@@ -1,1 +1,2 @@
-/home/shane/notes/ws/spark/glossary.txt
+gloming
+    vim +/"print(A.glom().map(len).collect())" "$MYGIT/tirthajyoti/Spark-with-Python/Partioning and Gloming.py"

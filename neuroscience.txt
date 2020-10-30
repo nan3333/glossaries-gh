@@ -1,1 +1,98 @@
-/home/shane/notes/ws/neuroscience/glossary.txt
+neurons
+    Represent information in the rate
+
+    statistics and precise timing of spikes.
+
+spinal nerves
+    Emerge from segments of the spinal cord.
+
+cranial nerves
+    In contrast to spinal nerves.
+
+    The nerves that emerge directly from the
+    brain (including the brainstem).
+    
+    Ten of the cranial nerves originate in the
+    brainstem.
+    
+    Cranial nerves relay information between
+    the brain and parts of the body, primarily
+    to and from regions of the head and
+    neck.
+
+    Spinal nerves emerge sequentially from the
+    spinal cord with the spinal nerve closest
+    to the head (C1) emerging in the space
+    above the first cervical vertebra.
+    
+    The cranial nerves, however, emerge from
+    the central nervous system above this
+    level.
+    
+    Each cranial nerve is paired and is
+    present on both sides.
+    
+    Depending on definition in humans there
+    are twelve or thirteen cranial nerves
+    pairs, which are assigned Roman numerals
+    
+    I–XII, sometimes also including cranial
+    nerve zero.
+    
+    The numbering of the cranial nerves is
+    based on the order in which they emerge
+    from the brain, front to back (brainstem).
+    
+    The terminal nerves (0), olfactory nerves
+    (I) and optic nerves (II) emerge from the
+    cerebrum or forebrain, and the remaining
+    ten pairs arise from the brainstem, which
+    is the lower part of the brain.
+    
+    The cranial nerves are considered
+    components of the peripheral nervous
+    system (PNS), although on a structural
+    level the olfactory (I), optic (II), and
+    trigeminal (V) nerves are more accurately
+    considered part of the central nervous
+    system (CNS).
+
+plasticity rule
+    When one neuron drives the activity of
+    another neuron, the connection between
+    these neurons is potentiated.
+
+potentiated
+    Increase the power, effect, or likelihood
+    of (something, especially a drug or
+    physiological reaction).
+
+spikes
+    [#neuralink]
+
+    Invasive.
+        Need invasive BCI to monitor spikes.
+
+    Give the most information.
+
+    No ceiling compared to EEG or other
+    methods.
+
+Dendritic arbor
+
+DBS
+Deep Brain Stimulation
+
+N1
+    [#neuralink]
+
+    Contains:
+    - N1 Sensor.
+
+haptic feedback
+    - flash of light
+    - sensation of typing with anethetised
+      hands
+
+episodic memory
+    Things that you remember from your life.

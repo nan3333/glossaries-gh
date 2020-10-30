@@ -1,1 +1,108 @@
-/home/shane/notes/ws/data-science/glossary.txt
+Scientific Debt
+    http://varianceexplained.org/r/scientific-debt/
+
+    - They made irreversible decisions based
+      on flawed analyses.
+    - Lack of monitoring. 
+    - Lack of data infrastructure.
+    - Spreading inaccurate lore.
+
+    Is scientific debt always bad?  Not at
+    all!
+
+    How can we manage scientific debt well?
+    - Let data scientists “pay interest” on
+      it.
+    - Build data engineering processes.
+    - Revisit old analyses.
+    - Have data expertise spread throughout
+      the company.
+
+synthetic data generation
+    eww "https://towardsdatascience.com/synthetic-data-generation-a-must-have-skill-for-new-data-scientists-915896c0c1ae"
+
+accuracy paradox
+    The paradoxical finding that accuracy is
+    not a good metric for predictive models
+    when classifying in predictive analytics.
+    
+    This is because a simple model may have a
+    high level of accuracy but be too crude to
+    be useful.
+    
+    For example, if the incidence of category
+    A is dominant, being found in 99% of
+    cases, then predicting that every case is
+    category A will have an accuracy of 99%.
+    
+    Precision and recall are better measures
+    in such cases.
+    
+    The underlying issue is that there is a
+    class imbalance between the positive class
+    and the negative class.
+    
+    Prior probabilities for these classes need
+    to be accounted for in error analysis.
+    
+    Precision and recall help, but precision
+    too can be biased by very unbalanced class
+    priors in the test sets.
+
+    Example:
+        You create a classification model and
+        get 90% accuracy immediately. Great!
+        
+        Then you discover 90% of the data
+        belongs to one class.
+
+class imbalance
+    Examples:
+    - accuracy paradox
+
+    https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
+
+    Possible solutions:
+    - collect more data
+    - change the performance metric
+      Accuracy is not the metric to use when
+      working with an imbalanced dataset.
+
+      Other options:
+      - Confusion Matrix
+        A breakdown of predictions into a
+        table showing correct predictions (the
+        diagonal) and the types of incorrect
+        predictions made (what classes
+        incorrect predictions were assigned).
+      - Precision
+        A measure of a classifiers exactness.
+      - Recall
+        A measure of a classifiers
+        completeness.
+      - F1 Score (or F-score)
+        A weighted average of precision and
+        recall.
+    - Resample the dataset
+    - Generate synthetic samples
+    - Try different algorithms
+
+sample complexity [of a ML algorithm]
+    The number of training-samples that it
+    needs in order to successfully learn a
+    target function.
+    
+    The number of training-samples that we
+    need to supply to the algorithm, so that
+    the function returned by the algorithm is
+    within an arbitrarily small error of the
+    best possible function, with probability
+    arbitrarily close to 1.
+    
+    Two variants:
+    - weak
+      Fixes a particular input-output
+      distribution.
+    - strong
+      Takes the worst-case sample complexity
+      over all input-output distributions.

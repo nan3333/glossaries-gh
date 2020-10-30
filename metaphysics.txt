@@ -1,1 +1,11 @@
-/home/shane/notes/ws/metaphysics/glossary.txt
+Ship of Theseus
+    [metaphysics of identity]
+    
+    The ship of Theseus is a thought
+    experiment that raises the question of
+    whether an object that has had all of its
+    components replaced remains fundamentally
+    the same object.
+
+    https://media.emacsconf.org/2019/26.html
+    @11min

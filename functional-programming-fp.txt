@@ -1,1 +1,459 @@
-/home/shane/notes/ws/functional-programming-fp/glossary.txt
+$HOME/notes/ws/functional-programming-fp/fp-jargon.org
+
+functional optics
+    - functional lenses
+    - functional prisms
+
+    readsubs "https://www.youtube.com/watch?v=sFzuu676pFs"
+
+    Used to use loops:
+    - map
+    - fold
+    - reduce
+
+    Now we use lenses.
+
+    Using lenses, is more declarative.
+    You say, this is my goal, please fix.
+
+    We have values:
+    - primitives
+
+    Types
+    - product
+      Any kind of type which fully/explicitly
+      specifies the values you need in order
+      to make the type.
+
+      For example, a tuple (Int, Bool)
+
+    - sum
+      Not as ubiquitous.
+      A list of different possibilities.
+      You don't really know what it is until
+      you do some tests on it.
+
+      For example:
+      - Optional type
+
+      You can think of interfaces as sum
+      types.
+
+    Prisms and lenses compose.
+    This is the killer feature.
+    If you have nested objects and you know
+    how to reach in there...
+
+    You compose them into a really cool
+    'optic'.
+
+functional prism
+    A prism is a value that encodes the fact
+    that something is a sum type.
+
+functional lenses
+    A lens is a value that encodes the fact
+    that something is a product type.
+
+    A way to think of it is that they let you
+    zoom in to the structure of a type.
+
+    For example, zoom in to :
+    - The sectond element of a tuple.
+    - ID of a database table row.
+    - Email address of a user
+
+    Anything where you can say, this type
+    contains something of this type.
+
+    If you have a getter and a setter then you
+    have a lens.
+
+expression problem
+    The goal is to define a datatype by cases,
+    where one can add new cases to the
+    datatype and new functions over the
+    datatype, without recompiling existing
+    code, and while retaining static type
+    safety (e.g., no casts).
+
+tail recursive
+tail recursion
+    A recursive function is tail recursive if
+    the final result of the recursive call is
+    the final result of the function itself.
+    
+    If the result of the recursive call must
+    be further processed (say, by adding 1 to
+    it, or consing another element onto the
+    beginning of it), it is not tail
+    recursive.
+
+    Examples:
+    - foldl is tail recursive. 
+
+catamorphism
+    [#category theory]
+
+    The concept of catamorphism denotes the
+    unique homomorphism from an initial
+    algebra into some other algebra.
+
+catamorphism
+    [#fp]
+
+    $MYGIT/acmeism/RosettaCodeData/Task/Catamorphism
+
+    Catamorphisms provide generalizations of
+    folds of lists to arbitrary algebraic data
+    types, which can be described as initial
+    algebras.
+
+transducer
+    Not just a clojure and haskell thing.
+
+    sp-awesome-search functional python
+
+    http://www.slideshare.net/alinadolgikh/austin-bingham-transducers-in-python
+
+>>=
+bind infix operator / function
+    The type is something that takes an Mb on
+    its LHS and takes a function from b to Mc
+    on its RHS and returns an Mc.
+
+    Mb -> (b -> Mc) -> Mc
+
+Free monoid
+[The] free monoid [on a set]
+    [abstract algebra]
+
+    The monoid whose elements are all the
+    finite sequences (or strings) of zero or
+    more elements from that set, with string
+    concatenation as the monoid operation and
+    with the unique sequence of zero elements,
+    often called the empty string and denoted
+    by ε or λ, as the identity element. The
+    free monoid on a set A is usually denoted
+    A∗.
+
+    Free monoids are pretty intuitive at heart:
+        Strings of letters under a
+        concatenation operation.
+
+Free
+    Of an abstract monoid (or semigroup) S
+    
+    If it is isomorphic to the free monoid (or
+    semigroup) on some set.
+
+    It follows that every monoid (or
+    semigroup) arises as a homomorphic image
+    of a free monoid (or semigroup)
+
+monoid
+    Functions under composition is a monoid.
+
+    The function is a mapping from a 2
+    elements of the set to a single element
+    from the set.
+
+    Clock arithmetic is a monoid.
+    
+    Integers under modulo is a monoid.
+
+    A set that is closed under an
+    associative binary operation and has an
+    identity element.
+
+    Unlike a group, its elements
+    need not have inverses.
+    
+    Can also be thought of as a semigroup with
+    an identity element.
+
+    A monoid must contain at least one element.
+
+Commutative monoid
+    A monoid that is commutative is.
+
+Church Encodings
+    Booleans, integers, (and other data
+    structures) can be entirely replaced by
+    functions!
+
+Holy trinity
+    .filter(), .map(), .reduce()
+
+.reduce()
+.fold()
+
+    In racket:
+        for/fold
+
+Higher-order function
+    Function that accepts one or more
+    functions as an argument.
+
+filter()
+    https://en.wikipedia.org/wiki/Filter_(higher-order_function)
+
+    Processes a data structure (usually a
+    list) in some order to produce a new data
+    structure containing exactly those
+    elements of the original data structure
+    for which a given predicate returns the
+    boolean value true.
+
+partition()
+    A variant of filter().
+
+scan()
+    A higher order function that’s
+    fundamentally similar to reduce but unlike
+    reduce, returns all the intermediate
+    accumulator values.
+
+    Scan is basically reduce executed over
+    time.
+
+    In reactive programming, you can’t really
+    use the reduce function on an infinite
+    stream since you don’t have access have
+    access to the last value of the stream (it
+    hasn’t been generated yet). So you use
+    scan instead instead.
+
+    scan is THE pattern of reactive
+    programming.
+
+Currying
+    Making a new function from ‘f’ by filling
+    in some of ‘f’s arguments and allowing the
+    rest to be provided later.
+
+    A curried function is a function of
+    several arguments rewritten such that it
+    accepts the first argument and returns a
+    function that accepts the second argument
+    and so on. This allows functions of
+    several arguments to have some of their
+    initial arguments partially applied.
+
+    An example of a higher order function.
+    
+    The technique of translating the
+    evaluation of a function that takes
+    multiple arguments into evaluating a
+    sequence of functions, each with a single
+    (or one or more) argument/s.
+
+    An example is my wrl script, kinda.
+
+    Basically it means that a multi-parameter
+    function can be written as a series of
+    one-parameter functions.
+
+Archival
+    (of a material such as paper) of suitable
+    quality to be used in archives.
+
+Pure function
+    Accept input as arguments and emit output
+    as return values, and that’s it.
+
+nullary
+niladic
+    No arguments.
+
+unary
+monadic
+    Single argument.
+
+unit
+    unit :: Number -> (Number,String)
+
+    Convert a simple value into the format
+    required for debugging, by placing it in a
+    container.
+
+bind
+    bind :: (Number -> (Number,String)) -> ((Number,String) -> (Number,String))
+
+    Convert a debuggable function into a
+    composable form.
+
+monad
+    An algebraic structure from mathematics
+    that has proved useful for addressing a
+    number of computational problems.
+
+    Provide a powerful way to build
+    computations with effects.
+
+    Each of the standard monads is specialised
+    to do exactly one thing.
+
+    In real code, we often need to be able to
+    use several effects at once.
+
+    Bind and unit define a monad.
+
+    In the Haskell standard library bind and
+    unit are called the Writer monad.
+
+    from the actual computations being
+    performed.
+
+    A monoid in the category of endofunctors.
+
+    http://blog.klipse.tech/javascript/2016/08/31/monads-javascript.html
+
+    Prevalent in Haskell because it only
+    allows pure functions, that is functions
+    that do not have side effects.
+
+    The typical monad introduction will tell
+    you that monads are all about sneaking
+    side effects into this model so you can do
+    I/O.  
+        But that’s just one application.
+        Monads are really about composing
+        functions, as we’ll see.
+
+side effect
+    console.log() is neither an argument nor a
+    return value of the function, it is a side
+    effect.
+
+    Not allowed to have these in a system that
+    only allows pure functions.
+
+Lifting
+    A concept which allows you to transform a
+    function into a corresponding function
+    within another (usually more general)
+    setting. 
+
+lift
+    lift :: (Number -> Number) -> (Number -> (Number,String))
+
+    Converts a ‘simple’ function into a
+    debuggable function.
+        I think that this refers to a dubug
+        monad.
+
+        Lift, I believe, transforms a function
+        to allow it to be bindable by a monad.
+
+    lift1 is the same as map.
+        https://fsharpforfunandprofit.com/posts/elevated-world/#lift
+
+    https://wiki.haskell.org/Lifting
+        Lifting is a concept which allows you
+        to transform a function into a
+        corresponding function within another
+        (usually more general) setting.
+
+parser combinator
+    A higher-order function that accepts
+    several parsers as input and returns a new
+    parser as its output.
+
+endofunctor
+    The category of functors is functors from
+    category C to category D.
+
+    The category of endo factors is just
+    trying to some category C.
+
+referential opacity
+referentially opaque
+    An expression that is not referentially
+    transparent is called referentially
+    opaque.
+
+referential transparency
+referentially transparent
+    A function is said to be referentially
+    transparent if replacing a function with
+    its computed value output yields the same
+    observable behavior.
+
+    An expression is called referentially
+    transparent if it can be replaced with its
+    corresponding value without changing the
+    program's behavior.
+    
+    This requires that the expression be pure.
+
+pure
+purity
+    The expression value must be the same for
+    the same inputs and its evaluation must
+    have no side effects.
+
+fold
+reduce
+    A family of higher order functions that
+    process a data structure in some order and
+    build a return value.
+    
+    This is as opposed to the family of unfold
+    functions which take a starting value and
+    apply it to a function to generate a data
+    structure.
+
+instance of a class
+    An instance of a class is an individual
+    object which belongs to that class.
+    
+    In Haskell, the class system is (roughly
+    speaking) a way to group similar types.
+    
+    (This is the reason we call them "type
+    classes").
+    
+    An instance of a class is an individual
+    type which belongs to that class.
+
+hindle-milline type system
+    Has HM type system:
+    - haskell
+    - F-sharp
+
+    Does not have:
+    - Scala
+
+sequence-processing functions
+    Examples:
+    - map,
+    - filter,
+    - reduce
+
+Y-Combinator
+Y-Operator
+    A way of doing recursion in a language:
+    * that doesn't have any recursion, and
+    * that doesn't have any looping mechanism
+      - at all.
+
+    Invented by Haskell B. Curry. 1900 - 1982
+
+    Y = λf.(λx.f(x x)) (λx.f(x x))
+
+Higher order function
+    and/or
+    -   take a function as a parameter
+    -   return a new function
+
+    In constrast to:
+        First-order function.
+
+First order function
+    Doesn't take a function as an argument or
+    return a function as output.
+
+    In constrast to:
+        Higher order function.

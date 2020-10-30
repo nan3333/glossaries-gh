@@ -1,1 +1,4 @@
-/home/shane/notes/ws/cryptocurrencies/glossary.txt
+Polkadot
+    A network protocol that allows arbitrary
+    data—not just tokens—to be transferred
+    across blockchains.

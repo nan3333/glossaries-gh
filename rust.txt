@@ -1,1 +1,11 @@
-/home/shane/notes/ws/rust/glossary.txt
+racer
+    Rust Code Completion utility
+
+    http://siciarz.net/24-days-of-rust-racer/
+
+flamegraph
+    The proportion of a program’s runtime that
+    occurs in a routine is proportional to the
+    width of the bar for that routine.
+
+    https://ngoldbaum.github.io/posts/python-vs-rust-nn/

@@ -1,1 +1,59 @@
-/home/shane/notes/ws/chemistry/glossary.txt
+http://www.colby.edu/chemistry/OChem/STEREOCHEM/definitions.html
+
+burning
+    Two atoms or molecules will combine and
+    release energy.
+
+    Usually one of the two molecules is oxygen
+    or something else chemically like it
+    called an oxidizer. 
+
+    The simplest burning process is the
+    burning of hydrogen.
+
+    Water is burnt hydrogen.
+
+donor atom
+the donor atom
+    The/an atom within the ligand that is
+    attached to the Lewis acid centre.
+    
+    The coordination number is the number of
+
+    A macrocycle has multiple donor atoms.
+
+kinetics
+Chemical kinetics
+reaction kinetics
+    The branch of physical chemistry that is
+    concerned with understanding the rates of
+    chemical reactions.
+    
+    It is to be contrasted with
+    thermodynamics, which deals with the
+    direction in which a process occurs but in
+    itself tells nothing about its rate.
+    
+    Chemical kinetics includes investigations
+    of how experimental conditions influence
+    the speed of a chemical reaction and yield
+    information about the reaction's mechanism
+    and transition states, as well as the
+    construction of mathematical models that
+    also can describe the characteristics of a
+    chemical reaction.
+
+Glass
+    A liquid or solid depending on the
+    temperature -- a very viscous (but not
+    sticky) one. That's not a myth, but the
+    stained glass windows analogy is.
+
+    An amorphous solid.
+
+    At room temperature, glass molecules can't
+    slide past each other, so it's a solid.
+
+    There is structural change that causes
+    glass to turn into a liquid at higher
+    temperatures.

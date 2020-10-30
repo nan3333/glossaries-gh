@@ -1,1 +1,13 @@
-/home/shane/notes/ws/computer-vision/glossary.txt
+two view matching
+wide baseline stereo
+    A basic task needed for 3D reconstruction
+    and all things like it.
+    
+    You get two or more images and you should
+    answer if they are depicting the same
+    object.
+    
+    If yes — also output pixel or region
+    correspondences between images and
+    geometrical relations between them, see an
+    example here.

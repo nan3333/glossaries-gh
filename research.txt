@@ -1,1 +1,36 @@
-/home/shane/notes/ws/research/glossary.txt
+research
+    Can be divided into three different
+    categories; exploratory, descriptive and
+    causal.
+
+exploratory research
+    Research conducted for a problem that has
+    not been studied more clearly, intended to
+    establish priorities, develop operational
+    definitions and improve the final research
+    design.
+    
+    Exploratory research helps determine the
+    best research design, data-collection
+    method and selection of subjects.
+
+causal research
+explanatory research
+    The investigation of (research into)
+    cause-and-effect relationships.
+    
+    To determine causality, it is important to
+    observe variation in the variable assumed
+    to cause the change in the other
+    variable(s), and then measure the changes
+    in the other variable(s).
+
+descriptive research
+    Defined as a research method that
+    describes the characteristics of the
+    population or phenomenon that is being
+    studied.
+    
+    This methodology focuses more on the
+    “what” of the research subject rather than
+    the “why” of the research subject.

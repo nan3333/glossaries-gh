@@ -1,1 +1,71 @@
-/home/shane/notes/ws/ansible/glossary.txt
+task
+role
+
+Tower
+Red Hat Ansible Tower
+    Extend Ansible Automation.
+
+    Centralize and control your Ansible
+    infrastructure with a visual dashboard,
+    role-based access control, job scheduling,
+    and graphical inventory management with
+    Red Hat Ansible Tower.
+    
+    Tower's REST API and UI make it easy to
+    embed and extend Tower into existing
+    tooling and processes; further extending
+    the capability and reach of Ansible
+    Automation.
+
+Galaxy
+Ansible Galaxy
+    Refers to the Galaxy website where users
+    can share roles, and to a command line
+    tool for installing, creating and managing
+    roles.
+
+Ansible
+Engine
+Ansible Engine
+    [red hat product]
+    [IT automation tool]
+
+    The simplest way to automate your IT
+    infrastructure.
+    
+    Ansible is an automation solution that
+    acts as a resource provisioner,
+    configuration management tool, application
+    release automation, and can provision and
+    manage entire application and
+    infrastructure environments.
+
+    Can configure systems, deploy software,
+    and orchestrate more advanced IT tasks
+    such as continuous deployments or zero
+    downtime rolling updates.
+
+    Open-source software provisioning,
+    configuration management, and application-
+    deployment tool.
+
+    It runs on many Unix-like systems, and can
+    configure both Unix-like systems as well
+    as Microsoft Windows.
+
+    The simplest way to automate apps and IT
+    infrastructure.
+
+    Application Deployment + Configuration
+    Management + Continuous Delivery.
+
+playbook
+    [#ansible]
+
+    A configuration for deployment and
+    orchestration, that allows you to describe
+    a set of tasks to be run on remote
+    machines.
+    
+    We will need to write a YAML file
+    describing the tasks of our deploy.

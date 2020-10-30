@@ -1,1 +1,136 @@
-/home/shane/notes/ws/computer-science/glossary.txt
+Solution architecture
+    A practice of defining and describing an
+    architecture of a system delivered in
+    context of a specific solution and as such
+    it may encompass description of an entire
+    system or only its specific parts.
+
+    Definition of a solution architecture is
+    typically led by a solution architect. 
+
+mutual recursion
+    Two functions are called mutually
+    recursive if the first function makes a
+    recursive call to the second function and
+    the second function, in turn, calls the
+    first one.
+
+marshalling
+marshaling
+    The process of transforming the memory
+    representation of an object to a data
+    format suitable for storage or
+    transmission, and it is typically used
+    when data must be moved between different
+    parts of a computer program or from one
+    program to another
+
+Software Transactional Memory
+STM
+    A concurrency control mechanism analogous
+    to database transactions for controlling
+    access to shared memory in concurrent
+    computing.
+    
+    It is an alternative to lock-based
+    synchronization.
+    
+    STM is a strategy implemented in software,
+    rather than as a hardware component.
+    
+    A transaction in this context occurs when
+    a piece of code executes a series of reads
+    and writes to shared memory.
+    
+    These reads and writes logically occur at
+    a single instant in time; intermediate
+    states are not visible to other
+    (successful) transactions.
+
+data validation
+    The process of ensuring data have
+    undergone data cleansing to ensure they
+    have data quality, that is, that they are
+    both correct and useful.
+
+program analysis
+    The process of automatically analyzing the
+    behavior of computer programs regarding a
+    property such as correctness, robustness,
+    safety and liveness.
+    
+    Program analysis focuses on two major
+    areas:
+    - program optimization, and
+    - program correctness.
+
+halting problem
+    The primary obstacle preventing the
+    bridging of expressiveness and
+    performance.
+
+c
+    Ultimately, C is a competing style more
+    than it is a competing language.
+    
+    It is something
+    
+    other higher level languages regress to
+    once they start worrying about
+    performance.
+
+skew heap
+self-adjusting heap
+    [heap]
+
+    A heap data structure implemented as a
+    binary tree.
+    
+    Advantageous because of their ability to
+    merge more quickly than binary heaps.
+    
+    In contrast with binary heaps, there are
+    no structural constraints, so there is no
+    guarantee that the height of the tree is
+    logarithmic.
+    
+    Only two conditions must be satisfied:
+    - The general heap order must be enforced.
+    - Every operation (add, remove_min, merge)
+      on two skew heaps must be done using a
+      special skew heap merge.
+
+top-k filtering
+    Only keep/deliver to the cream of the crop, the top-k.
+
+    Example:
+    - Keep tokens with highest probability.
+    - Deliver only to the k best ranked
+      subscribers.
+
+Polling
+    The process where the computer or
+    controlling device waits for an external
+    device to check for its readiness or
+    state, often with low-level hardware.
+    
+    For example, when a printer is connected
+    via a parallel port, the computer waits
+    until the printer has received the next
+    character.
+
+interrupt
+    The device notifies the CPU that it needs
+    servicing whereas, in polling CPU
+    repeatedly checks whether a device needs
+    servicing.
+    
+    Interrupt is a hardware mechanism as CPU
+    has a wire, interrupt-request line which
+    signal that interrupt has occurred.
+
+separation of concerns
+    A design principle for separating a
+    computer program into distinct sections
+    such that each section addresses a
+    separate concern.

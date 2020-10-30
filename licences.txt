@@ -1,1 +1,7 @@
-/home/shane/notes/ws/licences/glossary.txt
+Software License Agreement
+SLA
+
+MIT
+    [licence]
+    
+    Good for commercial.

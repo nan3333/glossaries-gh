@@ -1,1 +1,8 @@
-/home/shane/notes/ws/markup-languages/glossary.txt
+HCL
+HashiCorp configuration language
+    https://github.com/hashicorp/hcl
+
+    It's a bit like JSON.
+
+    Examples:
+        $HOME/.config/lab.hcl

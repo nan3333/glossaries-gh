@@ -1,1 +1,26 @@
-/home/shane/notes/ws/problog/glossary.txt
+clause
+
+non-ground clause
+
+stochastic memoization
+    [#probabilistic programming]
+    Remembering probabilistic events that have
+    already occurred.
+
+    Example:
+        $MYGIT/mullikine/problog-examples/stochastic-memoisation.problog
+
+    Example2:
+        $MYGIT/mullikine/problog-examples/stochastic-memoisation-zeros.problog
+
+        The reason that most sequences have
+        probability zero, is that if it
+        encounters the same die a second time,
+        it will not roll it again, but reuse
+        the (memoized) result of the previous
+        roll. 
+
+Meta-predicates
+    Apply a predicate on all members of a list
+    (or higher-order functions) such as map,
+    partition, fold, and scan.

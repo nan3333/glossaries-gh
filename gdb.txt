@@ -1,1 +1,2 @@
-/home/shane/notes/ws/gdb/glossary.txt
+frame
+    vim +/"^frame" "$NOTES/ws/computing/glossary.txt"

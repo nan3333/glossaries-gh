@@ -1,1 +1,512 @@
-/home/shane/notes/ws/linguistics/glossary.txt
+Linguistic typology
+    Morphological
+        Analytic (https://en.wikipedia.org/wiki/Analytic_language)
+        Isolating
+        Synthetic
+            Fusional
+            Agglutinative
+            Polysynthetic
+            Oligosynthetic
+    Morphosyntactic
+        Alignment
+        Accusative
+        Ergative
+        Split ergative
+        Austronesian
+        Active–stative
+        Tripartite alignment
+        Marked nominative
+        Ditransitive/Monotransitive
+            Secundative
+            Indirective
+        Zero-marking
+        Dependent-marking
+        Double-marking
+        Inverse marking
+        Head-marking
+        Null-subject
+        Syntactic pivot
+        Theta role
+    Word order
+        VO languages
+            Subject–verb–object
+            Verb–subject–object
+            Verb–object–subject
+        OV languages
+            Subject–object–verb
+            Object–subject–verb
+            Object–verb–subject
+        V2 word order
+        Free word order
+        Time–manner–place
+        Place–manner–time
+    Lexicon
+        Color terms
+        Numerals
+
+tripartite alignment
+    A type of morphosyntactic alignment in
+    which the main argument ('subject') of an
+    intransitive verb, the agent argument
+    ('subject') of a transitive verb, and the
+    patient argument ('direct object') of a
+    transitive verb are each treated
+    distinctly in the grammatical system of a
+    language.
+    
+    This is in contrast with nominative-
+    accusative and ergative-absolutive
+    alignment languages, in which the argument
+    of an intransitive verb patterns with
+    either the agent argument of the
+    transitive (in accusative languages) or
+    with the patient argument of the
+    transitive (in ergative languages).
+    
+    Thus, whereas in English, "she" in "she
+    runs" patterns with "she" in "she finds
+    it", and an ergative language would
+    pattern "she" in "she runs" with "her" in
+    "he likes her", a tripartite language
+    would treat the "she" in "she runs" as
+    morphologically and/or syntactically
+    distinct from either argument in "he likes
+    her".
+
+morphological typology
+    A way of classifying the languages of the
+    world (see linguistic typology) that
+    groups languages according to their common
+    morphological structures.
+    
+    The field organizes languages on the basis
+    of how those languages form words by
+    combining morphemes.
+    
+    Analytic languages contain very little
+    inflection, instead relying on features
+    like word order and auxiliary words to
+    convey meaning.
+    
+    Synthetic languages, ones that are not
+    analytic, are divided into two categories:
+    agglutinative and fusional languages
+
+linguistic typology
+language typology
+    [field of linguistics]
+    
+    Studies and classifies languages according
+    to their structural and functional
+    features.
+    
+    Its aim is to describe and explain the
+    common properties and the structural
+    diversity of the world's languages.
+
+    https://en.wikipedia.org/wiki/Linguistic_typology
+
+agglutination
+    Words may contain different morphemes to
+    determine their meanings, but all of these
+    morphemes (including stems and affixes)
+    remain, in every aspect, unchanged after
+    their unions.
+
+agglutinative language
+    [synthetic language]
+    
+    Its morphology primarily uses
+    agglutination.
+
+    This results in generally more easily
+    deducible word meanings if compared to
+    fusional languages, which allow
+    modifications in either or both the
+    phonetics or spelling of one or more
+    morphemes within a word, usually
+    shortening the word or providing easier
+    pronunciation.
+    
+    Agglutinative languages have generally one
+    grammatical category per affix while
+    fusional languages have multiple.
+    
+    The term was introduced by Wilhelm von
+    Humboldt to classify languages from a
+    morphological point of view.
+    
+    It is derived from the Latin verb
+    agglutinare, which means "to glue
+    together".
+
+fusional languages
+    Non-agglutinative synthetic languages are
+    fusional languages; morphologically, they
+    combine affixes by "squeezing" them
+    together, drastically changing them in the
+    process, and joining several meanings in a
+    single affix (for example, in the Spanish
+    word comí "I ate", the suffix -í carries
+    the meanings of first person, singular
+    number, past tense, perfective aspect,
+    indicative mood, active voice.)
+    
+    The term agglutinative is sometimes
+    incorrectly used as a synonym for
+    synthetic.
+    
+    Used in this way, the term embraces both
+    fusional languages and inflected
+    languages.[clarification needed]
+    
+    The agglutinative and fusional languages
+    are two ends of a continuum, with various
+    languages falling more toward one or the
+    other end.
+    
+    For example, Japanese is generally
+    agglutinative, but displays fusion in
+    otōto (弟 younger brother), from oto+hito
+    (originally woto+pito), and in its non-
+    affixing verb conjugations.
+    
+    A synthetic language may use morphological
+    agglutination combined with partial usage
+    of fusional features, for example in its
+    case system (e.g., German, Dutch, and
+    Persian).
+    
+    Agglutinative languages tend to have a
+    high rate of affixes or morphemes per
+    word, and to be very regular, in
+    particular with very few irregular verbs.
+    
+    For example, Japanese has very few
+    irregular verbs –
+    
+    only two are significantly irregular, and
+    there are only about a dozen others with
+    only minor irregularity; Ganda has only
+    one (or two, depending on how "irregular"
+    is defined); while in the Quechua
+    languages, all the ordinary verbs are
+    regular.
+    
+    In Turkish, there is only one irregular
+    noun (su, meaning water), no irregular
+    verbs other than the copular verbs, and
+    two existential particles.
+    
+    Korean has only ten irregular forms of
+    conjugation except for the passive and
+    causative conjugations.
+    
+    Georgian is an exception; it is highly
+    agglutinative (with up to eight morphemes
+    per word), but it has a significant number
+    of irregular verbs with varying degrees of
+    irregularity.
+
+anaphora
+anaphoric
+    An expression, or the use of an
+    expression, whose interpretation depends
+    upon another expression in context.
+
+    Example,
+        Anaphoric if
+
+subject-verb-object
+SVO
+
+Cohesion
+    The grammatical and lexical linking within
+    a text or sentence that holds a text
+    together and gives it meaning.
+    
+    It is related to the broader concept of
+    coherence.
+
+lexicon
+word-hoard
+wordbook
+word-stock
+    The vocabulary of a person, language, or
+    branch of knowledge.
+    
+    In linguistics, a lexicon is a language's
+    inventory of lexemes.
+
+rewrite rule
+rewriting rule
+    [#linguistics]
+    [phrase-structure rule]
+    
+    Phrase-structure rule in a generative
+    grammar, shown as an instruction to
+    replace or rewrite a single symbol,
+    representing a syntactic structure, on the
+    left with one or more symbols,
+    representing the constituents of the
+    structure, on the right, as in S → NP +
+    VP, where S (sentence) is to be replaced
+    with its constituents NP (noun phrase) and
+    VP (verb phrase).
+
+Distributional hypothesis
+    [#linguistics]
+
+    Linguistic items with similar
+    distributions have similar meanings.
+
+distributed semantics
+    [#linguistics]
+    [research area]
+    
+    Develops and studies theories and methods
+    for quantifying and categorizing semantic
+    similarities between linguistic items
+    based on their distributional properties
+    in large samples of language data.
+    
+    The basic idea of distributional semantics
+    can be summed up in the so-called
+    Distributional hypothesis.
+
+morphology
+    The study of words, how they are formed,
+    and their relationship to other words in
+    the same language.
+    
+    It analyzes the structure of words and
+    parts of words, such as stems, root words,
+    prefixes, and suffixes.
+    
+    Morphology also looks at parts of speech,
+    intonation and stress, and the ways
+    context can change a word's pronunciation
+    and meaning.
+    
+    Morphology differs from morphological
+    typology, which is the classification of
+    languages based on their use of words, and
+    lexicology, which is the study of words
+    and how they make up a language's
+    vocabulary.
+
+realization
+    [#linguistics]
+    
+    The process by which some kind of surface
+    representation is derived from its
+    underlying representation; that is, the
+    way in which some abstract object of
+    linguistic analysis comes to be produced
+    in actual language.
+    
+    Phonemes are often said to be realized by
+    speech sounds.
+
+linguistic categories
+    Examples:
+    - noun
+    - verb
+    - adjective
+
+    https://link.springer.com/chapter/10.1007/978-1-4020-8825-4_1
+
+fuzzy linguistic categories
+    [#corpus linguistics]
+
+universal category
+    Many linguists see NOUN and VERB as
+    universal categories.
+
+    But how universal are they really?
+    https://link.springer.com/chapter/10.1007/978-1-4020-8825-4_1
+
+inter-annotator aggreement
+    A measure of how well two (or more)
+    annotators can make the same annotation
+    decision for a certain category.
+
+    https://corpuslinguisticmethods.wordpress.com/2014/01/15/what-is-inter-annotator-agreement/
+
+    Even basic categories such as parts of
+    speech are not entirely clearly defined.
+    
+    As a corpus linguist, you make some
+    decision for the annotation, but you
+    actually want to provide the user of your
+    dataset with some kind of a metric about
+    how certain you are about the annotation
+    of that category.
+    
+    Well, that is where inter-annotator
+    agreement comes into play.
+
+literary consonance
+    https://en.wikipedia.org/wiki/Literary_consonance
+    
+    A stylistic literary device identified by
+    the repetition of identical or similar
+    consonants in neighbouring words whose
+    vowel sounds are different (e.g. coming
+    home, hot foot).
+    
+    Consonance may be regarded as the
+    counterpart to the vowel-sound repetition
+    known as assonance.
+    
+    Alliteration is a special case of
+    consonance where the repeated consonant
+    sound is at the stressed syllable, as in
+    "few flocked to the fight" or "around the
+    rugged rock the ragged rascal ran".
+    
+    Alliteration is usually distinguished from
+    other types of consonance in poetic
+    analysis, and has different uses and
+    effects.
+    
+    Another special case of consonance is
+    sibilance, the use of several sibilant
+    sounds such as /s/ and /sh/.
+    
+    An example is the verse from Edgar Allan
+    Poe's "The Raven": "And the silken sad
+    uncertain rustling of each purple
+    curtain."
+    
+    (This example also contains assonance
+    around the "ur" sound.)
+    
+    Another example of consonance is the word
+    "sibilance" itself.
+
+semantics vs pragmatics
+    Semantics is the study of meaning, or more
+    precisely, the study of the relation
+    between linguistic expressions and their
+    meanings.
+
+    Pragmatics is the study of context, or
+    more precisely, a study of the way context
+    can influence our understanding of
+    linguistic utterances.
+
+rhetorical device
+    [linguistic tool]
+
+    Employs a particular type of sentence
+    structure, sound, or pattern of meaning in
+    order to evoke a particular reaction from
+    an audience.
+    
+    Each rhetorical device is a distinct tool
+    that can be used to construct an argument
+    or make an existing argument more
+    compelling.
+
+morphosyntactic
+    Involving both morphology and syntax.
+
+morphosyntactic alignment
+    Morphosyntactic alignment is the
+    grammatical relationship between
+    arguments—specifically, between the two
+    arguments of transitive verbs like the dog
+    chased the cat, and the single argument of
+    intransitive verbs like the cat ran away.
+
+polysemy
+    The ability of words to have multiple
+    meanings.
+
+function words
+functioning words
+functors
+    Words that have little lexical meaning or
+    have ambiguous meaning and express
+    grammatical relationships among other
+    words within a sentence, or specify the
+    attitude or mood of the speaker.
+    
+    They signal the structural relationships
+    that words have to one another and are the
+    glue that holds sentences together.
+    
+    Thus they form important elements in the
+    structures of sentences.
+
+bearing
+content bearing
+    Said to be provided by a document's
+    content words.
+
+content words
+open class words
+lexical words
+autosemantic words
+    Words that are considered to carry a
+    meaning related to the text are described
+    as the "content bearing".
+
+    Words that are not function words.
+
+    Include:
+    - nouns,
+    - verbs,
+    - adjectives, and
+    - most adverbs, although some adverbs are
+      function words (e.g., then and why).
+
+    Dictionaries define the specific meanings
+    of content words, but can only describe
+    the general usages of function words.
+    
+    By contrast, grammars describe the use of
+    function words in detail, but treat
+    lexical words in general terms only.
+
+imperative mood
+    A form of a verb that expresses an order
+    or a request or an advice or encouragement
+    or instruction or suggestion to do a
+    thing.
+    
+    Examples of The Imperative Mood:
+    - Work sincerely.
+    - Try to keep quiet.
+    - Please have your food on time.
+
+indicative form
+indicative mood
+    A verb form that makes a statement or asks
+    a question. For example: 
+
+    - Jack sings every Friday.
+      (This is a verb in the indicative mood.
+      It's a statement.) 
+    - Is Jack the lead vocalist?
+      (This is a verb in the indicative mood.
+      It's a question.) 
+    
+    Compare the examples above with this: 
+    
+    - Sing us a song, Jack.
+      (This verb is not in the indicative
+      mood. It is in the imperative mood. It's
+      an order. It's not a statement or a
+      question.)
+
+inflected
+inflection
+    [linguistic morphology]
+
+    A process of word formation, in which a
+    word is modified to express different
+    grammatical categories such as tense,
+    case, voice, aspect, person, number,
+    gender, mood, animacy, and definiteness. 

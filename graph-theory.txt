@@ -1,1 +1,69 @@
-/home/shane/notes/ws/graph-theory/glossary.txt
+tree
+    An undirected graph in which any two
+    vertices are connected by exactly one
+    path, or equivalently a connected acyclic
+    undirected graph.
+    
+forest
+    An undirected graph in which any two
+    vertices are connected by at most one
+    path, or equivalently an acyclic
+    undirected graph, or equivalently a
+    disjoint union of trees.
+
+directed acyclic graph
+DAG
+
+polytree
+directed tree
+oriented tree
+singly connected network
+    [DAG]
+    
+    Underlying undirected graph is a tree.
+
+polyforest
+directed forest
+oriented forest
+    [DAG]
+
+    Underlying undirected graph is a forest.
+
+adjacency matrix
+    A square matrix used to represent a finite
+    graph.
+    
+    The elements of the matrix indicate
+    whether pairs of vertices are adjacent or
+    not in the graph.
+
+    If a pair of points i,j are adjacent then
+    that cell is 1.
+
+    rows & columns represent vertices.
+
+    row sum = degree of the vertex that the
+    row represents.
+    
+    In the special case of a finite simple
+    graph, the adjacency matrix is a
+    (0,1)-matrix with zeros on its diagonal.
+
+incidence matrix
+    One key different from an adjacency
+    matrix.
+
+    A matrix that shows the relationship
+    between two classes of objects.
+
+    https://youtu.be/LUDNz2bIjWI?t=332
+    
+    If the first class is X and the second is
+    Y, the matrix has one row for each element
+    of X and one column for each element of Y.
+    
+    The entry in row x and column y is 1 if x
+    and y are related (called incident in this
+    context) and 0 if they are not.
+    
+    There are variations.

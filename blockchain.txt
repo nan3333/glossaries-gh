@@ -1,1 +1,6 @@
-/home/shane/notes/ws/blockchain/glossary.txt
+State channels
+    Refer to the process in which users
+    transact with one another directly outside
+    of the blockchain, or 'off-chain,' and
+    greatly minimize their use of 'on-chain'
+    operations.

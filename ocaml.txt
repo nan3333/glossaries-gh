@@ -1,1 +1,2 @@
-/home/shane/notes/ws/ocaml/glossary.txt
+opam switch
+    hsqf opam switch

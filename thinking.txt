@@ -1,1 +1,42 @@
-/home/shane/notes/ws/thinking/glossary.txt
+Issue trees
+    Basically maps of problems.
+    
+    They give you a clear and systematic way
+    of looking at the problem you need to
+    solve.
+    
+    They help you break down a big problem
+    into smaller, more manageable ones, and
+    prioritize certain parts of the problem.
+    
+    In other words, they're useful for the
+    "divide and conquer" strategy.
+
+    Are also great for communicating about a
+    problem with others since they provide a
+    map of the problem.
+
+    There are two basic kinds of issue trees:
+
+    - Problem trees
+      Created by answering "Why?"
+    - Solution trees
+      Created by answering "How?"
+
+Iceberg model
+    Addressing problems only on their event
+    level is often not enough.
+    
+    The real causes are often hidden from
+    plain sight.
+    
+    Iceberg model is a tool that allows you to
+    shift your perspective and see beyond the
+    immediate events that everyone notices.
+    
+    It helps you to uncover root causes of why
+    those events happen.
+    
+    That's possible by looking at deeper
+    levels of abstraction within the system
+    that are not immediately obvious.

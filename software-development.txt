@@ -1,1 +1,18 @@
-/home/shane/notes/ws/software-development/glossary.txt
+feature flags
+feature toggles
+feature switches
+    A software development technique that
+    turns certain functionality on and off
+    during runtime, without deploying new
+    code.
+    
+    This allows for better control and more
+    experimentation over the full lifecycle of
+    features.
+
+chaos engineering
+    The discipline of experimenting on a
+    software system in production in order to
+    build confidence in the system's
+    capability to withstand turbulent and
+    unexpected conditions.

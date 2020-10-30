@@ -1,1 +1,374 @@
-/home/shane/notes/ws/aws/glossary.txt
+SQS
+Simple Queue Service
+Amazon Simple Queue Service
+    A distributed message queuing service
+    introduced by Amazon.com in late 2004.
+
+    It supports programmatic sending of
+    messages via web service applications as a
+    way to communicate over the Internet.
+
+AWS Perspective
+    [tool]
+
+    https://aws.amazon.com/solutions/implementations/aws-perspective/
+
+    Quickly visualizes AWS Cloud workloads as
+    architecture diagrams.
+    
+    You can use the solution to build,
+    customize, and share detailed workload
+    visualizations based on live data from
+    AWS.
+    
+    This solution works by maintaining an
+    inventory of the AWS resources across your
+    accounts and Regions, mapping
+    relationships between them, and displaying
+    them in a web user interface (web UI).
+    
+    When making changes to a resource, AWS
+    Perspective saves you time by providing a
+    link to the resource in the AWS Management
+    Console.
+
+AWS CloudFormation
+    Provides a common language for you to
+    model and provision AWS and third party
+    application resources in your cloud
+    environment.
+    
+    AWS CloudFormation allows you to use
+    programming languages or a simple text
+    file to model and provision, in an
+    automated and secure manner, all the
+    resources needed for your applications
+    across all regions and accounts.
+    
+    This gives you a single source of truth
+    for your AWS and third party resources.
+
+Lambda
+    [#Amazon Web Services]
+    [Computing service]
+
+    Event-driven, serverless computing
+    platform.
+    
+    Runs code in response to events and
+    automatically manages the computing
+    resources required by that code. 
+
+EventBridge
+    [#Amazon Web Services]
+
+    Event-Driven AWS Integration for your SaaS
+    Applications.
+
+AWS Cloud9
+Cloud9 IDE
+    An Online IDE, published as open source
+    from version 2.0, until version 3.0.
+    
+    It supports multiple programming
+    languages, including C, C++, PHP, Ruby,
+    Perl, Python, JavaScript with Node.js, and
+    Go.
+
+Amazon EC2
+
+Amazon EBS
+
+AMI
+Amazon Machine Image
+    A special type of virtual appliance that
+    is used to create a VM within the Amazon
+    Elastic Compute Cloud ("EC2").
+    
+    It serves as the basic unit of deployment
+    for services delivered using EC2.
+
+stateless
+    State is managed by another system.
+    
+    On AWS, this can be DynamoDB, RDS, S3, or
+    other storage services.
+    
+    Managing a stateless system is less
+    complex than managing a stateful system.
+    
+    You can terminate single instances at any
+    time without loosing data.
+
+Amazon VPC
+Amazon Virtual Private Cloud
+
+Transport Layer Security
+TLS
+
+User Datagram Protocol
+UDP
+
+Transmission Control Protocol
+TCP
+
+Elastic Load Balancing
+ELB
+    Achieve fault tolerance for any
+    application by ensuring scalability,
+    performance, and security.
+
+    Automatically distributes incoming
+    application traffic across multiple
+    targets, such as Amazon EC2 instances,
+    containers, IP addresses, and Lambda
+    functions.
+    
+    It can handle the varying load of your
+    application traffic in a single
+    Availability Zone or across multiple
+    Availability Zones.
+    
+    Elastic Load Balancing offers three types
+    of load balancers that all feature the
+    high availability, automatic scaling, and
+    robust security necessary to make your
+    applications fault tolerant.
+
+Application Load Balancer
+ALB
+    Best suited for load balancing of HTTP and
+    HTTPS traffic and provides advanced
+    request routing targeted at the delivery
+    of modern application architectures,
+    including microservices and containers.
+    
+    Operating at the individual request level
+    (Layer 7), Application Load Balancer
+    routes traffic to targets within Amazon
+    VPC based on the content of the request.
+
+Network Load Balancer
+NLB
+    Best suited for load balancing of TCP, UDP
+    and TLS traffic where extreme performance
+    is required.
+    
+    Operating at the connection level (Layer
+    4), Network Load Balancer routes traffic
+    to targets within Amazon VPC and is
+    capable of handling millions of requests
+    per second while maintaining ultra-low
+    latencies.
+    
+    Network Load Balancer is also optimized to
+    handle sudden and volatile traffic
+    patterns.
+
+Classic Load Balancer
+CLB
+    Provides basic load balancing across
+    multiple Amazon EC2 instances and operates
+    at both the request level and connection
+    level.
+    
+    Classic Load Balancer is intended for
+    applications that were built within the
+    EC2-Classic network.
+
+Spot fleet
+    https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-fleet.html
+
+    This is the answer to capacity problems.
+
+ECR
+Amazon Elastic Container Registry
+    [#aws]
+
+    A fully-managed Docker container registry
+    that makes it easy for developers to
+    store, manage, and deploy Docker
+
+ECS
+Elastic Container Service
+    Fully managed container orchestration
+    service.
+    
+    Customers such as Duolingo, Samsung, GE,
+    and Cookpad use ECS to run their most
+    sensitive and mission critical
+    applications because of its security,
+    reliability, and scalability.
+    
+    ECS is a great choice to run containers
+    for several reasons.
+    
+    First, you can choose to run your ECS
+    clusters using AWS Fargate, which is
+    serverless compute for containers.
+    
+    Fargate removes the need to provision and
+    manage servers, lets you specify and pay
+    for resources per application, and
+    improves security through application
+    isolation by design.
+    
+    Second, ECS is used extensively within
+    Amazon to power services such as Amazon
+    SageMaker, AWS Batch, Amazon Lex, and
+    Amazon.com’s recommendation engine,
+    ensuring ECS is tested extensively for
+    security, reliability, and availability.
+
+AWS Marketplace
+    A digital catalog with thousands of
+    software listings from independent
+    software vendors that make it easy to
+    find, test, buy, and deploy software that
+    runs on AWS.
+
+Amazon S3
+Amazon Simple Storage Service
+s3
+    A service offered by Amazon Web Services
+    that provides object storage through a web
+    service interface.
+    
+    Amazon S3 uses the same scalable storage
+    infrastructure that Amazon.com uses to run
+    its global e-commerce network.
+
+Bastion Server
+Bastion Host
+    Use to controlling network access to EC2
+    Instances.
+
+    https://docs.aws.amazon.com/quickstart/latest/linux-bastion/architecture.html
+
+Reserved Instance
+    A reservation of resources and capacity,
+    for either one or three years, for a
+    particular Availability Zone within a
+    region.
+    
+    Unlike on-demand, when you purchase a
+    reservation, you commit to paying for all
+    of the hours of the 1- or 3-year term; in
+    exchange, the hourly rate is lowered
+    significantly.
+
+Standard Reserved Instances
+    Provide you with a significant discount
+    (up to 75%) compared to On-Demand instance
+    pricing, and can be purchased for a 1-year
+    or 3-year term.
+    
+    Customers have the flexibility to change
+    the Availability Zone, the instance size,
+    and networking type of their Standard
+    Reserved Instances.
+
+Availability Zone
+    A logical data center in a region
+    available for use by any AWS customer.
+    
+    Each zone in a region has redundant and
+    separate power, networking and
+    connectivity to reduce the likelihood of
+    two zones failing simultaneously.
+    
+    A common misconception is that a single
+    zone equals a single data center.
+
+AWS Lambda
+    An event-driven, serverless computing
+    platform provided by Amazon as a part of
+    Amazon Web Services.
+    
+    It is a computing service that runs code
+    in response to events and automatically
+    manages the computing resources required
+    by that code.
+    
+    It was introduced in November 2014.
+
+DynamoDB
+Amazon DynamoDB
+    A key-value and document database that
+    delivers single-digit millisecond
+    performance at any scale.
+    
+    It's a fully managed, multiregion,
+    multimaster, durable database with built-
+    in security, backup and restore, and in-
+    memory caching for internet-scale
+    applications.
+
+SAM
+    [cloud formation]
+
+    An AWS deploy tool on top of cloud
+    formation.
+
+AWS Fargate
+Fargate
+    Amazon's container service.
+
+    A serverless compute engine for containers
+    that works with both Amazon Elastic
+    Container Service (ECS) and Amazon Elastic
+    k8s Service (EKS).
+    
+    Fargate makes it easy for you to focus on
+    building your applications.
+    
+    Fargate removes the need to provision and
+    manage servers, lets you specify and pay
+    for resources per application, and
+    improves security through application
+    isolation by design.
+    
+    Fargate allocates the right amount of
+    compute, eliminating the need to choose
+    instances and scale cluster capacity.
+    
+    You only pay for the resources required to
+    run your containers, so there is no over-
+    provisioning and paying for additional
+    servers.
+    
+    Fargate runs each task or pod in its own
+    kernel providing the tasks and pods their
+    own isolated compute environment.
+    
+    This enables your application to have
+    workload isolation and improved security
+    by design.
+    
+    This is why customers such as Vanguard,
+    Accenture, Foursquare, and Ancestry have
+    chosen to run their mission critical
+    applications on Fargate.
+
+AWS CodeBuild
+    Fully managed CI service that compiles
+    source code, runs tests, and produces
+    software packages that are ready to
+    deploy.
+    
+    With CodeBuild, you don’t need to
+    provision, manage, and scale your own
+    build servers.
+    
+    CodeBuild scales continuously and
+    processes multiple builds concurrently, so
+    your builds are not left waiting in a
+    queue.
+    
+    You can get started quickly by using
+    prepackaged build environments, or you can
+    create custom build environments that use
+    your own build tools.
+    
+    With CodeBuild, you are charged by the
+    minute for the compute resources you use.

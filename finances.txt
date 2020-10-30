@@ -1,1 +1,50 @@
-/home/shane/notes/ws/finances/glossary.txt
+superannuation in Australia
+    The arrangements put in place by the
+    Government of Australia to encourage
+    people in Australia to accumulate funds to
+    provide them with an income stream when
+    they retire.
+    
+    Superannuation in Australia is partly
+    compulsory, and is further encouraged by
+    tax benefits.
+
+excess
+    [#english]
+
+    An amount of something that is more than
+    necessary, permitted, or desirable.
+
+excess
+    A contribution you are required to pay
+    towards a claim you make on your car
+    insurance policy.
+    
+    An insurer may have many types of excesses
+    that can apply in different situations or
+    apply concurrently.
+    
+    Most insurers will allow you to increase
+    your excess to reduce your premium.
+
+premium
+    The total cost to buy.
+
+    Premium has multiple meanings in finance.
+
+    It could be:
+    - he total cost to buy an option, or
+    - he difference between the price paid for
+      a fixed-income security and the
+      security's face amount at issue.
+
+Exercising Stock Options
+    Exercising a stock option means purchasing
+    the issuer's common stock at the price set
+    by the option (grant price), regardless of
+    the stock's price at the time you exercise
+    the option.
+
+tezos
+    A stable coin like tether but has smart
+    contracts.

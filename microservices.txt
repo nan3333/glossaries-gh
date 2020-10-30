@@ -1,1 +1,17 @@
-/home/shane/notes/ws/microservices/glossary.txt
+microservices
+microservice architecture
+    [architectural style]
+    
+    Structures an application as a collection
+    of services that are:
+    - Highly maintainable and testable
+    - Loosely coupled
+    - Independently deployable
+    - Organized around business capabilities
+    - Owned by a small team
+
+    Enables the rapid, frequent and reliable
+    delivery of large, complex applications.
+    
+    It also enables an organization to evolve
+    its technology stack.

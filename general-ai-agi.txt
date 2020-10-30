@@ -1,1 +1,67 @@
-/home/shane/notes/ws/general-ai-agi/glossary.txt
+Deep Symbolic Network
+DSN
+    [#general AI]
+    [model]
+
+    https://arxiv.org/abs/1707.03377
+
+    Aim:
+        To be the white-box version of DNNs.
+    
+    Provides a simple, universal yet powerful
+    structure, similar to DNN, to represent
+    any knowledge of the world, which is
+    transparent to humans.
+    
+    Conjecture:
+        Any type of real world objects sharing
+        enough common features are mapped into
+        human brains as a symbol.
+    
+        Those symbols are connected by links,
+        representing the composition,
+        correlation, causality, or other
+        relationships between them, forming a
+        deep, hierarchical symbolic network
+        structure.
+    
+    Powered by such a structure, the DSN model
+    is expected to learn like humans, because
+    of its unique characteristics:
+    - universal
+
+      Using the same structure to store any
+      knowledge.
+    
+    - Able to learn symbols from the world and
+      construct the deep symbolic networks
+      automatically
+      
+      Utilises the fact that real world
+      objects have been naturally separated by
+      singularities.
+    
+    - Symbolic
+    
+      Has the capacity of performing causal
+      deduction and generalization.
+    
+    - The symbols and the links between them
+      are transparent to us
+    
+      Thus we will know what it has learned or
+      not - which is the key for the security
+      of an AI system.
+    
+    - Its transparency enables it to learn
+      with relatively small data.
+    
+    - Its knowledge can be accumulated.
+    
+    - It is more friendly to unsupervised
+      learning than DNN.
+    
+    We present the details of the model, the
+    algorithm powering its automatic learning
+    ability, and describe its usefulness in
+    different use cases.

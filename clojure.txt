@@ -1,1 +1,222 @@
-/home/shane/notes/ws/clojure/glossary.txt
+variable assignment
+binding (in Clojure)
+
+figwheel
+    Builds your ClojureScript code and hot
+    loads it into the browser as you are
+    coding!
+
+as->
+    ewwlinks +/"\* (as-> expr name & forms)" "https://clojuredocs.org/clojure.core/as->"
+
+edn
+EDN
+Extensible Data Notation
+    A format for serializing data.
+    
+    EDN is a subset of the syntax used by
+    Clojure.
+    
+    Reading data defined by EDN is safer than
+    that defined by the full Clojure syntax,
+    especially from untrusted sources.
+    
+    The main benefit of EDN over JSON and YAML
+    is that it is extensible.
+
+refer, alias, require, use, and ns
+    Functions/syntax for organising code.
+
+reference
+    Two types:
+    - agent
+    - actor?
+
+    https://clojure.org/reference/agents
+
+clojure
+    A modern, dynamic, and functional dialect
+    of the Lisp programming language on the
+    Java platform.
+    
+    Like other Lisp dialects, Clojure treats
+    code as data and has a Lisp macro system.
+
+&
+    & in signature
+    https://www.tutorialspoint.com/clojure/clojure_variadic_functions.htm
+
+!
+    The names of functions / macros that are
+    not safe in STM transactions should end
+    with an exclamation mark (e.g. reset!).
+
+    But what does it really mean? Anything
+    what has a non-idempotent side effect.
+
+    Idempotent operation is the one that has
+    no additional effect if it is called more
+    than once with the same input parameters.
+
+    When to use ! in function name:
+    https://clojure.wladyka.eu/posts/when-use-exclamation-mark/
+
+defonce
+    (defonce animator (agent nil))
+
+    Idempotent set.
+
+    This defines the variable animator and
+    sets it to agent.
+
+    If called again, it will
+    not change the value.
+
+    It's equivalent to emacs' (defvar).
+
+atom
+    https://clojure.org/reference/atoms
+
+    Atoms provide a way to manage shared,
+    synchronous, independent state.
+    
+    They are a reference type like refs and
+    vars.
+    
+    You create an atom with atom, and can
+    access its state with deref/@. Like refs
+    and agents, atoms support validators.
+    
+    To change the value of an atom, you can
+    use swap!.
+    
+    A lower-level compare-and-set! is also
+    provided.
+    
+    Changes to atoms are always free of race
+    conditions.
+    
+    As with all reference types, the intended
+    use of atom is to hold one of Clojures
+    immutable data structures.
+    
+    And, similar to refs alter and agents
+    send, you change the value by applying a
+    function to the old value.
+    
+    This is done in an atomic manner by swap!
+    
+    Internally, swap!
+    
+    reads the current value, applies the
+    function to it, and attempts to compare-
+    and-set!
+    
+    it in.
+    
+    Since another thread may have changed the
+    value in the intervening time, it may have
+    to retry, and does so in a spin loop.
+    
+    The net effect is that the value will
+    always be the result of the application of
+    the supplied function to a current value,
+    atomically.
+    
+    However, because the function might be
+    called multiple times, it must be free of
+    side effects.
+    
+    Atoms are an efficient way to represent
+    some state that will never need to be
+    coordinated with any other, and for which
+    you wish to make synchronous changes
+    (unlike agents, which are similarly
+    independent but asynchronous).
+
+deref
+@
+    Access the state of a reference with deref/@.
+
+    ewwlinks +/"deref\/@" "https://clojure.org/reference/atoms"
+
+    This includes atom.
+
+    v +/"(defonce app-state" "$MYGIT/ilmotta/clojure-ants-simulation/src/demo/core.clj"
+
+    (defonce app-state
+      (atom
+        {:config {:animation-sleep-ms 100}}))
+
+    (get-in (deref app-state) [:config])
+
+    (get-in @app-state [:config])
+
+atomic reference
+    [java]
+
+    This is wrapped in clojure as an atom.
+
+    At the lowest level this is just a
+    pointer.
+
+future
+    Takes a body of expressions and yields a
+    future object that will invoke the body in
+    another thread, and will cache the result
+    and return it on all subsequent calls to
+    deref/@.
+    
+    If the computation has not yet finished,
+    calls to deref/@ will block, unless the
+    variant of deref with timeout is used.
+    
+    See also - realized?.
+
+CAS
+Compare-And-Set
+Compare-And-Swap
+compare-and-set!
+    [concurrency]
+
+    (compare-and-set! ...)
+
+doto
+    clojure.core/doto
+
+    Evaluates x then calls all of the methods
+    and functions with the value of x supplied
+    at the front of the given arguments.
+    
+    The forms are evaluated in order.
+    
+    Returns x.
+    
+    (doto
+      (new java.util.HashMap)
+      (.put "a" 1)
+      (.put "b" 2))
+
+reify
+    [macro]
+
+Profiles
+profile
+:profiles
+    v +/"# Profiles" "$MYGIT/technomancy/leiningen/doc/PROFILES.md"
+
+    You can change the configuration of your project by applying various
+    profiles. For instance, you may want to have a few extra test data
+    directories on the classpath during development without including them
+    in the jar, or you may want to have development tools like
+    [Slamhound](https://github.com/technomancy/slamhound) available in
+    every project you hack on without modifying every single `project.clj`
+    you use.
+
+Slamhound
+    v +/"# Slamhound" "$MYGIT/technomancy/slamhound/README.md"
+
+    Slamhound rips your ns form apart and reconstructs it.
+
+flux
+    Clojure based Solr client.

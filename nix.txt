@@ -1,1 +1,73 @@
-/home/shane/notes/ws/nix/glossary.txt
+User environment
+    Sets of software packages available to a
+    user at some point in time.
+
+i18n
+Internationalization
+I - eighteen letters -N
+    Is the process of planning and
+    implementing products and services so that
+    they can easily be adapted to specific
+    local languages and cultures, a process
+    called localization.
+
+Nix language
+Nix expression language
+    A pure, lazy, functional language.
+
+    Not a full-featured, general purpose
+    language.
+
+    Functions are “normal” values that can be
+    passed around and manipulated in
+    interesting ways.
+
+    Its main job is to describe packages,
+    compositions of packages, and the variability
+    within packages.
+
+Hydra
+    [CI testing and software release tool]
+
+    [#Nix]
+    [#Nix language]
+    [#CI]
+
+    A Nix-based continuous build system,
+    released under the terms of the GNU GPLv3
+    or (at your option) any later version.
+    
+    It continuously checks out sources of
+    software projects from version management
+    systems to build, test and release them.
+    
+    Uses a purely functional language to
+    describe build jobs and their
+    dependencies.
+
+    The build tasks are described using Nix
+    expressions.
+    
+    This allows a Hydra build task to specify
+    all the dependencies needed to build or
+    test a project.
+    
+    It supports a number of operating systems,
+    such as various GNU/Linux flavours, Mac OS
+    X, and Windows.
+    
+    Example:
+        At Delft University of Technology we
+        run a Hydra-based build farm to build
+        and test the NixOS GNU/Linux
+        distribution, the Nix Packages
+        collection, the Stratego/XT program
+        transformation system, and various
+        other open source projects.
+
+nix-env
+    Used to manipulate Nix user environments.
+
+Nix expression
+    May refer to a file with a Nix expression
+    inside.

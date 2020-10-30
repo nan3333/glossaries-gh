@@ -1,1 +1,10 @@
-/home/shane/notes/ws/cloud-orchestration/glossary.txt
+Nomad
+    A flexible workload orchestrator that
+    enables an organization to easily deploy
+    and manage any containerized or legacy
+    application using a single, unified
+    workflow.
+    
+    Nomad can run a diverse workload of
+    Docker, non-containerized, microservice,
+    and batch applications.

@@ -1,1 +1,537 @@
-/home/shane/notes/ws/abstract-algebra/glossary.txt
+poincare duality [theorem]
+    A basic result on the structure of the
+    homology and cohomology groups of
+    manifolds. It states that if M is an
+    n-dimensional oriented closed manifold
+    (compact and without boundary), then the
+    kth cohomology Group of M is isomorphic to
+    the (n − k)th homology Group of M, for all
+    integers k
+
+    Holds for any coefficient Ring, so long as
+    one has taken an orientation with respect
+    to that coefficient Ring;
+        in particular, since every manifold
+        has a unique orientation mod 2,
+        Poincaré duality holds mod 2 without
+        any assumption of orientation.
+
+Algebraic Structures
+    Example types:
+    - Group-like Structures
+    - Ring-like Structures
+    - Lattice-like Structures
+
+    https://argumatronic.com/posts/2019-06-21-algebra-cheatsheet.html#Group-like-structures
+
+Group-like Structures
+    Examples:
+    - Magma
+    - Semigroup
+    - Monoid
+    - Group
+    - Abelian group
+    - Idempotent group
+
+Magma
+    [Group-like structure]
+
+    A set with a (closed) binary operation.
+
+    (A, *)
+
+    Structure:
+    * : A × A → A
+
+Semigroup
+    [Group-like structure]
+
+    A Magma where the operation is
+    associative.
+
+    (A, *)
+
+    Structure:
+    * : A × A → A
+
+    Laws:
+    ∀x, y, z ∈ A; x * (y * z) = (x * y) * z
+
+Monoid
+    [Group-like structure]
+
+    A Semigroup with an identity element.
+
+    (A, *,u)
+
+    Structure:
+    * : A × A → A
+    u : A
+
+    Laws:
+    (A, *) is a Semigroup
+    ∀x ∈ A; x * u = u * x = x
+
+Group
+    [Group-like structure]
+
+    A Monoid that has inverses relative to the
+    operation.
+
+    (A, *,u, ′)
+
+    Structure:
+    * : A × A → A
+    u : A
+    ′ : A → A
+
+    Laws:
+    (A, *,u) is a Monoid
+    ∀x ∈ A; x * x′ = x′ * x = u
+
+    Laws:
+    1. Closure:
+       If A and B are two elements in G, then
+       the product AB is also in G.
+    2. Associativity:
+       The defined multiplication is
+       associative, i.e., for all A,B,C in G,
+       (AB)C=A(BC).
+    3. Identity:
+       There is an identity element I (a.k.a.
+       1, E, or e) such that IA=AI=A for every
+       element A in G.
+    4. Inverse:
+       There must be an inverse (a.k.a.
+       reciprocal) of each element. Therefore,
+       for each element A of G, the set
+       contains an element B=A^(-1) such that
+       AA^(-1)=A^(-1)A=I.
+
+Abelian group
+    [Group-like structure]
+
+    A Group where the operation is also
+    commutative.
+    
+    You may also see the term abelian applied
+    to semigroups and monoids whose operations
+    are commutative.
+
+    Laws:
+    ∀x, y ∈ A; x * y = y * x
+
+    This is in addition to the laws for
+    Semigroup, Monoid, or Group (whichever
+    abelian structure you’re dealing with)
+    that already pertain.
+
+non-Abelian group
+noncommutative group
+    A Group for which the commutativity axiom
+    does not hold, i.e. for arbitrary two
+    elements m and n of the Group (G, *) the
+    equation m*n = n*m does not hold.
+
+Idempotent group
+    [Group-like structure]
+
+    A Group whose operation is idempotent.
+    
+    Strictly speaking, an Idempotent group is
+    necessarily trivial – that is, it is
+    necessarily a Group with only one element.
+    
+    As with abelian, idempotent may apply to
+    semigroups or monoids as well when the
+    operation is idempotent.
+
+    Laws:
+    ∀x ∈ A; x * x = x
+
+Ring-like Structures
+    Examples:
+    - Quasiring
+    - Nearring
+    - Semiring
+    - Rng
+    - Ring
+    - Division algebra
+    - Field
+
+Quasiring
+    [Ring-like structure]
+
+    Two monoids over the same set whose Monoid
+    structures are compatible, in the sense
+    that:
+    - one operation (called multiplication)
+      distributes over the other (called
+      addition), and
+    - the additive identity is a
+      multiplicative annihilator.
+
+    (A, +,⋅,0, 1)
+
+    Structure:
+    + : A × A → A
+    ⋅ : A × A → A
+    0 : A
+    1 : A
+
+    Laws:
+    (A, +,0) is a Monoid
+    (A, ⋅,1) is a Monoid
+    ∀x ∈ A; 0 ⋅ x = x ⋅ 0 = 0
+    ∀x, y, z ∈ A; x ⋅ (y + z) = x ⋅ y + x ⋅ z
+    ∀x, y, z ∈ A; (x + y) ⋅ z = x ⋅ z + y ⋅ z
+
+Nearring
+    [Ring-like structure]
+
+    A Quasiring with additive inverses.
+
+    (A, +,⋅,0, 1,  − )
+
+    Structure:
+    + : A × A → A
+    ⋅ : A × A → A
+    0 : A
+    1 : A
+     −  : A → A
+
+    Laws:
+    (A, +,0,  − ) is a Group
+
+Semiring
+    [Ring-like structure]
+
+    A Quasiring with commutative addition.
+    
+    Alternatively, a Ring without inverses,
+    hence also sometimes called a rig, i.e., a
+    Ring without negatives.
+
+    Quasiring (A, +,⋅,0, 1)
+
+    Laws:
+    (A, +,0) is abelian
+
+Rng
+    [Ring-like structure]
+
+    A Ring without identities.
+
+    If we may speak frankly, the rig and Rng
+    nomenclatures are abominations.
+    
+    Nevertheless, you may see them sometimes,
+    but we will speak of them no more.
+
+Ring
+    [Ring-like structure]
+
+    A Quasiring that is both a Nearring and a
+    Semiring.
+    
+    Alternatively, Abelian group plus a Monoid
+    (over the same set) where the Monoid
+    operation is distributive over the Group
+    operation.
+
+    Nearring (A, +,⋅,0, 1,  − )
+
+    Laws:
+    (A, +,0,  − ) is an Abelian group
+
+    Rings, semirings, and the lot can also be
+    commutative rings, commutative semirings,
+    etc., but, unlike the Group-like
+    structures, they are not usually described
+    as, e.g., “abelian rings.”
+
+Division algebra
+    [Ring-like structure]
+
+    A Ring with multiplicative inverses.
+
+    (A, +,⋅,0, 1, −,′)
+
+    Structure:
+    + : A × A → A
+    ⋅ : A × A → A
+    0 : A
+    1 : A
+    − : A → A
+    ′ : A \ {0} → A \ {0}
+
+    The notation A \ {0}, sometimes
+    alternatively given as A − {0}, means
+    “everything in A except 0.”
+
+    Laws:
+    (A, +,⋅,0, 1,  − ) is a Ring
+    (A \ {0}, 1, ′) is a Group
+
+Field
+    [Ring-like structure]
+
+    A Division algebra with commutative
+    multiplication.
+
+    Division algebra (A, +,⋅,0, 1, −,′)
+
+    Laws:
+    (A, +,⋅,0, 1) is commutative
+
+Lattice-like Structures
+    Examples:
+    - Semilattice
+    - Lattice
+    - Bounded lattice
+    - Complemented lattice
+    - Distributive lattice
+    - Heyting algebra
+    - Boolean algebra
+
+Semilattice
+    [Lattice-like structure]
+
+    A Magma where the operation is
+    commutative, associative, and idempotent.
+    
+    It could refer to either of the abelian
+    semigroups of a Lattice, written ∨ and
+    often called join or Boolean or, and ∧
+    often called meet or Boolean and.
+    
+    We define the term here for reasons
+    related to its usage in Haskell, but it is
+    best understood in context of lattices,
+    rather than independently.
+
+Lattice
+    [Lattice-like structure]
+
+    Two idempotent abelian semigroups over the
+    same set whose Semigroup structures are
+    compatible, in the sense that the
+    operations satisfy absorption laws.
+    
+    Interestingly, it’s sort of two
+    semilattices in the same way that a
+    Semiring is two monoids, with laws tying
+    them together (distributivity in the case
+    of semirings, absorption laws in the case
+    of lattices).
+
+    (A, ∨, ∧ )
+
+    Structure:
+
+     ∨  : A × A → A
+     ∧  : A × A → A
+
+    Laws:
+
+    (A,  ∨ ) is an idempotent abelian Semigroup
+    (A,  ∧ ) is an idempotent abelian Semigroup
+    ∀x, y ∈ A; x ∨ (x ∧ y) = x
+    ∀x, y ∈ A; x ∧ (x ∨ y) = x
+
+    The last pair of laws is called
+    absorption.
+    
+    Since absorption laws are unique to
+    lattices, we discuss them here instead of
+    in the glossary.
+    
+    The absorption laws link a pair of
+    semilattices in a kind of distributive
+    relationship, so that a Lattice is not
+    just any two semilattices that happen to
+    be over the same set, but only
+    semilattices that are linked in this way.
+    
+    In particular, the absorption laws ensure
+    that the two semilattices are dual of each
+    other.
+    
+    It can take a moment to see what it means,
+    so let’s pause and look at concrete
+    examples.
+
+    Consider a Boolean Lattice with two
+    elements, True and False, where ||
+    corresponds to ∨ and && corresponds to ∧:
+
+        λ> False || (False && True)
+        False
+
+        λ> False && (False || True)
+        False
+
+    But it’s important to note that these hold
+    for all x and y in the set. So, if we swap
+    them, the absorption laws still hold:
+
+        λ> True || (True && False)
+        True
+
+        λ> True && (True || False) 
+        True
+
+    Positive integers form a Lattice under the
+    operations min and max, and we can see the
+    absorption law in action here, too.
+
+        λ> 5 `min` (5 `max` 9)
+        5
+
+        λ> 5 `max` (5 `min` 9)
+        5
+
+    The absorption laws are sometimes called a
+    special case of identity, and they’re also
+    related to idempotence in that the
+    idempotence laws can be derived from the
+    absorption laws taken together.
+
+Bounded lattice
+    [Lattice-like structure]
+
+    A Lattice whose Semigroup structures are
+    monoids.
+
+    (A, ∨,∧,0, 1)
+
+    Structure:
+    ∨ : A × A → A
+    ∧ : A × A → A
+    0 : A
+    1 : A
+
+    Laws:
+    (A, ∨, ∧ ) is a Lattice
+    (A, ∨,0) is a Monoid
+    (A, ∧,1) is a Monoid
+
+Complemented lattice
+    [Lattice-like structure]
+
+    A Bounded lattice where each element has a
+    complement.
+
+    (A, ∨,∧,0, 1, ′)
+
+    Structure:
+    ∨ : A × A → A
+    ∧ : A × A → A
+    0 : A
+    1 : A
+    ′ : A → A
+
+    Laws:
+    (A, ∨,∧,0, 1) is a Bounded lattice
+    ∀x ∈ A; x ∨ x′ = 1
+    ∀x ∈ A; x ∧ x′ = 0
+
+    Nota bene:
+    
+    Although ′ defines a particular choice of
+    complements (i.e., each element x ∈ A has
+    exactly one corresponding x′ ∈ A), there
+    may additionally be other elements y ∈ A
+    such that x ∨ y = 1 and x ∧ y = 0.
+    
+    In particular, there may be other suitable
+    ′ functions, and x″ is not necessarily x.
+
+Distributive lattice
+    [Lattice-like structure]
+
+    A Lattice where the operations distribute
+    over each other.
+
+    Lattice (A, ∨, ∧ )
+
+    Laws:
+
+    ∀x, y, z ∈ A; x ∧ (y ∨ z) = (x ∧ y) ∨ (x ∧ z)
+    ∀x, y, z ∈ A; x ∨ (y ∧ z) = (x ∨ y) ∧ (x ∨ z)
+
+    Strictly speaking, the second law can be
+    derived from the first law and the Lattice
+    laws, and as such is redundant.
+    
+    Every totally ordered set, such as the
+    real numbers and subsets of the reals
+    including the naturals and integers, form
+    distributive lattices with max as ∨ (join)
+    and min as ∧ (meet).
+
+Heyting algebra
+    [Lattice-like structure]
+
+    A bounded, Distributive lattice with an
+    implication operation.
+
+    (A, ∨,∧,0, 1,  ⇒ )
+
+    Structure:
+    ∨ : A × A → A
+    ∧ : A × A → A
+    0 : A
+    1 : A
+    ⇒ : A × A → A
+
+    Laws:
+    (A, ∨,∧,0, 1) is a bounded, Distributive lattice.
+    ∀x ∈ A; x ⇒ x = 1
+    ∀x, y ∈ A; x ∧ (x ⇒ y) = x ∧ y
+    ∀x, y ∈ A; y ∧ (x ⇒ y) = y
+    ∀x, y, z ∈ A; x ⇒ (y ∧ z) = (x ⇒ y) ∧ (x ⇒ z)
+
+Boolean algebra
+    [Lattice-like structure]
+
+    A complemented Heyting algebra.
+
+    Complemented lattice (A, ∨,∧,0, 1, ′)
+
+    Laws:
+    (A, ∨,∧,0, 1,  ⇒ ) is a Heyting algebra
+    where  ⇒  : A × A → A by x ⇒ y = x′ ∨ y.
+
+topological group
+    [Group]
+
+    A Group G together with a topology on G
+    such that both the group's binary
+    operation and the function mapping Group
+    elements to their respective inverses are
+    continuous functions with respect to the
+    topology.
+    
+    A topological group is a mathematical
+    object with both an algebraic structure
+    and a topological structure.
+    
+    Thus, one may perform algebraic
+    operations, because of the Group
+    structure, and one may talk about
+    continuous functions, because of the
+    topology.
+    
+    Topological groups, along with continuous
+    Group actions, are used to study
+    continuous symmetries, which have many
+    applications, for example, in physics.
+
+amenable group
+    [topological group]
+
+    A locally compact topological group G
+    carrying a kind of averaging operation on
+    bounded functions that is invariant under
+    translation by Group elements.

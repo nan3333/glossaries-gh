@@ -1,1 +1,46 @@
-/home/shane/notes/ws/philosophy/glossary.txt
+Polanyi's Paradox
+    [theory]
+
+    We can know more than we can tell.
+    
+    Human knowledge of how the world functions
+    and capability are, to a large extent,
+    beyond our explicit understanding.
+
+    Explains the cognitive phenomenon that
+    there exist many tasks which we, human
+    beings, understand intuitively how to
+    perform but cannot verbalize the rules or
+    procedures behind it.
+    
+    This "self-ignorance" is common to many
+    human activities, from driving a car in
+    traffic to face recognition.
+    
+    Humans are relying on their tacit
+    knowledge, which is difficult to
+    adequately express by verbal means, when
+    engaging these tasks.
+    
+    Has been widely considered a major
+    obstacle in the fields of AI and
+    automation, since the absence of
+    consciously accessible knowledge creates
+    tremendous difficulty in programming.
+    
+    Overcomed by recent advances in ML, some
+    technological optimists argue.
+    
+    Instead of relaying on programmer’s
+    algorithms to instruct them in human
+    knowledge, computer systems are now able
+    to learn tacit rules from context,
+    abundant data, and applied statistics on
+    their own.
+    
+    Since machines can infer the tacit
+    knowledge that human beings draw upon from
+    examples without human assistance, they
+    are no longer limited by those rules
+    tacitly applied but not explicitly
+    understood by humans.

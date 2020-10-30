@@ -1,1 +1,36 @@
-/home/shane/notes/ws/computation/glossary.txt
+model of computation
+    [#computability theory]
+    [#computational complexity theory]
+
+    A model which describes how an output of a
+    mathematical function is computed given an
+    input.
+    
+    A model describes how units of
+    computations, memories, and communications
+    are organized.
+
+    Classified in three categories:
+    - sequential models,
+    - functional models, and
+    - concurrent models.
+
+    Sequential models include:
+    - Finite state machines
+    - Pushdown automata
+    - Random access machines
+    - Turing machines
+
+    Functional models include:
+    - Lambda calculus
+    - General recursive functions
+    - Combinatory logic
+    - Abstract rewriting systems
+
+    Concurrent models include:
+    - Cellular automaton
+    - Kahn process networks
+    - Petri nets
+    - Synchronous Data Flow
+    - Interaction nets
+    - Actor model

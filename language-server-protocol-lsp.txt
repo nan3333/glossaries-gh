@@ -1,1 +1,12 @@
-/home/shane/notes/ws/language-server-protocol-lsp/glossary.txt
+https://github.com/eclipse/lsp4j/blob/master/documentation/jsonrpc.md
+
+endpoint
+    [#lsp4j]
+    [interface]
+
+    Takes care of the connecting a request
+    messages with responses.
+
+    Defines two methods:
+    - request
+    - notify

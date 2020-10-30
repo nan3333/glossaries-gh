@@ -1,1 +1,6 @@
-/home/shane/notes/ws/saas-software-as-a-service/glossary.txt
+churn rate
+    [#saas]
+
+    The number of subscribers who discontinued
+    their subscription during a period divided
+    into the total number of subscribers.

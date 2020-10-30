@@ -1,1 +1,5 @@
-/home/shane/notes/ws/oauth2/glossary.txt
+oauth
+    Provides granular permissions ("scopes")
+    and easy ability for users (or
+    administrators) to see granted tokens and
+    revoke tokens/permissions at will.

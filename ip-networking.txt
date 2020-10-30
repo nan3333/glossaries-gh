@@ -1,1 +1,133 @@
-/home/shane/notes/ws/ip-networking/glossary.txt
+PING
+Packet INternet Groper
+
+arpwatch
+    A computer software tool for monitoring
+    Address Resolution Protocol traffic on a
+    computer network.
+    
+    It generates a log of observed pairing of
+    IP addresses with MAC addresses along with
+    a timestamp when the pairing appeared on
+    the network.
+
+bmon
+    A monitoring and debugging tool to capture
+    networking related statistics and prepare
+    them visually in a human friendly way.
+    
+    It features various output methods
+    including an interactive curses user
+    interface and a programmable text output
+    for scripting.
+
+dhclient
+    Provides a means for configuring one or
+    more network interfaces using the Dynamic
+    Host Configuration Protocol, BOOTP proto‐
+    col, or if these protocols fail, by
+    statically assigning an address.
+
+RRP
+Virtual Router Redundancy Protocol
+    [networking protocol]
+
+    Provides for automatic assignment of
+    available IP routers to participating
+    hosts.
+    
+    This increases the availability and
+    reliability of routing paths via automatic
+    default gateway selections on an IP
+    subnetwork.
+
+Linux Virtual Server
+IPVS
+
+Layer 2
+data link layer
+    [#OSI]
+
+    Node-to-node data transfer—a link between
+    two directly connected nodes. 
+
+    MAC addresses.
+
+Layer 3
+network layer
+    [#OSI]
+
+    Provides the capacity to transfer packets
+    from one host to another, potentially in
+    different networks.
+
+    IP addresses.
+
+Layer 4
+transport layer
+    [#OSI]
+
+    Maintains QoS for transfer.
+    Routes traffic.
+
+Layer 5
+session layer
+    [#OSI]
+
+    Controls the dialogues (connections)
+    between computers.
+
+    Establishes, manages and terminates the
+    connections between the local and remote
+    application. 
+
+keepalived
+    Routing software written in C.
+    
+    The main goal of this project is to
+    provide simple and robust facilities for
+    loadbalancing and high-availability to
+    Linux system and Linux based
+    infrastructures.
+    
+    Loadbalancing framework relies on well-
+    known and widely used IPVS kernel module
+    providing Layer4 loadbalancing.
+    
+    Keepalived implements a set of checkers to
+    dynamically and adaptively maintain and
+    manage loadbalanced server pool according
+    their health.
+    
+    On the other hand high-availability is
+    achieved by VRRP protocol.
+    
+    VRRP is a fundamental brick for router
+    failover.
+    
+    In addition, Keepalived implements a set
+    of hooks to the VRRP finite state machine
+    providing low-level and high-speed
+    protocol interactions.
+    
+    In order to offer fastest network failure
+    detection, Keepalived implements BFD
+    protocol.
+    
+    VRRP state transition can take into
+    account BFD hint to drive fast state
+    transition.
+    
+    Keepalived frameworks can be used
+    independently or all together to provide
+    resilient infrastructures.
+
+IP-aliases
+    An obsolete way to manage multiple IP-
+    addresses/masks per interface.
+    
+    Newer tools such as iproute2 support
+    multiple address/prefixes per interface,
+    but aliases are still supported for
+    backwards compatibility.
+    

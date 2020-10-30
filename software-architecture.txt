@@ -1,1 +1,23 @@
-/home/shane/notes/ws/software-architecture/glossary.txt
+ports and adapters architecture
+hexagonal architecture
+onion architecture
+    Layered application architecture done
+    right.
+
+    https://youtu.be/US8QG9I1XW0?t=580
+
+    Hard to achieve with OO languages.
+    Easy with FP languages.
+
+MAS
+self-organized system
+Multi-agent system
+    A computerized system composed of multiple
+    interacting intelligent agents.
+    
+    Multi-agent systems can solve problems
+    that are difficult or impossible for an
+    individual agent or a monolithic system to
+    solve.
+
+    https://jade.tilab.com/

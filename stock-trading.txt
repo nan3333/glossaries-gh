@@ -1,1 +1,10 @@
-/home/shane/notes/ws/stock-trading/glossary.txt
+option
+    [finance]
+    [stock trading]
+
+    A contract which gives the buyer the
+    right, but not the obligation, to buy or
+    sell an underlying asset or instrument at
+    a specified strike price prior to or on a
+    specified date, depending on the form of
+    the option.

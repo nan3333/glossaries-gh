@@ -1,1 +1,6 @@
-/home/shane/notes/ws/rat/glossary.txt
+mode
+    Rat pagers can be opened in one or more
+    "modes".
+    
+    A mode is a configuration of "annotators"
+    and "key bindings":

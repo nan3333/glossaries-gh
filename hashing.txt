@@ -1,1 +1,47 @@
-/home/shane/notes/ws/hashing/glossary.txt
+Fibonacci hashing
+    Hash tables should not:
+    - be prime number sized
+    - use an integer modulo to map hashes into
+      slots.
+
+    Fibonacci hashing is just better, yet
+    somehow nobody is using it.
+
+    Lots of big hash tables (including all the
+    big implementations of std::unordered_map)
+    are much slower than they should be
+    because they don’t use Fibonacci Hashing.
+
+LSH
+locality-sensitive hashing
+    An algorithmic technique that hashes
+    similar input items into the same
+    "buckets" with high probability.
+    
+    (The number of buckets are much smaller
+    than the universe of possible input
+    items.)
+    
+    Since similar items end up in the same
+    buckets, this technique can be used for
+    data clustering and nearest neighbor
+    search.
+    
+    It differs from conventional hashing
+    techniques in that hash collisions are
+    maximized, not minimized.
+    
+    Alternatively, the technique can be seen
+    as a way to reduce the dimensionality of
+    high-dimensional data; high-dimensional
+    input items can be reduced to low-
+    dimensional versions while preserving
+    relative distances between items.
+    
+    Hashing-based approximate nearest neighbor
+    search algorithms generally use one of two
+    main categories of hashing methods: either
+    data-independent methods, such as
+    locality-sensitive hashing (LSH); or data-
+    dependent methods, such as Locality-
+    preserving hashing (LPH).
