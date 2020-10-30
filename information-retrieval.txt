@@ -1,3 +1,5 @@
+$NOTES/ws/ranking/glossary.txt
+
 typeahead search
 autocomplete
 incremental search
