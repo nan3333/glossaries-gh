@@ -92,7 +92,7 @@ Compatibility
     and/or perform its required functions
     while sharing the same hardware or
     software environment.
-    
+
     This characteristic is composed of the
     following sub-characteristics:
 
@@ -116,7 +116,7 @@ Interoperability
     information and use the information that
     has been exchanged.
 
-Usability 
+Usability
     [#iso-25010]
 
     Degree to which a product or system can be
@@ -124,7 +124,7 @@ Usability
     specified goals with effectiveness,
     efficiency and satisfaction in a specified
     context of use.
-    
+
     This characteristic is composed of the
     following sub-characteristics:
 
@@ -181,14 +181,14 @@ Accessibility
     achieve a specified goal in a specified
     context of use.
 
-Reliability 
+Reliability
     [#iso-25010]
 
     Degree to which a system, product or
     component performs specified functions
     under specified conditions for a specified
     period of time.
-    
+
     This characteristic is composed of the
     following sub-characteristics:
 
@@ -235,7 +235,7 @@ Security
     persons or other products or systems have
     the degree of data access appropriate to
     their types and levels of authorization.
-    
+
     This characteristic is composed of the
     following sub-characteristics:
 
@@ -290,7 +290,7 @@ Maintainability
     improve it, correct it or adapt it to
     changes in environment, and in
     requirements.
-    
+
     This characteristic is composed of the
     following sub-characteristics:
 
@@ -352,7 +352,7 @@ Portability
     can be transferred from one hardware,
     software or other operational or usage
     environment to another.
-    
+
     This characteristic is composed of the
     following sub-characteristics:
 
