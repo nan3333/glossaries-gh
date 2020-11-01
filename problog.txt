@@ -4,6 +4,7 @@ non-ground clause
 
 stochastic memoization
     [#probabilistic programming]
+
     Remembering probabilistic events that have
     already occurred.
 

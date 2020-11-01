@@ -1,5 +1,29 @@
 https://github.com/explosion/spaCy/blob/master/spacy/glossary.py
 
+pipeline
+processing pipeline
+    When you call nlp on a text, spaCy first
+    tokenizes the text to produce a Doc
+    object.
+    
+    The Doc is then processed in several
+    different steps – this is also referred to
+    as the processing pipeline.
+    
+    The pipeline used by the default models
+    consists of a tagger, a parser and an
+    entity recognizer.
+    
+    Each pipeline component returns the
+    processed Doc, which is then passed on to
+    the next component.
+
+pipeline extension
+    https://spacy.io/universe/category/pipeline
+
+    Examples:
+    - https://spacy.io/universe/project/spacy-pytextrank
+
 Attributes
     [#lexeme]
 

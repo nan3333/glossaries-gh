@@ -7,12 +7,47 @@ extractive keyphrase system
 
 abstractive keyphrase system
 
+subword
+    Something in-between a word and a
+    character.
+
+bag-of-words
+bag-of-words model
+BoW
+BoW model
+    A simplifying representation used in NLP
+    and IR.
+    
+    In this model, a text (such as a sentence
+    or a document) is represented as the bag
+    (multiset) of its words, disregarding
+    grammar and even word order but keeping
+    multiplicity.
+
+Byte Pair Encoding
+BPE
+    [subword algorithm]
+
+    https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46
+
+    vim +/"\"\"\"Byte pair encoding utilities\"\"\"" "$MYGIT/mullikine/gpt-2/src/encoder.py"
+
+    Used to build a subword dictionary.
+
 Schemata
     Cognitive structures representing generic
     knowledge, i.e. structures which do not
     contain information about particular
     entities, instances or events, but rather
     about their general form.
+
+ontology
+    An ontology encompasses a representation,
+    formal naming and definition of the
+    categories, properties and relations
+    between the concepts, data and entities
+    that substantiate one, many or all domains
+    of discourse.
 
 semantic repository
     An engine similar to a database management
@@ -219,12 +254,6 @@ semantic map
     sentence relationships so the user can
     extract meaningful concepts quickly and
     efficiently.
-
-Byte Pair Encoding
-BPE
-    [subword algorithm]
-
-    https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46
 
 WordPiece
     [subword algorithm]
@@ -703,9 +732,6 @@ Author
     for assigning expressions to a single
     entity.
 
-NLP
-    Automatically turning data into prose.
-
 syntactic aggregation.
     [#NLG]
     [Subtask of NLG]
@@ -735,7 +761,9 @@ NLU
     entities.
 
 NLP
-    Converts a text into structured data.
+    Converts a text into structured data or,
+    oppositely, automatically turning data
+    into prose.
 
 NLG
     Generates a text based on structured data.
@@ -1806,3 +1834,19 @@ DET
 
 NOUN
     [spacy]
+
+out-of-vocabulary
+OOV
+    A limitation of word embeddings are that,
+    they are learned by the NL Model
+    (word2vec, GloVe and the like) and
+    therefore words must have been seen in the
+    training data before, in order to have an
+    embedding.
+
+    There are ways to handle OOV words and
+    create embeddings for them.
+
+    https://medium.com/@shabeelkandi/handling-out-of-vocabulary-words-in-natural-language-processing-based-on-context-4bbba16214d5
+
+    http://webcache.googleusercontent.com/search?q=cache:https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46

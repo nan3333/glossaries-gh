@@ -69,3 +69,6 @@ defvar-local
     Interestingly, defvar-local does not come
     into effect until run, but I guess defset-
     local would, because it has a set.
+
+posframe
+    Posframe only works in GUI mode.

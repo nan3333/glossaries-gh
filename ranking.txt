@@ -4,6 +4,7 @@ ranking
     in the training data.
 
 Learning to rank
+LTR
 machine-learned ranking
 MLR
     The application of ML, typically

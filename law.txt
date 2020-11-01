@@ -44,3 +44,21 @@ antitrust
     competition among sellers, limit
     monopolies, and give consumers more
     options
+
+indemnity
+    An indemnity is a promise by one party to
+    compensate another for the loss suffered
+    as a consequence of a specific event,
+    called the 'trigger event'.
+    
+    The trigger event can be anything defined
+    by the parties, including:  
+    
+    - A breach of contract;
+    - A party's fault or negligence;
+    - A specific action.
+
+    An indemnity operates as a transfer of
+    risks between the parties, and changes
+    what they would otherwise be liable for or
+    entitled to under a normal damage claim.

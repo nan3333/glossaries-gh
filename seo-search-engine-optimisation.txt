@@ -1,0 +1,13 @@
+ranking signal
+ranking factor
+    Characteristics of a website that
+    determine the position in the search
+    engines.
+    
+    All ranking signals combined form the
+    algorithm of a search engine.
+    
+    How this algorithm works is a secret.
+    
+    Nobody knows exactly which factors decide
+    the order of the search results.

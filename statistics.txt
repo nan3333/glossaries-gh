@@ -1,3 +1,18 @@
+empirical study
+    The collection and analysis of primary
+    data based on direct observation or
+    experiences in the 'field'.
+
+sample size determination
+    The act of choosing the number of
+    observations or replicates to include in a
+    statistical sample.
+    
+    The sample size is an important feature of
+    any empirical study in which the goal is
+    to make inferences about a population from
+    a sample.
+
 Choropleth map
     A choropleth map is a type of thematic map
     in which areas are shaded or patterned in

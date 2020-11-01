@@ -28,6 +28,7 @@ Fuzziness
         quikc~1
 
 Proximity searches
+~
     Word-level edit-distance.
 
     While a phrase query (eg "john smith")
@@ -52,6 +53,10 @@ Proximity searches
     When compared to the above example query,
     the phrase "quick fox" would be considered
     more relevant than "quick brown fox".
+
+boost
+^
+    [operator]
 
 Boosting
     Use the boost operator ^ to make one term
@@ -126,3 +131,18 @@ Replicas
     failure, but also improves the performance
     of searching by carrying out a parallel
     search operation in these replicas.
+
+percolate
+percolate query
+    The percolate query can be used to match
+    queries stored in an index.
+    
+    The percolate query itself contains the
+    document that will be used as query to
+    match with the stored queries.
+
+    Percolation is an exciting and innovative
+    feature that singlehandedly blows Solr
+    right out of the water.
+
+    https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-percolate-query.html

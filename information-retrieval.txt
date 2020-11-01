@@ -14,12 +14,17 @@ word wheeling
     results as the user enters each character
     of the term.
 
-BPE
-Byte pair encoding
-    vim +/"\"\"\"Byte pair encoding utilities\"\"\"" "$MYGIT/mullikine/gpt-2/src/encoder.py"
+faceted classification
+    A classification scheme used in organizing
+    knowledge into a systematic order.
+    
+    A faceted classification uses semantic
+    categories, either general or subject-
+    specific, that are combined to create the
+    full classification entry.
 
 Faceted search
-    Atechnique which involves augmenting
+    A technique which involves augmenting
     traditional search techniques with a
     faceted navigation system, allowing users
     to narrow down search results by applying
@@ -339,6 +344,15 @@ inverted file
     referred to as a vocabulary or lexicon.
 
     For each term there is a postings list.
+
+retrieval function
+    One of the most important components in an
+    IR system.
+    
+    For a query submitted by the user,
+    retrieval function is used to measure the
+    similarity between query and each document
+    in the collection.
 
 Okapi BM25
 BM25
@@ -675,3 +689,35 @@ collaborative filtering
     Depending on the choices you make, you end
     up with a type of collaborative filtering
     approach.
+
+edit-distance
+    A parameterizable metric calculated with a
+    specific set of allowed edit operations,
+    and each operation is assigned a cost
+    (possibly infinite).
+    
+    This is further generalized by DNA
+    sequence alignment algorithms such as the
+    SmithWaterman algorithm, which make an
+    operation's cost depend on where it is
+    applied. 
+
+indexing latency
+    The amount of time it takes for new
+    information to become available in the
+    search index.
+    
+    This metric is important because it
+    determines how quickly new results show
+    up.
+    
+    Not all search systems need to update
+    their contents quickly.
+    
+    In a warehouse inventory system, for
+    example, one daily update to its search
+    index might be acceptable.
+    
+    At Twitter -- where people are constantly
+    looking for the answer to whats happening
+    -- real-time search is a must.
