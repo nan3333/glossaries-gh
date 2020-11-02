@@ -1,3 +1,14 @@
+regression to the mean
+regression toward the mean
+    The phenomenon that arises if a sample
+    point of a random variable is extreme, a
+    future point will be closer to the mean or
+    average on further measurements.
+
+    The reason why if you have a really good
+    round of golf today, your round tomorrow
+    will not be as good.
+
 Scientific Debt
     http://varianceexplained.org/r/scientific-debt/
 

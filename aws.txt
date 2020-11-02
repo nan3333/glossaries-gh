@@ -8,6 +8,7 @@ Amazon Simple Queue Service
     messages via web service applications as a
     way to communicate over the Internet.
 
+Perspective
 AWS Perspective
     [tool]
 
@@ -32,6 +33,7 @@ AWS Perspective
     link to the resource in the AWS Management
     Console.
 
+CloudFormation
 AWS CloudFormation
     Provides a common language for you to
     model and provision AWS and third party
@@ -49,8 +51,20 @@ AWS CloudFormation
     for your AWS and third party resources.
 
 Lambda
+AWS Lambda
     [#Amazon Web Services]
     [Computing service]
+
+    An event-driven, serverless computing
+    platform provided by Amazon as a part of
+    Amazon Web Services.
+    
+    It is a computing service that runs code
+    in response to events and automatically
+    manages the computing resources required
+    by that code.
+    
+    It was introduced in November 2014.
 
     Event-driven, serverless computing
     platform.
@@ -59,11 +73,39 @@ Lambda
     automatically manages the computing
     resources required by that code. 
 
+AWS EventBridge
 EventBridge
     [#Amazon Web Services]
 
     Event-Driven AWS Integration for your SaaS
     Applications.
+
+    Serverless event bus that makes it easy to
+    connect applications together using data
+    from your own applications, integrated
+    Software-as-a-Service (SaaS) applications,
+    and AWS services.
+    
+    EventBridge delivers a stream of real-time
+    data from event sources, such as Zendesk,
+    Datadog, or Pagerduty, and routes that
+    data to targets like AWS Lambda.
+    
+    You can set up routing rules to determine
+    where to send your data to build
+    application architectures that react in
+    real time to all of your data sources.
+    
+    EventBridge makes it easy to build event-
+    driven applications because it takes care
+    of event ingestion and delivery, security,
+    authorization, and error handling for you.
+    
+    As your applications become more
+    interconnected through events, you need to
+    spend more effort to find events and
+    understand their structure in order to
+    write code to react to those events.
 
 AWS Cloud9
 Cloud9 IDE
@@ -220,6 +262,7 @@ Elastic Container Service
     ensuring ECS is tested extensively for
     security, reliability, and availability.
 
+Marketplace
 AWS Marketplace
     A digital catalog with thousands of
     software listings from independent
@@ -280,18 +323,6 @@ Availability Zone
     A common misconception is that a single
     zone equals a single data center.
 
-AWS Lambda
-    An event-driven, serverless computing
-    platform provided by Amazon as a part of
-    Amazon Web Services.
-    
-    It is a computing service that runs code
-    in response to events and automatically
-    manages the computing resources required
-    by that code.
-    
-    It was introduced in November 2014.
-
 DynamoDB
 Amazon DynamoDB
     A key-value and document database that
@@ -350,6 +381,7 @@ Fargate
     chosen to run their mission critical
     applications on Fargate.
 
+CodeBuild
 AWS CodeBuild
     Fully managed CI service that compiles
     source code, runs tests, and produces
@@ -372,3 +404,28 @@ AWS CodeBuild
     
     With CodeBuild, you are charged by the
     minute for the compute resources you use.
+
+CloudSearch
+Amazon CloudSearch
+    Quickly add rich search capabilities to
+    your website or application.
+    
+    You don't need to become a search expert
+    or worry about hardware provisioning,
+    setup, and maintenance.
+    
+    With a few clicks in the AWS Management
+    Console, you can create a search domain
+    and upload the data that you want to make
+    searchable, and Amazon CloudSearch will
+    automatically provision the required
+    resources and deploy a highly tuned search
+    index.
+    
+    You can easily change your search
+    parameters, fine tune search relevance,
+    and apply new settings at any time.
+    
+    As your volume of data and traffic
+    fluctuates, Amazon CloudSearch seamlessly
+    scales to meet your needs.

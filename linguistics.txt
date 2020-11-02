@@ -510,3 +510,37 @@ inflection
     grammatical categories such as tense,
     case, voice, aspect, person, number,
     gender, mood, animacy, and definiteness. 
+
+agglutinative language
+    A type of synthetic language with
+    morphology that primarily uses
+    agglutination.
+    
+    Words may contain different morphemes to
+    determine their meanings, but all of these
+    morphemes remain, in every aspect,
+    unchanged after their unions.
+
+agglutination
+    The clumping of particles.
+    
+    The word agglutination comes from the
+    Latin agglutinare (glueing to).
+    
+    Agglutination is the process that occurs
+    if an antigen is mixed with its
+    corresponding antibody called
+    isoagglutinin.
+    
+    This term is commonly used in blood
+    grouping.
+
+agglutinative
+agglutinative morphology
+    (of a language) forming words
+    predominantly by agglutination, rather
+    than by inflection or by using isolated
+    elements.
+    
+    Examples include Hungarian, Turkish,
+    Korean, and Swahili.
