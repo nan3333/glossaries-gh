@@ -28,3 +28,15 @@ Heesch number
     copies of itself.
 
     http://isohedral.ca/heesch-numbers-part-2-polyforms/
+
+catenarys
+    [#physics]
+    [#geometry]
+
+    The curve that an idealized hanging chain
+    or cable assumes under its own weight when
+    supported only at its ends.
+    
+    The catenary curve has a U-like shape,
+    superficially similar in appearance to a
+    parabolic arch, but it is not a parabola. 
