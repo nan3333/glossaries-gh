@@ -1,0 +1,21 @@
+RTT
+Real Time Transfer
+    https://www.segger.com/products/debug-probes/j-link/technology/about-real-time-transfer/
+
+    With RTT it is possible to output
+    information from the target
+    microcontroller as well as sending input
+    to the application at a very high speed
+    without affecting the target's real time
+    behavior.
+    
+    SEGGER RTT can be used with any J-Link
+    model and any supported target processor
+    which allows background memory access,
+    which are Cortex-M and RX targets.
+    
+    RTT supports multiple channels in both
+    directions, up to the host and down to the
+    target, which can be used for different
+    purposes and provide the most possible
+    freedom to the user.

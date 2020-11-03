@@ -29,7 +29,8 @@ Heesch number
 
     http://isohedral.ca/heesch-numbers-part-2-polyforms/
 
-catenarys
+catenary
+catenary curve
     [#physics]
     [#geometry]
 
@@ -40,3 +41,25 @@ catenarys
     The catenary curve has a U-like shape,
     superficially similar in appearance to a
     parabolic arch, but it is not a parabola. 
+
+minimal surface
+    A surface that locally minimizes its area.
+    
+    This is equivalent to having zero mean
+    curvature (see definitions below).
+    
+    The term "minimal surface" is used because
+    these surfaces originally arose as
+    surfaces that minimized total surface area
+    subject to some constraint.
+
+catenoid
+    A type of surface, arising by rotating a
+    catenary curve about an axis.
+    
+    It is a minimal surface, meaning that it
+    occupies the least area when bounded by a
+    closed space.
+    
+    It was formally described in 1744 by the
+    mathematician Leonhard Euler.
