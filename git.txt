@@ -1,0 +1,5 @@
+restore
+    [#git]
+
+    Discard or unstage uncommitted local
+    changes.

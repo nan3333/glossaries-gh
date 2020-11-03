@@ -228,7 +228,7 @@ joint information
 
 information
 surprisal
-    negative log base 2 of the probability
+    Negative log base 2 of the probability
 
 expected information
 information-theoretic entropy
