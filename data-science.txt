@@ -1,3 +1,43 @@
+data whitening
+    Rescale and decorrelate your data before
+    using it in your neural net.
+
+    problems:
+        large values
+        different scales
+        skewed
+        correlated
+
+    PCA is a method of doing this.
+
+    rescale
+    reshift
+
+    This is needed when the data comes in on
+    completely different scales.
+
+    One axis could be 1-20.
+    One axis could be 200-20000.
+    This is going to be problematic.
+    One will give you much larger activations.
+
+    Data whitening is happening less these days.
+
+    You can add another layer and let it learn
+    the parameters. We don't need to learn the
+    correlation layers by ourselves.
+
+    Because PCA uses 2 matrices, one for
+    weights and one for biases.
+
+PCA
+    A matrix multiply with a matrix add.
+
+    Use it to whiten your input before use in
+    a neural network.
+
+    Finds the correllation axes.
+
 hierarchical clustering
 hierarchical cluster analysis
     An algorithm that groups similar objects

@@ -1,6 +1,30 @@
 tawdry
     Showy but cheap and of poor quality.
 
+verbal irony
+    sarcasm
+        "Great idea!", "I hear they do fine
+        work."
+
+    hyperbole
+        "That's the best idea I have heard in
+        years!"
+
+    understatement
+        "Sure, what the hell, it's only
+        cancer..."
+
+    rhetorical questions
+        "What, does your spirit have cancer?"
+
+    double entendre
+        "I'll bet if you do that, you'll be
+        communing with spirits in no time..."
+
+    jocularity
+        "Get them to fix your bad back while
+        you're at it."
+
 innuendo
     A form of wordplay.
 
@@ -17,7 +41,7 @@ innuendo
     Woman 2 and ‘Arthur’ are intimately
     familiar.
 
-double Entendre
+double entendre
     A form of wordplay.
     
     It relies on an ambiguity in the phrasing

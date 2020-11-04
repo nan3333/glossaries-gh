@@ -1,5 +1,58 @@
 https://github.com/mullikine/weightagnostic.github.io/blob/master/draft.md
 
+training
+training set
+training data set
+    The general term for the samples used to
+    create the model
+
+test
+test set
+test data set
+validation
+validation set
+validation data set
+    Used to qualify performance.
+
+loss
+    The penalty for a bad prediction.
+    
+    That is, loss is a number indicating how
+    bad the model's prediction was on a single
+    example.
+    
+    If the model's prediction is perfect, the
+    loss is zero; otherwise, the loss is
+    greater.
+
+evaluation
+    For any machine learning model, we
+    evaluate the performance of the model
+    based on several points, and the loss is
+    amongst them.
+
+    We all know that an ML model:
+    - Underfits
+      When the training loss is way more
+      significant than the testing loss.
+
+    - Overfits
+      When the training loss is way smaller
+      than the testing loss.
+
+    - Performs very well when the training
+      loss and the testing loss are very
+      close.
+
+test loss
+testing loss
+validation loss
+    It is bad when the test loss increases
+    over epocs.
+
+    Adding dropout can stop the test loss from
+    increasing over time.
+
 AI accelerator
     A class of specialized hardware
     accelerator or computer system designed to
@@ -1445,3 +1498,63 @@ Learning
         There are different ways to structure
         and channel the relationship of input
         features to outcomes.
+
+batch normalisation
+    A better regularisation technique than
+    dropout.
+
+dropout
+    It's a way of freezing all the weights and
+    biases of a set of neurons for one
+    iteration.
+
+    Dropout shoots neurons (makes them 0) for
+    one iteration.
+
+    They're probably reactivated on the next
+    iteration.
+
+    Don't use dropout on convolutional layers
+    because you have far less degrees of
+    freedom in convolutional layers that
+    fully-connected layers.
+
+    Use dropout on fully-connected layers
+    because they have 'too many' degrees of
+    freedom.
+        To bring the test loss under control.
+        And increase the accuracy.
+
+    How does dropout help?
+
+decaying learning rate
+    Helps to clean up noise.
+
+    Example:
+        Decays from 0.003 to 0.0001.
+
+degrees of freedom
+    The number of degrees of freedom needs to
+    be contrained to force the neural network
+    to create categories.
+
+overfitting
+    Happens when there are too many degrees of
+    freedom.
+
+convolutional networks
+    They exist to take into account locational
+    information.
+
+    If you believe that there is important
+    information in the locality of pixels,
+    shape and colour of pixel data, you use
+    convolutions to capture that information.
+
+fully connected layer
+    Each neuron takes the weights of all the
+    neurons in the previous layer.
+
+logit
+    Raw weighted sums plus bias before the
+    activation function.
