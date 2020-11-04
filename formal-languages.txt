@@ -112,7 +112,6 @@ tail call
     particularly useful, and often easy to
     handle in implementations.
 
-
 Tail Call Optimization
     Tail calls can be implemented without
     adding a new stack frame to the call

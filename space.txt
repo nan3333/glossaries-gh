@@ -18,3 +18,23 @@ albedo
     The proportion of the incident light or
     radiation that is reflected by a surface,
     typically that of a planet or moon.
+
+emission nebula
+    A nebula formed of ionized gases that emit
+    light of various wavelengths.
+    
+    The most common source of ionization is
+    high-energy ultraviolet photons emitted
+    from a nearby hot star.
+
+planetary nebula
+NN
+PNe
+    A type of emission nebula consisting of an
+    expanding, glowing shell of ionized gas
+    ejected from red giant stars late in their
+    lives.
+    
+    The term "planetary nebula" is a misnomer
+    because they are unrelated to planets or
+    exoplanets.
