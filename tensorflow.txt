@@ -126,7 +126,7 @@ tensorflow eager vs pytorch
 quantization
     [#Model optimization]
 
-Quantized Model
+quantized Model
     [#Model optimization]
 
 model optimization

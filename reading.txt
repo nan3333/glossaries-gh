@@ -1,4 +1,5 @@
-fixation and saccade
+fixation
+saccade
     In order to read, the eye has to stop at a
     part of the text, this is called fixation.
     
