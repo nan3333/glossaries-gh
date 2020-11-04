@@ -564,3 +564,17 @@ gliding vowel
     within the same syllable.
 
     It's a vowel sound.
+
+connotation
+    A commonly understood cultural or
+    emotional association that some word or
+    phrase carries, in addition to its
+    explicit or literal meaning, which is its
+    denotation.
+    
+    A connotation is frequently described as
+    either positive or negative, with regard
+    to its pleasing or displeasing emotional
+    connection.
+
+    Related to "sentiment".

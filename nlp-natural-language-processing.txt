@@ -1884,3 +1884,12 @@ ner
 
 textcat
     Assign document labels.
+
+sentiment
+sentiment analysis
+opinion mining
+emotion AI
+    A sub-field of NLP that tries to identify
+    and extract opinions within a given text
+    across blogs, reviews, social media,
+    forums, news etc.
