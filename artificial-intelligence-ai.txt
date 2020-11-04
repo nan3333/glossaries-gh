@@ -18,3 +18,23 @@ Statistical Relational Learning
       (which can be dealt with using
       statistical methods)
     - complex, relational structure.
+
+Connectionist
+    Tries to model knowledge by imitating
+    representations of the brain in the form
+    of neural networks and have been the
+    driving force behind movements such as
+    deep learning.
+
+Symbolists
+    Relies on logic to model knowledge based
+    on well-understood rules.
+
+ANN
+Artificial Neural Networks
+    Powerful function approximators capable of
+    modeling solutions to a wide variety of
+    problems, both supervised and
+    unsupervised.
+
+    ewwlinks +/"non-deterministic" "https://www.extremetech.com/extreme/215170-artificial-neural-networks-are-changing-the-world-what-are-they"

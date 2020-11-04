@@ -466,6 +466,8 @@ blind feedback
 tf-idf
 TFIDF
 TF*IDF
+    https://manticoresearch.com/2019/04/09/tf-idf-in-a-nutshell/
+
     A rough way of approximating how users
     value the relevance of a text match.
 
@@ -494,12 +496,12 @@ TF*IDF
     - Keyword extraction
 
 Term Frequency
-tf
+TF
     How often does “dog” occur in the article?
     3 times? 10 times?
 
 document frequency
-df
+DF
     Measures how many docs a term appears in.
 
 Inverse Document Frequency

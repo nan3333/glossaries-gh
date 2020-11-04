@@ -595,3 +595,15 @@ regression
 
 softmax
     ewwlinks +/"This stack of RBMs might end with a a Softmax layer to create a classifier, or it may simply help cluster" "https://skymind.ai/wiki/deep-belief-network"
+
+SVM
+Support-vector Machines
+    Supervised learning models with associated
+    learning algorithms that analyze data used
+    for classification and regression
+    analysis.
+
+    Used to identify things like
+    letters in handwriting.
+
+    $HOME/notes2018/ws/codecraft/03.07.18.org

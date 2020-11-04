@@ -303,3 +303,14 @@ Stochastic
 Random
     Originally came from Greek στόχος
     (stokhos), meaning 'aim, guess'.
+
+log probability
+    Negative log base 2 of the probability.
+
+    This is an important concept. It's used
+    all the time.
+
+    https://en.wikipedia.org/wiki/Log_probability
+
+Joint surprisal
+    Equal to the sum of the surprisals.

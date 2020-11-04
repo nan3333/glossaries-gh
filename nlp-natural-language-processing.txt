@@ -1850,3 +1850,37 @@ OOV
     https://medium.com/@shabeelkandi/handling-out-of-vocabulary-words-in-natural-language-processing-based-on-context-4bbba16214d5
 
     http://webcache.googleusercontent.com/search?q=cache:https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46
+
+Sentiment Lexicon
+    Contains sentiment values.
+
+Lexical
+    Relating to the words or vocabulary of a
+    language.
+
+Lexical Database
+    Possible uses:
+    - Groups words into sets of synonyms.
+    - Records a number of relations among the
+      synsets or their members.
+
+WordNet
+    A lexical database.
+
+synset
+    A set of synonyms.
+
+tokenizer
+    Segment into tokens.
+
+tagger
+    Assign part-of-speech tags.
+
+parser
+    Assign dependency labels.
+
+ner
+    Detect and label named entities.
+
+textcat
+    Assign document labels.

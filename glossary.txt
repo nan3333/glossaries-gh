@@ -3775,52 +3775,6 @@ Static Binding
 
     In contrast to "Dynamic Binding".
 
-Sentiment Lexicon
-    Contains sentiment values.
-
-Lexical
-    Relating to the words or vocabulary of a
-    language.
-
-Lexical Database
-    Possible uses:
-    - Groups words into sets of synonyms.
-    - Records a number of relations among the
-      synsets or their members.
-
-WordNet
-    A lexical database.
-
-synset
-    A set of synonyms.
-
-Credit Assignment [Problem]
-    Credit assigment among available features.
-
-    The fundamental task of all neural
-    networks is credit assignment.
-
-    Credit assignment is allocating importance
-    to input features through the weights of
-    the neural network's model.
-
-Learning
-    [process]
-
-    NN figures out which input features
-    correlate highly with the outcomes the net
-    tries to predict.
-
-    Learnings are embodied in the adjusted
-    quantities of the weights that result in
-    accurate decisions about the data they’re
-    exposed to.
-
-    Banter:
-        There are different ways to structure
-        and channel the relationship of input
-        features to outcomes.
-
 coherence time
     [For an electromagnetic wave]
 
@@ -3836,26 +3790,6 @@ Differentiable Inductive Logic Programming
 
     $HOME/notes2018/ws/inductive-logic-programming-ilp/1711.04574-edit.txt
 
-Connectionist
-    Tries to model knowledge by imitating
-    representations of the brain in the form
-    of neural networks and have been the
-    driving force behind movements such as
-    deep learning.
-
-Symbolists
-    Relies on logic to model knowledge based
-    on well-understood rules.
-
-ANN
-Artificial Neural Networks
-    Powerful function approximators capable of
-    modeling solutions to a wide variety of
-    problems, both supervised and
-    unsupervised.
-
-    ewwlinks +/"non-deterministic" "https://www.extremetech.com/extreme/215170-artificial-neural-networks-are-changing-the-world-what-are-they"
-
 Segmentation Fault
 segfault
 Access violation
@@ -3864,21 +3798,6 @@ Access violation
     an operating system (OS) the software has
     attempted to access a restricted area of
     memory (a memory access violation).
-
-tokenizer
-    Segment into tokens.
-
-tagger
-    Assign part-of-speech tags.
-
-parser
-    Assign dependency labels.
-
-ner
-    Detect and label named entities.
-
-textcat
-    Assign document labels.
 
 LFI
 Low-Frequency Inhibition
@@ -3913,15 +3832,6 @@ Applicative vs Normal Order
 ANN
     size ∝ expressivity ∝ variance ∝ overfitting
 
-diphthong (diff-thong)
-gliding vowel
-    Literally, double sound.
-
-    Combination of two adjacent vowel sounds
-    within the same syllable.
-
-    It's a vowel sound.
-
 [a] non-deterministic computation
     A computation that:
 
@@ -3938,15 +3848,6 @@ List Monad
 
     In essence, we create a function that
     returns all possible results at once.
-
-distributed machine learning
-    Involves:
-    - synchronous stochastic gradient descent
-    - pipeline parallelism for training
-
-    Examples
-    - GPipe
-      https://ai.googleblog.com/2019/03/introducing-gpipe-open-source-library.html
 
 rank 1 polymorphism
     While you can write a function that takes
@@ -4002,18 +3903,6 @@ sideloading
     computer and a mobile device such as a
     mobile phone, smartphone, PDA, tablet,
     portable media player or e-reader.
-
-SVM
-Support-vector Machines
-    Supervised learning models with associated
-    learning algorithms that analyze data used
-    for classification and regression
-    analysis.
-
-    Used to identify things like
-    letters in handwriting.
-
-    $HOME/notes2018/ws/codecraft/03.07.18.org
 
 e^x
     For any x,
@@ -4297,26 +4186,6 @@ weiqi
 
 aphantasia
     Inability visualise mental images at all.
-
-TF
-Term Frequency
-
-IDF
-Inverse Document Frequency
-
-TF-IDF
-    https://manticoresearch.com/2019/04/09/tf-idf-in-a-nutshell/
-
-log probability
-    Negative log base 2 of the probability.
-
-    This is an important concept. It's used
-    all the time.
-
-    https://en.wikipedia.org/wiki/Log_probability
-
-Joint surprisal
-    Equal to the sum of the surprisals.
 
 complete graph
     A simple undirected graph in which every

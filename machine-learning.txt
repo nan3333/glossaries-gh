@@ -392,3 +392,12 @@ Accuracy vs Cross Entropy Loss
 
 Neural Architecture Search
 NAS
+
+distributed machine learning
+    Involves:
+    - synchronous stochastic gradient descent
+    - pipeline parallelism for training
+
+    Examples
+    - GPipe
+      https://ai.googleblog.com/2019/03/introducing-gpipe-open-source-library.html

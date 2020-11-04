@@ -377,7 +377,7 @@ R
 Pearson's r
     A measure of the strength and direction of
     the linear relationship between two
-    variables
+    variables.
 
     A function of the covariance.
         The covariance of the variables

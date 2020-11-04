@@ -1418,3 +1418,30 @@ Dropout
     models.
 
     Simple and powerful.
+
+Credit Assignment [Problem]
+    Credit assigment among available features.
+
+    The fundamental task of all neural
+    networks is credit assignment.
+
+    Credit assignment is allocating importance
+    to input features through the weights of
+    the neural network's model.
+
+Learning
+    [process]
+
+    NN figures out which input features
+    correlate highly with the outcomes the net
+    tries to predict.
+
+    Learnings are embodied in the adjusted
+    quantities of the weights that result in
+    accurate decisions about the data they’re
+    exposed to.
+
+    Banter:
+        There are different ways to structure
+        and channel the relationship of input
+        features to outcomes.
