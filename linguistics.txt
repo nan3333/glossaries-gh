@@ -544,3 +544,14 @@ agglutinative morphology
     
     Examples include Hungarian, Turkish,
     Korean, and Swahili.
+
+Auxiliary verb
+    A verb that adds functional or grammatical
+    meaning to the clause in which it occurs,
+    so as to express tense, aspect, modality,
+    voice, emphasis, etc.
+    
+    Auxiliary verbs usually accompany an
+    infinitive verb or a participle, which
+    respectively provide the main semantic
+    content of the clause.

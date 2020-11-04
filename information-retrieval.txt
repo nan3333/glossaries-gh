@@ -328,16 +328,6 @@ continuation bit
 continuing bit
     See "variable-length quantity".
 
-postings list
-    For each term there is a list that records
-    which documents the term occurs in.
-
-    It may also contain the positions in the
-    document.
-
-posting
-    Each item in a postings list is called a posting.
-
 inverted index
 inverted file
     A dictionary of terms (sometimes also
@@ -576,8 +566,19 @@ PR
 Posting
     Document ID
 
+    Each item in a postings list is called a posting.
+
 Postings list
     Set of document ids.
+
+    Each vocabulary term has a postings list
+    with the documents in the collection.
+
+    For each term there is a list that records
+    which documents the term occurs in.
+
+    It may also contain the positions in the
+    document.
 
 Inverted index
     A dictionary of terms each of which is
@@ -785,4 +786,78 @@ tolerant retrieval
     What to do if there is no exact match.
     between query term and document term.
 
+    Robustness to typographical errors in the
+    query, as well as alternative spellings.
+
     ewwlinks +/"Dictionaries and tolerant retrieval" "https://nlp.stanford.edu/IR-book/html/htmledition/dictionaries-and-tolerant-retrieval-1.html"
+
+imprecisely posed queries
+    - spelling errors
+      - phoenetic search
+
+permuterm index
+    Enables us to identify the original
+    vocabulary terms matching a wildcard
+    query, we look up these terms in the
+    standard inverted index to retrieve
+    matching documents.
+    
+    We can thus handle any wildcard query with
+    a single * symbol.
+
+    The various rotations of each term
+    (augmented with $) all link to the
+    original vocabulary term.
+
+    for each term add $:
+      hello -> hello$
+    Then permute the terms.
+
+    Seeking n$m* (via a search tree) leads to
+    rotations of (among others) the terms man
+    and moron. 
+
+Delta encoding
+    A way of storing or transmitting data in
+    the form of differences (deltas) between
+    sequential data rather than complete
+    files; more generally this is known as
+    data differencing.
+    
+    Delta encoding is sometimes called delta
+    compression, particularly where archival
+    histories of changes are required (e.g.,
+    in revision control software). 
+
+query reformulation
+    
+
+Query expansion
+QE
+    the process of reformulating a given query
+    to improve retrieval performance in IR
+    operations, particularly in the context of
+    query understanding.
+    
+    In the context of search engines, query
+    expansion involves evaluating a user's
+    input (what words were typed into the
+    search query area, and sometimes other
+    types of data) and expanding the search
+    query to match additional documents.
+    
+    Query expansion involves techniques such
+    as: 
+    - Finding synonyms of words, and searching
+      for the synonyms as well.
+    - Finding semantically related words (e.g.
+      antonyms, meronyms, hyponyms,
+      hypernyms).
+    - Finding all the various morphological
+      forms of words by stemming each word in
+      the search query.
+    - Fixing spelling errors and automatically
+      searching for the corrected form or
+      suggesting it in the results.
+    - Re-weighting the terms in the original
+      query.

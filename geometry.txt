@@ -63,3 +63,6 @@ catenoid
     
     It was formally described in 1744 by the
     mathematician Leonhard Euler.
+
+centroid
+    The geometric center.

@@ -51,3 +51,21 @@ generator
     https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators
 
     https://nullprogram.com/blog/2018/05/31/
+
+async
+await
+async function
+    A function declared with the async
+    keyword.
+    
+    Async functions are instances of the
+    AsyncFunction constructor, and the await
+    keyword is permitted within them.
+    
+    The async and await keywords enable
+    asynchronous, promise-based behavior to be
+    written in a cleaner style, avoiding the
+    need to explicitly configure promise
+    chains.
+
+    sp +/"(async" "$MYGIT/sonyarianto/translate-text-with-google-translate-and-puppeteer/google_translate.js"
