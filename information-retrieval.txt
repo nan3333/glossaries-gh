@@ -827,10 +827,18 @@ Delta encoding
     Delta encoding is sometimes called delta
     compression, particularly where archival
     histories of changes are required (e.g.,
-    in revision control software). 
+    in revision control software).
 
-query reformulation
-    
+automatic query reformulation 
+AQR
+
+query reformulation    
+QR
+interactive query reformulation
+IQR
+    https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/aris.2011.1440450111
+
+    As opposed to "AQR".
 
 Query expansion
 QE
