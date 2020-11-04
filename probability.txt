@@ -410,6 +410,14 @@ The principle of maximum entropy
         distribution with maximal information
         entropy is the best choice.
 
+maxent
+maximum entropy modelling
+    Predicts species occurrences by finding
+    the distribution that is most spread out,
+    or closest to uniform, while taking into
+    account the limits of the environmental
+    variables of known locations.
+
 expectation
 expectation of a random variable
     https://seeing-theory.brown.edu/basic-probability/index.html
