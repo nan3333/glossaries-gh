@@ -832,7 +832,7 @@ Delta encoding
 automatic query reformulation 
 AQR
 
-query reformulation    
+query reformulation
 QR
 interactive query reformulation
 IQR
