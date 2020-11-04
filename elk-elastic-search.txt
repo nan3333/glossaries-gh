@@ -3,7 +3,7 @@ elastic Filebeat
     A lightweight shipper for forwarding and
     centralizing log data.
 
-Fuzziness
+fuzziness
     Character-level edit-distance.
 
     We can search for terms that are similar
@@ -27,7 +27,7 @@ Fuzziness
 
         quikc~1
 
-Proximity searches
+proximity searches
 ~
     Word-level edit-distance.
 

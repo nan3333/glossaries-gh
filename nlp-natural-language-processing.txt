@@ -1851,8 +1851,20 @@ OOV
 
     http://webcache.googleusercontent.com/search?q=cache:https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46
 
-Sentiment Lexicon
+polar word
+opinion word
+    A word with a sentiment orientation.
+
+sentiment lexicon
     Contains sentiment values.
+
+    A collection of words (also known as polar
+    or opinion words) associated with their
+    sentiment orientation, that is, positive
+    or negative.
+
+    Examples of positive sentiment words are
+    wonderful, beautiful, and amazing.
 
 Lexical
     Relating to the words or vocabulary of a

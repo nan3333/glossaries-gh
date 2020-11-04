@@ -6,7 +6,7 @@ faith
     
     Without reason?
 
-Apostasy
+apostasy
     The rejection of Christianity by someone
     who formerly was a Christian.
     
@@ -30,3 +30,12 @@ Apostasy
     
     "Apostasy is the antonym of conversion; it
     is deconversion."
+
+inquiring
+    To seek information by questioning.
+
+inquiring of God
+    “And it came to pass after this, that
+    David inquired of the LORD, saying, Shall
+    I go up into any of the cities of Judah?”
+    2 Samuel 2:1
