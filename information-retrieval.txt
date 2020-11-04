@@ -508,11 +508,12 @@ tf
     How often does “dog” occur in the article?
     3 times? 10 times?
 
+document frequency
+df
+    Measures how many docs a term appears in.
+
 Inverse Document Frequency
 idf
-    The document frequency measures how many
-    docs a term appears in.
-
     Inverse document frequency (1/df) then
     measures how special the term is.
 
@@ -738,3 +739,44 @@ Standard Boolean model of information retrieval
     documents to be searched and the user's
     query are conceived as sets of terms (a
     bag-of-words model).
+
+skip pointers
+    Effectively shortcuts that allow us to
+    avoid processing parts of the postings
+    list that will not figure in the search
+    results.
+    
+    The two questions are then where to place
+    skip pointers and how to do efficient
+    merging using skip pointers.
+    
+    Postings lists with skip pointers.
+
+    https://nlp.stanford.edu/IR-book/html/htmledition/faster-postings-list-intersection-via-skip-pointers-1.html
+
+Phrase queries 
+    The representation of documents as vectors
+    is fundamentally lossy: the relative order
+    of terms in a document is lost in the
+    encoding of a document as a vector.
+    
+    Even if we were to try and somehow treat
+    every biword as a term (and thus an axis
+    in the vector space), the weights on
+    different axes not independent: for
+    instance the phrase German shepherd gets
+    encoded in the axis german shepherd, but
+    immediately has a non-zero weight on the
+    axes german and shepherd.
+    
+    Further, notions such as idf would have to
+    be extended to such biwords.
+    
+    Thus an index built for vector space
+    retrieval cannot, in general, be used for
+    phrase queries.
+    
+    Moreover, there is no way of demanding a
+    vector space score for a phrase query --
+    we only know the relative weights of each
+    term in a document. 
