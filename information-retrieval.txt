@@ -780,3 +780,9 @@ Phrase queries
     vector space score for a phrase query --
     we only know the relative weights of each
     term in a document. 
+
+tolerant retrieval
+    What to do if there is no exact match.
+    between query term and document term.
+
+    ewwlinks +/"Dictionaries and tolerant retrieval" "https://nlp.stanford.edu/IR-book/html/htmledition/dictionaries-and-tolerant-retrieval-1.html"
