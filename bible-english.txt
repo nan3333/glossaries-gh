@@ -1,3 +1,26 @@
+oracular
+prophetic
+prophetical
+sibylline
+predictive
+prescient
+prognostic
+divinatory
+augural
+vatic
+mantic
+fatidical
+fatidic
+haruspical
+pythonic
+    Relating or relating to an oracle.
+    'the oracular shrine'
+    
+    Ancient oracles were thought to be mystic
+    people that had some direct connection
+    with the gods, like ancient Greece's
+    famous Oracle at Delphi.
+
 iniquity
     Synonyms:
     - moral injustice
