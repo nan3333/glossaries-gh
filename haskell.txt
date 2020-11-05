@@ -1263,7 +1263,7 @@ type
     - ''Either
     - ''Show
 
--
+- keyword
     [[https://wiki.haskell.org/Keywords#-][Keywords HaskellWiki -]]
 
     (- 1)

@@ -83,3 +83,14 @@ Application automation
 
     Example
     - Nomad
+
+multitenancy
+shared hosting
+    A software architecture where a single
+    software instance can serve multiple,
+    distinct user groups.
+    
+    In cloud computing, multitenancy can also
+    refer to shared hosting, in which server
+    resources are divided among different
+    customers.

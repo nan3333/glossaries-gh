@@ -1905,3 +1905,18 @@ emotion AI
     and extract opinions within a given text
     across blogs, reviews, social media,
     forums, news etc.
+
+Systemic Functional Linguistics
+SFL
+
+linguistic appraisal analysis
+appraisal
+    [#SFL]
+
+    Refers to the ways that writers or
+    speakers express approval or disapproval
+    for things, people, behaviour or ideas.
+    
+    Language users build relationships with
+    their interlocutors by expressing such
+    positions.
