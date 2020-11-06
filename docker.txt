@@ -1,5 +1,8 @@
 composure
+docker-compose.yml
     v +/"- \[Docker Images\](#docker-images) Docker Images \/ Composures w\/ Solr." "$MYGIT/Anant/awesome-solr/README.md"
+
+    This is not an official docker term.
 
 executor
     Part of a Worker Node.
