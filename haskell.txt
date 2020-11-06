@@ -1271,7 +1271,7 @@ type
     is parsed as the negative integer -1,
     rather than as an operator
 
---
+-- keyword
     [[https://wiki.haskell.org/Keywords#--][Keywords HaskellWiki --]]
 
     Starts a single-line comment, unless
