@@ -1,3 +1,5 @@
+https://coinmarketcap.com/alexandria/glossary
+
 Polkadot
     A network protocol that allows arbitrary
     data—not just tokens—to be transferred

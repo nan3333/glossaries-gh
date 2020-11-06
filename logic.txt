@@ -82,7 +82,10 @@ method of affirming
     holds, then the consequent ( q ) may be
     inferred.
 
-Predicate (logic)
+subject
+    https://www.jstor.org/stable/1398382?origin=crossref
+
+predicate
     Takes an argument as input and outputs
     true or false.
 
@@ -102,3 +105,11 @@ Predicate (logic)
         actually takes 2 variables, the
         current node being checked and the
         type of the node.
+
+    The part of a sentence or clause
+    containing a verb and stating something
+    about the subject (e.g. went home in John
+    went home ).
+
+    Something which is affirmed or denied
+    concerning an argument of a proposition.
