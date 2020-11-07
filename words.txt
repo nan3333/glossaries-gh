@@ -7502,3 +7502,12 @@ retented
 sleuth of bears
     A group of bears is called a sleuth or a
     sloth.
+
+zany
+zaniness
+    The quality of being laughable or comical:
+    comedy, comicality, comicalness, drollery,
+    drollness, farcicality, funniness, humor,
+    humorousness, jocoseness, jocosity,
+    jocularity, ludicrousness, ridiculousness,
+    wit, wittiness.
