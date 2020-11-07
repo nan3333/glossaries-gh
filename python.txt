@@ -689,3 +689,6 @@ Versioneer
     recording a new tag in your version-
     control system, and maybe making new
     tarballs.
+
+expanduser
+    gli "os.path.*\\~"
