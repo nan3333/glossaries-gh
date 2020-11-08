@@ -7546,3 +7546,10 @@ power couple
     A couple consisting of two people who are
     each influential or successful in their
     own right.
+
+surreptitiously
+    In a way that attempts to avoid notice or
+    attention; secretively.
+
+    "Mary surreptitiously slipped from the
+    room"

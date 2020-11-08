@@ -95,7 +95,7 @@ extract, transform, load
     pipelines at ‘night’ when your night is
     another office’s morning?)
 
-Sharding
+sharding
     A type of database partitioning that
     separates
     
@@ -108,6 +108,15 @@ Sharding
 
 shard
 database shard
-    A horizontal partition of data in a database or search engine. Each shard is held on a separate database server instance, to spread load.
-
-    Some data within a database remains present in all shards,[notes 1] but some appears only in a single shard. Each shard (or server) acts as the single source for this subset of data.[1]
+    A horizontal partition of data in a
+    database or search engine.
+    
+    Each shard is held on a separate database
+    server instance, to spread load.
+    
+    Some data within a database remains
+    present in all shards, but some appears
+    only in a single shard.
+    
+    Each shard (or server) acts as the single
+    source for this subset of data.
