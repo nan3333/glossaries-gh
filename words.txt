@@ -7567,3 +7567,14 @@ simpatico
     A teacher who is caring and understanding
     of her students' needs may be described as
     sympatico.
+
+eschatology
+    Eschatology is a part of theology
+    concerned with the final events of
+    history, or the ultimate destiny of
+    humanity.
+    
+    This concept is commonly referred to as
+    the "end of the world" or "end times".
+
+    "AI eschatology"
