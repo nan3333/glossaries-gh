@@ -1713,25 +1713,34 @@ Rapid Automatic Keyword Extraction
     http://webcache.googleusercontent.com/search?q=cache:https://medium.com/datadriveninvestor/rake-rapid-automatic-keyword-extraction-algorithm-f4ec17b2886c
 
 CC
-    Coordinating conjunction
+Coordinating conjunction
+    A word that joins two elements of equal
+    grammatical rank and syntactic importance.
+    
+    They can join two verbs, two nouns, two
+    adjectives, two phrases, or two
+    independent clauses.
+    
+    The seven coordinating conjunctions are
+    for, and, nor, but, or, yet, and so.
 
 CD
-    Cardinal number
+Cardinal number
 
 DT
-    Determiner
+Determiner
 
 EX
-    Existential there
+Existential there
 
 FW
-    Foreign word
+Foreign word
 
 IN
     Preposition or subordinating conjunction
 
 JJ
-    Adjective
+Adjective
 
 JJR
     Adjective, comparative
@@ -1758,19 +1767,19 @@ NNPS
     Proper noun, plural
 
 PDT
-    Predeterminer
+Predeterminer
 
 POS
-    Possessive ending
+Possessive ending
 
 PRP
-    Personal pronoun
+Personal pronoun
 
 PRP$
-    Possessive pronoun
+Possessive pronoun
 
 RB
-    Adverb
+Adverb
 
 RBR
     Adverb, comparative
@@ -1809,13 +1818,13 @@ VBZ
     Verb, 3rd person singular present
 
 WDT
-    Wh-determiner
+Wh-determiner
 
 WP
-    Wh-pronoun
+Wh-pronoun
 
 WP$
-    Possessive wh-pronoun
+Possessive wh-pronoun
 
 WRB
     Wh-adverb

@@ -27,3 +27,4 @@ rule
     - Webtesting (Webdriver)
 
     https://github.com/bazelbuild/rules_python
+    https://github.com/bazelbuild/rules_docker
