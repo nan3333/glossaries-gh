@@ -1,3 +1,31 @@
+CodeGuru
+Amazon CodeGuru
+    A developer tool powered by ML that
+    provides intelligent recommendations for
+    improving code quality and identifying an
+    application’s most expensive lines of
+    code.
+    
+    Integrate Amazon CodeGuru into your
+    existing software development workflow
+    where you will experience built-in code
+    reviews to detect and optimize the
+    expensive lines of code to reduce costs.
+
+CodeGuru Profiler
+Amazon CodeGuru Profiler
+    Helps developers find an application’s
+    most expensive lines of code along with
+    specific visualizations and
+    recommendations on how to improve code to
+    save money.
+
+CodeGuru Reviewer
+Amazon CodeGuru Reviewer
+    Uses ML to identify critical issues and
+    hard-to-find bugs during application
+    development to improve code quality.
+
 SQS
 Simple Queue Service
 Amazon Simple Queue Service
