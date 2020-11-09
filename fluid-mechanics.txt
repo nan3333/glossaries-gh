@@ -66,3 +66,14 @@ Kármán vortex street
     shedding, which is responsible for the
     unsteady separation of flow of a fluid
     around blunt bodies.
+
+currents
+    General patterns of ocean flow are called
+    currents.
+
+eddy
+    Sometimes a current can pinch off sections
+    and create circular currents of water
+    called an eddy.
+
+    https://paveldogreat.github.io/WebGL-Fluid-Simulation/
