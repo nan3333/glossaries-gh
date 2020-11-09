@@ -692,3 +692,10 @@ Versioneer
 
 expanduser
     gli "os.path.*\\~"
+
+Flask
+    [web framework]
+
+    Provides you with tools, libraries and
+    technologies that allow you to build a web
+    application.

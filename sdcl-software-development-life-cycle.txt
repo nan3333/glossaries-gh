@@ -1,0 +1,23 @@
+agile vs scrum
+    https://www.guru99.com/agile-vs-scrum.html#:~:text=Agile%20is%20a%20continuous%20iteration,the%20software%20after%20each%20sprint.
+
+agile
+    [methodology]
+
+    A practice that helps continuous iteration
+    of development and testing in the SDLC
+    process.
+    
+    Agile breaks the product into smaller
+    builds.
+
+    Development and testing activities are
+    concurrent, unlike other software
+    development methodologies.
+    
+    It also encourages teamwork and face-to-
+    face communication.
+    
+    Business, stakeholders, and developers and
+    clients must work together to develop a
+    product.
