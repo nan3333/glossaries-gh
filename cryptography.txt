@@ -100,3 +100,10 @@ elliptic curve
 
     Example:
         let a=−3 and b=5
+
+sign
+signed
+    Encrypt.
+    Encrypted.
+
+    vim +/"itsdangerous" "$NOTES/ws/python/glossary.txt"
