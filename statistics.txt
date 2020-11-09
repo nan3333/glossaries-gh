@@ -1,3 +1,27 @@
+statistical modelling
+    A method of mathematically approximating
+    the world.
+    
+    Statistical models contain variables that
+    can be used to explain relationships
+    between other variables.
+    
+    We use hypothesis testing, confidence
+    intervals etc to make inferences and
+    validate our hypothesis.
+
+CI
+confidence interval
+    A type of estimate computed from the
+    statistics of the observed data.
+    
+    This proposes a range of plausible values
+    for an unknown parameter.
+    
+    The interval has an associated confidence
+    level that the true parameter is in the
+    proposed range
+
 empirical study
     The collection and analysis of primary
     data based on direct observation or
@@ -13,7 +37,7 @@ sample size determination
     to make inferences about a population from
     a sample.
 
-Choropleth map
+choropleth map
     A choropleth map is a type of thematic map
     in which areas are shaded or patterned in
     proportion to a statistical variable that
