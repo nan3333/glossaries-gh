@@ -62,3 +62,16 @@ indemnity
     risks between the parties, and changes
     what they would otherwise be liable for or
     entitled to under a normal damage claim.
+
+indicted
+indict
+    Formally accuse/d of or charge with a
+    crime.
+
+vindictated
+vindicate
+acquit
+absolve
+    Clear (someone) of blame or suspicion.
+    "hospital staff were vindicated by the
+    inquest verdict"

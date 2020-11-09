@@ -7410,19 +7410,6 @@ stipulation
     specified or demanded as part of an
     agreement.
 
-indicted
-indict
-    Formally accuse/d of or charge with a
-    crime.
-
-vindictated
-vindicate
-acquit
-absolve
-    Clear (someone) of blame or suspicion.
-    "hospital staff were vindicated by the
-    inquest verdict"
-
 retcon
 Retroactive continuity
     Revise (an aspect of a fictional work)
