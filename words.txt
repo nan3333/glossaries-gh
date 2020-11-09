@@ -7578,3 +7578,10 @@ eschatology
     the "end of the world" or "end times".
 
     "AI eschatology"
+
+broach
+    Raise (a difficult subject) for
+    discussion.
+
+    "he broached the subject he had been
+    avoiding all evening"

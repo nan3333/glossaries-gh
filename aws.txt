@@ -12,6 +12,10 @@ Amazon CodeGuru
     reviews to detect and optimize the
     expensive lines of code to reduce costs.
 
+    You associate it with GitHub and select
+    the repo.
+        https://youtu.be/i0Lz0bCaPOI?t=120
+
 CodeGuru Profiler
 Amazon CodeGuru Profiler
     Helps developers find an application’s
