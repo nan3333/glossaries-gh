@@ -368,10 +368,16 @@ Amazon DynamoDB
     applications.
 
 SAM
+Serverless Application Model
     [cloud formation]
 
     An AWS deploy tool on top of cloud
     formation.
+
+template.yaml
+    SAM template.
+
+    https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-specification-template-anatomy.html
 
 AWS Fargate
 Fargate
