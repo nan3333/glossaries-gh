@@ -725,3 +725,8 @@ itsdangerous
     which makes them useful for passing
     server-side state to a client and then
     back.
+
+@register
+    This is probably registering a test
+    fixture (something like priming some data
+    for a test to run).
