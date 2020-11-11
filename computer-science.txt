@@ -1,3 +1,26 @@
+universally unique identifier
+UUID
+    A 128-bit number used to identify
+    information in computer systems.
+    
+    The term globally unique identifier (GUID)
+    is also used, typically in software
+    created by Microsoft.
+    
+    When generated according to the standard
+    methods, UUIDs are, for practical
+    purposes, unique.
+    
+    Their uniqueness does not depend on a
+    central registration authority or
+    coordination between the parties
+    generating them, unlike most other
+    numbering schemes.
+    
+    While the probability that a UUID will be
+    duplicated is not zero, it is close enough
+    to zero to be negligible.
+
 Solution architecture
     A practice of defining and describing an
     architecture of a system delivered in

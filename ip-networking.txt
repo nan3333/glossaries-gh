@@ -1,3 +1,28 @@
+IP protocol number
+    https://en.wikipedia.org/wiki/List_of_IP_protocol_numbers
+
+    Examples:
+    - 1    ICMP
+    - 6    TCP
+    - 17   UDP
+    - 89   OSPF
+    - 115  L2TP
+
+Open Shortest Path First
+OSPF
+    [Protocol of the internet]
+
+    A routing protocol for Internet Protocol
+    networks.
+    
+    It uses a link state routing algorithm and
+    falls into the group of interior gateway
+    protocols, operating within a single
+    autonomous system.
+    
+    It is defined as OSPF Version 2 in RFC
+    2328 for IPv4.
+
 PING
 Packet INternet Groper
 

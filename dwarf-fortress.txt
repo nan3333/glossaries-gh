@@ -1,0 +1,4 @@
+b-w-c
+    Click on build menu, then on the Workshop
+    submenu, and finally on the specific
+    workshop, you press b-w-c.

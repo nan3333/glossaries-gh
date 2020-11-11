@@ -1,3 +1,28 @@
+AWS
+Amazon Web Services
+
+RDS
+Relational Database Service
+Amazon Relational Database Service
+    A distributed relational database service
+    by AWS.
+    
+    It is a web service running "in the cloud"
+    designed to simplify the setup, operation,
+    and scaling of a relational database for
+    use in applications.
+
+ElastiCache
+Amazon ElastiCache
+    A fully managed in-memory data store and
+    cache service by AWS.
+    
+    The service improves the performance of
+    web applications by retrieving information
+    from managed in-memory caches, instead of
+    relying entirely on slower disk-based
+    databases.
+
 CodeGuru
 Amazon CodeGuru
     A developer tool powered by ML that
@@ -84,12 +109,12 @@ AWS CloudFormation
 
 Lambda
 AWS Lambda
-    [#Amazon Web Services]
+    [#AWS]
     [Computing service]
 
     An event-driven, serverless computing
     platform provided by Amazon as a part of
-    Amazon Web Services.
+    AWS.
     
     It is a computing service that runs code
     in response to events and automatically
@@ -107,7 +132,7 @@ AWS Lambda
 
 AWS EventBridge
 EventBridge
-    [#Amazon Web Services]
+    [#AWS]
 
     Event-Driven AWS Integration for your SaaS
     Applications.
@@ -305,9 +330,9 @@ AWS Marketplace
 Amazon S3
 Amazon Simple Storage Service
 s3
-    A service offered by Amazon Web Services
-    that provides object storage through a web
-    service interface.
+    A service offered by AWS that provides
+    object storage through a web service
+    interface.
     
     Amazon S3 uses the same scalable storage
     infrastructure that Amazon.com uses to run

@@ -7572,3 +7572,15 @@ broach
 
     "he broached the subject he had been
     avoiding all evening"
+
+gilded
+gilding
+gilt
+    Covered thinly with gold leaf or gold paint.
+
+    A decorative technique for applying a very
+    thin coating of gold to solid surfaces
+    such as metal, wood, porcelain, or stone.
+    
+    A gilded object is also described as
+    "gilt".
