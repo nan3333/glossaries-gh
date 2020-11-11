@@ -7584,3 +7584,11 @@ gilt
     
     A gilded object is also described as
     "gilt".
+
+no quarter
+    Generally used during military conflict to
+    imply combatants would not be taken
+    prisoner, but killed.
+    
+    Take no prisoners was a similar phrase
+    also generally used.

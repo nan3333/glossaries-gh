@@ -10,3 +10,11 @@ endpoint
     Defines two methods:
     - request
     - notify
+
+snippet
+tabstop
+placeholder
+choice
+variable
+variable transfrom
+    v +/"# Snippet Syntax" "$MYGIT/Microsoft/language-server-protocol/snippetSyntax.md"

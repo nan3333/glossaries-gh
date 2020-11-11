@@ -1,3 +1,13 @@
+setup_utils
+setuputils
+    A utility module to automate away
+    boilerplate in Python 3 setup scripts.
+    
+    See the module docstrings for more
+    information.
+
+    py i setuputils3
+
 .pyi
     The i in .pyi stands for "Interface".
 
