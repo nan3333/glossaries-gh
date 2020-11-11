@@ -1,3 +1,24 @@
+selectors
+    [builtin module]
+
+    Allows high-level and efficient I/O
+    multiplexing, built upon the `select`
+    module primitives.
+
+select
+    [builtin module]
+
+    Supports asynchronous I/O on multiple file
+    descriptors.
+
+.pypirc
+    Allows you to define the configuration for
+    package indexes (referred to here as
+    “repositories”), so that you don’t have to
+    enter the URL, username, or password
+    whenever you upload a package with twine
+    or flit.
+
 setup_utils
 setuputils
     A utility module to automate away
@@ -740,3 +761,34 @@ itsdangerous
     This is probably registering a test
     fixture (something like priming some data
     for a test to run).
+
+pluggy
+    [library]
+
+    The core framework used by the pytest,
+    tox, and devpi projects.
+    
+    The crystallized core of plugin management
+    and hook calling for pytest.
+    
+    It enables 500+ plugins to extend and
+    customize pytests default behaviour.
+    
+    Even pytest itself is composed as a set of
+    pluggy plugins which are invoked in
+    sequence according to a well defined set
+    of protocols.
+    
+    It gives users the ability to extend or
+    modify the behaviour of a host program by
+    installing a plugin for that program.
+    
+    The plugin code will run as part of normal
+    program execution, changing or enhancing
+    certain aspects of it.
+
+@hookspec
+    [pluggy]
+
+@hookimpl
+    [pluggy]

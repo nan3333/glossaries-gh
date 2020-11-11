@@ -1,3 +1,11 @@
+cognitive load
+    Refers to the used amount of working
+    memory resources.
+    
+    Cognitive load theory differentiates
+    cognitive load into three types:
+    intrinsic, extraneous, and germane.
+
 Dunning-Kruger Effect
     The inability to understand one's own
     incompetence leads to inflated self-
