@@ -34,6 +34,7 @@ software complexity
 
 cyclomatic
 cyclomatic complexity
+mccabe complexity
     A software metric used to indicate the
     complexity of a program.
     

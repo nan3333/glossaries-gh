@@ -1,0 +1,4 @@
+fileevent
+    [built-in Tcl command]
+
+    Binds a script to a file event.
