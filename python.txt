@@ -816,3 +816,56 @@ future
     from __future__ import absolute_import
     from __future__ import division
     from __future__ import print_function
+
+awaitable
+    [type of object]
+
+    We say that an object is an awaitable
+    object if it can be used in an await
+    expression.
+    
+    Many asyncio APIs are designed to accept
+    awaitables.
+
+    Three main types of awaitable objects:
+    - coroutines,
+    - Tasks, and
+    - Futures.
+
+coroutine
+    Computer program components that
+    generalize subroutines for non-preemptive
+    multitasking, by allowing execution to be
+    suspended and resumed.
+    
+    Coroutines are well-suited for
+    implementing familiar program components
+    such as cooperative tasks, exceptions,
+    event loops, iterators, infinite lists and
+    pipes.
+
+task
+    A Future-like object that runs a Python
+    coroutine.
+    
+    Not thread-safe.
+
+    Tasks are used to run coroutines in event
+    loops.
+    
+    If a coroutine awaits on a Future, the
+    Task suspends the execution of the
+    coroutine and waits for the completion of
+    the Future.
+    
+    When the Future is done, the execution of
+    the wrapped coroutine resumes.
+
+asyncio
+async
+await
+    Coroutines declared with the async/await
+    syntax is the preferred way of writing
+    asyncio applications.
+
+    ewwlinks +/"async\/await syntax" "https://docs.python.org/3/library/asyncio-task.html"

@@ -2,3 +2,39 @@ fileevent
     [built-in Tcl command]
 
     Binds a script to a file event.
+
+    https://wiki.tcl-lang.org/page/fileevent
+
+expect
+    Apart from patterns, the expect construct
+    can take keywords.
+    
+    timout, eof and default may be used in the
+    place of a pattern.
+
+eof
+    [keyword]
+
+    The corresponding body is executed upon
+    end-of-file.
+
+timeout
+    [keyword]
+    The corresponding body is executed upon
+    timeout.
+    
+    If no timeout keyword is used, an implicit
+    null action is executed upon timeout.
+    
+    The default timeout period is 10 seconds
+    but may be set, for example to 30, by the
+    command "set timeout 30".
+    
+    An infinite timeout may be designated by
+    the value -1.
+
+default
+    [keyword]
+
+    The corresponding body is executed upon
+    either timeout or end-of-file.
