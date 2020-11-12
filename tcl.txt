@@ -38,3 +38,11 @@ default
 
     The corresponding body is executed upon
     either timeout or end-of-file.
+
+fconfigure
+    Set and get options on a channel.
+
+channel
+    - stdin
+    - stdout
+    - stderr
