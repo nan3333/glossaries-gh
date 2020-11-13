@@ -913,3 +913,112 @@ evaluate
     user interaction into evaluation studies
     and the relationship between results of
     laboratory-based vs. operational tests
+
+token normalization
+    The process of canonicalizing tokens so
+    that matches occur despite superficial
+    differences in the character sequences of
+    the tokens.
+    
+    The most standard way to normalize is to
+    implicitly create equivalence classes,
+    which are normally named after one member
+    of the set.
+    
+qrel
+    A relevant document.
+
+    'qrels' is a list of relevant documents.
+
+test collection
+    Usually consists of:
+    - a document collection,
+    - a set of topics that describe a user's
+      information need, and
+    - a set of relevance judgments indicating
+      which documents in the collection are
+      relevant to each topic.
+
+    ewwlinks +/"test collections" "http://informationr.net/ir/18-2/paper582.html#.X64fep0zZQI"
+
+evaluation measure
+    - set-based
+
+set-based
+set-based measure
+    Examples:
+    - precision, and
+    - recall.
+    
+    Documents in the ranking are treated as
+    unique and the ordering of results is
+    ignored.
+
+    See "precision vs recall".
+    
+precision vs recall
+recall vs presicion
+    Precision and recall hold an approximate
+    inverse relationship: higher precision is
+    often coupled with lower recall.
+    
+    However, this is not always the case as it
+    has been shown that precision is affected
+    by the retrieval of non-relevant
+    documents; recall is not.
+
+    Often preference is given to either
+    precision or recall.
+    
+    For example, in Web search the focus is
+    typically on obtaining high precision by
+    finding as many relevant documents in the
+    top n results.
+    
+    However, there are certain domains, such
+    as patent search, where the focus is on
+    finding all relevant documents through an
+    exhaustive search.
+    
+precision
+    Measures the fraction of retrieved
+    documents that are relevant; recall
+    measures the fraction of relevant
+    documents that are retrieved.
+    
+    Simple to compute because one only
+    considers the set of retrieved documents
+    (as long as relevance can be judged).
+    
+recall
+    Harder to compute than precision because
+    it requires comparing the set of retrieved
+    documents with the entire collection,
+    which is impossible in many cases (e.g.,
+    for Web search).
+    
+    In this situation techniques, such as
+    pooling, are used.
+    
+    Scores for precision and recall are often
+    combined into a single measure to allow
+    the comparison of IR systems.
+    
+    Example measures include the e and f
+    measures (van Rijsbergen 1979).
+
+pooling
+query pooling
+    [method]
+
+    A standard approach to extract a
+    query‐biased sample of documents.
+    
+    In this method, each query is sent to
+    different search systems, and the
+    top‐ranked documents supplied by the
+    systems are merged into a pool of
+    documents.
+    
+    The pooled documents become candidates to
+    be judged for relevance
