@@ -41,7 +41,6 @@ federation
     paying users.)
 
 ETL
-ETL
 extract, transform, load
     [process]
 
@@ -73,27 +72,34 @@ extract, transform, load
     sources.
 
     https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/
+
     OLAP cube usage also meant that data teams
     had to manage complicated pipelines to
     transform data from an SQL database into
-    these cubes. If you were working with a
-    large amount of data, such transformation
-    tasks could take a long time to complete,
-    so a common practice would be to run all
-    ETL (extract-transform-load) pipelines
-    before the analysts came in to work. This
-    way, the analysts wouldn’t need to wait
-    for their cubes to be loaded with the
+    these cubes.
+    
+    If you were working with a large amount of
+    data, such transformation tasks could take
+    a long time to complete, so a common
+    practice would be to run all ETL pipelines
+    before the analysts came in to work.
+    
+    This way, the analysts wouldn’t need to
+    wait for their cubes to be loaded with the
     latest data — they could have the
     computers do the data heavy-lifting at
     night, and start work immediately in the
-    mornings. This approach, of course, became
-    more problematic as companies globalized,
-    and opened offices in multiple timezones
-    that demanded access to the same
-    analytical systems. (How do you run your
-    pipelines at ‘night’ when your night is
-    another office’s morning?)
+    mornings.
+    
+    This approach, of course, became more
+    problematic as companies globalized, and
+    opened offices in multiple timezones that
+    demanded access to the same analytical
+    systems.
+    
+    (How do you run your pipelines at ‘night’
+    when your night is another office’s
+    morning?)
 
 sharding
     A type of database partitioning that

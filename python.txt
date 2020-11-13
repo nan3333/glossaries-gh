@@ -11,6 +11,9 @@ select
     Supports asynchronous I/O on multiple file
     descriptors.
 
+Python Package Index
+PyPI
+
 .pypirc
     Allows you to define the configuration for
     package indexes (referred to here as

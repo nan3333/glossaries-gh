@@ -1929,3 +1929,22 @@ appraisal
     Language users build relationships with
     their interlocutors by expressing such
     positions.
+
+name alias
+synoname
+    'synonames' is a library.
+
+    https://github.com/alephdata/synonames
+
+    It generates aliases for human names
+    across cultural environments.
+    
+    Names often have different spellings in
+    different languages and cultures - for
+    example, Alexander can also be Alexandr or
+    Oleksandr.
+    
+    This repository reads a data dump from
+    Wikidata to filter out every human name
+    from every language edition of Wikipedia
+    and map them across language editions.
