@@ -449,6 +449,24 @@ Monoid
     Can be made a Semigroup with just instance
     Semigroup MyMonoid.
 
+    Practical explanation:
+        If you have a float and you convert
+        that float into a Builder and Builder
+        is a monoid, that means you can
+        combine those Builders into a single
+        Builder (because Builder is a monoid).
+        
+        Being a Monoid makes something
+        combinable.
+        
+        https://youtu.be/FYTZkE5BZ-0?t=202
+        
+        You use fold to combine them into a
+        single thing.
+        
+        In the example, he folded a
+        [Builder] into a Builder.
+
 semigroup
     http://hackage.haskell.org/package/semigroups
 
@@ -2141,6 +2159,24 @@ monads, Foldable
     No it's not. Though the type signaturee makes it look likee it is.
     I think "Foldable t =>" just says what something is.
 
+fold
+Foldable
+    import Data.Foldable
+
+    Foldable provides you with fold.
+
+    You can use fold to combine a list of
+    monoids/foldable things into a single
+    monoid/foldable thing.
+
+    For example, after turning a list of
+    strings into a list of builders, and the
+    builders are foldable, you can then fold
+    them all into eachother to produce a
+    single foldable.
+
+    https://youtu.be/FYTZkE5BZ-0?t=265
+
 foldl
     help hs foldl
 
@@ -2576,3 +2612,15 @@ Type Application
     answer_read = show (read @Int "3") -- "3" :: String
     answer_show = show @Integer (read "5") -- "5" :: String
     answer_showread = show @Int (read @Int "7") -- "7" :: String
+
+floatLE
+    floatLE :: Float -> Builder
+
+    bytestring Data.ByteString.Builder
+    Encode a Float in little endian format.
+
+runCommand
+    This is how I need to invoke commands in
+    haskell.
+
+    runCommand $ printf "/bin/bash -c \"export SHELL=bash; source ~/.profile || :; sps cava; ffplay -autoexit -showmode 0 -f f32le -ar %f %s\"; killall cava" sampleRate outputFilePath

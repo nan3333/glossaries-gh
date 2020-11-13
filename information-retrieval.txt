@@ -53,6 +53,25 @@ Faceted search
     articles can be augmented with
     navigational facets.
 
+collection
+document collection
+
+corpus
+corpora
+text corpus
+    [#nlp]
+
+    A language resource consisting of a large
+    and structured set of texts (nowadays
+    usually electronically stored and
+    processed).
+    
+    In corpus linguistics, they are used to do
+    statistical analysis and hypothesis
+    testing, checking occurrences or
+    validating linguistic rules within a
+    specific language territory.
+
 full-text search
     [#text retrieval]
 
@@ -593,6 +612,8 @@ Inverted index
 Stop words
     Most frequent words.
 
+    Semantically non-selective words.
+
 skip list
     A data structure that allows fast search
     within an ordered sequence of elements.
@@ -871,3 +892,24 @@ QE
       suggesting it in the results.
     - Re-weighting the terms in the original
       query.
+
+need
+user need
+information need
+
+non-selective
+    Not useful for selecting documents
+    matching a user need.
+
+evaluate
+    To ascertain the value or amount of
+    something or to appraise it.
+    
+    Involves identifying suitable success
+    criteria that can be measured in some way.
+
+    In IR systems, when evaluating a search
+    system one must also incorporate users and
+    user interaction into evaluation studies
+    and the relationship between results of
+    laboratory-based vs. operational tests
