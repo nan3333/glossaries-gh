@@ -52,3 +52,26 @@ ZooKeeper
     implementations of these services lead to
     management complexity when the
     applications are deployed.
+
+Tika
+    Detects and extracts metadata and text
+    from over a thousand different file types
+    (such as PPT, XLS, and PDF).
+    
+    All of these file types can be parsed
+    through a single interface, making Tika
+    useful for search engine indexing, content
+    analysis, translation, and much more.
+    
+    You can find the latest release on the
+    download page.
+    
+    Please see the Getting Started page for
+    more information on how to start using
+    Tika.
+    
+    The Parser and Detector pages describe the
+    main interfaces of Tika and how they work.
+
+    TODO: Make scope use tika.
+    $SCRIPTS/scope.sh
