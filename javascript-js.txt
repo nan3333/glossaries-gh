@@ -1,3 +1,10 @@
+Cytoscape.js
+    An open-source graph theory (a.k.a.
+    network) library written in JS.
+    
+    You can use Cytoscape.js for graph
+    analysis and visualisation.
+
 lambda
     [javascript]
     [ES6]
