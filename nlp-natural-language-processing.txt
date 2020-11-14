@@ -11,6 +11,19 @@ subword
     Something in-between a word and a
     character.
 
+Named entity recognition
+NER
+    Detect and label named entities.
+
+    Helps you easily identify the key elements
+    in a text, like names of people, places,
+    brands, monetary values, and more.
+    
+    Extracting the main entities in a text
+    helps sort unstructured data and detect
+    important information, which is crucial if
+    you have to deal with large datasets.
+
 bag-of-words
 bag-of-words model
 BoW
@@ -1899,9 +1912,6 @@ tagger
 
 parser
     Assign dependency labels.
-
-ner
-    Detect and label named entities.
 
 textcat
     Assign document labels.

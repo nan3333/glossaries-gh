@@ -1,0 +1,4 @@
+type
+    [keyword]
+
+    v +/"type PathLike = string | Buffer | URL;" "$HOME/node_modules/@types/node/fs.d.ts"

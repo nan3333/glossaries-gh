@@ -1,5 +1,18 @@
 $NOTES/ws/ranking/glossary.txt
 
+search content processing
+    basics
+    - stemming root words,
+    - expanding words via lemmatization,
+    - implementing synonyms, and
+    - tokenization.
+
+    These techniques can be very powerful, but
+    they do not identify user intent.
+
+query tagging
+    https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/38276.pdf
+
 typeahead search
 autocomplete
 incremental search
@@ -23,7 +36,17 @@ faceted classification
     specific, that are combined to create the
     full classification entry.
 
-Faceted search
+facet
+dimension
+    Examples:
+    - paths,
+    - concepts,
+    - persons,
+    - locations, or
+    - organizations
+
+faceted
+faceted search
     A technique which involves augmenting
     traditional search techniques with a
     faceted navigation system, allowing users
@@ -52,6 +75,10 @@ Faceted search
     descriptions or online collections of
     articles can be augmented with
     navigational facets.
+
+taxonomic
+    Concerned with the classification of
+    things, especially organisms.
 
 collection
 document collection
