@@ -7606,3 +7606,13 @@ Luddite
 dishevelled
     (of a person's hair, clothes, or
     appearance) untidy; disordered.
+
+derezzed
+derez
+deresolution
+    A term used to describe someone or
+    something disappearing or dissolving,
+    essentially resulting in deletion.
+    
+    It is a program's equivalent of death or
+    the destruction of a building or vehicle.

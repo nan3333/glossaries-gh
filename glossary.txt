@@ -12436,3 +12436,14 @@ Unix philosophy
     
     The Unix philosophy favors composability
     as opposed to monolithic design.
+
+spiritual successor
+spiritual sequel
+    A successor to a work of fiction which
+    does not build upon the storyline
+    established by a previous work as do most
+    traditional prequels or sequels, yet
+    features many of the same elements,
+    themes, or styles as its source material,
+    thereby resulting in it being related or
+    similar "in spirit" to its predecessor.

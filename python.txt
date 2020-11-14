@@ -1,3 +1,38 @@
+WSGI
+Web Server Gateway Interface
+whiskey
+WIZ-ghee
+    A simple calling convention for web
+    servers to forward requests to web
+    applications or frameworks written in the
+    Python programming language.
+
+ASGI
+    A spiritual successor to WSGI, intended to
+    provide a standard interface between
+    async-capable Python web servers,
+    frameworks, and applications.
+    
+    Where WSGI provided a standard for
+    synchronous Python apps, ASGI provides one
+    for both asynchronous and synchronous
+    apps, with a WSGI backwards-compatibility
+    implementation and multiple servers and
+    application frameworks.
+
+uvicorn
+    A lightning-fast ASGI server
+    implementation, using uvloop and
+    httptools.
+    
+    Until recently Python has lacked a minimal
+    low-level server/application interface for
+    asyncio frameworks.
+    
+    The ASGI specification fills this gap, and
+    means we're now able to start building a
+    common set of tooling usable across all
+    asyncio frameworks.
 selectors
     [builtin module]
 
