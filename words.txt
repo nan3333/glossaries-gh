@@ -7639,3 +7639,21 @@ foundling
     An infant that has been abandoned by its
     parents and is discovered and cared for by
     others.
+
+squall
+    A sudden violent gust of wind or localized
+    storm, especially one bringing rain, snow,
+    or sleet.
+
+    "A terrible squall rustled the ocean
+    floor."
+
+veneer
+    A thin sheet of a material: such as.
+    - a layer of wood of superior value or
+      excellent grain to be glued to an
+      inferior wood.
+    - any of the thin layers bonded together
+      to form plywood.
+
+    "Hidden beneath a human veneer."

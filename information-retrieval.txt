@@ -1,5 +1,7 @@
 $NOTES/ws/ranking/glossary.txt
 
+Shakespeare
+
 search content processing
     basics
     - stemming root words,
@@ -47,6 +49,7 @@ dimension
 
 faceted
 faceted search
+interactive filters
     A technique which involves augmenting
     traditional search techniques with a
     faceted navigation system, allowing users

@@ -1,0 +1,26 @@
+val
+    constant
+
+var
+    variable
+
+property
+    Syntax sugar for getter/setter methods
+    that look like fields.
+    
+    Instead of having to use the methods
+    item.getQuantity() and item.setQuantity(),
+    we can access the property item.quantity
+    and set it using item.quantity = 1,
+    exactly like a field.
+    
+    The compiler transforms property access
+    and assignment to use the appropriate
+    getters/setters (hence, syntax sugar).
+    
+    The most noteworthy consequence of this
+    is, in my opinion, allowing validation on
+    assigment.
+    
+    For example, item.quantity may be defined
+    as follows (in Kotlin):
