@@ -1,3 +1,36 @@
+Axiology
+    The philosophical study of value.
+    
+    It is either the collective term for
+    ethics and aesthetics, philosophical
+    fields that depend crucially on notions of
+    worth, or the foundation for these fields,
+    and thus similar to value theory and meta-
+    ethics.
+
+Ontology
+    The branch of philosophy that studies
+    concepts such as existence, being,
+    becoming, and reality.
+    
+    It includes the questions of how entities
+    are grouped into basic categories and
+    which of these entities exist on the most
+    fundamental level.
+
+Epistemology
+    The branch of philosophy concerned with
+    knowledge.
+    
+    Epistemologists study the nature of
+    knowledge, epistemic justification, the
+    rationality of belief, and various related
+    issues.
+    
+    Epistemology is considered one of the four
+    main branches of philosophy, along with
+    ethics, logic, and metaphysics.
+
 Polanyi's Paradox
     [theory]
 
