@@ -1,3 +1,9 @@
+SPARQL
+    An RDF query language—that is, a semantic
+    query language for databases—able to
+    retrieve and manipulate data stored in RDF
+    format.
+
 Linked Data
 Linked Open Data
 LOD

@@ -2,3 +2,120 @@ b-w-c
     Click on build menu, then on the Workshop
     submenu, and finally on the specific
     workshop, you press b-w-c.
+
+ 
+map symbols
+map legend
+    http://dwarffortresswiki.org/index.php/DF2014:Map_legend
+
+    %!bash -c "export LC_ALL=C; sort | uniq -c"
+
+         57 
+        738 "
+          4 '
+          4 +
+          4 ,
+         17 .
+          1 0
+         17 =
+          3 ^
+         59 n
+         26 ~
+          7 µ
+         22 ¶
+         12 º
+          1 Æ
+        125 î
+        714 Γ
+         76 Ω
+          1 π
+        152 τ
+        387 ⁿ
+        106 ↑
+          1 ↨
+         53 ∩
+       2118 ≈
+         18 ≡
+        368 ⌂
+        243 ⌠
+         52 ─
+         62 │
+         25 ┌
+         18 ┐
+         29 └
+         25 ┘
+         11 ├
+         17 ┤
+         13 ┬
+         13 ┴
+          7 ┼
+        109 ▲
+        151 ♠
+          5 ♣
+
+^
+    Peak or volcano.
+
+    - grey: normal
+    - cyan: snow/ice
+    - yellow: good
+    - purple+dark purple: evil
+
+⌂
+    Low mountains.
+
+    - grey: normal
+    - white: snow/ice
+    - yellow: good
+    - purple+dark purple: evil
+
+n∩
+∩n
+    Hills
+
+    - green/yellow: normal
+    - white: snow/ice
+    - teal+dark teal: good
+    - purple+dark purple: evil
+    - dark grey+dark red: evil
+    - grey: evil snow/ice
+
+"
+'
++
+,
+.
+0
+=
+^
+~
+µ
+¶
+º
+Æ
+î
+Γ
+Ω
+π
+τ
+ⁿ
+↑
+↨
+≈
+≡
+⌂
+⌠
+─
+│
+┌
+┐
+└
+┘
+├
+┤
+┬
+┴
+┼
+▲
+♠
+♣
