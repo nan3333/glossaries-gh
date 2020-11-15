@@ -1,0 +1,13 @@
+Anansi
+    [web crawler]
+    [RDF web crawler]
+    [LOD crawler]
+
+    It uses a relational database to track
+    URLs that will be fetched, their status,
+    and cache IDs.
+    
+    Anansi can operate in resizeable clusters
+    of up to 256 nodes
+
+    https://github.com/bbcarchdev/acropolis

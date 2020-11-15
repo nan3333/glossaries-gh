@@ -67,4 +67,8 @@ Linked Data principles
       dump, or via a SPARQL endpoint.
 
 RDF crawler
+RDF web crawler
+    [#semantic web]
+
+LOD crawler
     [#semantic web]
