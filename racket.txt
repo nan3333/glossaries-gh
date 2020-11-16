@@ -180,11 +180,15 @@ racket languages
       Racket expressions (which are then
       evaluated to produce a result).
 
-Contract combinators
+contract combinators
     Functions such as -> and listof that take
     contracts and produce other contracts.
 
-Contracts
+contract
+    May refer to reading documentation:
+    - http://mbutterick.github.io/racket-doc-redo/doc/reference/notation.html
+
+    Or the assertions themselves:
     ewwlinks +/"Contracts in Racket are subdivided into three different categories: " "http://racket/reference/contracts.html#(tech._flat._contract)"
 
     3 categories: 
