@@ -930,3 +930,17 @@ nullary
 arity
     The number of arguments or operands taken
     by a function or operation.
+
+subprocess-wait
+    Blocks until the process represented by
+    subproc terminates.
+    
+    The subproc value also can be used with
+    sync and sync/timeout.
+
+for/list
+    Iterates like for, but that the last
+    expression in the bodys must produce a
+    single value, and the result of the
+    for/list expression is a list of the
+    results in order.
