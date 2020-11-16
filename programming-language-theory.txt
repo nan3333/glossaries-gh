@@ -1,3 +1,10 @@
+nullary
+    Arity of 0.
+
+arity
+    The number of arguments or operands taken
+    by a function or operation.
+
 gradually-typed language
     It’s possible to mix statically-and
     dynamically-typed code.

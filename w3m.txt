@@ -66,6 +66,19 @@ Linked Data principles
       possible via RDF crawling, via an RDF
       dump, or via a SPARQL endpoint.
 
+RDF
+Resource Description Framework
+    A framework for describing resources on
+    the web.
+    
+    RDF is designed to be read and understood
+    by computers.
+    
+    RDF is not designed for being displayed to
+    people.
+    
+    RDF is written in XML.
+
 RDF crawler
 RDF web crawler
     [#semantic web]

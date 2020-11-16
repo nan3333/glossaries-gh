@@ -602,9 +602,12 @@ parser generator
 
 (symbol->string id)
 
-(*hash-ref hash key [failure-result])
-    Returns the value for key in hash. If no
-    value is found for key, then
+hash-ref
+    Returns the value for key in hash.
+    
+        (*hash-ref hash key [failure-result])
+
+    If no value is found for key, then
     failure-result determines the result.
 
 phase level
@@ -865,3 +868,65 @@ parameter
       ordered data constructors, and
     - A consistent destructuring syntax for
       functions and macros.
+
+hasheq
+    Creates a table where keys are compared
+    with eq?
+
+hasheqv
+    Creates a table where keys are compared
+    with eqv?.
+    
+event
+synchronizable event
+    A synchronizable event works with the sync
+    procedure to coordinate synchronization
+    among threads.
+    
+    Certain kinds of objects double as events,
+    including ports and threads.
+    
+    Other kinds of objects exist only for
+    their use as events.
+    
+    At any point in time, an event is either
+    ready for synchronization, or it is not;
+    depending on the kind of event and how it
+    is used by other threads, an event can
+    switch from not ready to ready (or back),
+    at any time.
+    
+    If a thread synchronizes on an event when
+    it is ready, then the event produces a
+    particular synchronization result.
+
+binding
+    Types:
+    - transformer
+    - variable
+    ...
+
+variable binding
+    [type of binding]
+
+    Introduced by a module-level define or by
+    let.
+
+transformer
+transformer binding
+    [type of binding]
+
+    Introduced by define-syntax or let-syntax.
+
+define-values
+    Evaluates the expr, and binds the results
+    to the ids, in order.
+
+    Multiple-assignment.
+
+nullary
+    Arity of 0.
+
+arity
+    The number of arguments or operands taken
+    by a function or operation.
