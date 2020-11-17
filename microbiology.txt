@@ -15,3 +15,46 @@ microtubules
     The outer diameter of a microtubule is
     between 23 and 27 nm while the inner
     diameter is between 11 and 15 nm.
+
+eukaryotic cells
+    /home/shane/glossaries/microbiology.txt
+
+    Contains membrane-bound organelles such as
+    a nucleus, mitochondria, and an
+    endoplasmic reticulum.
+    
+    Organisms based on the eukaryotic cell
+    include protozoa, fungi, plants, and
+    animals.
+
+fungi
+    Fungi are not plants.
+    
+    Living things are organized for study into
+    large, basic groups called kingdoms.
+    
+    Fungi were listed in the Plant Kingdom for
+    many years.
+    
+    Then scientists learned that fungi show a
+    closer relation to animals, but are unique
+    and separate life forms.
+
+tubulin
+    The protein that polymerizes into long
+    chains or filaments that form
+    microtubules, hollow fibers which serve as
+    a skeletal system for living cells.
+
+mitochondria
+    A double-membrane-bound organelle found in
+    most eukaryotic organisms.
+    
+    Some cells in some multicellular organisms
+    lack mitochondria.
+
+mitosis
+    https://biology.stackexchange.com/q/44262
+
+spindle fibers
+    https://biology.stackexchange.com/q/44262

@@ -7663,3 +7663,20 @@ demeaning
     the respect of others.
 
 neutered
+
+abridge
+foreshorten
+abbreviate
+shorten
+    Reduce in scope while retaining essential
+    elements.
+
+    "The manuscript must be shortened"
+
+    Lessen, diminish, or curtail.
+
+    "the new law might abridge our freedom of
+    expression"
+
+curtail
+    Place restrictions on.

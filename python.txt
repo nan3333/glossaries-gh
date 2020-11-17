@@ -101,33 +101,6 @@ setuputils
     Create attributes that execute code like
     functions when they are 'got' or 'set'.
 
-function annotation
-    In more detail, Python 2.x has docstrings,
-    which allow you to attach a metadata
-    string to various types of object.
-    
-    This is amazingly handy, so Python 3
-    extends the feature by allowing you to
-    attach metadata to functions describing
-    their parameters and return values.
-    
-    There's no preconceived use case, but the
-    PEP suggests several.
-    
-    One very handy one is to allow you to
-    annotate parameters with their expected
-    types; it would then be easy to write a
-    decorator that verifies the annotations or
-    coerces the arguments to the right type.
-    
-    @property
-    def trigger_manager(self) -> TriggersObject:
-        return self._objects['TriggersObject']
-
-    Another is to allow parameter-specific
-    documentation instead of encoding it into
-    the docstring.
-
 regular package
     Typically implemented as a directory
     containing an __init__.py file.
@@ -928,3 +901,36 @@ Pool
     
     with Pool(5) as p:
         print(p.map(f, [1, 2, 3]))
+
+@
+decorator
+    Not to be confused with Java/Kotlin
+    annotation.
+
+->
+function annotation
+    In more detail, Python 2.x has docstrings,
+    which allow you to attach a metadata
+    string to various types of object.
+    
+    This is amazingly handy, so Python 3
+    extends the feature by allowing you to
+    attach metadata to functions describing
+    their parameters and return values.
+    
+    There's no preconceived use case, but the
+    PEP suggests several.
+    
+    One very handy one is to allow you to
+    annotate parameters with their expected
+    types; it would then be easy to write a
+    decorator that verifies the annotations or
+    coerces the arguments to the right type.
+    
+    @property
+    def trigger_manager(self) -> TriggersObject:
+        return self._objects['TriggersObject']
+
+    Another is to allow parameter-specific
+    documentation instead of encoding it into
+    the docstring.

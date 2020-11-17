@@ -2,6 +2,23 @@ $NOTES/ws/ranking/glossary.txt
 
 Shakespeare
 
+information ordering
+    Order sentences by the date of the
+    document (for summarizing news).
+
+    For coherence:
+    - Choose orderings that make neighboring
+      sentences similar (by cosine).
+    - Choose orderings in which neighboring
+      sentences discuss the same en<ty
+      (Barzilay and Lapata 2007)
+
+sentence realization
+    [#summarization]
+
+    Basic:
+    - Keep the original sentence.
+
 cosine similarity
     A metric used to measure how similar the
     documents are irrespective of their size.
@@ -1072,6 +1089,38 @@ MMR
     relevance of results for already ranked
     documents/phrases etc.
 
+    http://webcache.googleusercontent.com/search?q=cache:https://medium.com/tech-that-works/maximal-marginal-relevance-to-rerank-results-in-unsupervised-keyphrase-extraction-22d95015c7c5
+    
+    Lets say your final keyPhrases are ranked
+    like Good Product, Great Product, Nice
+    Product, Excellent Product, Easy Install,
+    Nice UI, Light weight etc.
+    
+    But there is an issue with this approach,
+    all the phrases like good product, nice
+    product, excellent product are similar and
+    define the same property of the product
+    and are ranked higher.
+    
+    Suppose we have a space to show just 5
+    keyPhrases, in that case, we don't want to
+    show all these similar phrases.
+    
+    You want to properly utilize this limited
+    space such that the information displayed
+    by the Keyphrases about the documents is
+    diverse enough.
+    
+    Similar types of phrases should not
+    dominate the whole space and users can see
+    a variety of information about the
+    document.
+    
+    MMR selects the phrase in the final
+    keyphrases list according to a combined
+    criterion of query relevance and novelty
+    of information.
+
 Probabilistic latent maximal marginal relevance
 
 KeyPhrase
@@ -1088,3 +1137,8 @@ KeyPhrase extraction
     
     This score is used as the ranking of the
     phrases for that document.
+
+KeyBERT
+    Find the sub-phrases in a document that
+    are the most similar to the document
+    itself.

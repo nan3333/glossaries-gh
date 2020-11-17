@@ -284,3 +284,40 @@ Peregrin Took
 
 Aragorn
     King of Gondor.
+
+J.R.R. Tolkien
+John Ronald Reuel Tolkien
+    /home/shane/Calibre Library/J.R.R. Tolkien/The Silmarillion (25)/The Silmarillion - J.R.R. Tolkien.txt
+
+    An English writer, poet, philologist, and
+    academic, best known as the author of the
+    high fantasy works The Hobbit and The Lord
+    of the Rings. 
+
+Christopher Tolkien
+    /home/shane/Calibre Library/J.R.R. Tolkien/The Silmarillion (25)/The Silmarillion - J.R.R. Tolkien.txt
+
+    An English and French academic editor.
+    
+    He was the son of author J. R. R. Tolkien
+    and the editor of much of his father's
+    posthumously published work.
+
+Simon Tolkien
+    http://www.google.com/search?ie=utf-8&oe=utf-8&q="Christopher Tolkien"
+
+    A British novelist and former barrister.
+    
+    He is the grandson of J. R. R. Tolkien,
+    and the oldest child of Christopher
+    Tolkien.
+
+Rohan
+    /home/shane/glossaries/lotr-lord-of-the-rings.txt
+
+    A kingdom of horsemen, the Rohirrim, in J.
+    R. R. Tolkien's fantasy setting of Middle-
+    earth.
+    
+    It is mainly a grassland, and provides its
+    ally Gondor with cavalry.
