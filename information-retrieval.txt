@@ -2,6 +2,17 @@ $NOTES/ws/ranking/glossary.txt
 
 Shakespeare
 
+cosine similarity
+    A metric used to measure how similar the
+    documents are irrespective of their size.
+    
+    Mathematically, it measures the cosine of
+    the angle between two vectors projected in
+    a multi-dimensional space.
+    
+    The smaller the angle, higher the cosine
+    similarity.
+
 search content processing
     basics
     - stemming root words,
@@ -1052,3 +1063,28 @@ query pooling
     
     The pooled documents become candidates to
     be judged for relevance
+
+Maximal Margin Relevance
+Maximal Marginal Relevance
+MMR
+    Tries to reduce the redundancy of results
+    while at the same time maintaining query
+    relevance of results for already ranked
+    documents/phrases etc.
+
+Probabilistic latent maximal marginal relevance
+
+KeyPhrase
+    Like a keyword, but a phrase.
+
+KeyPhrase extraction
+    Different approaches:
+    - TextRank,
+    - RAKE,
+    - POS tagging,
+    - etc.. (to name a few)
+    to extract keywords from the documents,
+    which provides phrases along with score.
+    
+    This score is used as the ranking of the
+    phrases for that document.

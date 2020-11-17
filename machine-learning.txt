@@ -1,3 +1,14 @@
+cosine similarity
+    A metric used to measure how similar the
+    documents are irrespective of their size.
+    
+    Mathematically, it measures the cosine of
+    the angle between two vectors projected in
+    a multi-dimensional space.
+    
+    The smaller the angle, higher the cosine
+    similarity.
+
 feature
 feature set
     A feature is an individual measurable

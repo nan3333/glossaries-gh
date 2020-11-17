@@ -3,3 +3,8 @@ restore
 
     Discard or unstage uncommitted local
     changes.
+
+describe
+git describe
+    Describe a commit using the most recent
+    tag reachable from it

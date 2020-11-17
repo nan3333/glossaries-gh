@@ -7661,3 +7661,5 @@ veneer
 demeaning
     Causing someone to lose their dignity and
     the respect of others.
+
+neutered
