@@ -150,3 +150,6 @@ atomic reference
 
     At the lowest level this is just a
     pointer.
+
+gradle.properties
+    https://stackoverflow.com/q/37063217
