@@ -144,8 +144,6 @@ body ...+
 continuation
     You can use this like a trace.
 
-    Learn more racket. Get good at it.
-
 (member)
     http://racket/reference/pairs.html#(def._((lib._racket/private/base..rkt)._member))
 

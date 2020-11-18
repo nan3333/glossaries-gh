@@ -578,3 +578,25 @@ connotation
     connection.
 
     Related to "sentiment".
+
+An ergative language maintains a syntactic
+    or morphological equivalence (such as the
+    same word order or grammatical case) for
+    the object of a transitive verb and the
+    single core argument of an intransitive
+    verb, while treating the agent of a
+    transitive verb differently.
+
+    vs "accusative languages".
+
+accusative languages
+nominative-accusative languages
+    [[https://en.wikipedia.org/wiki/Ergative%E2%80%93absolutive_alignment][en.wikipedia.org/wiki/Ergative%E2%80%93absolutive_alignment]]
+
+    This contrasts with nominative-accusative
+    languages such as English, where the
+    single argument of an intransitive verb
+    and the agent of a transitive verb (both
+    called the subject) are treated alike and
+    kept distinct from the object of a
+    transitive verb.
