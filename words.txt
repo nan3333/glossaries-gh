@@ -7680,3 +7680,8 @@ shorten
 
 curtail
     Place restrictions on.
+
+biopic
+    A film dramatizing the life of a
+    particular person, typically a public or
+    historical figure.

@@ -934,3 +934,12 @@ function annotation
     Another is to allow parameter-specific
     documentation instead of encoding it into
     the docstring.
+
+anaconda
+    [[/home/shane/source/git/adashofdata/nlp-in-python-tutorial/README.md][nlp-in-python-tutorial/README.md]]
+
+    The birthplace of Python data science.
+    
+    We are a movement of data scientists,
+    data-driven enterprises, and open source
+    communities.
