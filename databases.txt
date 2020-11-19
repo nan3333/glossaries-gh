@@ -138,3 +138,11 @@ database shard
     
     Each shard (or server) acts as the single
     source for this subset of data.
+
+ODBC
+Open Database Connector
+    It's an API to various databases.
+    
+    It's quite old (1990s).
+
+    It's not a variant of SQL.
