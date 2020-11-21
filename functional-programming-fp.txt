@@ -457,3 +457,20 @@ First order function
 
     In constrast to:
         Higher order function.
+
+zipper
+loc
+    [[https://www.youtube.com/watch?v=5Nm56YvTKZY][The Art of Tree Shaping with Zippers - YouTube]]
+
+    loc is short for location.
+
+    A 2 element tuple.
+
+    The first element is a tree shaped data
+    structure.
+
+    The 2nd is a pointer to a specific node.
+
+    Allows you to navigate in your tree and
+    when you end up in a certain location, you
+    can start making changes.

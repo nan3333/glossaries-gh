@@ -1142,3 +1142,14 @@ KeyBERT
     Find the sub-phrases in a document that
     are the most similar to the document
     itself.
+
+lookahead
+    [backtracking algorithms]
+
+    The generic term for a subprocedure that
+    attempts to foresee the effects of
+    choosing a branching variable to evaluate
+    one of its values.
+
+lookahead search
+look-ahead search
