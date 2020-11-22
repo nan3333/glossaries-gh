@@ -15,3 +15,9 @@ microservice architecture
     
     It also enables an organization to evolve
     its technology stack.
+
+Service-oriented architecture
+    A style of software design where services
+    are provided to the other components by
+    application components, through a
+    communication protocol over a network.

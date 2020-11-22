@@ -1558,3 +1558,5 @@ fully connected layer
 logit
     Raw weighted sums plus bias before the
     activation function.
+
+batch

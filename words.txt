@@ -324,7 +324,7 @@ plebe
     A newly entered cadet or freshman,
     especially at a military or naval academy.
 
-Conflation \Con*fla"tion\, n. [L. conflatio.]
+Conflation
    1. A blowing together, as of many instruments in a concert,
       or of many fires in a foundry. [R.] --Bacon.
       [1913 Webster]
@@ -333,8 +333,7 @@ Conflation \Con*fla"tion\, n. [L. conflatio.]
       into one.
       [PJC]
 
-Tenacious \Te*na"cious\, a. [L. tenax, -acis, from tenere to
-   hold. See Tenable, and cf. Tenace.]
+Tenacious
    1. Holding fast, or inclined to hold fast; inclined to retain
       what is in possession; as, men tenacious of their just
       rights.
@@ -363,7 +362,7 @@ groupthink
     a way that discourages creativity or
     individual responsibility.
 
-Sizzurp
+sizzurp
     An intoxicating beverage made by adding
     cough syrup containing codeine and
     promethazine to a carbonated soft drink,
@@ -7686,3 +7685,10 @@ biopic
     A film dramatizing the life of a
     particular person, typically a public or
     historical figure.
+
+coalescence
+    The joining or merging of elements to form
+    one mass or whole.
+
+    "the lack of coalescence among fields of
+    science"
