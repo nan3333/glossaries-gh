@@ -1,3 +1,12 @@
+Terragrunt
+    DRY and maintainable Terraform code.
+
+    A thin wrapper around Terraform that
+    provides extra tools for keeping your
+    configurations DRY, working with multiple
+    Terraform modules, and managing remote
+    state.
+
 Execution Plan
     Terraform has a "planning" step where it
     generates an execution plan.
