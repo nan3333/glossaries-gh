@@ -7705,3 +7705,50 @@ unbefitting
 shewing
 shew
     Old-fashioned spelling of show.
+
+plaintiff
+    The party who initiates a lawsuit before a
+    court.
+    
+    By doing so, the plaintiff seeks a legal
+    remedy; if this search is successful, the
+    court will issue judgment in favor of the
+    plaintiff and make the appropriate court
+    order.
+
+chiching
+    Celebratory remarks when you've made a
+    deal or money.
+    
+    A win win situation when the outcome
+    benefits each of two often opposing
+    groups.
+    
+    The sound of a cash register drawer
+    opening to collect money for a sale.
+
+conviction
+    The feeling of being sure that what you
+    believe or say is true.
+
+    Someone being found guilty of a crime or
+    having a strong belief in something.
+
+    No longer with any doubt.
+
+    Examples:
+    - Being found guilty of driving while
+      intoxicated.
+    - Completely believing they are right
+      about something.
+
+vindication
+    The action of clearing someone of blame or
+    suspicion.
+    "I intend to work to ensure my full
+    vindication"
+
+    Proof that someone or something is right,
+    reasonable, or justified.
+    "the results were interpreted as
+    vindication of the company's policy"
