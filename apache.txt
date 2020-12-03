@@ -75,3 +75,14 @@ Tika
 
     TODO: Make scope use tika.
     $SCRIPTS/scope.sh
+
+Openmeetings
+    [Apache project]
+
+    Provides video conferencing, instant
+    messaging, white board, collaborative
+    document editing and other groupware
+    tools.
+    
+    It uses API functions of Media Server for
+    Remoting and Streaming Kurento.

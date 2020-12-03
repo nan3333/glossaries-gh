@@ -3754,6 +3754,32 @@ provenance
     The provenance of a piece of data is the
     process that led to that piece of data
 
+    From the French provenir, 'to come
+    from/forth'.
+
+    The chronology of the ownership, custody
+    or location of a historical object.
+    
+    Originally mostly used in relation to
+    works of art but is now used in similar
+    senses in a wide range of fields,
+    including archaeology, paleontology,
+    archives, manuscripts, printed books, the
+    circular economy, and science and
+    computing.
+    
+    The primary purpose of tracing the
+    provenance of an object or entity is
+    normally to provide contextual and
+    circumstantial evidence for its original
+    production or discovery, by establishing,
+    as far as practicable, its later history,
+    especially the sequences of its formal
+    ownership, custody and places of storage.
+    
+    The practice has a particular value in
+    helping authenticate objects.
+
 close of business
 COB
     Often used to describe a deadline or time.
@@ -7752,3 +7778,98 @@ vindication
     reasonable, or justified.
     "the results were interpreted as
     vindication of the company's policy"
+
+Celluloid
+    A class of materials produced by mixing
+    nitrocellulose and camphor, often with
+    added dyes and other agents.
+    
+    Once much more common, celluloid's common
+    contemporary uses are table tennis balls,
+    musical instruments, combs, office
+    equipment, and guitar picks.
+
+behoove
+    It is a duty or responsibility for someone
+    to do something.
+    "it behoves the House to assure itself
+    that there is no conceivable alternative"
+
+    It is appropriate or suitable; it befits.
+    "it ill behoves Opposition Members to
+    decry the sale of arms to friendly
+    countries"
+
+adamant
+    Refusing to be persuaded or to change
+    one's mind.
+    "he is adamant that he is not going to
+    resign"
+
+progeniture
+    The production of offspring; procreation.
+
+    Progeny; offspring.
+
+adjudicate
+    Make a formal judgement on a disputed
+    matter.
+    "the Committee adjudicates on all betting
+    disputes"
+
+retrograde
+    Directed or moving backwards.
+    "a retrograde flow"
+
+    Same direction as rotation.
+    "retrograde orbit"
+
+Apparent retrograde motion
+    The apparent motion of a planet in a
+    direction opposite to that of other bodies
+    within its system, as observed from a
+    particular vantage point.
+    
+    Direct motion or prograde motion is motion
+    in the same direction as other bodies.
+
+Detritus
+    [biology]
+
+    Dead particulate organic material, as
+    distinguished from dissolved organic
+    material.
+    
+    Detritus typically includes the bodies or
+    fragments of bodies of dead organisms, and
+    fecal material.
+    
+    Detritus typically hosts communities of
+    microorganisms that colonize and decompose
+    it.
+
+matter-of-fact
+    Adhering to the unembellished facts.
+
+    Being plain, straightforward, or
+    unemotional.
+
+dash-case
+kebab-case
+lisp-case
+spinal-case
+
+relatably
+    [not a real word]
+
+    In a relatable manner.
+
+adjudication vs arbitration
+    Arbitration is a procedure in which both
+    sides agree to let an impartial third
+    party, the arbitrator, decide the case.
+    
+    In adjudication, the decision is the
+    responsibility of a third party
+    adjudicator selected by the parties to the
+    dispute.
