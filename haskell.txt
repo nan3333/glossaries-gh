@@ -29,7 +29,7 @@ dependent type
 
     A type whose definition depends on a
     value.
-    
+
     It is an overlapping feature of type
     theory and type systems.
 
@@ -39,7 +39,7 @@ Eq
     The Int type is an instance of the Eq
     typeclass because the Eq typeclass defines
     behavior for stuff that can be equated.
-    
+
     And because integers can be equated, Int
     is a part of the Eq typeclass.
 
@@ -58,7 +58,7 @@ type variable
     component type?
 
     Answer: type variables.
-    
+
     Type variables come in lowercase.
 
 typeclass method
@@ -85,7 +85,7 @@ value constructor
     Returns a value of a data type.
 
     Example:
-        data Shape = Circle Float Float Float | Rectangle Float Float Float Float 
+        data Shape = Circle Float Float Float | Rectangle Float Float Float Float
 
         Circle and Rectangle are the value
         constructors.
@@ -192,11 +192,11 @@ infixr 5
     https://stackoverflow.com/questions/27770118/how-does-the-infix-work
 
     ewwlinks +/"(|>) :: Seq a -> a -> Seq a infixl 5" "https://hackage.haskell.org/package/containers-0.6.2.1/docs/Data-Sequence.html#v:-124--62-"
-    
+
     The r and l refer to the associativity,
     the number you specify refers to the
     operator precedence.
-    
+
     When you don't specify the associativity
     you get an operator that can be associated
     only by explicit parenthesis or when the
@@ -215,13 +215,13 @@ I/O action
     printing stuff to the screen) and will
     also contain some kind of return value
     inside it.
-    
+
 Prelude print :: Show a => a -> IO ()
 Prelude putStrLn :: String -> IO ()
     Printing a string to the terminal doesn't
     really have any kind of meaningful return
     value, so a dummy value of () is used.
-    
+
         >:t print $ "emp: "
         print $ "emp: " :: IO ()
         >:t putStrLn $ "emp: "
@@ -251,7 +251,7 @@ isPrefixOf
     False
     >isPrefixOf "a" "aadvark"
     True
-    
+
     >"Hello" `isPrefixOf` "Hello World!"
     True
     >"Hello" `isPrefixOf` "Wello Horld!"
@@ -269,7 +269,7 @@ literate formatting
     similar to a standard Haskell Script (.HS
     file), but includes commentary, where only
     lines starting with ">" are considered to
-    be program code. 
+    be program code.
 
     Example:
     $MYGIT/bollu/teleport/app/Main.lhs
@@ -285,9 +285,12 @@ sum type
     [#haskell]
     [constructor]
 
+    An alternation of types (e.g. Fruit =
+    Apple or Orange).
+
     Consists of multiple options of type
     constructors under the same type.
-    
+
     The two cases can be used at all locations
     the type is specified, and are
     discriminated using pattern matching.
@@ -327,7 +330,7 @@ constructor
     - data Pair = P Int Double
       A pair of numbers, an Int and a Double
       together.
-      
+
       The tag P is used (in constructors and
       pattern matching) to combine the contained
       values into a single structure that can be
@@ -336,14 +339,14 @@ constructor
     - data Pair = I Int | D Double
       Just one number, either an Int or else a
       Double.
-      
+
       In this case, the tags I and D are used
       (in constructors and pattern matching) to
       distinguish between the two alternatives.
 
     - data T1 = A Int Int | B Bool Bool
       Sums and products can be combined.
-      
+
 braces
 {}
     Syntax for records.
@@ -393,7 +396,7 @@ pattern matching
     should conform and then checking to see if
     it does and deconstructing the data
     according to those patterns.
-    
+
     vim +/"pattern matching" "$HOME/notes/ws/haskell/remember.org"
 
     Pattern matching can also be used on
@@ -417,11 +420,11 @@ patterns
     deconstructing it.
 
     http://learnyouahaskell.com/syntax-in-functions
-    
+
 guards
     A way of testing whether some property of a value (or several of
-    them) are true or false. 
-    
+    them) are true or false.
+
     http://learnyouahaskell.com/syntax-in-functions#guards-guards
 
 Monoid
@@ -435,7 +438,7 @@ Monoid
     together with a value which doesn't do
     anything when you combine it with others
     (this is called the identity element).
-    
+
     It is closely related to the Foldable
     class, and indeed you can think of a
     Monoid instance declaration for a type m
@@ -445,7 +448,7 @@ Monoid
     Has:
     - an appending operation <> or mappend
     - an identity element, mempty
-    
+
     Can be made a Semigroup with just instance
     Semigroup MyMonoid.
 
@@ -455,15 +458,15 @@ Monoid
         is a monoid, that means you can
         combine those Builders into a single
         Builder (because Builder is a monoid).
-        
+
         Being a Monoid makes something
         combinable.
-        
+
         https://youtu.be/FYTZkE5BZ-0?t=202
-        
+
         You use fold to combine them into a
         single thing.
-        
+
         In the example, he folded a
         [Builder] into a Builder.
 
@@ -472,17 +475,17 @@ semigroup
 
     Has:
     - an append <>
-    
+
     Does not require:
     - mempty element.
-    
+
     An algebraic structure consisting of a set
     together with an associative binary
     operation.
-    
+
     Generalizes a monoid in that there might
     not exist an identity element.
-    
+
     Originally,
         Also generalized a group to a type
         where every element did not have to
@@ -505,7 +508,7 @@ ghc-mod
     A backend program to enrich Haskell
     programming in editors. It strives to
     offer most of the features one has come to
-    expect from modern IDEs in any editor. 
+    expect from modern IDEs in any editor.
 
 Hackage
     The place where you find packages to
@@ -567,7 +570,7 @@ monad
 monad transformer
     You have an innermost monad (usually
     Identity or IO but you can use any monad).
-    
+
     You then wrap monad transformers around
     this monad to make bigger, better monads.
 
@@ -579,24 +582,24 @@ monad transformer
     monad with state and error handling, just
     take the StateT and ErrorT monad
     transformers and combine them.
-    
+
     Concrete example
     - Suppose I was writing a server:
       Each client handling thread must be of
       type IO ()
-      
+
       That's because forkIO :: IO () -> IO
       ThreadID).
-    
+
     Monads are not composable.
-    
+
     This poses a problem, since composition is
     one of the foremost patterns in functional
     programming.
-    
+
     However, many alternatives have been
     devised.
-    
+
     One of the most common is the monad
     transformer.
 
@@ -604,7 +607,7 @@ monad transformer
     compose the effects of different monads,
     even if the monads themselves are not the
     same.
-    
+
     An example is writing a do-statement that
     can:
     - abort computation (ExceptT),
@@ -612,16 +615,16 @@ monad transformer
     - connect to a database
       (via a Haskell library such as
       persistence or esqueleto).
-    
+
     The transformers package is used by over
     2,500 packages on Stackage.
-    
+
     But using monad transformers is a
     challenge for many, even if they are
     already writing useful, effectful,
     production Haskell.
 
-Functor 
+Functor
     [Type class]
 
     Example
@@ -630,20 +633,20 @@ Functor
 
     Things that can be mapped over, like
     lists, Maybes, trees, and such.
-    
+
     In Haskell, they're described by the
     typeclass Functor, which has only one
     typeclass method, namely fmap, which has
     the type:
         fmap :: (a -> b) -> f a -> f b
-    
+
         It says:
             Give me a function that takes an a
             and returns a b and a box with an
             a (or several of them) inside it
             and I'll give you a box with a b
             (or several of them) inside it.
-        
+
     It kind of applies the function to the
     element inside the box.
 
@@ -685,13 +688,13 @@ applicative functor
 
     Applicative, the class for applicative
     functors.
-    
+
     Like monads, applicative functors are
     functors with extra laws and operations.
-    
+
     An intermediate class between Functor and
     Monad.
-    
+
     Applicative is a widely used class
     with a wealth of applications. It enables
     the eponymous applicative style, a
@@ -708,7 +711,7 @@ GHC.Generics
     flags:
     - DeriveGeneric
     - DefaultSignatures
-    
+
     We show how this all works in this page,
     starting with a detailed example.
 
@@ -723,11 +726,51 @@ Nameless function 'x'
         (\x -> x + 1) 4
 
         Returns: 5 :: Integer
-        
+
 <-
     x <- action runs the IO action, gets its
     result, and binds it to x.
-    
+
+getLine
+    Reads a string into a variable, inside a
+    do.
+
+    do
+      path <- getLine
+
+
+    getLine is an I/O action that contains a
+    result type of String.
+
+        ghci> :t getLine
+        getLine :: IO String
+        luggage
+
+    It will wait for the user to input
+    something at the terminal and then that
+    something will be represented as a string.
+
+    perform the I/O action getLine and then
+    bind its result value to name:
+
+        name <- getLine
+
+    getLine has a type of IO String, so name
+    will have a type of String.
+
+    Once it's fetched that data for you, the
+    only way to open the box and get the data
+    inside it is to use the <- construct.
+
+    Caveat:
+        If we're taking data out of an I/O
+        action, we can only take it out when
+        we're inside another I/O action.
+
+    We temporarily un-taint the data inside an
+    I/O action when we bind it to a name, so
+    that it can be used again in pure code.
+
 =
     let x = action defines x to be equivalent
     to action, but does not run anything.
@@ -750,7 +793,7 @@ MonadRandom
 
 referential transparency
     One value is as good as another in Haskell
-    if it represents the same thing. 
+    if it represents the same thing.
 
 ghcid
     Very low feature GHCi based IDE
@@ -795,39 +838,6 @@ lens
     This is invalid:
         nameTag = "Hello, my name is " ++ getLine
 
-<-
-    getLine is an I/O action that contains a
-    result type of String.
-
-        ghci> :t getLine
-        getLine :: IO String
-        luggage    
-
-    It will wait for the user to input
-    something at the terminal and then that
-    something will be represented as a string.
-
-    perform the I/O action getLine and then
-    bind its result value to name:
-
-        name <- getLine
-
-    getLine has a type of IO String, so name
-    will have a type of String.
-
-    Once it's fetched that data for you, the
-    only way to open the box and get the data
-    inside it is to use the <- construct.
-
-    Caveat:
-        If we're taking data out of an I/O
-        action, we can only take it out when
-        we're inside another I/O action.
-
-    We temporarily un-taint the data inside an
-    I/O action when we bind it to a name, so
-    that it can be used again in pure code.
-
 do
     Use do syntax to glue together several I/O actions into one.
 
@@ -837,10 +847,10 @@ do
             putStrLn ("Hey " ++ name ++ ", you rock!")
 
     Each of these steps is an I/O action.
-    
+
     By putting them together with do syntax,
     we glued them into one I/O action.
-    
+
     The action that we got has a type of IO
     (), because that's the type of the last
     I/O action inside.
@@ -865,9 +875,13 @@ let
 
     You can also put let bindings inside list
     comprehensions.
-    
+
         calcBmis :: (RealFloat a) => [(a, a)] -> [a]
         calcBmis xs = [bmi | (w, h) <- xs, let bmi = w / h ^ 2]
+
+    'let' allows you to combine the
+    readability of a 'where' clause with the
+    power of a lambda function.
 
 let vs where
     ewwlinks +/"Very similar to where bindings are let bindings" "http://learnyouahaskell.com/syntax-in-functions"
@@ -904,7 +918,7 @@ Case expressions
 
 sequence
     ewwlinks +/"sequence \[(> 4), (< 10), odd\] 7" "http://derekwyatt.org/2012/01/25/haskell-sequence-over-functions-explained/"
-        
+
     sequence :: (Traversable t, Monad m) => t (m a) -> m (t a)
     base Prelude
 
@@ -965,7 +979,7 @@ null
     base Prelude
 
     Test whether the structure is empty.
-    
+
     The default implementation is optimized
     for structures that are similar to cons-
     lists, because there is no general way to
@@ -1003,7 +1017,7 @@ Applicative functor
 
 replicateM
     I've seen replicateM shown as having both of these types.
-    
+
     replicateM :: Monad m => Int -> m a -> m [a]
     replicateM :: Applicative m => Int -> m a -> m [a]
     base Control.Monad
@@ -1013,15 +1027,15 @@ replicateM
 
     Example
 
-        replicateM 3 (putStrLn "hello")  
-        -- hello  
-        -- hello  
-        -- hello  
+        replicateM 3 (putStrLn "hello")
+        -- hello
+        -- hello
+        -- hello
         -- [(),(),()]
 
-        replicateM 3 "01"  
-        -- ["000","001","010","011","100","101","110","111"]  
-    
+        replicateM 3 "01"
+        -- ["000","001","010","011","100","101","110","111"]
+
     Explanation:
         But what sort of action is “01”.  As a
         string is a list of characters, it’s
@@ -1041,7 +1055,7 @@ replicate
     replicate n x
         A list of length n with x the value of
         every element.
-        
+
         It is an instance of the more general
         genericReplicate, in which n may be of any
         integral type.
@@ -1059,7 +1073,7 @@ import qualified
     This forces an obligatory namespace qualifier to imported identifiers.
 
     Examples
-        import qualified Fringe ( fringe )  
+        import qualified Fringe ( fringe )
 
         import qualified TensorFlow.Core as TF
 
@@ -1100,7 +1114,7 @@ filter
     filter, applied to a predicate and a list,
     returns the list of those elements that
     satisfy the predicate
-    
+
     filter p xs = [ x | x <- xs, p x]
 
 cycle
@@ -1147,7 +1161,7 @@ pattern matching
 
 []
     A pattern that matches the empty list.
-    
+
     It doesn't bind any variables.
 
 Foldable
@@ -1182,7 +1196,7 @@ Foldable
     This is suitable even for abstract types,
     as the monoid is assumed to satisfy the
     monoid laws.
-    
+
     Alternatively, one could define foldr:
 
         instance Foldable Tree where
@@ -1192,13 +1206,13 @@ Foldable
 
     Foldable instances are expected to satisfy
     the following laws:
-    
+
         foldr f z t = appEndo (foldMap (Endo . f) t ) z
-    
+
         foldl f z t = appEndo (getDual (foldMap (Dual . Endo . flip f) t)) z
-    
+
         fold = foldMap id
-    
+
         length = getSum . foldMap (Sum . const  1)
 
     sum, product, maximum, and minimum
@@ -1225,7 +1239,7 @@ Foldable
     variable) which was cons'd (by the (:)
     function) onto something else (which gets
     bound to xs ).
-    
+
     This doesn't look like a list, but it is.
     It's for pattern matching lists.
     Crazily, [x] here is not a list, but [a]
@@ -1257,8 +1271,8 @@ type
 
     Evaluate the argument (STList a), before passing to the constructor STCons.
 
-    data STList a 
-            = STCons a !(STList a)  -- the second argument to STCons will be 
+    data STList a
+            = STCons a !(STList a)  -- the second argument to STCons will be
                                     -- evaluated before STCons is applied
             | STNil
 
@@ -1285,7 +1299,7 @@ type
     [[https://wiki.haskell.org/Keywords#-][Keywords HaskellWiki -]]
 
     (- 1)
-    
+
     is parsed as the negative integer -1,
     rather than as an operator
 
@@ -1295,7 +1309,7 @@ type
     Starts a single-line comment, unless
     immediately followed by an operator
     character other than -:
-    
+
     main = print "hello world" -- this is a comment
     --this is a comment as well
     ---this too
@@ -1304,7 +1318,7 @@ type
 where
     https://wiki.haskell.org/Keywords#where
 
-    Used to:
+    Multiple uses:
     - introduce a module
 
       module Main where
@@ -1325,12 +1339,19 @@ where
         ...
 
     - bind local variables:
-    
+
       f x = y
           where y = x * 2
-      
+
       g z | z > 2 = y
           where y = x * 2
+
+      example:
+
+        calcChange owed given = if change > 0
+                   then change
+                   else 0
+                   where change = given - owed
 
 arrow
 arrow notation
@@ -1358,9 +1379,9 @@ monomorphism
     [#universal algebra]
 
     An injective homomorphism.
-    
+
     A monomorphism from X to Y is often
-    denoted with the notation X ↪ Y. 
+    denoted with the notation X ↪ Y.
 
 monomorphic
 monomorphism
@@ -1386,11 +1407,11 @@ mono
 
 kind
     [#type theory]
-    
+
     Could be:
     - The type of a type constructor.
     - The type of a higher-order type operator.
-        
+
     A kind system is essentially a simply
     typed lambda calculus 'one level up,'
     endowed with a primitive type, denoted *
@@ -1411,7 +1432,7 @@ kind
     as the infix operator //; the simplest
     case, an array a with element i updated to
     v, is written a // [(i, v)].
-    
+
     The reason for the square brackets is that
     the left argument of (//) is an
     association list, usually containing a
@@ -1488,12 +1509,12 @@ deriving
 
     We won't concern ourselves with deriving
     too much for now.
-    
+
     Let's just say that if we add deriving
     (Show) at the end of a data declaration,
     Haskell automagically makes that type part
     of the Show typeclass.
-    
+
     So now, we can do this:
 
         ghci> Circle 10 20 5
@@ -1511,11 +1532,11 @@ newtype
 
     How one introduces a renaming for an
     algebraic data type into Haskell.
-    
+
     This is different from type below, as a
     newtype requires a new constructor as
     well.
-    
+
     As an example, when writing a compiler one
     sometimes further qualifies Identifiers to
     assist in type safety checks:
@@ -1525,15 +1546,15 @@ newtype
 
     Most often, one supplies smart
     constructors and destructors for these to
-    ease working with them. 
-    
+    ease working with them.
+
     The syntax and usage of newtypes is
     virtually identical to that of data
     declarations - in fact, you can replace
     the newtype keyword with data and it'll
     still compile, indeed there's even a good
     chance your program will still work.
-    
+
     The converse is not true, however - data
     can only be replaced with newtype if the
     type has exactly one constructor with
@@ -1558,7 +1579,7 @@ liftM vs fmap
 
     fmap and liftM exist because monads were
     not automatically functors in Haskell.
-    
+
     fmap and liftM are essentially
     interchangeable, since it is a bug (in a
     social rather than technical sense) for
@@ -1608,7 +1629,7 @@ TH
     [standard framework]
 
     type-safe, compile-time meta programming.
-    
+
     Allows:
     - Writing Haskell meta programs, which are
       evaluated at compile-time, and which
@@ -1623,7 +1644,7 @@ TH
 lazy evaluation
     Upside:
         It allows great reusability of code.
-    
+
     Downside:
         Rather difficult to reason about time
         and space complexity.
@@ -1651,7 +1672,7 @@ type signature questions
         16:58 < libertyprime> georgew: thank you :) very helpful
 
 
-    class (Monad m) => 
+    class (Monad m) =>
      Stream s m t | s -> t where
         uncons :: s -> m (Maybe (t,s))
 
@@ -1659,9 +1680,9 @@ unwords
     [function]
 
     hoogle -i unwords
-    
+
     Inverse operation to words.
-    
+
     It joins words with separating spaces.
 
     >>> unwords ["Lorem", "ipsum", "dolor"]
@@ -1690,7 +1711,7 @@ data vs newtype
         - data (with a single constructor and field)
           Will still have a wrapper box around
           the underlying value.
-        
+
         A newtype around Int is going to be
         represented in memory in a way completely
         indistinguishable from an Int, while data
@@ -1715,9 +1736,9 @@ data
     syntax tree for an expression, one could
     use:
 
-    data Exp = Ebin   Operator Exp Exp 
-             | Eunary Operator Exp 
-             | Efun   FunctionIdentifier [Exp] 
+    data Exp = Ebin   Operator Exp Exp
+             | Eunary Operator Exp
+             | Efun   FunctionIdentifier [Exp]
              | Eid    SimpleIdentifier
 
     where the types
@@ -1848,7 +1869,7 @@ forM_ vs forM
     forM_ function is more efficient than forM
     because it does not save the results of
     the operations.
-    
+
     That is all.
 
 forM
@@ -1864,7 +1885,14 @@ mapM
     mapM_ returns an empty result. The result
     of each action in mapM_ is not stored.
 
+compose
+.
+    [operator]
+
+apply
 $
+    [operator]
+
     low, right-associative binding precedence
 
     f $ g $ h x  =  f (g (h x))
@@ -1909,10 +1937,10 @@ let
 
     Note: We can use the let keyword to define
     a name right in GHCI.
-    
+
     Doing let a = 1 inside GHCI is the
     equivalent of writing a = 1 in a script
-    and then loading it. 
+    and then loading it.
 
     ghci> let lostNumbers = [4,8,15,16,23,42]
     ghci> lostNumbers
@@ -1930,7 +1958,7 @@ let
     lazy) or a slightly modified version of a
     function or a variable. Because ' is a
     valid character in functions, we can make
-    a function like this. 
+    a function like this.
 
 Typeclasses
 
@@ -2012,7 +2040,7 @@ chaining
     -- (++) is the concatenation operator
     -- to concatenate two linked lists you have to chain the second one
     -- at the end of the first one
-    
+
     (++) :: [a] -> [a] -> [a]
     -- the definition of something with 2 parameters must have 2 params on
     -- the LHS
@@ -2026,7 +2054,7 @@ Refactoring tips in emacs
      or []     = False
      or (x:xs) = x || or xs
      -- or = foldl (||) False
-    
+
     Use foldr
     Found:
       or [] = False
@@ -2041,7 +2069,7 @@ head:tail notation
 
 ++
     vim +/"-- the definiton of something with 2 parameters must have 2 params on" "$MYGIT/google/haskell-trainings/haskell_101/codelab/Codelab.hs"
-    
+
     []     ++ l2 = l2
     (l:l1) ++ l2 = l : (l1 ++ l2)
     -- l1 ++ l2 = foldr (:) l2 l1
@@ -2066,7 +2094,7 @@ xs
 lambda
     xs hs "foldl (\x y -> 2*x + y) 4 [1,2,3]"
 
-queryTerminal 
+queryTerminal
     vim +/"import           System.Posix.Terminal (queryTerminal)" "$MYGIT/google/haskell-trainings/haskell_101/codelab/Main.hs"
 
     I can learn much from this file.
@@ -2099,39 +2127,39 @@ type families (for short)
 
     For supporting ad-hoc overloading of data
     types.
-    
+
     Type families are parametric types that
     can be assigned specialized
     representations based on the type
     parameters they are instantiated with.
-    
+
     They are the data type analogue of type
     classes: families are used to define
     overloaded data in the same way that
     classes are used to define overloaded
     functions.
-    
+
     Type families are useful for generic
     programming, for creating highly
     parameterised library interfaces, and for
     creating interfaces with enhanced static
     information, much like dependent types.
-    
+
     Come in two flavors:
     - data families
     - type synonym families
-    
+
     Data families
         The indexed form of data and newtype
         definitions.
-    
+
     Type synonym families
         The indexed form of type synonyms.
-    
+
     Each of these flavors can be defined in a
     standalone manner or associated with a
     type class.
-    
+
     Standalone definitions are more general,
     while associated types can more clearly
     express how a type is used and lead to
@@ -2146,7 +2174,7 @@ type families (for short)
     Quasiquoting allows programmers to use
     custom, domain-specific syntax to
     construct fragments of their program.
-    
+
     Along with Haskell's existing support for
     domain specific languages, you are now
     free to use new syntactic forms for your
@@ -2178,6 +2206,8 @@ Foldable
     https://youtu.be/FYTZkE5BZ-0?t=265
 
 foldl
+    https://youtu.be/24XK4LPoCXc?t=89
+
     help hs foldl
 
     xs hs "foldl (/) 64 [4,2,4]"
@@ -2201,6 +2231,9 @@ foldl
     xs hs "foldl max 5 [1,2,3,4,5,6,7]"
 
     x -cd "$(pwd)" -sh "ghci" -e "Prelude>" -s "a = foldl (\xs y -> 10*xs -y) 0" -c m -e "Prelude>" -s "a [1,2,3]" -c m -i
+
+foldr
+    https://youtu.be/24XK4LPoCXc?t=89
 
 <*>
 Applicative operator
@@ -2247,10 +2280,10 @@ ADT
 
     Must create a module to create new AbDTs.
 
-        module TreeADT (Tree, leaf, branch, cell, 
+        module TreeADT (Tree, leaf, branch, cell,
                         left, right, isLeaf) where
 
-        data Tree a             = Leaf a | Branch (Tree a) (Tree a) 
+        data Tree a             = Leaf a | Branch (Tree a) (Tree a)
 
         leaf                    = Leaf
         branch                  = Branch
@@ -2265,7 +2298,7 @@ ADT
 module
     A Haskell program consists of a collection
     of modules.
-    
+
     A module in Haskell serves the dual
     purpose of:
     - controlling name-spaces
@@ -2275,7 +2308,7 @@ module
     begin with an uppercase letter.
 
     Export list:
-        ( Tree(Leaf,Branch), fringe ) 
+        ( Tree(Leaf,Branch), fringe )
         https://www.haskell.org/tutorial/modules.html
 
     Modules provide the only way to build
@@ -2319,7 +2352,7 @@ forall
     In standard Haskell 98/2010 type variables
     in a type expression are all assumed to be
     universally quantified.
-    
+
     Example
         The type expression
             a -> a
@@ -2327,7 +2360,7 @@ forall
             forall a. a ->a~
 
     ewwlinks +/"The forall keyword" "https://en.wikibooks.org/wiki/Haskell/Existentially_quantified_types"
-    
+
     The scope of the forall extends as far to
     the right as possible; for example,
 
@@ -2370,7 +2403,7 @@ hiding
 
         import Prelude hiding (lookup,filter,foldr,foldl,null,map)
 
-polymorphic function 
+polymorphic function
     ewwlinks +/"Example: A polymorphic function" "https://en.wikibooks.org/wiki/Haskell/Existentially_quantified_types"
 
     A and b are type variables.
@@ -2380,26 +2413,26 @@ polymorphic function
     The compiler sees that they begin with a
     lowercase letter and as such allows any
     type to fill that role.
-    
+
     Another way of putting this is that those
     variables are 'universally quantified'.
 
 imperative programming
     It is possible to write imperative-style
     code in Haskell as well.
-    
+
     Sometimes we really do want to say
     something like "do A, then do B, then do
     C".
-    
+
     This adds a new dimension to the simple
     world of function application: we need a
     notion of 'happens before'.
-    
+
     Haskell has embraced the Monad concept to
     describe computations that have an order
     of evaluation.
-    
+
     This turns out to be very handy because it
     can encapsulate effects such as changing
     state.
@@ -2495,10 +2528,10 @@ Ix
 
     The Ix class is used to map a contiguous
     subrange of values in type onto integers.
-    
+
     It is used primarily for array indexing
     (see the array package).
-    
+
     Ix uses row-major order.
 
         hsdoc Ix
@@ -2511,7 +2544,7 @@ Ix
 Parsec
     An industrial strength, monadic parser
     combinator library for Haskell.
-    
+
     It can parse context-sensitive, infinite
     look-ahead grammars but it performs best
     on predictive (LL[1]) grammars.
@@ -2519,16 +2552,16 @@ Parsec
 apostrophe
     In an identifier name:
         Just part of the name.
-        
+
         It is a naming convention (idiom)
         adopted in Haskell.
-        
+
         The convention in Haskell is that,
         like in math, the apostrophe on a
         variable name represents a variable
         that is somehow related, or similar,
         to a prior variable.
-        
+
         x' is related to x , and we indicate
         that with the apostrophe.
 
@@ -2567,7 +2600,7 @@ type vs data vs newtype
     The 'data' keyword allows you to
     introduce a new algebraic data type, while
     'type' just makes a type synonym.
-    
+
     =newtype= is like =data= in that they both
     create algebraic data types, where =type=
     only creates a type synonym.
@@ -2588,6 +2621,9 @@ type parameter
 
     Maybe a
         data Maybe a = Nothing | Just a
+
+parameterized type
+    https://livebook.manning.com/book/get-programming-with-haskell/chapter-18/
 
 Unit type
     https://en.wikipedia.org/wiki/Unit_type
@@ -2624,3 +2660,168 @@ runCommand
     haskell.
 
     runCommand $ printf "/bin/bash -c \"export SHELL=bash; source ~/.profile || :; sps cava; ffplay -autoexit -showmode 0 -f f32le -ar %f %s\"; killall cava" sampleRate outputFilePath
+
+_
+    The underscore `_` is used as a "*don't
+    care*" variable.
+
+error
+    https://youtu.be/24XK4LPoCXc?t=124
+
+<$>
+    An infix synonym for fmap. The name of
+    this operator is an allusion to $. Note
+    the similarities between their types:
+
+    ($)  ::              (a -> b) ->   a ->   b
+    (<$>) :: Functor f => (a -> b) -> f a -> f b
+    Whereas $ is function application, <$> is function application lifted over a Functor.
+
+    Examples
+
+    Convert from a Maybe Int to a Maybe String using show:
+
+    >>> show <$> Nothing
+    Nothing
+
+    >>> show <$> Just 3
+    Just "3"
+    Convert from an Either Int Int to an Either Int String using show:
+
+    >>> show <$> Left 17
+    Left 17
+
+    >>> show <$> Right 17
+    Right "17"
+    Double each element of a list:
+
+    >>> (*2) <$> [1,2,3]
+    [2,4,6]
+    Apply even to the second element of a pair:
+
+    >>> even <$> (2,2)
+    (2,True)
+
+    https://hoogle.haskell.org/?hoogle=%3C%24%3E&scope=set%3Astackage
+
+layout keywords
+    - let
+    - where
+    - of
+    - do
+
+    https://en.wikibooks.org/wiki/Haskell/Indentation#:~:text=Haskell%20relies%20on%20indentation%20to,a%20couple%20fundamental%20layout%20rules.
+
+_value namespace_
+_type namespace_
+    There are two completely separate
+    namespaces in any Haskell source file:
+    - The value namespace, and
+    - the type namespace.
+
+    The former is where functions, literals,
+    patterns, etc. reside, and the latter is
+    where you’ll find type constructors,
+    typeclasses, and type variables.
+
+::
+(::)
+has type operator
+    [operator]
+
+    The stuff on the left of the operator is
+    in the value namespace, and the stuff on
+    the right is in the type namespace, as in
+    5 :: Int.
+
+NamedFieldPuns
+    https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#record-puns
+    
+    When using records, it is common to write
+    a pattern that binds a variable with the
+    same name as a record field, such as:
+    
+        data C = C {a :: Int}
+        f (C {a = a}) = a
+
+    Record punning permits the variable name
+    to be elided, so one can simply write
+    
+        f (C {a}) = a
+
+    to mean the same pattern as above. That
+    is, in a record pattern, the pattern a
+    expands into the pattern a = a for the
+    same name a.    
+
+lambda calculus
+λ calculus
+    A formal system in mathematical logic for
+    expressing computation based on function
+    abstraction and application using variable
+    binding and substitution.
+    
+    It is a universal model of computation
+    that can be used to simulate any Turing
+    machine.
+    
+    It was introduced by the mathematician
+    Alonzo Church in the 1930s as part of his
+    research into the foundations of
+    mathematics.
+
+beta reduction
+β reduction
+    [lambda calculus]
+
+    The process of calculating a result from
+    the application of a function to an
+    expression.
+
+cradle
+    [#hie]
+    [#hie.yaml]
+
+    https://www.stackage.org/haddock/nightly-2021-02-05/hie-bios-0.7.2/HIE-Bios-Cradle.html
+
+HIE Bios
+hie-bios
+    [#hie]
+
+    Provides an abstraction over the GHC Api
+    to initialise a GHC session and loading
+    modules in a project.
+
+    Defines the `hie.yaml` file specification.
+    This is used to explicitly configure how a
+    project should be built by GHC.
+
+hie.yaml
+    [#hie]
+    [specification]
+
+    Used to explicitly configure how a project
+    should be built by GHC.
+
+>>=
+bind
+    One of the operators of Monad.
+
+MINIMAL
+    The MINIMAL comment here means that
+    there is only one function that we need in
+    order to have a Monad, (>>=), the bind
+    operator.
+
+      ghciol ":i Monad"
+
+      {-# MINIMAL (>>=) #-}
+
+instance
+    This output also shows that Maybe and IO
+    are instances of Monad.
+
+      ghciol ":i Monad"
+
+      instance Monad Maybe -- Defined in ‘GHC.Base’
+      instance Monad IO -- Defined in ‘GHC.Base’

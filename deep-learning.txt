@@ -169,12 +169,42 @@ Batching
 
     https://www.marktechpost.com/2020/04/12/implementing-batching-for-seq2seq-models-in-pytorch/
 
+autoregression
 autoregressive model
+autoregressive
+auto-regressive
+auto-regression
+    [#statistics]
+    [#econometrics]
+    [#signal processing]
+
+    The way these models actually work is that
+    after each token is produced, that token
+    is added to the sequence of inputs.
+    
+    And that new sequence becomes the input to
+    the model in its next step.
+    
+    This is an idea called auto-regression
+
+    Examples:
+    - RNN
+    - Transformer   
+
     An autoregressive model is a
     representation of a type of random
     process; as such, it is used to describe
     certain time-varying processes in nature,
     economics, etc.
+
+    A time series model that uses observations
+    from previous time steps as input to a
+    regression equation to predict the value
+    at the next time step.
+    
+    It is a very simple idea that can result
+    in accurate forecasts on a range of time
+    series problems.
 
 Weight Agnostic Neural Networks
     https://ai.googleblog.com/2019/08/exploring-weight-agnostic-neural.html

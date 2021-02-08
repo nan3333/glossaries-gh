@@ -14,3 +14,6 @@ gluteal muscles
     
     The three muscles originate from the ilium
     and sacrum and insert on the femur.
+
+    
+    [[/home/shane/glossaries/haskell.txt][glossaries/haskell.txt]]

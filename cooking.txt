@@ -1,3 +1,11 @@
+parchment paper
+baking paper
+bakery paper
+    Grease proof paper that is used in baking
+    and cooking as it provides a
+    heat-resistant, non-stick surface to bake
+    on.
+
 iron egg
     https://cooking.stackexchange.com/q/909
 
@@ -13,3 +21,13 @@ iron egg
     It has been said to taste "sweet, spicy
     and slightly salty with a concentrated egg
     flavour—a great snack with drinks".
+
+paring knife
+    A small, short-bladed knife, used for
+    intricate cutting, peeling, mincing and
+    dicing.
+    
+    The blades are simple, sharp and precise.
+    
+    Ideal for: Peeling and cutting small fruit
+    and vegetables.

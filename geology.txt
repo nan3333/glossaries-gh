@@ -14,3 +14,13 @@ ventifact
     A rock that has been abraded, pitted,
     etched, grooved, or polished by wind-
     driven sand or ice crystals.
+
+serpentinization
+    A processes whereby rock (usually
+    ultramafic) is changed, with the addition
+    of water into the crystal structure of the
+    minerals found within the rock.
+    
+    A common example is the serpentinization
+    of peridotite (or dunite) into
+    serpentinite (the metamorphic equivalent).

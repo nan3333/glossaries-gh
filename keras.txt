@@ -130,3 +130,15 @@ fit()
 
     FILE
         /usr/local/lib/python2.7/dist-packages/keras/engine/training.py::825
+
+TextVectorization
+    This layer has basic options for managing
+    text in a Keras model.
+    
+    It transforms a batch of strings (one
+    sample = one string) into either a list of
+    token indices (one sample = 1D tensor of
+    integer token indices) or a dense
+    representation (one sample = 1D tensor of
+    float values representing data about the
+    sample's tokens).

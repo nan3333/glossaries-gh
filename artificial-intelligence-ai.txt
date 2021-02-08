@@ -38,3 +38,118 @@ Artificial Neural Networks
     unsupervised.
 
     ewwlinks +/"non-deterministic" "https://www.extremetech.com/extreme/215170-artificial-neural-networks-are-changing-the-world-what-are-they"
+
+Reinforcement learning
+RL
+    An area of ML concerned with how
+    intelligent agents ought to take actions
+    in an environment in order to maximize the
+    notion of cumulative reward.
+    
+    RL is one of three basic ML paradigms,
+    alongside supervised learning and
+    unsupervised learning.
+
+    Basically, it deals with learning via
+    interaction and feedback, or in other
+    words learning to solve a task by trial
+    and error, or in other-other words acting
+    in an environment and receiving rewards
+    for it.
+    
+    Essentially an agent (or several) is built
+    that can perceive and interpret the
+    environment in which is placed,
+    furthermore, it can take actions and
+    interact with it.
+
+    Example:
+        Your cat is an agent that is exposed
+        to the environment.
+        
+        The biggest characteristic of this
+        method is that there is no supervisor,
+        only a real number or reward signal.
+        
+        Two types of RL are 1) Positive 2)
+        Negative.
+
+Agent
+    The learner and the decision maker.
+
+Environment
+    Where the agent learns and decides what
+    actions to perform.
+
+Action
+    A set of actions which the agent can
+    perform.
+
+State
+    The state of the agent in the environment.
+
+Reward
+    For each action selected by the agent the
+    environment provides a reward. Usually a
+    scalar value.
+
+Policy
+    The decision-making function (control
+    strategy) of the agent, which represents a
+    mapping from situations to actions.
+
+Value function
+    Mapping from states to real numbers, where
+    the value of a state represents the
+    long-term reward achieved starting from
+    that state, and executing a particular
+    policy.
+
+Function approximator
+    Refers to the problem of inducing a
+    function from training examples. Standard
+    approximators include decision trees,
+    neural networks, and nearest-neighbor
+    methods
+
+Markov decision process
+MDP
+    A probabilistic model of a sequential
+    decision problem, where states can be
+    perceived exactly, and the current state
+    and action selected determine a
+    probability distribution on future states.
+    Essentially, the outcome of applying an
+    action to a state depends only on the
+    current action and state (and not on
+    preceding actions or states).
+
+Dynamic programming
+DP
+    Is a class of solution methods for solving
+    sequential decision problems with a
+    compositional cost structure. Richard
+    Bellman was one of the principal founders
+    of this approach.
+
+Monte Carlo methods
+    A class of methods for learning of value
+    functions, which estimates the value of a
+    state by running many trials starting at
+    that state, then averages the total
+    rewards received on those trials.
+
+Temporal Difference algorithms
+TD algorithms
+    A class of learning methods, based on the
+    idea of comparing temporally successive
+    predictions. Possibly the single most
+    fundamental idea in all of reinforcement
+    learning.
+
+Model
+    The agent's view of the environment, which
+    maps state-action pairs to probability
+    distributions over states. Note that not
+    every reinforcement learning agent uses a
+    model of its environment

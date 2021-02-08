@@ -474,3 +474,25 @@ loc
     Allows you to navigate in your tree and
     when you end up in a certain location, you
     can start making changes.
+
+beta reduction
+
+beta normal form
+    There are multiple normal forms in lambda
+    calculus, but here when we refer to normal
+    form we mean beta normal form.
+    
+    Beta normal form is when you cannot beta
+    reduce (apply lambdas to arguments) the
+    terms any further.
+    
+    This corresponds to a fully evaluated
+    expression, or, in programming, a fully
+    executed program.
+    
+    This is important to know so that you know
+    when you’re done evaluating an expression.
+    
+    It’s also valuable to have an appreciation
+    for evaluation as a form of simplification
+    when you get to the Haskell code as well.

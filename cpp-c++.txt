@@ -41,3 +41,6 @@ Conan
     and if binaries are built from sources,
     that compilation is also done by the
     client application.
+
+latches
+    http://modernescpp.com/index.php/latches-in-c-20

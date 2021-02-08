@@ -1,3 +1,6 @@
+abstraction
+    ~/Calibre Library/Unknown/HaskellBook (9)/HaskellBook - Unknown.pdf
+
 untyped lambda calculus
     14:21 < bpalmer> the lambda calculus that
     people usually pay attention to is the

@@ -275,3 +275,19 @@ acceptor functions
 
 hashembed
     https://support.prodi.gy/t/can-you-explain-how-exactly-hashembed-works/564/2
+
+Entity Linking
+EL
+    Disambiguating textual entities to unique
+    identifiers in a knowledge base.
+
+Dependency Parsing
+    Assigning syntactic dependency labels,
+    describing the relations between
+    individual tokens, like subject or object.
+
+Lemmatization
+    Assigning the base forms of words.
+
+    For example, the lemma of was is be, and
+    the lemma of rats is rat.    

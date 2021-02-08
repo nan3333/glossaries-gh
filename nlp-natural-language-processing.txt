@@ -1278,6 +1278,17 @@ Bidirectional Encoder Representations from Transformers
         Trained on Wikipedia + BookCorpus. No
         special dataset needed.
 
+    The GPT2, and some later models like
+    TransformerXL and XLNet are auto-
+    regressive in nature. BERT is not. That is
+    a trade off. In losing auto-regression,
+    BERT gained the ability to incorporate the
+    context on both sides of a word to gain
+    better results. XLNet brings back
+    autoregression while finding an
+    alternative way to incorporate the context
+    on both sides.
+
 hard labels
 one-hot labels
     All the probability is concentrated in the
@@ -1959,3 +1970,9 @@ synoname
     from every language edition of Wikipedia
     and map them across language editions.
     
+Part-of-speech
+POS
+Part-of-speech Tagging
+POS Tagging
+    Assigning word types to tokens, like verb
+    or noun.

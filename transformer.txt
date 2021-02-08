@@ -1,0 +1,59 @@
+temperature
+    [#GPT]
+
+    Float value controlling randomness in
+    boltzmann distribution.
+    
+    Lower temperature results in less random
+    completions.
+    
+    As the temperature approaches zero, the
+    model will become deterministic and
+    repetitive.
+    
+    Higher temperature results in more random
+    completions.
+
+causal masking
+    [[https://keras.io/examples/generative/text_generation_with_miniature_gpt/][Text generation with a miniature GPT]]
+    [[https://datascience.stackexchange.com/questions/65067/proper-masking-in-the-transformer-model][nlp - Proper masking in the transformer model - Data Science Stack Exchange]]
+
+    Self-attention causality: in the multi-
+    head attention blocks used in the decoder,
+    this mask is used to force predictions to
+    only attend to the tokens at previous
+    positions, so that the model can be used
+    autoregressively at inference time.
+    
+    This corresponds to parameter `attn_mask`.
+
+transformer block
+block
+    The original transformer model is made up
+    of an encoder and decoder – each is a
+    stack of what we can call transformer
+    blocks.
+
+    Both the encoder stack and the decoder
+    stack are each made up of consecutive
+    transformer blocks.
+
+    http://jalammar.github.io/illustrated-gpt2/
+
+    GPT-2 is built using transformer decoder
+    blocks.
+
+    BERT, on the other hand, uses transformer
+    encoder blocks
+
+encoder block
+    [#transformer block]
+
+decoder block
+    [#transformer block]
+
+    Has a small architectural variation from
+    the encoder block.
+
+stack
+    A stack of transformer blocks.

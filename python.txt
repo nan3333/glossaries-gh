@@ -1,3 +1,9 @@
+trimesh
+    [library]
+
+    Library for loading and using triangular
+    meshes.
+
 uvloop
     A fast, drop-in replacement of the built-
     in asyncio event loop.
@@ -943,3 +949,18 @@ anaconda
     We are a movement of data scientists,
     data-driven enterprises, and open source
     communities.
+
+ipywidgets
+    Widgets for Jupyter notebooks, JupyterLab
+    and the IPython kernel.
+
+del
+    The del keyword is used to delete objects.
+
+    In Python everything is an object, so the
+    del keyword can also be used to delete
+    variables, lists, or parts of a list etc.        
+
+    Examples:        
+        Delete from a dictionary.
+            del self.examples[id]

@@ -10,10 +10,10 @@ Terragrunt
 Execution Plan
     Terraform has a "planning" step where it
     generates an execution plan.
-
+    
     The execution plan shows what Terraform
     will do when you call apply.
-
+    
     This lets you avoid any surprises when
     Terraform manipulates infrastructure.
 
@@ -21,22 +21,22 @@ Execution Plan
         vim +/"Plan (verb)" "$NOTES/ws/terraform/glossary.txt"
         vim +/"Plan (noun, 1)" "$NOTES/ws/terraform/glossary.txt"
 
-Resource Graph
+Resource Graph 
     Terraform builds a graph of all your
     resources, and parallelizes the creation
     and modification of any non-dependent
     resources.
-
+    
     Because of this, Terraform builds
     infrastructure as efficiently as possible,
     and operators get insight into
     dependencies in their infrastructure.
 
-Change Automation
+Change Automation 
     Complex changesets can be applied to your
     infrastructure with minimal human
     interaction.
-
+    
     With the previously mentioned execution
     plan and resource graph, you know exactly
     what Terraform will change and in what
@@ -48,7 +48,7 @@ Application Programming Interface
     Any interface designed to allow
     programatic manipulation of some kind of
     software system.
-
+    
     For most software developers today, the
     most common kinds of APIs are based on
     HTTP requests.
@@ -124,12 +124,12 @@ Argument
     Most of a Terraform configuration consists
     of using arguments to configure Terraform
     resources.
-
+    
     Each resource type defines the arguments
     its resources can use, the allowed values
     for each argument, and which arguments are
     required or optional.
-
+    
     Information about a given resource type
     can be found in the docs for that
     resource's provider.
@@ -143,7 +143,7 @@ Attribute
 
     A named piece of data that belongs to some
     kind of object.
-
+    
     The value of an attribute can be
     referenced in expressions using a dot-
     separated notation, like
@@ -162,18 +162,18 @@ Backend
     determines how Terraform stores state and
     performs operations (like plan, apply,
     import, etc.).
-
+    
     Terraform has multiple backends to choose
     from, which can be configured in a variety
     of ways.
-
+    
     Backends are not plugins, so it is not
     possible to install additional backends.
 
     In a general CS sense, a backend is any
     lower-level implementation that enables a
     higher-level feature.
-
+    
     But in the context of Terraform, "backend"
     always means the built-in code that
     handles state and operations.
@@ -267,12 +267,12 @@ Commit
     specific branch (or group of branches with
     shared history) and at a specific moment
     in time.
-
+    
     Each commit also records the identity of
     its parent(s), which enables viewing the
     entire history of the repo up to any
     specific moment.
-
+    
     Additionally, comparing a commit to its
     parent(s) can reveal the exact changes
     introduced by that commit; if those
@@ -288,7 +288,7 @@ config
     Code written in Terraform's configuration
     language that declaratively describes the
     desired state of your infrastructure.
-
+    
     A complete config consists of a root
     module, which can optionally call any
     number of child modules.
@@ -302,7 +302,7 @@ Configuration Version
 
     The contents of a Terraform config at a
     specific moment in time.
-
+    
     This concept only applies to Terraform
     Cloud, since the Terraform CLI doesn't
     have visibility into repeated runs for a
@@ -317,7 +317,7 @@ Configuration Version
     workspace's repo, uploaded via the API, or
     uploaded by running terraform plan or
     terraform apply as a remote operation.
-
+    
     Adding a new config version is sometimes
     called "ingressing."
 
@@ -325,15 +325,15 @@ Cost Estimation
     [#Terraform Cloud]
 
     Part of a run.
-
+    
     After gathering the plan file for a run,
     Terraform Cloud uses plan data to estimate
     costs for each resource found in the plan.
-
+    
     Previous and proposed resources are given
     estimated costs, providing an estimated
     delta cost between the two.
-
+    
     The results can be used in Sentinel
     policies.
 
@@ -365,19 +365,19 @@ Deposed
     marked for deletion, but still remains in
     the Terraform state and infrastructure due
     an error from a previous apply.
-
+    
     Terraform expected to replace the existing
     resource by creating a new resource, then
     destroying the existing resource, but an
     error occurred in the apply before the
     destruction.
-
+    
     Existing references to the resource refer
     to the new resource.
-
+    
     Terraform will destroy the deposed
     resource on the next apply.
-
+    
     This only can occur in resource
     configurations that have the lifecycle
     configuration block create_before_destroy
@@ -421,7 +421,7 @@ forked repo
     Terraform Cloud makes extensive use of VCS
     repos, and assumes that forks of a trusted
     repo are not necessarily trusted.
-
+    
     As such, Terraform Cloud avoids evaluating
     any code from external forks, which
     prevents Terraform Cloud from running
@@ -432,14 +432,14 @@ Git
     A distributed version control system for
     tracking changes in source code during
     software development.
-
+    
     It is designed for coordinating work among
     programmers, but it can be used to track
     changes in any set of files.
 
 HCL
     HashiCorp Configuration Language.
-
+    
     The structured configuration syntax that
     serves as the basis for Terraform's
     configuration language, as well as the
@@ -449,7 +449,7 @@ HCL
     HCL establishes the syntax Terraform uses
     for things like arguments, blocks, literal
     values, and expressions.
-
+    
     But what most people think of as the
     Terraform language extends beyond just the
     syntax; the built-in functions, Terraform-
@@ -1438,7 +1438,7 @@ tfstate
     This state file contains information about
     the provisioned infrastructure which
     terraform manage.
-
+    
     Whenever we change the configuration file,
     it automatically determines which part of
     your configuration is already created and

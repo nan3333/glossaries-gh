@@ -1,0 +1,59 @@
+prompt design
+prompt engineering
+    You have to pay attention to what model
+    you’re creating it for.
+    
+    Generally, Davinci can understand any
+    prompt a faster model can use, but the
+    reverse is definitely not true.
+
+davinci
+    [#model of the GPT-3 family]
+
+    https://andrewmayneblog.wordpress.com/2020/10/25/overclocking-openais-gpt-3/
+
+    Misspell “Batman” as “Batmn”, Davinci had
+    your back.
+    
+    Give it one wrong example out of ten and
+    Davinci can probably figure out what you
+    meant (although at a performance cost you
+    might notice later down the line.)
+
+ada
+    [#model of the GPT-3 family]
+
+    Ada, the fastest, costs 1/75 the price per
+    API call as Davinci.
+
+    - Faster responses
+    - Costs less
+
+babbage
+    [#model of the GPT-3 family]
+
+curie
+    [#model of the GPT-3 family]
+
+    Curie isn’t as intuitive as Davinci but is
+    much faster and costs 1/10 the price of
+    Davinci to use.
+
+max_tokens
+    Integer, the number of tokens to be
+    generated after prompt.
+
+
+GTP-3 Instruct
+davinci-instruct
+    https://beta.openai.com/docs/engines/the-instruct-series-beta
+
+    GPT-3 Instruct (in particular,
+    davinci-instruct ) lets you give specific
+    instructions, like "Only respond in
+    correct SQL syntax", that guides GPT-3's
+    responses. If you're interested in trying
+    it out, you can sign up for the waitlist
+    for the GPT-3 API here . 
+
+    https://beta.openai.com/playground?model=davinci-instruct-beta

@@ -38,3 +38,30 @@ SRE
     "what happens when a software engineer is
     tasked with what used to be called
     operations."
+
+essential complexity
+    https://www.simplethread.com/why-does-it-take-so-long-to-build-software/
+
+    This is the complexity that is wrapped up
+    in the problem.
+    
+    You can’t solve the problem without
+    tackling this complexity.
+    
+    This is also sometimes referred to as
+    inherent complexity.
+
+accidental complexity
+    https://www.simplethread.com/why-does-it-take-so-long-to-build-software/
+
+    This is the complexity that comes along
+    with the approach and tools that you use
+    to solve a problem.
+    
+    This complexity isn’t part of the actual
+    problem you’re solving, this is the
+    complexity that you bring in with your
+    solution.
+    
+    This is sometimes referred to as
+    incidental complexity.

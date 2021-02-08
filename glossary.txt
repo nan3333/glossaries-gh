@@ -12080,7 +12080,31 @@ energy economics
     thermodynamics deals with energy exchanges
     of all types, it can be called energetics.
 
+world line
+worldline
+    The world line (or worldline) of an object
+    is the path that object traces in
+    4-dimensional spacetime.
+    
+    It is an important concept in modern
+    physics, and particularly theoretical
+    physics.
+    
+    The concept of a "world line" is
+    distinguished from concepts such as an
+    "orbit" or a "trajectory" (e.g., a
+    planet's orbit in space or the trajectory
+    of a car on a road) by the time dimension,
+    and typically encompasses a large area of
+    spacetime wherein perceptually straight
+    paths are recalculated to show their
+    (relatively) more absolute position
+    states—to reveal the nature of special
+    relativity or gravitational interactions.
+
 closed timeline curve
+    [world line]
+
     A method of travelling into the past.
 
     A closed timelike curve is a world line in
@@ -12361,6 +12385,16 @@ decipherment
     language to describe attempts to read poor
     handwriting.
 
+sardonic
+sardonically
+    Disdainfully or skeptically humorous :
+    derisively mocking.
+
+derisively
+    In a manner expressing contempt or
+    ridicule.
+    "she snorted derisively at him"
+
 louvre
 louver
     Arrangement of parallel, horizontal
@@ -12460,3 +12494,241 @@ pow-wow
     their cultures.
     
     Pow wows may be private or public.
+
+Smithsonian
+Smithsonian Institution
+United States National Museum
+    The world's largest museum and research
+    complex, with 19 museums, 9 research
+    centers, and affiliates around the world.
+
+    It was founded on August 10, 1846, "for
+    the increase and diffusion of knowledge".
+    
+    The institution is named after its
+    founding donor, British scientist James
+    Smithson.
+    
+    It was originally organized as the "United
+    States National Museum", but that name
+    ceased to exist as an administrative
+    entity in 1967.
+
+Selkie
+    In Norse and Celtic mythology, selkies or
+    selkie folk meaning "seal folk" are
+    mythological beings capable of
+    therianthropy, changing from seal to human
+    form by shedding their skin.
+    
+    They are found in folktales and mythology
+    originating from the Northern Isles of
+    Scotland.
+
+termopolium
+    Latin for hot drinks counter.
+
+Island of Hawaiʻi
+the Big Island
+Hawaiʻi Island
+Hawaiʻi
+    The largest island located in the U.S.
+    state of Hawaii.
+
+The Comedy of Errors
+    One of William Shakespeare's early plays.
+    
+    It is his shortest and one of his most
+    farcical comedies, with a major part of
+    the humour coming from slapstick and
+    mistaken identity, in addition to puns and
+    word play.
+
+frustrate with words
+    Sometimes to contradict is to frustrate
+    with words, like when one person says
+
+    "The sky is blue" and another says "No,
+    it's azure."
+
+arguing semantics
+    Refers to a form of linguistic
+    nit-picking.
+
+    It used to refer to a concerted attempt to
+    decipher the true meaning of a word.
+
+    "...the representative of the various
+    departments spend too much time and mental
+    energy arguing semantics and unimportant
+    detail."
+
+plant breeding
+    The science of changing the traits of
+    plants in order to produce desired
+    characteristics.
+    
+    It has been used to improve the quality of
+    nutrition in products for humans and
+    animals.
+
+cortisol
+    The stress chemical in your blood.
+
+reflux
+    [chemistry]
+
+    Heating the chemical reaction for a
+    specific amount of time, while continually
+    cooling the vapour produced back into
+    liquid form, using a condenser.
+    
+    The vapours produced above the reaction
+    continually undergo condensation,
+    returning to the flask as a condensate.
+
+tour of duty
+    Usually a period of time spent in combat
+    or in a hostile environment.
+    
+    In an army, for instance, soldiers on
+    active duty serve 24 hours a day, seven
+    days a week for the length of their
+    service commitment.
+    
+    Soldiers in World War II were deployed for
+    the entire war and could be in active
+    service for 4-5 years.
+
+commodity currency
+    A currency that co-moves with the world
+    prices of primary commodity products, due
+    to these countries' heavy dependency on
+    the export of certain raw materials for
+    income.
+    
+    Commodity currencies are most prevalent in
+    developing countries (eg.  Burundi,
+    Tanzania, Papua New Guinea).
+
+Patagonia
+    Located at the southern end of South
+    America, Patagonia is a territory shared
+    by the countries of Chile and Argentina.
+
+photographic memory
+eidetic memory
+    The ability to see an object soon after
+    you look away.
+    
+    For most people, the image lasts mere
+    seconds or less than one second.
+    
+    To get an idea of how well your brain
+    makes use of eidetic memory, look at an
+    object and close your eyes, and see how
+    long you can still see the object in your
+    mind's eye.
+
+WET principle
+    Better than the DRY principle, for
+    designing languages (in my opinion).
+
+    https://qvault.io/2021/01/25/the-pros-and-cons-of-dry-code/
+
+Pais Effect
+    Comprises the generation of extremely high
+    electromagnetic energy fluxes (and hence
+    high local energy densities) generated by
+    controlled motion of electrically charged
+    matter (from solid to plasma states)
+    subjected to accelerated vibration and/or
+    accelerated spin, via rapid acceleration
+    transients.
+
+Hermeneutic analysis
+    https://koppa.jyu.fi/avoimet/hum/menetelmapolkuja/en/methodmap/data-analysis/hermeneutic-analysis
+
+    A name for various methods of analysis,
+    which are based on interpreting.
+    
+    The strategy forms an opposite to those
+    research strategies which stress
+    objectivity and independence of
+    interpretations in the formation of
+    knowledge.
+    
+    Hermeneutic research includes various
+    different approaches.
+    
+    Methods of analysis may also vary, and in
+    different disciplines discipline-specific
+    methods exist for interpreting phenomena.
+    
+    Hermeneutic analysis enables you to elicit
+    an in-depth understanding of meanings of,
+    for example: human practices, culture,
+    works of art and texts.
+    
+    Understanding is produced through
+    systematic interpretation processes.
+    
+    These processes are known as a hermeneutic
+    circle Interpretation of details affects
+    the interpretation of the entire
+    phenomenon; reviews of these
+    interpretations produce a deepening
+    understanding of the phenomenon.
+    
+    You can combine hermeneutic analysis with
+    other methods of analysis that aim to
+    interpret and understand meanings.
+    
+    A combination of the rules of hermeneutics
+    and phenomenology forms phenomenological
+    hermeneutic analysis.
+    
+    Hermeneutic analysis also forms the basis
+    of various discipline-specific methods of
+    analysis and close readings methods.
+
+stammer
+    Speak with sudden involuntary pauses and a
+    tendency to repeat the initial letters of
+    words.
+    "he turned red and started stammering"
+
+Hadean
+The Hadean
+    [Geologic time period]
+
+    A geologic eon of the Earth pre-dating the
+    Archean.
+    
+    It began with the formation of the Earth
+    about 4.6 billion years ago and ended, as
+    defined by the International Commission on
+    Stratigraphy, 4 billion years ago.
+    
+    As of 2016, the ICS describes its status
+    as "informal".
+
+sabot
+    [#firearms]
+
+    A sabot is a supportive device used in
+    firearm/artillery ammunitions to fit/patch
+    around a projectile, such as a bullet/slug
+    or a flechette-like projectile, and keep
+    it aligned in the center of the barrel
+    when fired.
+
+    https://youtu.be/O2QqOvFMG_A?t=33
+
+reality distortion field
+RDF
+    A term first used by Bud Tribble at Apple
+    Computer in 1981, to describe company
+    co-founder Steve Jobs' charisma and its
+    effects on the developers working on the
+    Macintosh project.
