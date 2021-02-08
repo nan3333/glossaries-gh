@@ -18,3 +18,41 @@ block height
     The total height of the blockchain is
     taken to be the height of the most recent
     block, or the highest block, in the chain.
+
+Ethereum
+    [cryptocurrency]
+    [blockchain system]
+
+    Based on the use of tokens, which can be
+    bought, sold, or traded.
+    
+token
+    Represent a diverse range of digital
+    assets, such as vouchers, IOUs, or even
+    real-world, tangible objects.
+    
+    Essentially, Ethereum tokens are smart
+    contracts that make use of the Ethereum
+    blockchain.
+
+ERC-20
+    One of the most significant tokens is
+    called ERC-20, which has emerged as the
+    technical standard used for all smart
+    contracts on the Ethereum blockchain for
+    token implementation.
+
+    Plenty of well-known digital currencies
+    use the ERC-20 standard, including Maker
+    (MKR), Basic Attention Token (BAT), Augur
+    (REP), and OmiseGO (OMG).
+
+    ERC-20 is similar, in some respects, to
+    bitcoin, Litecoin, and any other
+    cryptocurrency; ERC-20 tokens are
+    blockchain-based assets that have value
+    and can be sent and received.
+    
+    The primary difference is that instead of
+    running on their own blockchain, ERC-20
+    tokens are issued on the Ethereum network.

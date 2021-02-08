@@ -8921,3 +8921,36 @@ collateralization
     Collateralization of assets gives lenders
     a sufficient level of reassurance against
     default risk.
+
+ere
+    [preposition]
+
+    Before (a specified time).
+
+    "we hope you will return ere long"
+
+    [conjunction]
+
+    "I was driven for some half mile ere we
+    stopped"
+
+ineffable
+    Too great or extreme to be expressed or
+    described in words.
+
+    "the ineffable mysteries of the soul"
+
+qualia
+    [philosophy]
+    [psychology]
+
+    Individual instances of subjective,
+    conscious experience.
+
+    https://youtu.be/evQsOFQju08?t=165
+
+explanatory gap
+    Our inability to connect physical
+    phenomenon to these raw feelings, our
+    inability to explain and share our own
+    internal qualia.

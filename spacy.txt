@@ -291,3 +291,10 @@ Lemmatization
 
     For example, the lemma of was is be, and
     the lemma of rats is rat.    
+
+GoldParse
+spacy.gold
+    It's outdated.
+
+    https://spacy.io/api/top-level
+    https://spacy.io/api/corpus
