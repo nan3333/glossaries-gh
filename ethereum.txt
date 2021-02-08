@@ -1,0 +1,20 @@
+Decentralized finance
+DeFi
+    The nickname of financial smart contracts,
+    decentralized applications (DApps), and
+    protocols built on Ethereum.
+    
+    Financial DApps are the hottest use case
+    of Ethereum at the given moment.
+
+block height
+    The block height of a particular block is
+    defined as the number of blocks preceding
+    it in the blockchain.
+
+    A blockchain contains a series of blocks,
+    hence the name blockchain.
+
+    The total height of the blockchain is
+    taken to be the height of the most recent
+    block, or the highest block, in the chain.
