@@ -8941,8 +8941,8 @@ ineffable
     "the ineffable mysteries of the soul"
 
 qualia
-    [philosophy]
-    [psychology]
+    [#philosophy]
+    [#psychology]
 
     Individual instances of subjective,
     conscious experience.
@@ -8954,3 +8954,69 @@ explanatory gap
     phenomenon to these raw feelings, our
     inability to explain and share our own
     internal qualia.
+
+trending
+    Currently popular or widely discussed
+    online, especially on social media
+    websites.
+
+    "today's top trending topics"
+
+moniker
+    A name.
+
+    "his real moniker is Dave Kennedy"
+
+    "he got his moniker by..."
+
+sepulchral
+    Relating to a tomb or interment.
+    "sepulchral monuments"
+
+    Gloomy; dismal.
+    "a speech delivered in sepulchral tones"
+
+squall
+    A loud cry.
+    "he emitted a short mournful squall"
+
+    A sudden violent gust of wind or localized
+    storm, especially one bringing rain, snow,
+    or sleet.
+    "low clouds and squalls of driving rain"
+
+pall
+    A dark cloud of smoke, dust, etc.
+    "a pall of black smoke hung over the
+    quarry"
+
+    "an unexpected death would cast a slight
+    pall on our meeting"
+
+credulity
+    Credulity is a person's willingness or
+    ability to believe that a statement is
+    true, especially on minimal or uncertain
+    evidence.
+    
+    Credulity is not necessarily a belief in
+    something that may be false: the subject
+    of the belief may even be correct, but a
+    credulous person will believe it without
+    good evidence.
+
+    "it would strain credulity at that"
+
+keeping mum
+mum
+    Mum is an adjective that means keeping
+    quiet.
+    
+    It can also be used by itself to mean Be
+    quiet!
+    
+    This sense of mum is especially used in
+    the expressions keep mum and mum's the
+    word.
+
+    "he was mum on that"

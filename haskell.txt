@@ -2837,11 +2837,15 @@ div
 
     Integral division, round down.
 
+    (div x y)*y + (mod x y) == x
+
 quot
 quotient
     [operator]
 
     Integral division, round towards zero.
+
+    (quot x y)*y + (rem x y) == x
 
 rem
 remainder

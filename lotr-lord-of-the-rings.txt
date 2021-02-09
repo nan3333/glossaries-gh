@@ -381,3 +381,16 @@ Arathorn I
     His rule was largely an uneventful one, as
     the Dúnedain and other peoples of Eriador
     were recovering from the Long Winter. 
+
+Tom Bombadil
+    [Lord Of The Rings character]
+
+    A character in J. R. R. Tolkien's
+    legendarium.
+    
+    He first appeared in print in a 1934 poem
+    called The Adventures of Tom Bombadil,
+    which also included the Lord of the Rings
+    characters Goldberry, Old Man Willow and
+    the Barrow-wight, from whom Tom rescues
+    the hobbits.
