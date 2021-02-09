@@ -2825,3 +2825,26 @@ instance
 
       instance Monad Maybe -- Defined in ‘GHC.Base’
       instance Monad IO -- Defined in ‘GHC.Base’
+
+mod
+modulo
+    [operator]
+
+    Like ‘rem’, but after modular division.
+
+div
+    [operator]
+
+    Integral division, round down.
+
+quot
+quotient
+    [operator]
+
+    Integral division, round towards zero.
+
+rem
+remainder
+    [operator]
+
+    Remainder after division.

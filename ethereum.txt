@@ -35,7 +35,26 @@ token
     contracts that make use of the Ethereum
     blockchain.
 
+web3
+    https://ethereum.org/en/developers/docs/web2-vs-web3/
+
+    Many Web3 developers have chosen to build
+    dapps because of Ethereum's inherent
+    decentralization:
+
+    - Anyone who is on the network has
+      permission to use the service – or in
+      other words, permission isn't required.
+    - No one can block you or deny you access
+      to the service.
+    - Payments are built in via the native
+      token, ether (ETH).
+    - Ethereum is turing-complete, meaning you
+      can pretty much program anything.
+
 ERC-20
+    https://ethereum.org/en/developers/docs/standards/tokens/erc-20/
+
     One of the most significant tokens is
     called ERC-20, which has emerged as the
     technical standard used for all smart
@@ -56,3 +75,32 @@ ERC-20
     The primary difference is that instead of
     running on their own blockchain, ERC-20
     tokens are issued on the Ethereum network.
+
+    A standard for Fungible Tokens.
+
+    Have a property that makes each Token be
+    exactly the same (in type and value) of
+    another Token.
+    
+    For example, an ERC-20 Token acts just
+    like the ETH, meaning that 1 Token is and
+    will always be equal to all the other
+    Tokens.
+
+    If a Smart Contract implements the
+    following methods and events it can be
+    called an ERC-20 Token Contract and, once
+    deployed, it will be responsible to keep
+    track of the created tokens on Ethereum.
+
+        function name() public view returns (string)
+        function symbol() public view returns (string)
+        function decimals() public view returns (uint8)
+        function totalSupply() public view returns (uint256)
+        function balanceOf(address _owner) public view returns (uint256 balance)
+        function transfer(address _to, uint256 _value) public returns (bool success)
+        function transferFrom(address _from, address _to, uint256 _value) public returns (bool success)
+        function approve(address _spender, uint256 _value) public returns (bool success)
+        function allowance(address _owner, address _spender) public view returns (uint256 remaining)
+        event Transfer(address indexed _from, address indexed _to, uint256 _value)
+        event Approval(address indexed _owner, address indexed _spender, uint256 _value)

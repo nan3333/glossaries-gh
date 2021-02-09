@@ -101,3 +101,18 @@ shouting match
     An argument or debate characterized by the
     loud volume or intensity of the
     participants.
+
+begs the question
+    [#logic]
+    [#prose]
+
+    What does that have to do with anything?
+
+    You use the phrase begs the question when
+    people are hoping you won't notice that
+    their reasons for coming to a conclusion
+    aren't valid and don't provide support to
+    their conclusion.
+
+    It's often used where "raises the
+    question" should be used instead.
