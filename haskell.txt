@@ -2852,3 +2852,10 @@ remainder
     [operator]
 
     Remainder after division.
+
+QualifiedDo
+    https://www.tweag.io/blog/2020-07-13-qualified-do-announcement/
+    https://www.youtube.com/watch?v=TH3cYp3349A
+
+LiftIO
+    https://www.schoolofhaskell.com/user/commercial/content/monad-transformers

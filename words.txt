@@ -8400,7 +8400,11 @@ In sha Allah
     speaking on future events, so it is also
     used to fulfill this Quranic command.
 
-repudiationn
+repudiation
+repudiated
+repudiate
+    Refuse to accept or be associated with.
+
     Rejection of a proposal or idea.
 
     "the repudiation of reformist policies"
@@ -9020,3 +9024,123 @@ mum
     word.
 
     "he was mum on that"
+
+cretinous
+    Foolish or stupid.
+
+    Physically deformed and having learning
+    difficulties as a result of congenital
+    thyroid deficiency.
+
+    "cretinous world of crypto traders" 
+
+coaxing
+    Persistent gentle persuasion.
+    "he refused to return to the game despite
+    the coaxing of his teammates"
+
+    Gently and persistently persuasive.
+    "they speak in a coaxing manner when they
+    want something"
+
+doldrums
+    A state or period of stagnation or
+    depression.
+    "the mortgage market has been in the
+    doldrums for three years"
+
+lummox
+    A clumsy, stupid person.
+    "watch it, you great lummox!"
+
+homunculus
+    A very small human or humanoid creature.
+
+calamy
+calumnies
+    A false statement maliciously made to
+    injure another's reputation.
+
+    The utterance of maliciously false
+    statements; slander.
+
+slander and calamy
+
+contrite
+    Feeling or expressing remorse at the
+    recognition that one has done wrong.
+
+    "a contrite tone"
+
+    "humble and contrite"
+
+collocation
+    [corpus linguistics]
+
+    A collocation is a series of words or
+    terms that co-occur more often than would
+    be expected by chance.
+    
+    [phraseology]
+
+    A sub-type of phraseme.
+    
+    An example of a phraseological
+    collocation, as propounded by Michael
+    Halliday, is the expression strong tea.
+
+    [linguistics]
+
+    The habitual juxtaposition of a particular
+    word with another word or words with a
+    frequency greater than chance.
+
+    "the words have a similar range of
+    collocation"
+
+cack-handed
+    [informal british]
+
+    Inept; clumsy.
+
+    "a great song ruined by cack-handed
+    production"
+
+    "cack-handed deck apes"
+
+broadside
+    A broadside is the side of a ship, the
+    battery of cannon on one side of a
+    warship; or their coordinated fire in
+    naval warfare.
+    
+    From the 16th century until the early
+    decades of the steamship, vessels had rows
+    of guns set in each side of the hull.
+    
+    Firing all guns on one side of the ship
+    became known as a "broadside".
+
+untempered
+    Not moderated or lessened by anything.
+
+    "the products of a technological mastery
+    untempered by political imagination"
+
+enfranchise
+    Give the right to vote to.
+
+surreptitiously
+    In a way that attempts to avoid notice or
+    attention; secretively.
+
+    "Mary surreptitiously slipped from the
+    room"
+
+exfiltrating
+    Withdraw (troops or spies)
+    surreptitiously, especially from a
+    dangerous situation.
+
+    "US special forces agents have all been
+    exfiltrated from Iran"

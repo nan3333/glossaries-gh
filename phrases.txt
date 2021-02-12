@@ -116,3 +116,6 @@ begs the question
 
     It's often used where "raises the
     question" should be used instead.
+
+by and by
+    Before long; eventually.

@@ -104,3 +104,10 @@ ERC-20
         function allowance(address _owner, address _spender) public view returns (uint256 remaining)
         event Transfer(address indexed _from, address indexed _to, uint256 _value)
         event Approval(address indexed _owner, address indexed _spender, uint256 _value)
+
+Non-fungible tokens
+NFT
+    Digital assets that represent a wide range
+    of unique tangible and intangible items,
+    from collectible sports cards to virtual
+    real estate and even digital sneakers.

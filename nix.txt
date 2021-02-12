@@ -71,3 +71,7 @@ nix-env
 Nix expression
     May refer to a file with a Nix expression
     inside.
+
+Cachix
+    Hosted Nix binary caches: Build Nix
+    packages once and share them for good
