@@ -496,3 +496,308 @@ Translation
     used to translate a sentence into another
     language, with only a couple of sentence
     pairs as context.
+
+Fine-tuning
+    [NLP]
+
+    To help a language model like GPT-3
+    perform more specialized tasks you can
+    train it with additional data (like a
+    programming language, domain specific
+    terminology or special classifications.)
+
+Engines
+    The different GPT-3 models the API is able
+    to access:
+    - Ada,
+    - Babbage,
+    - Curie, and
+    - Davinci.
+
+Ada
+    [#OpenAI API]
+    [engine]
+
+    Usually the fastest model and can perform
+    tasks like parsing text, address
+    correction and certain kinds of
+    classification tasks that don’t require
+    too much nuance. Ada’s performance can
+    often be improved by providing more
+    context.
+
+API
+    [#OpenAI API]
+
+    The term used to describe the model as a
+    service platform provided by OpenAI that
+    allows developers to interact with and
+    build applications with GPT-3.
+
+Best Of
+    [#OpenAI API]
+    [API setting]
+
+    Generates multiple completions server-side
+    and displays on the best.
+
+Babbage
+    [#OpenAI API]
+    [engine]
+
+    Can perform straightforward tasks like
+    simple classification.
+    
+    It’s also quite capable when it comes to
+    Semantic Search ranking how well documents
+    match up with search queries.
+
+Curie
+    [#OpenAI API]
+    [engine]
+
+    Extremely powerful, yet very fast.
+    
+    While Davinci is stronger when it comes to
+    analyzing complicated text, Curie is quite
+    capable for many nuanced tasks like
+    sentiment classification and
+    summarization.
+    
+    Curie is also quite good at answering
+    questions and performing Q&A and as a
+    general service chatbot.
+
+Davinci
+    [#OpenAI API]
+    [engine]
+
+    Davinci is the most capable engine and can
+    perform any task the other models can
+    perform and often with less instruction.
+    For applications requiring a lot of
+    understanding of the content, like
+    summarization for a specific audience and
+    content creative generation, Davinci is
+    going to produce the best results.
+
+Echo
+    [#OpenAI API]
+    [API setting]
+
+    An API setting that will concatenate the
+    prompt and the response sent back from the
+    API if set to “True”.
+
+Frequency Penalty
+    [#OpenAI API]
+    [API setting]
+
+    Determines how much penalize tokens that
+    have appeared in the text.
+    
+    This decreases the model’s likelihood to
+    repeat the same text.
+    
+    If your completion is filled with lots of
+    repetition you can increase this setting
+    to prevent that from happening.
+
+GPT-3
+    GPT-3 stands for Generative Pre-trained
+    Transformer 3. It's a language model with
+    175 billion parameters that makes
+    predictions about what should come next in
+    a sequence of text.
+
+Logprobs
+    Include the log probabilities on the
+    logprobs most likely tokens, as well the
+    chosen tokens. For example, if logprobs is
+    10, the API will return a list of the 10
+    most likely tokens. the API will always
+    return the logprob of the sampled token,
+    so there may be up to logprobs+1 elements
+    in the response.
+
+Max tokens
+    An API setting that determines the maximum
+    number of tokens that should be used in
+    the generated response.
+
+Model
+    A model is a collection of trained
+    parameters that can perform a function
+    like predicting text, images or other
+    data.
+
+Nucleus Sampling
+    A method of determining which tokens to
+    use that looks at the combined probability
+    of groups of tokens.
+
+Playground
+    A no-code browser-based interface for the
+    API that lets users experiment with
+    prompts and settings.
+
+Presence Penalty
+    [#OpenAI API]
+    [API setting]
+
+    Indicates how much to favor new tokens in
+    the response text.
+    
+    This increases the likelihood of the model
+    to talk about new topics.
+    
+    Useful in cases where you want the model
+    to be more wide-ranging.
+
+Prompt
+    The text sent to the API. The model uses
+    the prompt to generate a prediction of
+    what text should follow next.
+
+Response length
+    [#OpenAI API]
+    [playground setting]
+
+    Determines the maximum number of tokens
+    that should be used in the generated
+    response.
+
+Semantic Search
+    [#OpenAI API]
+    [API function]
+
+    Allows you to search for documents related
+    to an input query.  The API results a list
+    of scores indicating which documents were
+    most closely related.
+
+Show Probabilities
+    [#OpenAI API]
+    [playground setting]
+
+    Highlights the probability of a generated
+    token.
+
+Stop Sequences
+    [#OpenAI API]
+    [API setting]
+
+    The characters or line breaks used to tell
+    the model to stop generating response
+    text.
+
+Stream
+    [#OpenAI API]
+    [API setting]
+
+    Whether to stream back partial progress.
+
+    If set, tokens will be sent as data-only
+    server-sent events as they become
+    available, with the stream terminated by a
+    data: DONE message.
+
+Tokens
+    A sequence of characters that the model
+    breaks text into and generates responses
+    from.
+    
+    On average a token is equal to four
+    letters or whitespace characters.
+
+prompt
+    Writing out instructions with guiding
+    examples.
+
+    Show the AI a few examples of what you'd
+    like it to do.
+
+stop sequence
+    When it sees this symbol, stop generating
+    completions so it doesn't just trail off.
+
+    The API will continue generating the
+    sequence of text until it generates this.
+
+response length
+    [GPT-3 prompt setting]
+
+    Controls the approximate length of model
+    completions, in words.
+
+start sequence
+    [GPT-3 prompt setting]
+
+    Tells the model what to start the
+    completion with -- you can make this.
+
+restart sequence
+    [GPT-3 prompt setting]
+
+    Tells the model when to restart the
+    sequence.
+
+Temperature
+    [#OpenAI API]
+    [API setting]
+    [GPT-3 prompt setting]
+    [GPT hyperparameter]
+    [#GPT]
+
+    Controls token randomness.
+    
+    A lower setting results in less random
+    completions a higher setting is less
+    deterministic and repetitive.
+    
+    Lower settings are generally better for
+    classification tasks and higher settings
+    for more open-ended responses.
+
+    Float value controlling randomness in
+    boltzmann distribution.
+    
+    Lower temperature results in less random
+    completions.
+    
+    As the temperature approaches zero, the
+    model will become deterministic and
+    repetitive.
+    
+    Higher temperature results in more random
+    completions.
+
+    How much creative liberty the model has.
+
+    The lower the value, the less creative
+    liberty it has.
+
+Top P
+    [#OpenAI API]
+    [API setting]
+    [GPT-3 prompt setting]
+    [GPT hyperparameter]
+    [#GPT]
+
+    Cuts of tokens below a certain probability
+    threshold.
+
+    We generally recommend keeping it set to
+    around 1.
+
+    Similar to temperature, this is an API
+    setting that controls the diversity of
+    tokens considered using nucleus sampling.
+    
+    A lower setting results in less random
+    completions a higher setting is less
+    deterministic and repetitive.
+    
+    Lower settings are generally better for
+    classification tasks and higher settings
+    for more open-ended responses.

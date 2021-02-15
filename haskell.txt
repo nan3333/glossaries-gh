@@ -2803,6 +2803,8 @@ hie.yaml
     Used to explicitly configure how a project
     should be built by GHC.
 
+    https://www.reddit.com/r/haskell/comments/hcu5sf/mystified_by_hieyaml/
+
 >>=
 bind
     One of the operators of Monad.

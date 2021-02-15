@@ -897,6 +897,16 @@ await
     asyncio applications.
 
     ewwlinks +/"async\/await syntax" "https://docs.python.org/3/library/asyncio-task.html"
+        
+        import asyncio
+        
+        async def main():
+            print('Hello ...')
+            await asyncio.sleep(1)
+            print('... World!')
+        
+        # Python 3.7+
+        asyncio.run(main())
 
 p.map
 Pool
@@ -964,3 +974,19 @@ del
     Examples:        
         Delete from a dictionary.
             del self.examples[id]
+
+dotenv
+python-dotenv
+    https://pypi.org/project/python-dotenv/
+
+    Reads the key-value pair from .env file
+    and adds them to environment variable.
+
+    It is great for managing app settings
+    during development and in production using
+    12-factor principles.
+
+Loguru
+    [library]
+
+    Aims to bring enjoyable logging in Python.

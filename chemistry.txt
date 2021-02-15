@@ -119,3 +119,14 @@ inquartation
     copper or silver, granulating the melt so
     as to generate a high surface area and
     then treating with nitric acid.
+
+substrate
+    Typically the chemical species being
+    observed in a chemical reaction, which
+    reacts with a reagent to generate a
+    product.
+    
+    It can also refer to a surface on which
+    other chemical reactions are performed, or
+    play a supporting role in a variety of
+    spectroscopic and microscopic techniques.

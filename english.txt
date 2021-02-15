@@ -1,3 +1,14 @@
+social sanction
+    A social reaction of approval or
+    disapproval in response to someone's
+    actions.
+    
+    Social sanctions enforce a standard of
+    behaviour that is deemed socially
+    acceptable and this is essential for
+    society to regulate itself and maintain
+    order.
+
 autoantonym
     A word that is the opposite of itself.
 

@@ -421,11 +421,6 @@ Sentiment Analysis
 
     Use "Tree-LSTM".
     
-Sequence Tagging
-    [task]
-
-    Use "Bidirectional LSTM-CRF".
-    
 The Dynamic Memory Network
     Performs well consistently across multiple
     domains.
@@ -816,32 +811,6 @@ GNMT
 
     Learns a mapping from an input text to an
     output text.
-
-Sequance to sequance
-Seq2Seq
-    [model]
-
-    Traditional machine translation is
-    basically based on Seq2Seq.
-    
-    Follows a classical encoder decoder
-    structure.
-
-    Divided into the encoder layer and the
-    decoder layer, and is composed of RNN or
-    RNN variants (LSTM, GRU, etc.).
-
-    Learns a mapping from an input text to an
-    output text.
-
-    egr seq2seq vs lstm
-
-    Three components,
-    - Encoder (LSTM),
-    - Decoder (LSTM), and
-    - Attention
-      Used to use recurrent layers.
-      Now attention is all you need.
 
 seq2seq vs lstm
     seq2seq contains 2 LSTMs + at attention.
@@ -1976,3 +1945,90 @@ Part-of-speech Tagging
 POS Tagging
     Assigning word types to tokens, like verb
     or noun.
+
+fine-tuning
+    Take a pre-trained model and update the
+    weights for the new domain; typically only
+    retraining that few layers and/or using
+    lower learning rates.
+
+    "Retrain FastText model with our domain
+    specific vocabulary."
+
+Text Classification
+    Subtasks:
+    - Automated Essay Scoring
+    - Age Suitability Prediction
+    - Natural Language Inference
+    - Paraphrase Identification
+    - Review Scoring
+    - Semantic Textual Similarity
+    - Sentence Embedding
+    - Sentiment Analysis
+    - Zero-shot Topic Classification
+
+Sequence Tagging
+    [task]
+
+    Use "Bidirectional LSTM-CRF".
+
+    Subtasks:
+    
+    - Contextualized Embedding
+    - Dependency Parsing
+    - Fill-in-the-blank
+    - Machine Reading Comprehension
+    - Named Entity Recognition
+    - Part-of-Speech Tagging
+    - Semantic Role Labeling
+
+Sequance to sequance
+Seq2Seq
+    [model]
+    [task]
+
+    Traditional machine translation is
+    basically based on Seq2Seq.
+    
+    Follows a classical encoder decoder
+    structure.
+
+    Divided into the encoder layer and the
+    decoder layer, and is composed of RNN or
+    RNN variants (LSTM, GRU, etc.).
+
+    Learns a mapping from an input text to an
+    output text.
+
+    egr seq2seq vs lstm
+
+    Three components,
+    - Encoder (LSTM),
+    - Decoder (LSTM), and
+    - Attention
+      Used to use recurrent layers.
+      Now attention is all you need.
+
+    Subtasks:
+    - Constituency Parsing
+    - Grammatical Error Correction
+    - Grapheme-to-Phoneme
+    - Phoneme-to-Grapheme
+    - Machine Translation
+    - Paraphrase Generation
+    - Question Generation
+    - Text Summarization
+    - Word Sense Disambiguation
+
+NLP Tasks
+    Misc subtasks:
+    - Automatic Speech Recognition
+    - Image Captioning
+    - Collocation
+    - Lemmatization
+    - Morphological Inflection
+    - Optical Character Recognition
+    - Speech Synthesis
+    - Tokenization
+    - Word Translation
+    - Word Embedding
