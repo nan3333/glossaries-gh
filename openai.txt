@@ -541,6 +541,15 @@ Best Of
     Generates multiple completions server-side
     and displays on the best.
 
+    How many completions to generate on the
+    server side and display the best one.
+
+    Recommended value: 1
+    Min value: 1
+
+    Bump it up to 3 or more for question-
+    answer, translation or summarization.
+
 Babbage
     [#OpenAI API]
     [engine]
@@ -575,6 +584,7 @@ Davinci
     Davinci is the most capable engine and can
     perform any task the other models can
     perform and often with less instruction.
+    
     For applications requiring a lot of
     understanding of the content, like
     summarization for a specific audience and
@@ -593,6 +603,11 @@ Frequency Penalty
     [#OpenAI API]
     [API setting]
 
+    Floating point value.
+
+    Min value: 0
+    Max value: 1
+
     Determines how much penalize tokens that
     have appeared in the text.
     
@@ -603,25 +618,42 @@ Frequency Penalty
     repetition you can increase this setting
     to prevent that from happening.
 
+    How much to penalize new tokens based on
+    their existing frequency in the text so
+    far.
+
+    Decreases the model's likelihood to repeat
+    the same line verbatim.
+
 GPT-3
     GPT-3 stands for Generative Pre-trained
-    Transformer 3. It's a language model with
-    175 billion parameters that makes
-    predictions about what should come next in
-    a sequence of text.
+    Transformer 3.
+    
+    It's a LM with 175 billion parameters that
+    makes predictions about what should come
+    next in a sequence of text.
 
 Logprobs
+    [#OpenAI API]
+    [API setting]
+
     Include the log probabilities on the
     logprobs most likely tokens, as well the
-    chosen tokens. For example, if logprobs is
-    10, the API will return a list of the 10
-    most likely tokens. the API will always
-    return the logprob of the sampled token,
-    so there may be up to logprobs+1 elements
-    in the response.
+    chosen tokens.
+    
+    For example, if logprobs is 10, the API
+    will return a list of the 10 most likely
+    tokens.
+    
+    the API will always return the logprob of
+    the sampled token, so there may be up to
+    logprobs+1 elements in the response.
 
 Max tokens
-    An API setting that determines the maximum
+    [#OpenAI API]
+    [API setting]
+
+    Determines the maximum
     number of tokens that should be used in
     the generated response.
 
@@ -645,6 +677,8 @@ Presence Penalty
     [#OpenAI API]
     [API setting]
 
+    Min value: 0
+
     Indicates how much to favor new tokens in
     the response text.
     
@@ -662,10 +696,58 @@ Prompt
 Response length
     [#OpenAI API]
     [playground setting]
+    [GPT-3 prompt setting]
+
+    Min value: 64
+    Max value: 2048
 
     Determines the maximum number of tokens
     that should be used in the generated
     response.
+
+    Controls the approximate length of model
+    completions, in words.
+    
+    The maximum number of tokens to
+    generate.
+
+    Requests can use up to 2048 tokens shared
+    between prompt and completion.
+
+    One token is roughly 4 characters for
+    normal English text).
+
+stop sequences
+    [#OpenAI API]
+    [API setting]
+
+    The characters or line breaks used to tell
+    the model to stop generating response
+    text.
+
+    When it sees this symbol, stop generating
+    completions so it doesn't just trail off.
+
+    The API will continue generating the
+    sequence of text until it generates this.
+
+start sequence
+    [#OpenAI API]
+    [API setting]
+
+    [GPT-3 prompt setting]
+
+    Tells the model what to start the
+    completion with -- you can make this.
+
+restart sequence
+    [#OpenAI API]
+    [API setting]
+
+    [GPT-3 prompt setting]
+
+    Tells the model when to restart the
+    sequence.
 
 Semantic Search
     [#OpenAI API]
@@ -683,14 +765,6 @@ Show Probabilities
     Highlights the probability of a generated
     token.
 
-Stop Sequences
-    [#OpenAI API]
-    [API setting]
-
-    The characters or line breaks used to tell
-    the model to stop generating response
-    text.
-
 Stream
     [#OpenAI API]
     [API setting]
@@ -702,7 +776,7 @@ Stream
     available, with the stream terminated by a
     data: DONE message.
 
-Tokens
+tokens
     A sequence of characters that the model
     breaks text into and generates responses
     from.
@@ -717,37 +791,16 @@ prompt
     Show the AI a few examples of what you'd
     like it to do.
 
-stop sequence
-    When it sees this symbol, stop generating
-    completions so it doesn't just trail off.
-
-    The API will continue generating the
-    sequence of text until it generates this.
-
-response length
-    [GPT-3 prompt setting]
-
-    Controls the approximate length of model
-    completions, in words.
-
-start sequence
-    [GPT-3 prompt setting]
-
-    Tells the model what to start the
-    completion with -- you can make this.
-
-restart sequence
-    [GPT-3 prompt setting]
-
-    Tells the model when to restart the
-    sequence.
-
 Temperature
     [#OpenAI API]
     [API setting]
     [GPT-3 prompt setting]
     [GPT hyperparameter]
     [#GPT]
+
+    0.9 recommended value.
+    min value: 0
+    max value: 1
 
     Controls token randomness.
     
@@ -784,6 +837,12 @@ Top P
     [GPT hyperparameter]
     [#GPT]
 
+    Floating point value.
+
+    Max value: 1
+    Recommended value: 1
+    Min value: 0
+
     Cuts of tokens below a certain probability
     threshold.
 
@@ -801,3 +860,7 @@ Top P
     Lower settings are generally better for
     classification tasks and higher settings
     for more open-ended responses.
+
+    Controls diversity via nucleus sampling:
+    1.5 means half of all likelihood-weighted
+    options are considered.

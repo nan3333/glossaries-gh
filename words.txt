@@ -9144,3 +9144,14 @@ exfiltrating
 
     "US special forces agents have all been
     exfiltrated from Iran"
+
+paltry
+    A paltry amount of money or of something
+    else is one that you consider to be very
+    small.
+
+pestilential
+    Annoying.
+    "what a pestilential man!"
+
+    "pestilential war"
