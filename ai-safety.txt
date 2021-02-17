@@ -1,8 +1,12 @@
-Explicit bias
+explicit bias
+    [#ai safety]
+
     Where output is clearly toxic (cursing,
     slander).
 
-Implicit bias
+implicit bias
+    [#ai safety]
+
     Where the policy from the output changes
     based on context (e.g. opposition to
     programs that help certain groups,
