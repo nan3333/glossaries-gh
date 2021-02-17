@@ -665,7 +665,7 @@ max tokens
     the generated response.
 
 model
-    a model is a collection of trained
+    A model is a collection of trained
     parameters that can perform a function
     like predicting text, images or other
     data.
@@ -708,7 +708,7 @@ presence penalty
         to new topics.
 
 prompt
-    the text sent to the api. the model uses
+    The text sent to the api. the model uses
     the prompt to generate a prediction of
     what text should follow next.
 
