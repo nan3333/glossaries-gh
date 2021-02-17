@@ -57,3 +57,101 @@ davinci-instruct
     for the GPT-3 API here . 
 
     https://beta.openai.com/playground?model=davinci-instruct-beta
+
+Fine-tuning
+    [NLP]
+
+    https://www.gwern.net/GPT-3#finetuning
+
+    To help a language model like GPT-3
+    perform more specialized tasks you can
+    train it with additional data (like a
+    programming language, domain specific
+    terminology or special classifications.)
+
+Transformer
+    Can be trained on stupendously large
+    datasets, such as the entire internet.
+
+    Attention-based: Can learn and generate
+    long sequences of data.
+
+    GPT-3
+    Can look up to several pages backwards to
+    remain coherent.
+
+Tokens 
+    Tokens can be roughly thought of as words.
+    
+    Before the text input is passed on, it is
+    tokenized where the sentences are split
+    into words.
+    
+    You can read more about it:
+        https://towardsdatascience.com/byte-pair-encoding-the-dark-horse-of-modern-nlp-eb36c7df4f10
+
+Epoch 
+    An epoch is the number of times the model
+    passes over your data. So if
+    ```num-epochs``` is set to 5, the model in
+    total will go 5 times over each training
+    example. 
+
+    Different number of epochs will give
+    different results.
+
+    For example if you have little data
+    (100,000 sentences) and train it for 100
+    epochs, you will lose almost everything
+    the pre-trained model has learned and it
+    will memorize your input instead of
+    learning from it.
+    
+    This is called overfitting.
+    
+    For the GPT-3 family a 1-5 epochs are
+    enough for most use cases unless you have
+    a lot of training data.
+
+    If possible, playing around with the
+    number of epochs.
+
+Batch Size
+    Since almost all datasets are too large to
+    be fit in a single go, it is split into
+    batches.
+    
+    Batch size is how big each part is.
+    
+    Let's assume that our dataset has 16384
+    tokens.
+    
+    We set the number of tokens to be 2048
+    (using ```--max-tokens```).
+    
+    Now, if we select a batch size of 1 (2048
+    tokens in one go), a single epoch will
+    have 8 iterations.
+    
+    If we select a batch size of 2 we will
+    have 4 iterations because each batch will
+    then have 4096 tokens.
+    
+    Batch size will determine how fast your
+    training is completed.
+    
+    You can increase your batch size to
+    increase speed, but there is a limit to
+    how big a single batch can be (depending
+    on the engine).
+
+Learning Rate
+    Learning rate determines how fast the
+    model changes/adapts.
+    
+    If you have a small dataset, it is better
+    to try out smaller learning rates using
+    the ```-s``` argument.
+    
+    For example, to decrease the learning rate
+    by 10x , use ```--s 0.1```

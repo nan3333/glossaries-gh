@@ -9155,3 +9155,53 @@ pestilential
     "what a pestilential man!"
 
     "pestilential war"
+
+ballyhoo
+ballyhooed
+    Praise or publicize extravagantly.
+
+elegy
+    A poem of serious reflection, typically a
+    lament for the dead.
+
+temper
+tempering
+    Act as a neutralizing or counterbalancing
+    force to (something).
+    "their idealism is tempered with realism"
+
+pithy
+    (of language or style) terse and
+    vigorously expressive.
+    "his characteristically pithy comments"
+
+mistral
+    A strong, cold north-westerly wind that
+    blows through the Rhône valley and
+    southern France into the Mediterranean,
+    mainly in winter.
+
+beholden
+    Owing thanks or having a duty to someone
+    in return for help or a service.
+    "I don't like to be beholden to anybody"
+
+syllogism
+    An instance of a form of reasoning in
+    which a conclusion is drawn from two given
+    or assumed propositions (premises); a
+    common or middle term is present in the
+    two premises but not in the conclusion,
+    which may be invalid (e.g. all dogs are
+    animals; all animals have four legs;
+    therefore all dogs have four legs ).
+
+metonymy
+    A figure of speech in which a thing or
+    concept is referred to by the name of
+    something closely associated with that
+    thing or concept.
+
+    For example, instead of referring to
+    businessmen as businessmen, using metonymy
+    you might refer to them as suits.

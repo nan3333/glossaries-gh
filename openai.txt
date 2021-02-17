@@ -500,6 +500,8 @@ Translation
 Fine-tuning
     [NLP]
 
+    https://www.gwern.net/GPT-3#finetuning
+
     To help a language model like GPT-3
     perform more specialized tasks you can
     train it with additional data (like a
@@ -538,14 +540,15 @@ Best Of
     [#OpenAI API]
     [API setting]
 
+    Recommended value: 1
+    Min value: 1
+    Max value: 20
+
     Generates multiple completions server-side
     and displays on the best.
 
     How many completions to generate on the
     server side and display the best one.
-
-    Recommended value: 1
-    Min value: 1
 
     Bump it up to 3 or more for question-
     answer, translation or summarization.
@@ -605,15 +608,10 @@ Frequency Penalty
 
     Floating point value.
 
-    Min value: 0
-    Max value: 1
+    Default value: 0
+    min value: 0
+    max value: 1
 
-    Determines how much penalize tokens that
-    have appeared in the text.
-    
-    This decreases the model’s likelihood to
-    repeat the same text.
-    
     If your completion is filled with lots of
     repetition you can increase this setting
     to prevent that from happening.
@@ -623,61 +621,72 @@ Frequency Penalty
     far.
 
     Decreases the model's likelihood to repeat
-    the same line verbatim.
+    the same line verbatim (the same text).
 
-GPT-3
-    GPT-3 stands for Generative Pre-trained
-    Transformer 3.
+    The likelihood of the same/similar lines
+    being repeated in a completion.
     
-    It's a LM with 175 billion parameters that
+    Set it high to avoid repetition.
+    
+    However, it could make sense to lower this
+    value if writing lyrics for a song's
+    chorus.
+
+gpt-3
+    gpt-3 stands for generative pre-trained
+    transformer 3.
+    
+    it's a lm with 175 billion parameters that
     makes predictions about what should come
     next in a sequence of text.
 
-Logprobs
-    [#OpenAI API]
-    [API setting]
+logprobs
+    [#openai api]
+    [api setting]
 
-    Include the log probabilities on the
+    include the log probabilities on the
     logprobs most likely tokens, as well the
     chosen tokens.
     
-    For example, if logprobs is 10, the API
+    for example, if logprobs is 10, the api
     will return a list of the 10 most likely
     tokens.
     
-    the API will always return the logprob of
+    the api will always return the logprob of
     the sampled token, so there may be up to
     logprobs+1 elements in the response.
 
-Max tokens
-    [#OpenAI API]
-    [API setting]
+max tokens
+    [#openai api]
+    [api setting]
 
-    Determines the maximum
+    determines the maximum
     number of tokens that should be used in
     the generated response.
 
-Model
-    A model is a collection of trained
+model
+    a model is a collection of trained
     parameters that can perform a function
     like predicting text, images or other
     data.
 
-Nucleus Sampling
-    A method of determining which tokens to
+nucleus sampling
+    a method of determining which tokens to
     use that looks at the combined probability
     of groups of tokens.
 
-Playground
-    A no-code browser-based interface for the
-    API that lets users experiment with
+playground
+    a no-code browser-based interface for the
+    api that lets users experiment with
     prompts and settings.
 
-Presence Penalty
-    [#OpenAI API]
-    [API setting]
+presence penalty
+    [#openai api]
+    [api setting]
 
-    Min value: 0
+    default value: 0
+    min value: 0
+    max value: 1
 
     Indicates how much to favor new tokens in
     the response text.
@@ -688,18 +697,28 @@ Presence Penalty
     Useful in cases where you want the model
     to be more wide-ranging.
 
-Prompt
-    The text sent to the API. The model uses
+    Seems similar to Frequency Penalty, but is
+    actually used to determine how likely the
+    completion will jump to new topics.
+    
+    Value of 0.4
+        Set somewhere in the middle means that
+        the completion shares a similar theme
+        overall but can still sometimes jump
+        to new topics.
+
+prompt
+    the text sent to the api. the model uses
     the prompt to generate a prediction of
     what text should follow next.
 
-Response length
-    [#OpenAI API]
+response length
+    [#openai api]
     [playground setting]
-    [GPT-3 prompt setting]
+    [gpt-3 prompt setting]
 
-    Min value: 64
-    Max value: 2048
+    min value: 64
+    max value: 2048
 
     Determines the maximum number of tokens
     that should be used in the generated
@@ -829,6 +848,15 @@ Temperature
 
     The lower the value, the less creative
     liberty it has.
+
+    Controls the randomness of the completion.
+    
+    Setting it to a high value ensures that a
+    completely different response is returned
+    even if a prompt is reused.
+    
+    If an idempotent response is desired
+    instead, set this to zero.
 
 Top P
     [#OpenAI API]

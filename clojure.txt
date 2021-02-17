@@ -220,3 +220,6 @@ Slamhound
 
 flux
     Clojure based Solr client.
+
+->
+    https://stackoverflow.com/a/6785874

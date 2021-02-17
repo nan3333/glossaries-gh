@@ -65,3 +65,12 @@ DSN
     algorithm powering its automatic learning
     ability, and describe its usefulness in
     different use cases.
+
+scaling hypothesis
+    https://www.gwern.net/GPT-3#gpt-3-implications
+
+    Regards the blessings of scale as the
+    secret of AGI: intelligence is ‘just’
+    simple neural units & learning algorithms
+    applied to diverse experiences at a
+    (currently) unreachable scale.
