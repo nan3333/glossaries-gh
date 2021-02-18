@@ -1,3 +1,26 @@
+Mesh
+Mesh Tensorflow
+    Model Parallelism Made Easier.
+
+    Mesh TF (`mtf`) is a language for
+    distributed DL, capable of specifying a
+    broad class of distributed tensor
+    computations.
+    
+    The purpose of Mesh TF is to formalize and
+    implement distribution strategies for your
+    computation graph over your
+    hardware/processors.
+    
+    For example: "Split the batch over rows of
+    processors and split the units in the
+    hidden layer across columns of
+    processors."
+    
+    Mesh TF is implemented as a layer over TF.
+
+    https://www.youtube.com/watch?v=HgGyWS40g-g
+
 TFX
     [[https://www.youtube.com/watch?v=Mxk4qmO_1B4][TFX Episode 1: What exactly is this TFX thing? (Coding TensorFlow) - YouTube]]
 

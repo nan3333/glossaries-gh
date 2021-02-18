@@ -1,9 +1,8 @@
-Semantic Search
-    [openai-api]
-
-    Allows searching over documents based on
-    the natural-language meaning of queries
-    rather than keyword matching.
+<|endoftext|>
+    The document separator that the model sees
+    during training, so if a prompt is not
+    specified the model will generate as if
+    from the beginning of a new document.
 
 casetext
     [#semantic search]
@@ -508,7 +507,7 @@ Fine-tuning
     programming language, domain specific
     terminology or special classifications.)
 
-Engines
+engine
     The different GPT-3 models the API is able
     to access:
     - Ada,
@@ -644,15 +643,15 @@ logprobs
     [#openai api]
     [api setting]
 
-    include the log probabilities on the
+    Include the log probabilities on the
     logprobs most likely tokens, as well the
     chosen tokens.
     
-    for example, if logprobs is 10, the api
+    For example, if logprobs is 10, the api
     will return a list of the 10 most likely
     tokens.
     
-    the api will always return the logprob of
+    The api will always return the logprob of
     the sampled token, so there may be up to
     logprobs+1 elements in the response.
 
@@ -669,11 +668,6 @@ model
     parameters that can perform a function
     like predicting text, images or other
     data.
-
-nucleus sampling
-    a method of determining which tokens to
-    use that looks at the combined probability
-    of groups of tokens.
 
 playground
     a no-code browser-based interface for the
@@ -768,16 +762,35 @@ restart sequence
     Tells the model when to restart the
     sequence.
 
-Semantic Search
+semantic search
     [#OpenAI API]
     [API function]
 
     Allows you to search for documents related
-    to an input query.  The API results a list
-    of scores indicating which documents were
-    most closely related.
+    to an input query.
 
-Show Probabilities
+    The API results a list of scores
+    indicating which documents were most
+    closely related.
+
+    Allows searching over documents based on
+    the natural-language meaning of queries
+    rather than keyword matching.
+
+    This is how it works:
+        /media/sdc1$MYGIT/openai/openai-python/examples/semanticsearch/README.md
+
+        The following usage will run a client-
+        side semantic search.
+        
+        This formats each document into a
+        prompt asking the API for the
+        document's relevance, and then post-
+        processes the logprobs to derive
+        relevance scores:
+            ./semanticsearch.py -q 'positive emotion' -d happy -d sad
+
+show probabilities
     [#OpenAI API]
     [playground setting]
 
@@ -810,7 +823,8 @@ prompt
     Show the AI a few examples of what you'd
     like it to do.
 
-Temperature
+sampling temperature
+temperature
     [#OpenAI API]
     [API setting]
     [GPT-3 prompt setting]
@@ -821,7 +835,18 @@ Temperature
     min value: 0
     max value: 1
 
+    https://towardsdatascience.com/how-to-sample-from-language-models-682bceb97277
+
+    openai api engines.generate -h | vs +/"-t TEMPERATURE"
+
     Controls token randomness.
+
+    Higher values means the model will take
+    more risks.
+    
+    Try 0.9 for more creative applications,
+    and 0 (argmax sampling) for ones with a
+    well-defined answer.
     
     A lower setting results in less random
     completions a higher setting is less
@@ -858,6 +883,35 @@ Temperature
     If an idempotent response is desired
     instead, set this to zero.
 
+nucleus sampling
+top p sampling
+    To address this problem, the authors
+    propose top p sampling, aka nucleus
+    sampling, in which we compute the
+    cumulative distribution and cut off as
+    soon as the CDF exceeds P.
+    
+    In the broad distribution example above,
+    it may take the top 100 tokens to exceed
+    top_p = .9.
+    
+    In the narrow distribution, we may already
+    exceed top_p = .9
+    
+    with just hot and warm in our sample
+    distribution.
+    
+    In this way, we still avoid sampling
+    egregiously wrong tokens, but preserve
+    variety when the highest scoring tokens
+    have low confidence.
+
+    A method of determining which tokens to
+    use that looks at the combined probability
+    of groups of tokens.
+
+    See "Top P".
+
 Top P
     [#OpenAI API]
     [API setting]
@@ -870,6 +924,8 @@ Top P
     Max value: 1
     Recommended value: 1
     Min value: 0
+    
+    https://towardsdatascience.com/how-to-sample-from-language-models-682bceb97277
 
     Cuts of tokens below a certain probability
     threshold.
@@ -892,3 +948,100 @@ Top P
     Controls diversity via nucleus sampling:
     1.5 means half of all likelihood-weighted
     options are considered.
+
+    See "nucleus sampling".
+
+openai-ft
+    [cli command]
+
+    Run a fine-tuning job using OpenAI
+    finetuning API.
+
+    py -36 i openai-finetune
+
+openai-ft-classification
+    [cli command]
+
+    Run a classification fine-tuning job using
+    OpenAI finetuning API
+
+    py -36 i openai-finetune
+
+openai-ft-events
+    [cli command]
+
+    List the events for a batch-mode
+    fine-tuning run.
+
+    py -36 i openai-finetune
+
+openai-ft-report
+    [cli command]
+
+    List the events for a batch-mode
+    fine-tuning run.
+
+    py -36 i openai-finetune
+
+branch
+
+snapshot
+    [branch]
+
+    A snapshot is a created from a branch.
+
+    Parameters:
+    - engine
+      specified when creating the snapshot
+    - branch
+      specified when creating the snapshot
+    - description
+      specified when creating the snapshot
+
+openai snapshots
+    [subcommand]
+
+    Commands
+    - list
+    - create
+
+Top k sampling
+    Sorting by probability and zero-ing out
+    the probabilities for anything below the
+    kth token.
+    
+    It appears to improve quality by removing
+    the tail and making it less likely to go
+    off topic.
+    
+    But in some cases, there really are many
+    words we could sample from reasonably
+    (broad distribution below), and in some
+    cases there arent (narrow distribution
+    below).
+
+openai engines
+    [subcommand]
+
+    - get
+    - update
+    - update
+
+openai
+    [cli command]
+
+    Subcommands:
+    - engines.list
+    - engines.get
+    - engines.update
+    - engines.generate
+    - engines.search
+    - completions.create
+    - snapshots.list
+    - snapshots.create
+    - snapshots.get
+    - snapshots.delete
+    - tags.create
+    - tags.get
+    - tags.delete
+    - tags.list

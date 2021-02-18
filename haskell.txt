@@ -2861,3 +2861,6 @@ QualifiedDo
 
 LiftIO
     https://www.schoolofhaskell.com/user/commercial/content/monad-transformers
+
+sequenceA
+    https://www.youtube.com/watch?v=N9RUqGYuGfw&t=1347s&ab_channel=Tsoding

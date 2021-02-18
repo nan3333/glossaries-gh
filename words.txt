@@ -9205,3 +9205,14 @@ metonymy
     For example, instead of referring to
     businessmen as businessmen, using metonymy
     you might refer to them as suits.
+
+vaunted
+    Praised or boasted about, especially in an
+    excessive way.
+
+    "they have utterly eclipsed their vaunted
+    American rivals"
+
+glib
+    (of words or a speaker) fluent but
+    insincere and shallow.
