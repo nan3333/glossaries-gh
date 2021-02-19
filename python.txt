@@ -990,3 +990,15 @@ Loguru
     [library]
 
     Aims to bring enjoyable logging in Python.
+
+typing
+Any
+Dict
+Callable
+Iterable
+Union
+List
+Pattern
+    from typing import Optional, Any, Dict, Callable, Iterable, Union, List, Pattern
+
+    gli -F "\\.py" "from typing import"

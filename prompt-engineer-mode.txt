@@ -1,6 +1,7 @@
 prompt description
 prompt description file
 prompt description YAML
+.prompt
     [#prompt-engineer-mode] 
 
     A yaml containing the definition of an

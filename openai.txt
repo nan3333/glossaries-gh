@@ -496,8 +496,36 @@ Translation
     language, with only a couple of sentence
     pairs as context.
 
-Fine-tuning
+fine-tune
+fine-tuning
+finetuning
+openai-finetune
     [NLP]
+
+    Fine Tuning has been the most common
+    approach in recent years and involves
+    updating the weights of a pre-trained
+    model by training on a supervised dataset
+    specific to the desired task.
+    
+    Typically thousands to hundreds of
+    thousands of labeled examples are used.
+    
+    The main advantage of fine-tuning is
+    strong performance on many benchmarks.
+    
+    The main disadvantages are the need for a
+    new large dataset for every task, the
+    potential for poor generalization out-of-
+    distribution, and the potential to exploit
+    spurious features of the training data,
+    potentially resulting in an unfair
+    comparison with human performance.
+    
+    In this paper, we do not fine-tune GPT-3
+    because our focus is on task-agnostic
+    performance, but GPT-3 can be fine-tuned
+    in principle.
 
     https://www.gwern.net/GPT-3#finetuning
 
@@ -506,6 +534,62 @@ Fine-tuning
     train it with additional data (like a
     programming language, domain specific
     terminology or special classifications.)
+
+    - training/inference of fine-tuned models
+      https://github.com/cabhijith/GPT-3_Docs/blob/master/Fine-Tune.md
+
+    https://news.ycombinator.com/item?id=23723687
+
+    Fine tuning GPT-3 is one of the biggest
+    challenges, because it's behind an API.
+    
+    The weights aren't available to
+    researchers, so we can't make it do
+    anything it doesn't already do.
+    
+    What caught my attention, though, is that
+    supposedly OpenAI is working on a way to
+    support fine-tuning.
+    
+    If you think about the logistics of that,
+    it's a very interesting challenge.
+    
+    The situation is this: 240GB of weights,
+    as a webservice.
+    
+    Each fine-tuning session results in
+    another copy of 240GB.
+    
+    So it clearly doesn't scale --
+    
+    1TB per 4 users isn't exactly efficient.
+    
+    Except, not quite.
+    
+    You can solve this by adding additional
+    layers, which you then fine-tune.
+    
+    So the base model is 240GB or whatever,
+    and the extra layers morph the output to
+    do what you want.
+    
+    Think of it as a GPT-3 with a GPT-2 1.5B
+    stuck on the end of it.
+    
+    It's a neat idea, because theoretically
+    you'd get two models out of it
+    
+    : you can "break off" the end of the fine-
+    tuned model, and you end up with the
+    original model.
+    
+    So it would be very modular.
+    
+    Are there other models that you can "break
+    apart" to get different sub-models?
+    
+    Sort of like adding slots that give a
+    model different capabilities.
 
 engine
     The different GPT-3 models the API is able
@@ -701,11 +785,6 @@ presence penalty
         overall but can still sometimes jump
         to new topics.
 
-prompt
-    The text sent to the api. the model uses
-    the prompt to generate a prediction of
-    what text should follow next.
-
 response length
     [#openai api]
     [playground setting]
@@ -817,6 +896,10 @@ tokens
     letters or whitespace characters.
 
 prompt
+    The text sent to the api. the model uses
+    the prompt to generate a prediction of
+    what text should follow next.
+
     Writing out instructions with guiding
     examples.
 
@@ -1021,11 +1104,19 @@ Top k sampling
     below).
 
 openai engines
+engines
     [subcommand]
 
+    - list
     - get
     - update
-    - update
+    - generate
+
+openai completions
+completions
+    [subcommand]
+
+    - create
 
 openai
     [cli command]

@@ -13,6 +13,17 @@ subword
 
 Named entity recognition
 NER
+    Involves extracting key information,
+    called entities, from blocks of text.
+
+    These entities are words or series of
+    words that are classified into categories
+    (i.e. person, location, company, food).
+
+    Hence, the two main parts of NER are
+    entity detection and entity
+    categorization.
+
     Detect and label named entities.
 
     Helps you easily identify the key elements
@@ -1658,11 +1669,24 @@ cognitive grammar
     grammatical situations.
 
 Pattern-Exploiting Training (PET)
-    Using PET, the team trained a Transformer
-    NLP model with 223M parameters that
-    out-performed the 175B-parameter GPT-3 by
-    over 3 percentage points on the SuperGLUE
-    benchmark.
+    [#fine-tuning]
+
+    PET is a technique for fine-tuning a pre-
+    trained LM that generates additional
+    "soft-labeled" training data from
+    unlabeled examples.
+
+    This helps the model improve performance
+    in "few-shot" scenarios, such as NLP
+    benchmarks which have very few labeled
+    examples for fine-tuning.
+
+    Using PET, the researchers fine-tuned an
+    ALBERT Transformer model and achieved an
+    average score of 76.8 on the SuperGLUE
+    benchmark, compared to GPT-3's 71.8.
+
+    https://www.infoq.com/news/2020/10/training-exceeds-gpt3/
 
     arxiv-summary  https://arxiv.org/abs/2001.07676
 

@@ -12855,3 +12855,12 @@ Broader Impacts Statement
     won't float a proposal with poor science,
     a poor Broader Impacts statement can sink
     a proposal with good science.
+
+op-ed
+opposite the editorial page
+opinions and editorials page
+    A written prose piece typically published
+    by a newspaper or magazine which expresses
+    the opinion of an author usually not
+    affiliated with the publication's
+    editorial board.

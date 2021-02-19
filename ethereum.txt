@@ -788,6 +788,15 @@ smart contract
     A program that executes on the Ethereum
     computing infrastructure.
 
+    It's a collection of code (its functions)
+    and data (its state) that resides at a
+    specific address on the Ethereum
+    blockchain.
+    
+    Smart contracts can define rules, like a
+    regular contract, and automatically
+    enforce them via the code.
+
 Solidity
     A procedural (imperative) programming
     language with syntax that is similar to
