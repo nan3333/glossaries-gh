@@ -1136,3 +1136,6 @@ openai
     - tags.get
     - tags.delete
     - tags.list
+
+plan
+    openai-ft-classification -h | vs +/" plan"
