@@ -52,6 +52,20 @@ Byte Pair Encoding
 BPE
     [subword algorithm]
 
+    Byte pair encoding or digram coding is a
+    simple form of data compression in which
+    the most common pair of consecutive bytes
+    of data is replaced with a byte that does
+    not occur within that data.
+    
+    A table of the replacements is required to
+    rebuild the original data.
+
+    A simple data compression algorithm first
+    introduced in 1994 supercharging almost
+    all advanced NLP models of today
+    (including BERT).
+
     https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46
 
     vim +/"\"\"\"Byte pair encoding utilities\"\"\"" "$MYGIT/mullikine/gpt-2/src/encoder.py"

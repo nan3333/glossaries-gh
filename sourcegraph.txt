@@ -1,0 +1,23 @@
+search scope
+    Examples:
+    - Test code
+      file:(test|spec)
+    - Non-test code
+      -file:(test|spec)
+    - JSON files
+    - Text documents
+    - Non-vendor code
+    - Vendored code
+
+repository group
+    Examples:
+    - cncf
+      CNCF projects
+    - Refactor Python 2 to 3
+      refactor-python-2-to-3
+    - kubetnetes
+      Kubetnetes
+    - golang
+      Go
+    - stanford
+      Stanford University
