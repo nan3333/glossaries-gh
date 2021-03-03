@@ -2864,3 +2864,29 @@ LiftIO
 
 sequenceA
     https://www.youtube.com/watch?v=N9RUqGYuGfw&t=1347s&ab_channel=Tsoding
+
+as-pattern
+@
+    The @ Symbol is used to both give a name
+    to a parameter and match that parameter
+    against a pattern that follows the @.
+
+    It's not specific to lists and can also be
+    used with other data structures.
+
+    It's just syntactic sugar, with @ read
+    aloud as "as". ps@(p:pt) gives you names
+    for:
+
+        the list: ps
+        the list's head : p
+        the list's tail: pt
+
+    Without the @, you'd have to choose
+    between (1) or (2):(3).
+
+    This syntax actually works for any
+    constructor; if you have data Tree a =
+    Tree a [Tree a], then t@(Tree _ kids)
+    gives you access to both the tree and its
+    children.
