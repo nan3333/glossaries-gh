@@ -155,3 +155,7 @@ Model
     distributions over states. Note that not
     every reinforcement learning agent uses a
     model of its environment
+
+visio-linguistic
+    Example:
+        "visio-linguistic models"

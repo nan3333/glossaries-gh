@@ -2671,6 +2671,9 @@ error
     https://youtu.be/24XK4LPoCXc?t=124
 
 <$>
+fmap
+    https://youtu.be/xCut-QT2cpI?t=364
+
     An infix synonym for fmap. The name of
     this operator is an allusion to $. Note
     the similarities between their types:
