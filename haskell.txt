@@ -627,6 +627,8 @@ monad transformer
 Functor
     [Type class]
 
+    https://www.youtube.com/watch?v=xCut-QT2cpI&ab_channel=KracX
+
     Example
     - <$>
       eff-map
@@ -2890,3 +2892,21 @@ as-pattern
     Tree a [Tree a], then t@(Tree _ kids)
     gives you access to both the tree and its
     children.
+
+wrapped value
+    Example:
+        Just 9
+
+    9 is wrapped in a Just.
+
+    Can't do:
+        (+3) (Just 9)
+
+        That's where the functor comes into
+        play.
+
+        fmap (+3) (Just 4) -> Just 7
+
+unwrapped value
+    Example:
+        9
