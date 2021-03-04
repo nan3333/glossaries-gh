@@ -12,7 +12,39 @@ subword
     character.
 
 Named entity recognition
+Named-entity recognition
 NER
+entity identification
+named entity identification
+Named-entity extraction
+entity chunking
+entity extraction
+    [#information extraction]
+    [task]
+
+    Identify/locate and classify the names of
+    people, organisations, locations and other
+    entities within text.
+
+    Locate and classify named entity mentions
+    in unstructured text into pre-defined
+    categories.
+
+    Example:
+    - Categorise all the named entities in
+      this unstructured text. Organise them
+      under the categories:
+      - organisation
+      - person
+
+    A subtask of information extraction that
+    seeks to locate and classify named
+    entities mentioned in unstructured text
+    into pre-defined categories such as person
+    names, organizations, locations, medical
+    codes, time expressions, quantities,
+    monetary values, percentages, etc.
+
     Involves extracting key information,
     called entities, from blocks of text.
 

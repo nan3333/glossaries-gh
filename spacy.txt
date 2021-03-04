@@ -339,3 +339,8 @@ Morphology
     
     See MorphAnalysis for the container
     storing a single morphological analysis.
+
+entity recognizer 
+    [#spacy]
+
+    Performs NER.

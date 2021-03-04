@@ -5480,30 +5480,6 @@ Named-entity
     - quantity
     - percentage
 
-Named-entity recognition
-Named-entity extraction
-NER
-entity identification
-entity chunking
-entity extraction
-    [#information extraction]
-    [task]
-
-    Identify/locate and classify the names of
-    people, organisations, locations and other
-    entities within text.
-
-    Locate and classify named entity mentions
-    in unstructured text into pre-defined
-    categories.
-
-    Example:
-    - Categorise all the named entities in
-      this unstructured text. Organise them
-      under the categories:
-      - organisation
-      - person
-
 Natural language generation
 NLG
 
@@ -5670,9 +5646,15 @@ Momentum
 
         Adding momentum helps solve that problem.
 
-NOTE: High momentum should always be accompanied by low learning rate, else you will overshoot the global optimum.
+    NOTE: High momentum should always be
+    accompanied by low learning rate, else you
+    will overshoot the global optimum.
 
-In my opinion the momentum should be more adaptive than constant. Sometimes you may be revolving around the global optimum. Recognizing that and changing your momentum is tough but a smart choice.
+    In my opinion the momentum should be more
+    adaptive than constant. Sometimes you may
+    be revolving around the global optimum.
+    Recognizing that and changing your
+    momentum is tough but a smart choice.
 
 Adaptive learning rate method
     Computes individual learning rates for
@@ -5751,14 +5733,6 @@ WELD
     distribution of words between languages.
 
     https://arxiv.org/abs/1604.08561v1
-
-The Lost Horse
-    [Chinese Fable]
-
-    A Blessing In Disguise
-    塞翁失马，焉知非福
-
-    Sai wong shir maa
 
 C-H logic correspondence
 Curry–Howard correspondence

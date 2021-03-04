@@ -1,2 +1,5 @@
 sparse transformer
     https://openai.com/blog/sparse-transformer/
+
+sparse attention
+    v +/"Sparse Attention" "$MYGIT/lucidrains/DALLE-pytorch/README.md"
