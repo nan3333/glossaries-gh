@@ -2923,3 +2923,7 @@ wrapped value
 unwrapped value
     Example:
         9
+
+->
+(->)
+    ghcd "(->)"

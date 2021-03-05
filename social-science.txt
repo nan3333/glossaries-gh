@@ -1,0 +1,15 @@
+schema
+    [#social science]
+
+    Mental structures that an individual uses
+    to organize knowledge and guide cognitive
+    processes and behaviour.
+
+schemata
+    [#social science]
+
+    The plural of schema. 
+
+    Categorize objects and events based on
+    common elements and characteristics and
+    thus interpret and predict the world.
