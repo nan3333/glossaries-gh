@@ -2102,3 +2102,22 @@ NLP Tasks
     - Tokenization
     - Word Translation
     - Word Embedding
+
+segment-level classification
+segment classification
+    Each segment will have one label, for
+    example, a classifier which categorises a
+    movie review as good or bad.
+
+    There is only one output label for the
+    entire input sequence.
+
+token-level classification
+token classification
+    Each token will be given a label, for
+    example a part-of-speech tagger will
+    classify each word as one particular part
+    of speech.
+
+    Each token (element in the sequence) will
+    have a corresponding label in the output.
