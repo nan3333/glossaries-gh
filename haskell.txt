@@ -149,6 +149,10 @@ pure
 
     readsubs +/"the context that applicative" "[[https://www.youtube.com/watch?v=SMj-n2f7wYY][Adam McCullough - Monad Transformers for the Easily Confused - C 2018 - YouTube]]"
 
+    When implementing pure for an instance of
+    Applicative, implement the simplest case.
+        https://youtu.be/CNOff5LPKQI?t=825
+
 <*>
 splat
 applicative

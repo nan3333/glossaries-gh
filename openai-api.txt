@@ -740,12 +740,15 @@ logprobs
     logprobs+1 elements in the response.
 
 max tokens
+max_tokens
     [#openai api]
     [api setting]
 
-    determines the maximum
+    Determines the maximum
     number of tokens that should be used in
     the generated response.
+
+    Output token length.
 
 model
     A model is a collection of trained
@@ -918,6 +921,9 @@ temperature
     min value: 0
     max value: 1
 
+    0: deterministic, (not random)
+    1: creative, max random
+
     https://towardsdatascience.com/how-to-sample-from-language-models-682bceb97277
 
     openai api engines.generate -h | vs +/"-t TEMPERATURE"
@@ -1009,6 +1015,8 @@ Top P
     Min value: 0
     
     https://towardsdatascience.com/how-to-sample-from-language-models-682bceb97277
+
+    Diversity via nucleus sampling.
 
     Cuts of tokens below a certain probability
     threshold.
