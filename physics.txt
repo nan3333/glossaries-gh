@@ -856,3 +856,8 @@ Emission spectrum
 Torr
 atm
     1 atm = 760 Torr
+
+radio
+    The transmission and reception of
+    electromagnetic waves of radio frequency,
+    especially those carrying sound messages.

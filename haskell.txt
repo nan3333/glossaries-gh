@@ -131,6 +131,11 @@ interchange
         haskell code would be a nightmare.
 
 pure
+    [#applicative]
+    [function]
+
+    ghciol ":i pure" | vs
+
     A function that lifts a function into the
     context that applicative is working in.
 
