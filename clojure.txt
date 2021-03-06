@@ -223,3 +223,40 @@ flux
 
 ->
     https://stackoverflow.com/a/6785874
+
+zipmap
+    Returns a map with the keys mapped to the
+    corresponding vals.
+
+    (zipmap [:a :b :c :d :e] [1 2 3 4 5])
+
+    {:a 1, :b 2, :c 3, :d 4, :e 5}
+
+require
+use
+import
+    require causes the library to get loaded,
+    and every public symbol it exports will be
+    accessible as eg clojure.pprint/pprint.
+
+    If you want to use a more convenient name
+    like just pprint, you need to refer to the
+    namespace.
+
+    use is a convenient shorthand for
+    "require, then refer", to load the library
+    without the namespace prefix.
+
+    https://stackoverflow.com/questions/5276675/cant-get-pprint-to-work-in-clojure
+
+    user> (ns user (:require clojure.pprint))
+    nil
+    user> (pprint 1)
+    ; Evaluation aborted.
+    user> (clojure.pprint/pprint 1)
+    1
+    nil
+    user> (ns user (:use clojure.pprint))
+    nil
+    user> (pprint 1)
+    1
