@@ -610,3 +610,15 @@ nominative-accusative languages
     called the subject) are treated alike and
     kept distinct from the object of a
     transitive verb.
+
+nominal
+    [linguistics]
+
+    Refers to a category used to group
+    together nouns and adjectives based on
+    shared properties.
+    
+    The motivation for nominal grouping is
+    that in many languages nouns and
+    adjectives share a number of morphological
+    and syntactic properties

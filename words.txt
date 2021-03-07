@@ -9313,3 +9313,28 @@ efficacious
     (of something inanimate or abstract)
     successful in producing a desired or
     intended result; effective.
+
+orrery
+    A mechanical model of the Solar System
+    that illustrates or predicts the relative
+    positions and motions of the planets and
+    moons, usually according to the
+    heliocentric model.
+
+expeditiously
+    With speed and efficiency.
+    "the directors will move expeditiously to
+    reach a conclusion"
+
+farcical
+    Relating to or resembling farce,
+    especially because of absurd or ridiculous
+    aspects.
+    "he considered the whole idea farcical"
+
+subsist
+subsisting
+    Maintain or support oneself, especially at
+    a minimal level.
+    "he subsisted on welfare and casual
+    labour"
