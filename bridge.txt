@@ -27,6 +27,44 @@ Opening the bidding
 
     Not to be confused with "opening lead".
 
+Opening 1-suit
+Opening the bidding 1-suit
+1-level suit opening
+    Opening the bidding with 1 of a suit.
+
+    These are the basic rules.
+
+    Rules:
+    - You need at least 12 HCP.
+      - That means 12-19 HCP for a suit bid.
+      - That means 12-14 HCP for a NT bid.
+
+    Count the high card points.
+    If you don't have 12, you can't bid for 1.
+
+    Is this a strict rule or rule of thumb?
+
+    By opening the bidding you are telling
+    your partner you have between 12 and 19
+    HCP.
+
+    When you bid a suit you are also telling
+    your partner you have at least 4 of that
+    suit.
+
+    An exception to the above:
+    - When you bid 1NT, you are telling your
+      partner you have between 12 and (only)
+      14 HCP and that your hand is balanced.
+
+    Rules of thumb:
+    - Bid your longest suit first
+    - bottoms-up
+    - tops-down
+
+    See "bottoms-up".
+    See "tops-down".
+
 equal lengths rule of thumb
     [#1-level suit opening]
 
@@ -66,41 +104,6 @@ tops-down
 
     If you have 5 spades and 5 diamonds, you
     bid 1 spade.
-
-Opening 1-suit
-Opening the bidding 1-suit
-1-level suit opening
-    Opening the bidding with 1 of a suit.
-
-    Rules:
-    - You must have enough HCP.
-    - You need 12-19 HCP.
-
-    Count the high card points.
-    If you don't have 12, you can't bid for 1.
-
-    Is this a strict rule or rule of thumb?
-
-    By opening the bidding you are telling
-    your partner you have between 12 and 19
-    HCP.
-
-    When you bid a suit you are also telling
-    your partner you have at least 4 of that
-    suit.
-
-    An exception to the above:
-    - When you bid 1NT, you are telling your
-      partner you have between 12 and (only)
-      14 HCP and that your hand is balanced.
-
-    Rules of thumb:
-    - Bid your longest suit first
-    - bottoms-up
-    - tops-down
-
-    See "bottoms-up".
-    See "tops-down".
 
 1-level contract
     Example:
@@ -143,7 +146,7 @@ dummy
     trump suit on their right.
 
 bidding notation
-    2NT -- 2 no trumps
+    2NT -- 2 NoTrumps
     2H  -- 2 hearts
     \   -- pass
 
@@ -186,7 +189,7 @@ contract
 
 major contract
     Does this include a NT contract or do you
-    call that a no trumps contract?
+    call that a NoTrumps contract?
 
 minor contract
     Less popular because you need to get more
@@ -261,7 +264,7 @@ fit
     trump suit.
 
     If there is no fit then you should choose
-    No Trumps.
+    NoTrumps.
 
     If there is a fit in a minor then you can
     choose whether to play in the minor or No
@@ -279,3 +282,24 @@ trick
 
     If you lose the trick you place them
     horizontally.
+
+responder's limit bid
+    How to respond to your partner's opening
+    bid. These are the basic rules.
+
+    If you have 6 or more HCP then you should
+    respond with a bid. Also, consider 6 a
+    minimum in order to repond.
+
+    A more accurate rule of thumb is that you
+    need 1/2 the amount of points your partner
+    suggests they have. If they suggested they
+    have 12 HCP, then you need at least 6 and
+    if you have at least 6, you should repond.
+
+    You have 3 choices:
+    - support your partner's suit
+    - bid a new suit
+    - bid NoTrumps
+
+    See "1-level suit opening".
