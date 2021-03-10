@@ -37,6 +37,9 @@ equal lengths rule of thumb
     - bottoms-up
     - tops-down
 
+    These rules of thumb should still be
+    followed.
+
 bottoms-up
     [#1-level suit opening]
 
