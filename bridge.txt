@@ -37,8 +37,9 @@ equal lengths rule of thumb
     - bottoms-up
     - tops-down
 
-    These rules of thumb should still be
-    followed.
+    These rules of thumb should be
+    followed even if the suit you do not pick
+    has 'nicer' cards, i.e. AKQJ...
 
 bottoms-up
     [#1-level suit opening]
