@@ -40,6 +40,19 @@ Opening the bidding 1-suit
 
     Is this a strict rule or rule of thumb?
 
+    By opening the bidding you are telling
+    your partner you have between 12 and 19
+    HCP.
+
+    When you bid a suit you are also telling
+    your partner you have at least 4 of that
+    suit.
+
+    An exception to the above:
+    - When you bid 1NT, you are telling your
+      partner you have between 12 and (only)
+      14 HCP and that your hand is balanced.
+
 1-level contract
     Example:
     - 1H
