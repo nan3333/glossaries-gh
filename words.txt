@@ -9360,3 +9360,9 @@ scion
     design, but one particular component has
     just cost my partner a lot of message
     history data."
+
+gobbledygook
+    Language that is meaningless or is made
+    unintelligible by excessive use of
+    technical terms.
+    "reams of financial gobbledygook"

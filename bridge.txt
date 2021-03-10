@@ -13,6 +13,57 @@ bidding
     The auction concludes when there have been
     3 passes in a row.
 
+    When you make a bit you are always
+    suggesting to your partner that you can
+    make more than 1 half of the available 13
+    tricks (7 tricks at least).
+
+    If you open the bidding 1H you'll be
+    saying I can make 6 tricks + 1.
+
+Opening the bidding
+    Which hand can open the bidding?
+    https://youtu.be/67c2QkVEX3U?t=294
+
+    Not to be confused with "opening lead".
+
+Opening 1-suit
+Opening the bidding 1-suit
+    Opening the bidding with 1 of a suit.
+
+    Rules:
+    - You must have enough HCP.
+    - You need 12-19 HCP.
+
+    Count the high card points.
+    If you don't have 12, you can't bid for 1.
+
+    Is this a strict rule or rule of thumb?
+
+1-level contract
+    Example:
+    - 1H
+    - 1NT
+
+    There is a presumption you can make 6+1
+    tricks.
+
+2-level contract
+    Example:
+    - 2H
+    - 2NT
+
+    There is a presumption you can make 6+2
+    tricks.
+
+4-level contract
+    Example:
+    - 4H
+    - 4NT
+
+    There is a presumption you can make 6+4
+    tricks.
+
 contract
     The last bid made.
 
@@ -35,10 +86,10 @@ bidding notation
     \   -- pass
 
 suits
-    S
+    S - highest
     H
     D
-    C
+    C - lowest
 
 Declarer with Dummy
 
@@ -54,10 +105,10 @@ High Card Points
 HCP
 
 partnership
-    Step 1:
-    - Find a fit
-    - Decide what level to play your contract
-      at
+    Steps:
+    1. Find a fit
+    2. Decide what level to play your
+       contract at.
 
 level
 contract level
@@ -72,6 +123,8 @@ contract
     Has levels.
 
 major contract
+    Does this include a NT contract or do you
+    call that a no trumps contract?
 
 minor contract
     Less popular because you need to get more
@@ -79,6 +132,8 @@ minor contract
     and get the bonus).
 
 partscore
+partscore contract
+partscore level contract
     [contract]
 
     When you have less than 25 points between
@@ -115,7 +170,8 @@ make game
     depends on the contract you're in.
 
 slam
-game level contract
+slam contract
+slam level contract
     [contract]
 
     You need around 33+ points between you and
