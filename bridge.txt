@@ -27,6 +27,42 @@ Opening the bidding
 
     Not to be confused with "opening lead".
 
+equal lengths rule of thumb
+    [#1-level suit opening]
+
+    Sometimes you have 2 suits of equal
+    length.
+
+    Examples:
+    - bottoms-up
+    - tops-down
+
+bottoms-up
+    [#1-level suit opening]
+
+    [rule of thumb]
+    [equal lengths rule of thumb]
+
+    If those suits are 4 cards in length then
+    you should bid your lowest ranked suit
+    first.
+
+    If you have 4 spades and 4 diamonds, you
+    bid 1 diamond.
+
+tops-down
+    [#1-level suit opening]
+
+    [rule of thumb]
+    [equal lengths rule of thumb]
+
+    If those suits are 5 cards in length then
+    you should bid your highest ranked suit
+    first.
+
+    If you have 5 spades and 5 diamonds, you
+    bid 1 spade.
+
 Opening 1-suit
 Opening the bidding 1-suit
 1-level suit opening
@@ -54,7 +90,13 @@ Opening the bidding 1-suit
       partner you have between 12 and (only)
       14 HCP and that your hand is balanced.
 
-    Bid your longest suit first.
+    Rules of thumb:
+    - Bid your longest suit first
+    - bottoms-up
+    - tops-down
+
+    See "bottoms-up".
+    See "tops-down".
 
 1-level contract
     Example:
