@@ -9236,6 +9236,12 @@ puritanism
     Celebrating Christmas would cost you five
     shillings.
 
+puritan
+    You describe someone as a puritan when
+    they live according to strict moral or
+    religious principles, especially when they
+    disapprove of physical pleasures.
+
 appropriation
     An act or instance of appropriating
     something. 
@@ -9338,3 +9344,19 @@ subsisting
     a minimal level.
     "he subsisted on welfare and casual
     labour"
+
+predilection
+    A preference or special liking for
+    something; a bias in favour of something.
+    "my predilection for Asian food"
+
+scion
+    A descendant or heir of a person of high
+    social standing.
+
+    "Apple’s no better than anyone else when
+    it comes to UX They used to be held up as
+    some sort of scion of user-interface
+    design, but one particular component has
+    just cost my partner a lot of message
+    history data."

@@ -333,9 +333,12 @@ New Zealand
     https://lotr.fandom.com/wiki/The_Lord_of_the_Rings_film_trilogy
 
 J. R. R. Tolkien
+John Ronald Reuel Tolkien
 Tolkien
     Author of Lord of the Rings.
 
+    Reuel is a Hebrew name which means friend
+    of God.
 
 Gondor
     [[/home/shane/source/git/mullikine/glossaries/lotr-lord-of-the-rings.txt][glossaries/lotr-lord-of-the-rings.txt]]

@@ -846,6 +846,9 @@ lens
     records and nested records.
 
 ++
+(++)
+    [operator]
+
     Requires both its parameters to be lists
     over the same type.
 
@@ -2931,3 +2934,11 @@ unwrapped value
 ->
 (->)
     ghcd "(->)"
+
+if
+else
+    The else part is mandatory in Haskell.
+
+    doubleSmallNumber x = if x > 100
+                            then x
+                            else x*2 

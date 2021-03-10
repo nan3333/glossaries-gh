@@ -12838,3 +12838,10 @@ opinions and editorials page
     the opinion of an author usually not
     affiliated with the publication's
     editorial board.
+
+transducer
+    A transducer is a device that converts
+    energy from one form to another.
+
+    Usually a transducer converts a signal in
+    one form of energy to a signal in another.

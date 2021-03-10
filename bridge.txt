@@ -1,0 +1,82 @@
+hand
+    13 cards.
+
+stage
+    - the Auction,
+    - the Play,
+    - the Scoring
+
+auction
+bidding
+    https://youtu.be/hBCRRwuhHRQ?t=119
+
+    The auction concludes when there have been
+    3 passes in a row.
+
+contract
+    The last bid made.
+
+declarer
+    The person who plays the hand.
+
+opening lead
+    Made by the person on the declarer's left.
+
+dummy
+    May refer to the player holding the dummy,
+    or the hand.
+
+    Lays their cards out on the table with the
+    trump suit on their right.
+
+bidding notation
+    2NT -- 2 no trumps
+    2H  -- 2 hearts
+    \   -- pass
+
+suits
+    S
+    H
+    D
+    C
+
+contract
+    Levels.
+
+level
+    From 1 to 7.
+
+    Reprents the number of tricks above 6.
+
+Declarer with Dummy
+
+major suits
+    spades
+    hearts
+
+minor suits
+    diamonds
+    clubs
+
+game level
+    This is a significant level of bidding in
+    bridge.
+
+    3NT
+    4S
+    4H
+    5D
+    5C
+
+    At the game level you get bonus points for
+    making your contract.
+
+trick
+    Each player keeps their own cards in front
+    of them.
+
+    If you win the trick you place the cards
+    vertically in front of you.
+
+    If you lose the trick you place them
+    horizontally.
