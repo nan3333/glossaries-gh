@@ -2,11 +2,41 @@ hand
     13 cards.
 
 stage
+phase
     - the Auction,
     - the Play,
     - the Scoring
 
-auction
+bid
+call
+    2 types:
+    - natural
+    - artifical
+
+natural bid
+natural call
+    Based on a holding of the suit bid, or a
+    balanced distribution in the case of a
+    notrump bid
+
+artificial bid
+artificial call
+    Show a feature unrelated to the named
+    denomination.
+
+Bridge convention
+    An agreement about an artificial call or a
+    set of related artificial calls.
+
+Bridge opening convention
+    https://www.bridgehands.com/Indexes/conventions.htm
+
+    Examples:
+    - Benjamin Twos
+
+    See "bridge convention".
+
+auction phase
 bidding
     https://youtu.be/hBCRRwuhHRQ?t=119
 
@@ -307,12 +337,6 @@ responder's limit bid
 Bridge etiquette
     https://www.bridgewebs.com/lees/Bridge%20etiquette%20and%20protocol.pdf
 
-Bridge opening convention
-    https://www.bridgehands.com/Indexes/conventions.htm
-
-    Examples:
-    - Benjamin Twos
-
 Benjamin Twos
 Benji ACOL
 Benjamin ACOL
@@ -329,6 +353,10 @@ Benjamin ACOL
       WEAK hand.
 
     https://www.bridgewebs.com/frome/2018%20Benji%20Acol%20Weak%20Twos%20Jan%202018%20Lesson%201.pdf
+
+Bridge deal
+    The specific arrangement of the 52 cards
+    into the four hands.
 
 Rubber Bridge
     A form of contract bridge played by two
@@ -357,10 +385,8 @@ Duplicate Bridge
     Bridge in club and tournament play.
     
     It is called duplicate because the same
-    Bridge deal (i.e. the specific arrangement
-    of the 52 cards into the four hands) is
-    played at each table and scoring is based
-    on relative performance.
+    Bridge deal is played at each table and
+    scoring is based on relative performance.
     
     In this way, every hand, whether strong or
     weak, is played in competition with others
