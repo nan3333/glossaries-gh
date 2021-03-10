@@ -1,3 +1,5 @@
+https://en.wikipedia.org/wiki/Glossary_of_contract_bridge_terms
+
 hand
     13 cards.
 
@@ -27,6 +29,16 @@ artificial call
 Bridge convention
     An agreement about an artificial call or a
     set of related artificial calls.
+
+two card play signalling
+
+bidding system
+    - French 5-card major system,
+    - English ACOL system,
+    - Polish Club,
+    - SAYC,
+    - Nordic system, and
+    - NBB standard.
 
 Bridge opening convention
     https://www.bridgehands.com/Indexes/conventions.htm
@@ -162,11 +174,19 @@ tops-down
 contract
     The last bid made.
 
-declarer
-    The person who plays the hand.
+Declarer
+    The player who first mentions the suit or
+    notrump that becomes the final contract.
+
+Opening Leader
+    The player to the left of the declarer who
+    starts the play by making the opening
+    lead, playing a card face-up on the table.
+    The Dummy is declarer's partner.
 
 opening lead
-    Made by the person on the declarer's left.
+    The first play made by the Opening Leader
+    (the person on the declarer's left).
 
 dummy
     May refer to the player holding the dummy,
@@ -321,9 +341,23 @@ trick
     If you lose the trick you place them
     horizontally.
 
+forcing bid
+    Not a limit bid.
+
+    A bid that you make that your partner must
+    now repond to.
+
+limit bid
+    Not a forcing bid.
+
+    Your partner now has a choice of either
+    bidding again or to pass.
+
 responder's limit bid
     How to respond to your partner's opening
-    bid. These are the basic rules.
+    bid.
+
+    These are the basic rules.
 
     If you have 6 or more HCP then you should
     respond with a bid. Also, consider 6 a
@@ -339,6 +373,7 @@ responder's limit bid
     - support your partner's suit
     - bid a new suit
     - bid NoTrumps
+      - A last resort
 
     See "1-level suit opening".
 
