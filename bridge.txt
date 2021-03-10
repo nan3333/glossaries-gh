@@ -441,3 +441,9 @@ Duplicate Bridge
     Rubber Bridge where each hand is freshly
     dealt and where scores may be more
     affected by chance in the short run.
+
+Argine
+    https://www.funbridge.com/bridge-artificial-intelligence
+
+    An AI that can play bridge and adapt to
+    players' bidding conventions.
