@@ -40,14 +40,6 @@ suits
     D
     C
 
-contract
-    Levels.
-
-level
-    From 1 to 7.
-
-    Reprents the number of tricks above 6.
-
 Declarer with Dummy
 
 major suits
@@ -57,6 +49,41 @@ major suits
 minor suits
     diamonds
     clubs
+
+High Card Points
+HCP
+
+partnership
+    Step 1:
+    - Find a fit
+    - Decide what level to play your contract
+      at
+
+level
+contract level
+    From 1 to 7.
+    Represents the number of tricks above 6.
+
+    - partscore
+    - game
+    - slam
+
+contract
+    Has levels.
+
+major contract
+
+minor contract
+    Less popular because you need to get more
+    tricks to 'make game' (reach game level
+    and get the bonus).
+
+partscore
+    [contract]
+
+    When you have less than 25 points between
+    you, you are looking for what's called a
+    partscore contract.
 
 game level
     This is a significant level of bidding in
@@ -70,6 +97,60 @@ game level
 
     At the game level you get bonus points for
     making your contract.
+
+game
+game contract
+game level contract
+    [contract]
+
+    Once you reach 25 points between you then
+    you are looking for a game level contract.
+
+    If you make this contract you get a bonus.
+
+make game
+    Successfully completing a game contract.
+
+    The number of trick you need to make game
+    depends on the contract you're in.
+
+slam
+game level contract
+    [contract]
+
+    You need around 33+ points between you and
+    your partner to bidding a contract up at
+    the slam level.
+
+honor cards
+    A, K, Q, J
+
+    They are assigned a point count.
+
+    A = 4 HCP
+    K = 3 HCP
+    Q = 2 HCP
+    J = 1 HCP
+
+    There are 40 total HCP available to all
+    players.
+
+fit
+    When you and your partner have between you
+    8 or more cards in one of the suits.
+
+    If there is a fit then this will be the
+    trump suit.
+
+    If there is no fit then you should choose
+    No Trumps.
+
+    If there is a fit in a minor then you can
+    choose whether to play in the minor or No
+    Trumps.
+
+    It's not the quality of the cards that
+    counts but the quantity.
 
 trick
     Each player keeps their own cards in front
