@@ -179,6 +179,10 @@ dummy
     left or right of the dummy appears to be a
     convention.
 
+    - The Partner who is Dummy must:
+      - only play as directed.
+      - not touch or suggest a card is played.
+
 bidding notation
     2NT -- 2 NoTrumps
     2H  -- 2 hearts
