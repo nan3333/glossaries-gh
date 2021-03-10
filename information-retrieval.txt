@@ -1158,3 +1158,21 @@ field boosting
     https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping-boost.html
 
 field retrieval
+
+BM25
+Okapi BM25
+    BM25 and its newer variants, e.g. BM25F (a
+    version of BM25 that can take document
+    structure and anchor text into account),
+    represent state-of-the-art TF-IDF-like
+    retrieval functions used in document
+    retrieval.
+    
+Precision at n
+    The proportion of the top-n documents that
+    are relevant.
+
+top-n
+    In an IR system that retrieves a ranked
+    list, the top-n documents are the first n
+    in the ranking.
