@@ -175,6 +175,10 @@ dummy
     Lays their cards out on the table with the
     trump suit on their right.
 
+    Whether the suit trump is placed on the
+    left or right of the dummy appears to be a
+    convention.
+
 bidding notation
     2NT -- 2 NoTrumps
     2H  -- 2 hearts
