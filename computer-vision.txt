@@ -11,3 +11,10 @@ wide baseline stereo
     correspondences between images and
     geometrical relations between them, see an
     example here.
+
+Fréchet Inception Distance
+FID
+    May be used for filtering images.
+
+    FID is a metric of similarity between
+    images.

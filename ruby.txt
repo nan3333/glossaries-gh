@@ -18,3 +18,7 @@ Guard
     - automating various project tasks, and
     - installing/monitoring various system
       services.
+
+RuboCop
+    A Ruby static code analyzer (linter) and
+    code formatter. 

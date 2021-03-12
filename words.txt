@@ -5849,12 +5849,6 @@ whimsy
     "the film is an awkward blend of whimsy
     and moralizing"
 
-Diacope
-    A rhetorical term meaning repetition of a
-    word or phrase with one or two intervening
-    words. It derives from a Greek word
-    meaning "cut in two".
-
 compendium
     A collection of concise but detailed
     information about a particular subject,
@@ -5955,6 +5949,11 @@ Aposiopesis
     or else—!"
 
 Diacope
+    A rhetorical term meaning repetition of a
+    word or phrase with one or two intervening
+    words. It derives from a Greek word
+    meaning "cut in two".
+
     Diacope () is a rhetorical term meaning
     repetition of a word or phrase with one or
     two intervening words. It derives from a
@@ -9366,3 +9365,11 @@ gobbledygook
     unintelligible by excessive use of
     technical terms.
     "reams of financial gobbledygook"
+
+peaceably
+    Without violence or war, or in a peaceful
+    way: We want the two states to exist
+    peaceably side by side.
+
+    They are peaceably exercising their right
+    of free speech.

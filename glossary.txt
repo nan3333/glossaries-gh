@@ -12845,3 +12845,14 @@ transducer
 
     Usually a transducer converts a signal in
     one form of energy to a signal in another.
+
+chit
+    A chit is a short official note, such as a
+    receipt, an order, or a memo, usually
+    signed by someone in authority.
+
+    "Sign a chit for that before you leave the
+    building. It's government property now."
+
+DYOR
+Do Your Own Research
