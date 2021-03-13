@@ -2226,3 +2226,88 @@ topic model
     Topic modeling is a frequently used text-
     mining tool for discovery of hidden
     semantic structures in a text body.
+
+embeddings
+    vim +/"vectors = np.load('dataset\/glove.6B.300d.npy')" "$MYGIT/mullikine/codenames/codenames.py"
+
+    'npy' files.
+
+context vector
+    [word vector embedding]
+
+    The hidden state from the last unit is
+    known as the 'context vector'.
+
+    This contains information about the input
+    sequence.
+
+    See "word vector":
+        vim +/"word vector" "$NOTES/glossary.txt"
+
+word vector
+word vector embedding
+    Obtained using two methods (both involving
+    Neural Networks):
+    - Skip Gram, and
+    - Common Bag Of Words (CBOW)
+
+    Limitations:
+    - they presume incorrectly that a word’s
+      meaning is relatively stable across
+      sentences.
+
+      Polysemy abounds, and we must beware of
+      massive differences in meaning for a
+      single word:
+        e.g.
+        - lit (an adjective that describes
+        something burning) and lit (an
+        abbreviation for literature); or get
+        (a verb for obtaining) and get (an
+        animal’s offspring).
+
+    The optimal dimensionality of word
+    embeddings is mostly task-dependent:
+    - a smaller dimensionality works better
+      for more syntactic tasks such as named
+      entity recognition or part-of-speech
+      (POS) tagging, while
+    - a larger dimensionality is more useful
+      for more semantic tasks such as
+      sentiment analysis.
+
+    Fixed-length vector representations.
+
+    Useful for document retrieval and word
+    sense disambiguation.
+
+    Motivated by four goals:
+    - Capture “similarity of use” among words
+      “car” is similar to “auto”, but not
+      similar to “hippopotamus”.
+    - Quickly find constituent objects
+      eg., documents that contain specified words.
+    - Generate context vectors automatically
+      from an unlabeled corpus.
+    - Use context vectors as input to standard
+      learning algorithms.
+
+    Lack, however, a natural way to represent
+    syntax, discourse, or logic.
+
+    Accommodating all these capabilities into
+    a “Grand Unified Representation” is, we
+    maintain, a prerequisite for solving the
+    most difficult problems in Artificial
+    Intelligence, including natural language
+    understanding.
+
+    The dot product of the CV for “car” with
+    CV’s of documents containing “car” to be
+    larger than the dot product of the CV for
+    “car”.
+
+distributed representations
+    A way of mapping or encoding information
+    to some physical medium such as a memory
+    or neural network.
