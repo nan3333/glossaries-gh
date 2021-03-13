@@ -111,6 +111,8 @@ position-wise FFNN
 multi-head self-attention
     [#transformer]
 
+    - 'n' attention heads
+
     Involves performing multiple single
     attention function (multiple heads), each
     with a different set of query, key and
@@ -153,3 +155,8 @@ attention score
     The score is computed by taking the dot
     products of the query with all the other
     key vectors in the sequence.
+
+representation subspaces
+    - queries,
+    - keys, and
+    - values
