@@ -116,12 +116,10 @@ multi-head self-attention
     with a different set of query, key and
     value weight matrices.
     
-    This is illustrated by the following
-    formula: The purpose of multi-head self-
-    attention is that it allows the model to
-    focus on information from multiple
-    representation subspaces at different
-    positions.
+    The purpose of multi-head self-attention
+    is that it allows the model to focus on
+    information from multiple representation
+    subspaces at different positions.
     
     These matrices are initialised randomly
     and are used to project inputs into
@@ -145,3 +143,13 @@ multi-head self-attention
     trained during the training process.
 
     See "self-attention".
+
+attention score
+    [[https://ryanong.co.uk/2020/01/10/day-10-transformers-multihead-attention-mechanism/][Day 10: Transformers - MultiHead Attention Mechanism - Ryan Ong]]
+
+    Tells the model which part of the sequence
+    to focus on when encoding a word.
+    
+    The score is computed by taking the dot
+    products of the query with all the other
+    key vectors in the sequence.
