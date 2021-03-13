@@ -980,6 +980,7 @@ resnet
 
 self-attention
 intra-attention
+Scaled Dot-Product Attention
     [attention mechanism]
 
     Intuition:
@@ -1006,6 +1007,42 @@ intra-attention
     the “understanding” of other relevant
     words into the one we’re currently
     processing.
+
+    ---
+
+    https://ryanong.co.uk/2020/01/10/day-10-transformers-multihead-attention-mechanism/
+    
+    The self-attention mechanism, also known
+    as Scaled Dot-Product Attention, involves
+    three different inputs: queries, keys and
+    values vectors.
+    
+    These vectors are created by multiplying
+    three different matrices, that are trained
+    during the training process, with either
+    the word embeddings or the output of the
+    previous encoder in the stack.
+    
+    Once we have computed the vectors, we
+    would need to compute the attention score,
+    which tells the model which part of the
+    sequence to focus on where encoding a
+    word.
+    
+    The score is computed by taking the dot
+    products of the query with all the other
+    key vectors in the sequence.
+    
+    Once the score has been computed, we
+    divide each score by the square root of
+    the dimension of the key vectors and apply
+    the softmax function to obtain the weights
+    on the value vectors.
+    
+    Finally, we multiply each value vector by
+    their corresponding weights and sum them
+    up to produce the output of the self-
+    attention layer at this position.
 
 induction
 inductive inference

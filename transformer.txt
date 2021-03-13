@@ -74,8 +74,8 @@ decoder block
 stack
     A stack of transformer blocks.
 
-Multi-Head Attention
-    [transformer]
+multi-head attention
+    [#transformer]
 
     [[https://ryanong.co.uk/2020/01/09/day-9/][Day 9: Transformers - Introduction - Ryan Ong]]
 
@@ -90,7 +90,7 @@ Multi-Head Attention
 
 position-wise feed-forward neural network
 position-wise FFNN
-    [transformer]
+    [#transformer]
 
     [[https://ryanong.co.uk/2020/01/09/day-9/][Day 9: Transformers - Introduction - Ryan Ong]]
 
@@ -107,3 +107,41 @@ position-wise FFNN
           each position through its own path
           in the encoder, hence it is called
           position-wise FF NN.
+
+multi-head self-attention
+    [#transformer]
+
+    Involves performing multiple single
+    attention function (multiple heads), each
+    with a different set of query, key and
+    value weight matrices.
+    
+    This is illustrated by the following
+    formula: The purpose of multi-head self-
+    attention is that it allows the model to
+    focus on information from multiple
+    representation subspaces at different
+    positions.
+    
+    These matrices are initialised randomly
+    and are used to project inputs into
+    different representation subspace.
+    
+    We can then perform multiple attention
+    function, in parallel, using these
+    different representation subspaces
+    (queries, keys and values).
+    
+    Therefore, a transformer with 8 attention
+    heads as outlined in Vaswani et al. (2017)
+    means that we will end up with 8 different
+    output matrices.
+    
+    Seeing as the FF NN only expects a single
+    output matrix, we condense the output
+    matrices into a single matrix by
+    concatenating them and multiplying it by
+    another weight matrix that was also
+    trained during the training process.
+
+    See "self-attention".
