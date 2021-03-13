@@ -314,3 +314,46 @@ log probability
 
 Joint surprisal
     Equal to the sum of the surprisals.
+
+Damerau–Levenshtein distance
+    A string metric for measuring the edit
+    distance between two sequences.
+    
+    Informally, the Damerau–Levenshtein
+    distance between two words is the minimum
+    number of operations (consisting of
+    insertions, deletions or substitutions of
+    a single character, or transposition of
+    two adjacent characters) required to
+    change one word into the other.
+    
+    The Damerau–Levenshtein distance differs
+    from the classical Levenshtein distance by
+    including transpositions among its
+    allowable operations in addition to the
+    three classical single-character edit
+    operations (insertions, deletions and
+    substitutions).
+
+Levenshtein distance
+    In information theory, linguistics, and
+    CS, the Levenshtein distance is a string
+    metric for measuring the difference
+    between two sequences.
+    
+    Informally, the Levenshtein distance
+    between two words is the minimum number of
+    single- character edits (insertions,
+    deletions or substitutions) required to
+    change one word into the other.
+    
+    It is named after the Soviet mathematician
+    Vladimir Levenshtein, who considered this
+    distance in 1965.Levenshtein distance may
+    also be referred to as edit distance,
+    although that term may also denote a
+    larger family of distance metrics known
+    collectively as edit distance.
+    
+    It is closely related to pairwise string
+    alignments.

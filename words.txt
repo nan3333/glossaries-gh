@@ -9373,3 +9373,9 @@ peaceably
 
     They are peaceably exercising their right
     of free speech.
+
+nevertheless
+    In spite of that; notwithstanding; all the
+    same.
+    "statements which, although literally
+    true, are nevertheless misleading"
