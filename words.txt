@@ -9379,3 +9379,8 @@ nevertheless
     same.
     "statements which, although literally
     true, are nevertheless misleading"
+
+deflationary
+    Characterized by or tending to cause
+    economic deflation.
+    'the deflationary effect of higher taxes'

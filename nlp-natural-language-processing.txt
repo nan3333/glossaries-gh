@@ -216,6 +216,10 @@ Word2Vec
     features) making similar words also be
     close to each other.
 
+    One of the most popular framework for
+    mapping word representation to a vector
+    space using a large corpus of text.
+
 Skip-Gram
 Word2Vec Skip-Gram
     [#word2vec]
@@ -384,6 +388,74 @@ gensim
 
         rifle "$MYGIT/RaRe-Technologies/gensim/docs/notebooks/Poincare Tutorial.ipynb"
         sp "$MYGIT/RaRe-Technologies/gensim/docs/notebooks/Poincare Tutorial.py"
+
+FastText
+    A library for text classification and
+    representation.
+
+GloVe
+    (coined from Global Vectors)
+
+    A model for distributed word
+    representation.
+    
+    The model is an unsupervised learning
+    algorithm for obtaining vector
+    representations for words.
+    
+    This is achieved by mapping words into a
+    meaningful space where the distance
+    between words is related to semantic
+    similarity
+
+word embedding
+    Types:
+    - distributional word embeddings
+    - contextualised word embeddings
+
+distributional word embeddings
+fixed Word Embeddings
+    Better than BoW.
+
+    Each word has only one vector
+    representation that’s formed during the
+    training phase and this vector
+    representation is used for the same word
+    in different context.
+
+    Three popular types:
+    - Word2Vec (2013),
+    - GloVe (2014), and
+    - FastText (2017).
+
+contextualised word embeddings
+    Types:
+    - ELMo
+    - ...
+
+    Better than distributional word
+    embeddings.
+
+    Distributional word embeddings means that
+    each word has only one vector
+    representation that’s formed during the
+    training phase and this vector
+    representation is used for the same word
+    in different context.
+    
+    However, as we know, the same word in
+    different contexts has different meanings.
+    
+    Therefore, it makes more sense for the
+    vector representation of the same word to
+    be different depending on the context of
+    which it appears in.
+    
+    To address this, contextualised word
+    embeddings such as ELMo (2018) was
+    introduced, whereby word embeddings of the
+    same word can change depending on the
+    context it appears in.
 
 popular NLP / IR algorithms
     Examples:

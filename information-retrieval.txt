@@ -540,9 +540,15 @@ blind feedback
         documents for this query and finally
         return the most relevant documents.
 
+content selection technique
+    Examples:
+    - TFIDF
+
 tf-idf
 TFIDF
 TF*IDF
+    [content selection technique]
+
     https://manticoresearch.com/2019/04/09/tf-idf-in-a-nutshell/
 
     A rough way of approximating how users
@@ -1176,3 +1182,14 @@ top-n
     In an IR system that retrieves a ranked
     list, the top-n documents are the first n
     in the ranking.
+
+graph-based ranking
+    [[https://ryanong.co.uk/2020/01/08/day-8/][Day 8: TextRank for Summarisation - Ryan Ong]]
+
+    In short, a graph-based ranking algorithm
+    is a way of deciding on the importance of
+    a vertex within a graph, by taking into
+    account global information recursively
+    computed from the entire graph, rather
+    than relying only on local vertex-specific
+    information.

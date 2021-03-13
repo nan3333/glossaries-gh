@@ -1,3 +1,12 @@
+transformer
+    [transformer]
+
+    [[https://ryanong.co.uk/2020/01/09/day-9/][Day 9: Transformers - Introduction - Ryan Ong]]
+
+    Residual connection and layer
+    normalisation are applied to each of the
+    two sub-layers (Add & Norm).
+
 switch transformer
     https://www.infoq.com/news/2021/02/google-trillion-parameter-ai/
 
@@ -64,3 +73,37 @@ decoder block
 
 stack
     A stack of transformer blocks.
+
+Multi-Head Attention
+    [transformer]
+
+    [[https://ryanong.co.uk/2020/01/09/day-9/][Day 9: Transformers - Introduction - Ryan Ong]]
+
+    Multi-head Attention is a module for
+    attention mechanisms which runs through an
+    attention mechanism several times in
+    parallel.
+
+    The independent attention outputs are then
+    concatenated and linearly transformed into
+    the expected dimension.
+
+position-wise feed-forward neural network
+position-wise FFNN
+    [transformer]
+
+    [[https://ryanong.co.uk/2020/01/09/day-9/][Day 9: Transformers - Introduction - Ryan Ong]]
+
+    [[https://medium.com/@chiranthancv95/transformers-attention-is-all-you-need-8de139e0fe9e][TransformersAttention is all you need! | by CV CHIRANTHAN | Feb, 2021 | Medium]]
+
+    Each encoder consists of two sub layers:
+    - A self-attention layer:
+          A layer that helps the encoder look
+          at other words in the input sentence
+          as it encodes a specific word.
+    - An FFNN:
+          The exact same FF network is
+          independently applied to the word in
+          each position through its own path
+          in the encoder, hence it is called
+          position-wise FF NN.

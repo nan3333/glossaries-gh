@@ -678,14 +678,16 @@ secret key
     ECDSA).
 
 proof of stake
+proof-of-stake
 PoS
     A method by which a cryptocurrency
     blockchain protocol aims to achieve
-    distributed consensus. PoS asks users to
-    prove ownership of a certain amount of
-    cryptocurrency (their "stake" in the
-    network) in order to be able to
-    participate in the validation of
+    distributed consensus.
+    
+    PoS asks users to prove ownership of a
+    certain amount of cryptocurrency (their
+    "stake" in the network) in order to be
+    able to participate in the validation of
     transactions.
 
 proof of work
