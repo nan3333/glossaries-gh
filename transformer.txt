@@ -160,3 +160,10 @@ representation subspaces
     - queries,
     - keys, and
     - values
+
+head
+attention head
+    Each with a different set of query, key
+    and value weight matrices.    
+
+    See "multi-head self-attention".
