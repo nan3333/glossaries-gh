@@ -75,6 +75,8 @@ three principles of unsupervised machine translation
   - LMing, and
   - back-translation.
 
+back-translation
+
 Monolingual word embeddings vs cross-lingual word embeddings
     Monolingual word embeddings are pervasive
     in NLP.

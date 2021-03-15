@@ -150,11 +150,6 @@ tonic
 starlet
     A young actress with aspirations to become a star.
 
-nascent/ˈnas(ə)nt,ˈneɪs(ə)nt/
-    adjective
-    (especially of a process or organization) just coming into existence
-    and beginning to display signs of future potential.
-
 sanguine
 
 parasitizing
@@ -165,9 +160,6 @@ visceral
 
     Example:
     "the voters' visceral fear of change"
-
-ascertain
-    find (something) out for certain; make sure of.
 
 parabiosis
     Young blood transfusion refers to
@@ -1016,12 +1008,6 @@ cartharsis
     providing relief from, strong or repressed
     emotions.
 
-nascent
-    (especially of a process or organization)
-
-    Just coming into existence and beginning
-    to display signs of future potential.
-
 incontrovertibly
     not able to be denied or disputed.
 
@@ -1403,11 +1389,6 @@ grassroots campaign
 
 grisly
     Causing horror or disgust.
-
-bipartisan
-    Involving the agreement or cooperation of
-    two political parties that usually oppose
-    each other's policies.
 
 incitement
     The action of provoking unlawful behaviour
@@ -2964,9 +2945,6 @@ newfound
 newly found
     Recently discovered or established.
 
-attest
-    Provide or serve as clear evidence of.
-
 doozie
     Something outstanding or unique of its
     kind.
@@ -4160,11 +4138,6 @@ generality
     A statement or principle having general
     rather than specific validity or force.
 
-nascent
-    (especially of a process or organization)
-    just coming into existence and beginning
-    to display signs of future potential.
-
 dorsal
     Of, on, or relating to the upper side or
     back of an animal, plant, or organ.
@@ -4850,10 +4823,6 @@ steward
 
 sommelier
     A wine waiter/steward.
-
-beholden
-    Owing thanks or having a duty to someone
-    in return for help or a service.
 
 adjudicator
     Someone who presides, judges, and
@@ -8845,6 +8814,8 @@ tendentious
 attest
     Provide or serve as clear evidence of.
 
+    "I cannot attest to..."
+
     "his status is attested by his becoming an
     alderman"
 
@@ -9183,6 +9154,7 @@ mistral
 beholden
     Owing thanks or having a duty to someone
     in return for help or a service.
+
     "I don't like to be beholden to anybody"
 
 syllogism
@@ -9384,3 +9356,51 @@ deflationary
     Characterized by or tending to cause
     economic deflation.
     'the deflationary effect of higher taxes'
+
+supple
+    Bending and moving easily and gracefully;
+    flexible.
+    "her supple fingers"
+
+supernumerary
+    Present in excess of the normal or
+    requisite number.
+    
+    A supernumerary person or thing.
+
+antipathy
+    Antipathy is a voluntary or involuntary
+    dislike for something or somebody, the
+    opposite of sympathy.
+    
+    While antipathy may be induced by
+    experience, it sometimes exists without a
+    rational cause-and-effect explanation
+    being present to the individuals involved.
+
+recapitulate
+recapitulating
+
+honorific
+
+cartesian rationalism
+
+presupposes
+    Require as a precondition of possibility
+    or coherence.
+    "their original prediction presupposed a
+    universe only three billion years old"
+
+    "...that presupposes it..."
+
+interrogative
+interrogative clause
+    An interrogative clause is a clause whose
+    form is typically associated with
+    question-like meanings.
+    
+    For instance, the English sentence "Is
+    Hannah sick?" has interrogative syntax
+    which distinguishes it from its
+    declarative counterpart "Hannah is
+    coming".

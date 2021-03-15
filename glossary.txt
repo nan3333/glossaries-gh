@@ -4334,6 +4334,14 @@ Theory of patches
 
     https://en.wikibooks.org/wiki/Understanding_Darcs/Patch_theory
 
+hyperparameter
+    A parameter whose value is used to control
+    the learning process.
+
+    By contrast, the values of other
+    parameters (typically node weights) are
+    derived via training.
+
 learning the parameters of a model
 parameter learning
     Given a set of data cases or observations
@@ -12833,3 +12841,70 @@ Simulacra and Simulation
     symbolism of culture and media involved in
     constructing an understanding of shared
     existence.
+
+Olbers' paradox
+dark night sky paradox
+    The apparent paradox that if stars are
+    distributed evenly throughout an infinite
+    universe, the sky should be as bright by
+    night as by day, since more distant stars
+    would be fainter but more numerous.
+    
+    This is not the case because the universe
+    is of finite age, and the light from the
+    more distant stars is dimmed because they
+    are receding from the observer as the
+    universe expands.
+
+    Named after the German astronomer Heinrich
+    Wilhelm Olbers (1758–1840).
+
+    The argument that the darkness of the
+    night sky conflicts with the assumption of
+    an infinite and eternal static universe.
+
+    https://www.youtube.com/watch?v=2MCt3AxCL6I
+
+study of mind
+    vim +/"descartes-rules-for-direction-of-the-mind" "$NOTES/ws/descartes/read.org"
+
+genetic endowment
+genetic determinism
+biological determinism
+    The total of inherited attributes.
+    heredity. property - a basic or essential
+    attribute shared by all members of a
+    class; "a study of the physical properties
+    of atomic particles" hereditary pattern,
+    inheritance - ( genetics ) attributes
+    acquired via biological heredity from the
+    parents.
+
+The Astonishing Hypothesis
+    https://youtu.be/D5in5EdjhD0?t=4447
+
+    The Astonishing Hypothesis is a 1994 book
+    by scientist Francis Crick about
+    consciousness.
+    
+    Crick, one of the co-discoverers of the
+    molecular structure of DNA, later became a
+    theorist for neurobiology and the study of
+    the brain.
+    
+    The Astonishing Hypothesis is mostly
+    concerned with establishing a basis for
+    scientific study of consciousness;
+    however, Crick places the study of
+    consciousness within a larger social
+    context.
+    
+    Human consciousness according to Crick is
+    central to human existence and so
+    scientists find themselves approaching
+    topics traditionally left to philosophy
+    and religion.
+
+david hume
+
+adam smith

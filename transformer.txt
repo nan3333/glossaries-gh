@@ -144,6 +144,12 @@ multi-head self-attention
     another weight matrix that was also
     trained during the training process.
 
+    The Transformer architecture ditched the
+    recurrence mechanism in favor of multi-
+    head self-attention mechanism. Avoiding
+    the RNNs’ method of recurrence will result
+    in massive speed-up in the training time.
+
     See "self-attention".
 
 attention score
@@ -167,3 +173,12 @@ attention head
     and value weight matrices.    
 
     See "multi-head self-attention".
+
+
+positional encodings
+    [[https://ryanong.co.uk/2020/01/11/day-11-transformers-positioning-encoding-and-decoder/][Day 11 - Transformers: Positioning Encoding and Decoder - Ryan Ong]]
+
+    ewwlinks +/"What is positional encoding" "https://kazemnejad.com/blog/transformer_architecture_positional_encoding/"
+
+    Position and order of words are the essential parts of any language. They define the grammar and thus the actual semantics
+    of a sentence.
