@@ -1002,3 +1002,13 @@ Pattern
     from typing import Optional, Any, Dict, Callable, Iterable, Union, List, Pattern
 
     gli -F "\\.py" "from typing import"
+
+dunder method    
+magic method
+    [#Python]
+
+    The methods having two prefix and suffix
+    underscores in the method name. Dunder
+    here means “Double Under (Underscores)”.
+    These are commonly used for operator
+    overloading.
