@@ -76,6 +76,23 @@ three principles of unsupervised machine translation
   - back-translation.
 
 back-translation
+    https://www.technitrad.com/back-translation-what-is-it-and-how-is-it-done/
+    
+    Helps to identify any confusion,
+    ambiguities or errors that may arise from
+    the nuances of language and helps to
+    evaluate the equivalence of meaning
+    between the source and target texts.
+
+    By comparing the back translation to the
+    original text, the quality and accuracy of
+    the translation into another language can
+    be confirmed.
+    
+    This is especially important when every
+    small detail counts and a guarantee of
+    quality, precision and accuracy is
+    required.
 
 Monolingual word embeddings vs cross-lingual word embeddings
     Monolingual word embeddings are pervasive
