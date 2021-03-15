@@ -9378,13 +9378,6 @@ antipathy
     rational cause-and-effect explanation
     being present to the individuals involved.
 
-recapitulate
-recapitulating
-
-honorific
-
-cartesian rationalism
-
 presupposes
     Require as a precondition of possibility
     or coherence.
@@ -9413,3 +9406,23 @@ malefic
 phantasm
     A figment of the imagination; an illusion
     or apparition.
+
+aleatory
+    Depending on the throw of a dice or on
+    chance; random.
+    
+    Relating to luck and especially to bad
+    luck.
+
+honorific
+    (of an office, title or position)
+    
+    [A title] given as a mark of respect, but
+    having few or no duties.
+
+recapitulate
+recapitulating
+    Summarize and state again the main points.
+    
+    "He began to recapitulate his argument
+    with care"
