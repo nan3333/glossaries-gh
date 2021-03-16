@@ -617,9 +617,6 @@ regression
     Output variable in regression is numerical
     (or continuous).
 
-softmax
-    ewwlinks +/"This stack of RBMs might end with a a Softmax layer to create a classifier, or it may simply help cluster" "https://skymind.ai/wiki/deep-belief-network"
-
 SVM
 Support-vector Machines
     Supervised learning models with associated

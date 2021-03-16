@@ -327,7 +327,39 @@ output layer
                                     10 nodes
                                     1 node per possible number prediction
 
+softmax
 softmax function
+    The softmax function, also known as
+    softargmax or normalized exponential
+    function, is a generalization of the
+    logistic function to multiple dimensions.
+    
+    It is used in multinomial logistic
+    regression and is often used as the last
+    activation function of a NN to normalize
+    the output of a network to a probability
+    distribution over predicted output
+    classes, based on Luce's choice axiom.
+    
+    The softmax function takes as input a
+    vector z of K real numbers, and normalizes
+    it into a probability distribution
+    consisting of K probabilities proportional
+    to the exponentials of the input numbers.
+    
+    That is, prior to applying softmax, some
+    vector components could be negative, or
+    greater than one; and might not sum to 1;
+    but after applying softmax, each component
+    will be in the interval ( 0 , 1 ), and
+    the components will add up to 1, so that
+    they can be interpreted as probabilities.
+    
+    Furthermore, the larger input components
+    will correspond to larger probabilities.
+
+    ewwlinks +/"This stack of RBMs might end with a a Softmax layer to create a classifier, or it may simply help cluster" "https://skymind.ai/wiki/deep-belief-network"
+
     For when you are looking for something
     more like a probability distribution of
     which of the possible prediction options
