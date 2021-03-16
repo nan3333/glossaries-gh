@@ -223,8 +223,52 @@ long division
                 ___6_ <- quotient
     divisor -> 4) 24  <- dividend
 
+quotient
+    A result obtained by dividing one quantity
+    by another.
+    
+    A degree or amount of a specified quality
+    or characteristic.
+
 holomorphic function
     A complex-valued function of one or more
     complex variables that is, at every point
     of its domain, complex differentiable in a
     neighborhood of the point.
+
+partial fraction decomposition
+    https://www.youtube.com/watch?v=P78LfZTIFJg
+
+laplace transform
+    An integral transform that converts a
+    function of a real variable t (often time)
+    to a function of a complex variable s
+    (complex frequency).
+    
+    The transform has many applications in
+    science and engineering because it is a
+    tool for solving differential equations.
+    
+    In particular, it transforms differential
+    equations into algebraic equations and
+    convolution into multiplication.
+
+inverse laplace transform
+    The inverse Laplace transform of a
+    function F(s) is the piecewise-continuous
+    and exponentially- restricted real
+    function f(t) which has the property: L {
+    f } ( s ) = L { f ( t ) } ( s ) = F ( s ),
+    where L denotes the Laplace transform.
+    
+    It can be proven that, if a function F(s)
+    has the inverse Laplace transform f(t),
+    then f(t) is uniquely determined
+    (considering functions which differ from
+    each other only on a point set having
+    Lebesgue measure zero as the same).
+        
+    The Laplace transform and the inverse
+    Laplace transform together have a number
+    of properties that make them useful for
+    analysing linear dynamical systems.
