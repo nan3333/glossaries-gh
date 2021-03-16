@@ -9426,3 +9426,15 @@ recapitulating
     
     "He began to recapitulate his argument
     with care"
+
+pretext
+    A pretext is an excuse to do something or
+    say something that is not accurate.
+    
+    Pretexts may be based on a half-truth or
+    developed in the context of a misleading
+    fabrication.
+    
+    Pretexts have been used to conceal the
+    true purpose or rationale behind actions
+    and words.
