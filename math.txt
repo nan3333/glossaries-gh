@@ -216,6 +216,13 @@ porism
 
     [[https://www.youtube.com/watch?v=n5bw-Y13pdY][Poncelet's Porism - Numberphile - YouTube]]
 
+    A mathematical proposition or corollary.
+    
+    In particular, the term porism has been
+    used to refer to a direct consequence of a
+    proof, analogous to how a corollary refers
+    to a direct consequence of a theorem.
+
 conic
 ellipse
 
