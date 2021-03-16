@@ -223,6 +223,13 @@ porism
     proof, analogous to how a corollary refers
     to a direct consequence of a theorem.
 
+corollary
+    A proposition that follows from (and is
+    often appended to) one already proved.
+    
+    Forming a proposition that follows from
+    one already proved.
+
 conic
 ellipse
 
