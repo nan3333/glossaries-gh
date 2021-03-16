@@ -94,6 +94,18 @@ back-translation
     quality, precision and accuracy is
     required.
 
+embedding
+    A relatively low-dimensional space into
+    which you can translate high-dimensional
+    vectors.
+    
+    Embeddings make it easier to do ML on
+    large inputs like sparse vectors
+    representing words.
+    
+    An embedding can be learned and reused
+    across models.
+
 Monolingual word embeddings vs cross-lingual word embeddings
     Monolingual word embeddings are pervasive
     in NLP.
@@ -106,3 +118,19 @@ Monolingual word embeddings vs cross-lingual word embeddings
     words in a joint embedding space.
 
 masked language modeling
+    https://www.quora.com/What-is-a-masked-language-model-and-how-is-it-related-to-BERT
+
+    An example of autoencoding LMing (the
+    output is reconstructed from corrupted
+    input) - we typically mask one or more of
+    words in a sentence and have the model
+    predict those masked words given the other
+    words in sentence.
+    
+    By training the model with such an
+    objective, it can essentially learn
+    certain (but not all) statistical
+    properties of word sequences.
+    
+    BERT is a model that is trained on a
+    masked LMing objective.

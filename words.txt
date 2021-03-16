@@ -9438,3 +9438,16 @@ pretext
     Pretexts have been used to conceal the
     true purpose or rationale behind actions
     and words.
+    
+apotheosis
+    The highest point in the development of
+    something; a culmination or climax.
+
+    "his appearance as Hamlet was the
+    apotheosis of his career"
+
+    The glorification of a subject to divine
+    level and most commonly, the treatment of
+    a human like a god.
+
+    Deification.

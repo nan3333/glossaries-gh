@@ -2942,3 +2942,15 @@ else
     doubleSmallNumber x = if x > 100
                             then x
                             else x*2 
+
+Constraint
+    ewwlinks +/"The following things" "https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/constraint_kind.html"
+
+    Among others:
+        Anything whose form is not yet known,
+        but the user has declared to have kind
+        Constraint (for which they need to
+        import it from Data.Kind )
+
+    ghcd 5.5
+    ghcd Fractional
