@@ -861,3 +861,9 @@ radio
     The transmission and reception of
     electromagnetic waves of radio frequency,
     especially those carrying sound messages.
+
+Huygens–Fresnel principle
+    A method of analysis applied to problems
+    of wave propagation both in the far-field
+    limit and in near-field diffraction and
+    also reflection.

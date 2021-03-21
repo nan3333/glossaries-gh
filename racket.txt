@@ -946,3 +946,15 @@ for/list
     single value, and the result of the
     for/list expression is a list of the
     results in order.
+
+reader
+    Converts the source code of our language
+    from a string of characters into Racket-
+    style parenthesized forms, also known as
+    S-expressions.
+
+expander
+     Determines how these parenthesized forms
+     correspond to real Racket expressions
+     (which are then evaluated to produce a
+     result).

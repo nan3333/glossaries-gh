@@ -157,3 +157,8 @@ separation of concerns
     computer program into distinct sections
     such that each section addresses a
     separate concern.
+
+palindrome
+    A word, phrase, or sequence that reads the
+    same backward as forward, e.g., madam or
+    nurses run.
