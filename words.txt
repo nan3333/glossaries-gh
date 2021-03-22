@@ -5736,23 +5736,6 @@ vocation
       walk of life, métier, line of country,
       game, thing, bag, racket
 
-goad
-    The goad is a traditional farming
-    implement, used to spur or guide
-    livestock, usually oxen, which are pulling
-    a plough or a cart; used also to round up
-    cattle.
-
-    It is a type of long stick with a pointed
-    end, also known as the cattle prod.
-
-    The word is from Middle English gode, from
-    Old English gād.
-
-goading
-    Provoke or annoy (someone) so as to
-    stimulate an action or reaction.
-
 trepidation
     A feeling of fear or anxiety about
     something that may happen.
@@ -9584,3 +9567,54 @@ dissuaded
     stop, scare off, warn off, advise against,
     urge against, advise/urge not to, caution
     against, expostulate against, dehort
+
+lectern
+    A tall stand with a sloping top to hold a
+    book or notes, from which someone,
+    typically a preacher or lecturer, can read
+    while standing up.
+
+    "Lovell, who received sustained applause
+    and a standing ovation as he approached
+    the lectern to begin his remarks, said he
+    began to question his own existence,
+    asking, \"How do I fit into what I see?\""
+
+grassroots
+    The most basic level of an activity or
+    organization.
+
+goad
+    The goad is a traditional farming
+    implement, used to spur or guide
+    livestock, usually oxen, which are pulling
+    a plough or a cart; used also to round up
+    cattle.
+
+    It is a type of long stick with a pointed
+    end, also known as the cattle prod.
+
+    The word is from Middle English gode, from
+    Old English gād.
+
+    "not meant as a goad to you"
+
+goading
+    Provoke or annoy (someone) so as to
+    stimulate an action or reaction.
+
+shill
+shilled
+    Ensnared, enticed, seduced, decoyed.
+
+    "they've been shilled to believe"
+
+    noun
+        A person who poses as a customer in
+        order to decoy others into
+        participating, as at a gambling house,
+        auction, confidence game, etc.
+
+    Act or work as a shill.
+    "your husband in the crowd could shill for
+    you"
