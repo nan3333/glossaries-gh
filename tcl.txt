@@ -6,6 +6,8 @@ fileevent
     https://wiki.tcl-lang.org/page/fileevent
 
 expect
+    [#tcl/expect]
+
     Apart from patterns, the expect construct
     can take keywords.
     
@@ -13,12 +15,16 @@ expect
     place of a pattern.
 
 eof
+    [#tcl/expect]
+
     [keyword]
 
     The corresponding body is executed upon
     end-of-file.
 
 timeout
+    [#tcl/expect]
+
     [keyword]
     The corresponding body is executed upon
     timeout.

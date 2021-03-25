@@ -107,3 +107,11 @@ signed
     Encrypted.
 
     vim +/"itsdangerous" "$NOTES/ws/python/glossary.txt"
+
+Non-interactive zero-knowledge proof
+NIZK
+zk-SNARK
+zk-STARK
+    Zero-knowledge proofs that require no
+    interaction between the prover and
+    verifier.

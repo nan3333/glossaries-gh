@@ -9471,8 +9471,8 @@ inveterate
 
     synonyms:
         ingrained, deep-seated, deep-rooted,
-        deep- set, entrenched, established,
-        long- established, congenital,
+        deep-set, entrenched, established,
+        long-established, congenital,
         ineradicable, incurable, irredeemable
         Inveterate
     
@@ -9618,3 +9618,54 @@ shilled
     Act or work as a shill.
     "your husband in the crowd could shill for
     you"
+
+bristliness
+    "Stallman... is a hard man to like. He is
+    driven, often impatient. His anger can
+    flare at friend as easily as foe. He is
+    uncompromising and persistent; patient in
+    both."
+    
+    Richard Stallman has an often extreme
+    bristliness about him and an intense
+    propensity for confrontation, which can
+    repel many.
+
+propensity
+    An inclination or natural tendency to
+    behave in a particular way.
+
+regift
+    Give (a gift one has received) to someone
+    else.
+
+absolution
+    [#Christianity]
+
+    A pronouncement of remission (forgiveness)
+    of sins to the penitent.
+
+burnished
+    (especially of metal) polished by rubbing.
+    "highly burnished armour"
+
+socialisation
+    [#sociology]
+
+    https://opentextbc.ca/introductiontosociology/chapter/chapter5-socialization/
+
+    How we learn the norms and beliefs of our
+    society.
+
+    From our earliest family and play
+    experiences, we are made aware of societal
+    values and expectations.
+
+    The process of people following the norms
+    and trends created in a society.
+
+ephemeral
+    Lasting for a very short time.
+
+    "fashions are ephemeral: new ones
+    regularly drive out the old"
