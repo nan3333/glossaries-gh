@@ -2311,3 +2311,116 @@ distributed representations
     A way of mapping or encoding information
     to some physical medium such as a memory
     or neural network.
+
+autoencoding models
+    See MLM
+
+autoregressive models
+    See CLM
+
+CLM
+causal language modeling
+    A pretraining task where the model reads
+    the texts in order and has to predict the
+    next word.
+    
+    It’s usually done by reading the whole
+    sentence but using a mask inside the model
+    to hide the future tokens at a certain
+    timestep.
+
+deep learning: 
+    Machine learning algorithms which uses
+    neural networks with several layers.
+
+MLM
+Masked language modeling
+    A pretraining task where the model sees a
+    corrupted version of the texts, usually
+    done by masking some tokens randomly, and
+    has to predict the original text.
+
+multimodal
+    A task that combines texts with another
+    kind of inputs (for instance images).
+
+NLG
+Natural language generation
+    All tasks related to generating text (for
+    instance talk with transformers,
+    translation).
+
+NLP
+Natural language processing
+    A generic way to say “deal with texts”.
+
+NLU
+Natural language understanding
+    All tasks related to understanding what is
+    in a text (for instance classifying the
+    whole text, individual words).
+
+pretrained model
+    A model that has been pretrained on some
+    data (for instance all of Wikipedia).
+    Pretraining methods involve a
+    self-supervised objective, which can be
+    reading the text and trying to predict the
+    next word (see CLM) or masking some words
+    and trying to predict them (see MLM).
+
+RNN
+Recurrent neural network
+    A type of model that uses a loop over a
+    layer to process texts.
+
+self-attention
+    Each element of the input finds out which
+    other elements of the input they should
+    attend to.
+
+seq2seq
+sequence-to-sequence
+    Models that generate a new sequence from
+    an input, like translation models, or
+    summarization models (such as Bart or T5).
+
+token
+    A part of a sentence, usually a word, but
+    can also be a subword (non-common words
+    are often split in subwords) or a
+    punctuation symbol.
+
+transformer
+    Self-attention based deep learning model
+    architecture.
+
+contrastive pre-training
+    Pre-training methods are becoming more and
+    more popular over the last few years and
+    have revolutionized NLP.
+    
+    The model starts off with contrastive pre-
+    training where image text pairs are
+    matched with the similarity from a batch
+    of images.
+    
+    This is done using an image encoder and a
+    text encoder.
+    
+    Contrastive pre-training attempts to learn
+    noise invariant sequence representations
+    which encourage consistency between the
+    learned representations and the original
+    sequence.
+    
+    They got the inspiration from VirTex which
+    is a pretraining approach using
+    semantically dense captions to learn
+    visual representations.
+    
+    This approach has been shown to surpass
+    other supervised approaches such as
+    classic high-end ImageNet networks.
+
+    See "contrastive learning".

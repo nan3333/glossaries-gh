@@ -1018,8 +1018,8 @@ Top P
 
     Diversity via nucleus sampling.
 
-    Cuts of tokens below a certain probability
-    threshold.
+    Cuts off tokens below a certain
+    probability threshold.
 
     We generally recommend keeping it set to
     around 1.

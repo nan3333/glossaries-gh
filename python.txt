@@ -1012,3 +1012,16 @@ magic method
     here means “Double Under (Underscores)”.
     These are commonly used for operator
     overloading.
+
+textpipe
+    [package]
+
+    For converting raw text in to clean,
+    readable text and extracting metadata from
+    that text.
+    
+    Its functionalities include transforming
+    raw text into readable text by removing
+    HTML tags and extracting metadata such as
+    the number of words and named entities
+    from the text.

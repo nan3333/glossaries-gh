@@ -564,3 +564,12 @@ batch vs epoch
     
     You must try different values and see what
     works best for your problem.
+
+contrastive learning
+    An approach to formulate the task of
+    finding similar and dissimilar things for
+    an ML model.
+    
+    Using this approach, one can train a ML
+    model to classify between similar and
+    dissimilar images.
