@@ -1904,10 +1904,12 @@ mapM
 
 compose
 .
+(.)
     [operator]
 
 apply
 $
+($)
     [operator]
 
     low, right-associative binding precedence

@@ -590,10 +590,6 @@ curiosity
 
 contrivances
 
-bourgeois
-    town-dweller
-    middle-class
-
 pretence
     An attempt to make something that is not the case appear true.
 
@@ -6640,6 +6636,9 @@ marionette
     marionettist.
 
 bourgeois
+town-dweller
+middle-class
+
     Belonging to or characteristic of the
     middle class, typically with reference to
     its perceived materialistic values or

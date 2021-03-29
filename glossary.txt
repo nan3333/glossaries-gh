@@ -13165,3 +13165,29 @@ conservatorship
     A person under conservatorship is a
     "conservatee", a term that can refer to an
     adult.
+
+tuck
+tucking cards
+    Tuck is an informal term used in the game
+    refers to putting cards on the bottom of
+    its owner's library, or shuffle them into
+    owner's library.
+    
+    Tucking is a type of removal effects that
+    move the creature to a generally
+    inaccessible place.
+    
+    Tucked cards can be retrieved by further
+    shuffling (by luck) or tutoring.
+    
+    The keyword action fateseal, which also
+    gives similar effect, was introduced in
+    Future Sight.
+
+polity
+    A form or process of civil government or
+    constitution.
+
+    "involving all stakeholders of the global
+    polity, from the public and private
+    sectors to academia and civil society."
