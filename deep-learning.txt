@@ -1727,3 +1727,13 @@ MOT
 CNN
 ConvNet
 Convolutional neural network
+
+interpretability
+    Opening neural networks and working out
+    how they process information.
+
+    https://openai.com/blog/openai-scholars-spring-2020-final-projects/
+
+NERF
+Neural Radiance Field
+    https://www.matthewtancik.com/nerf

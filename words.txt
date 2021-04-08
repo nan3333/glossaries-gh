@@ -2148,6 +2148,15 @@ bigot
     Mostly, the person's opinions are based on
     prejudice.
 
+    Obstinate or unreasonable attachment to a
+    belief, opinion, or faction; in
+    particular, prejudice against a person or
+    people on the basis of their membership of
+    a particular group.
+
+    "the difficulties of combating prejudice
+    and bigotry"
+
 boisterous
     noisy, energetic, and cheerful.
 
@@ -9713,3 +9722,60 @@ pilfer
     plant host millions of years ago."
 
 planned obsolescence
+
+stipend
+    A fixed regular sum paid as a salary or as
+    expenses to a clergyman, teacher, or
+    public official.
+
+regale
+    Entertain or amuse (someone) with talk.
+    "he regaled her with a colourful account
+    of that afternoon's meeting"
+
+amnesty
+    Grant an official pardon to.
+    
+    An official pardon for people who have
+    been convicted of political offenses.
+
+exhume
+    Dig out (something buried, especially a
+    corpse) from the ground.
+    "the bodies were exhumed on the orders of
+    a judge"
+
+maced
+    Pepper sprayed.
+
+    "Stop or you'll get maced again."
+
+stipulate
+    To make an agreement or covenant to do or
+    forbear something : contract.
+
+    To demand an express term in an agreement.
+
+    To specify as a condition or requirement
+    (as of an agreement or offer).
+
+recess
+    A brief period for relaxation between work
+    periods The students play ball at recess.
+    
+    A secret or hidden place.
+
+consign
+consigned
+    Deliver (something) to a person's keeping.
+    "he consigned three paintings to
+    Sotheby's"
+
+coalesce
+    Come together to form one mass or whole.
+    "the puddles had coalesced into shallow
+    streams"
+
+    Combine (elements) in a mass or whole.
+    "his idea served to coalesce all that
+    happened into one connected whole"
