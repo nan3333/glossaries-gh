@@ -1,0 +1,10 @@
+rhesus macaque
+Macaca mulatta
+rhesus monkey
+    A species of Old World monkey.
+    
+    It is listed as least concern in the IUCN
+    Red List of Threatened Species in view of
+    its wide distribution, presumed large
+    population, and its tolerance of a broad
+    range of habitats.

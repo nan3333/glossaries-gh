@@ -13220,3 +13220,13 @@ Dosimetrists
     a dosimetrist has the important task of
     applying the appropriate dosage of
     radiation at the correct part of the body.
+
+autocracy
+
+Paddock
+    A paddock is a small enclosure for horses.
+
+    In the United Kingdom, this term also
+    applies to a field for a general
+    automobile racing competition,
+    particularly Formula 1.
