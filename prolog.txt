@@ -1,3 +1,60 @@
+declarative reading
+concluding reading
+    [prolog reading method]
+
+    https://www.metalevel.at/prolog/reading
+
+    Declaratively, Prolog programs state what
+    holds.
+
+    A Prolog program consists of clauses, and
+    each clause is either a fact or a rule.
+    Facts state what is always true. Rules
+    state what is true under certain
+    conditions.
+
+    A method to reading/understanding prolog
+    programs.
+
+    It is easy to explain, understand and use.
+
+    You state what holds under what
+    conditions, and the Prolog engine finds
+    solutions for you.
+
+    A disadvantage of this approach is that it
+    does not explain why logically equivalent
+    program variants may exhibit different
+    performance or termination
+    characteristics.
+
+procedural reading
+    [prolog reading method]
+
+    https://www.metalevel.at/prolog/reading
+
+    To complement the declarative approach of
+    reading Prolog programs, we can also read
+    them procedurally.
+    
+    This means that we take into account the
+    actual computation strategy of the Prolog
+    engine.
+
+clause
+    Either:
+    - fact
+    - rule
+
+fact
+    State what is always true.
+
+rule
+    State what is true under certain
+    conditions. 
+
+condition
+
 Prolog
     Extremely well suited for solving
     combinatorial tasks like Sudoku.

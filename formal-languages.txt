@@ -1,3 +1,7 @@
+transformational grammar
+    https://www.britannica.com/science/linguistics/Chomskys-grammar
+    https://www.britannica.com/topic/transformational-grammar
+
 redex
 reducible expression
     Subterms that can be reduced by one of the

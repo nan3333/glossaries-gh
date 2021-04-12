@@ -8,3 +8,42 @@ rhesus monkey
     its wide distribution, presumed large
     population, and its tolerance of a broad
     range of habitats.
+
+sensorium
+    The sensory apparatus or faculties
+    considered as a whole.
+    "virtual reality technology directed at
+    recreating the human sensorium"
+
+    A sensorium is the apparatus of an
+    organism's perception considered as a
+    whole, the "seat of sensation" where it
+    experiences and interprets the
+    environments within which it lives. 
+
+BrainGate
+    https://www.braingate.org/
+
+    The BrainGate system uses a
+    brain-implantable sensor to detect neural
+    signals that are then decoded to provide
+    control signals for assistive
+    technologies.
+
+Neura Pod
+    https://www.youtube.com/channel/UCDukC60SYLlPwdU9CWPGx9Q
+
+    Neuralink updates PodCast.
+
+microfabrication
+    A process used to construct physical
+    objects with dimensions in the micrometer
+    to millimeter range.
+    
+    It takes advantage of established
+    semiconductor fabrication processes, used
+    to make integrated circuits, and augments
+    these with processes specially developed
+    for microfabrication.
+
+non-ionising radiation

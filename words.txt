@@ -9822,3 +9822,6 @@ abductive reasoning
 
 paunchy
     Having a large or protruding belly.
+
+iniquity
+    Immoral or grossly unfair behavior.
