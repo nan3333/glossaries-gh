@@ -1,6 +1,35 @@
 transformational grammar
+transformational-generative Grammar
+    [system of language analysis]
+
     https://www.britannica.com/science/linguistics/Chomskys-grammar
     https://www.britannica.com/topic/transformational-grammar
+
+    Recognizes the relationship among the
+    various elements of a sentence and among
+    the possible sentences of a language and
+    uses processes or rules (some of which are
+    called transformations) to express these
+    relationships.
+
+    Transformational grammar assigns a “deep
+    structure” and a “surface structure” to
+    show the relationship of such sentences.
+    
+    Thus, “I know a man who flies planes” can
+    be considered the surface form of a deep
+    structure approximately like “I know a
+    man. The man flies airplanes.”
+
+phrase-structure grammar
+    https://www.britannica.com/science/linguistics/Chomskys-grammar
+
+    One that consists entirely of phrase-
+    structure rules, a transformational
+    grammar (as formalized by Chomsky)
+    includes both phrase-structure and
+    transformational rules (as well as
+    morphophonemic rules).
 
 redex
 reducible expression
