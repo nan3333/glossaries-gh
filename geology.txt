@@ -30,3 +30,14 @@ alluvium
     left by flowing streams in a river valley
     or delta, typically producing fertile
     soil.
+
+rift
+    A linear zone where the lithosphere is
+    being pulled apart and is an example of
+    extensional tectonics.
+    
+    Typical rift features are a central linear
+    downfaulted depression, called a graben,
+    or more commonly a half-graben with normal
+    faulting and rift-flank uplifts mainly on
+    one side.
