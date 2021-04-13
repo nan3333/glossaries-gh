@@ -9848,3 +9848,9 @@ cossim
 panacea
     A solution or remedy for all difficulties
     or diseases.
+
+wary
+    Feeling or showing caution about possible
+    dangers or problems.
+    "dogs which have been mistreated often
+    remain very wary of strangers"
