@@ -36,8 +36,29 @@ rift
     being pulled apart and is an example of
     extensional tectonics.
     
-    Typical rift features are a central linear
-    downfaulted depression, called a graben,
+    Typical rift features are a graben,
     or more commonly a half-graben with normal
     faulting and rift-flank uplifts mainly on
     one side.
+
+lithosphere
+    The rigid outer part of the earth,
+    consisting of the crust and upper mantle.
+
+extensional tectonics
+    Concerned with the structures formed by,
+    and the tectonic processes associated
+    with, the stretching of a planetary body's
+    crust or lithosphere.
+
+graben
+    A depressed block of land is bordered by
+    parallel faults.  
+
+    A central linear downfaulted depression.
+
+half-graben
+    A geological structure bounded by a fault
+    along one side of its boundaries, unlike a
+    full graben where a depressed block of
+    land is bordered by parallel faults.

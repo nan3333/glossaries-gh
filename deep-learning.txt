@@ -1737,3 +1737,13 @@ interpretability
 NERF
 Neural Radiance Field
     https://www.matthewtancik.com/nerf
+
+Contrastive loss
+    Takes the output of the network for a
+    positive example and calculates its
+    distance to an example of the same class
+    and contrasts that with the distance to
+    negative examples.
+
+Cossim Power
+    Does it mean "Cosine Similarity"?

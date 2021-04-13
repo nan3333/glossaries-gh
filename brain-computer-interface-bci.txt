@@ -10,7 +10,7 @@ Reconstruction
     based purely on neuron action potentials.
 
 neural decoding
-    [#neuroscienc]
+    [#neuroscience]
     [field of study]
 
     The hypothetical reconstruction of sensory

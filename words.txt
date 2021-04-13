@@ -9825,3 +9825,26 @@ paunchy
 
 iniquity
     Immoral or grossly unfair behavior.
+
+glum
+    Adjective looking or feeling dejected;
+    morose.
+
+    (of a person) looking unhappy, gloomy, or
+    sullen.
+
+caricature
+    A picture, description, or imitation of a
+    person in which certain striking
+    characteristics are exaggerated in order
+    to create a comic or grotesque effect.
+    "a crude caricature of the Prime Minister"
+
+cossim
+    As to give way/lose ground;
+    bending/turning in; (turned) backwards;
+    obliquely;
+
+panacea
+    A solution or remedy for all difficulties
+    or diseases.
