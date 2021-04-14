@@ -1,3 +1,10 @@
+not privy to
+    Not allowed to know about (something
+    secret).
+
+privy to
+    Allowed to know about (something secret).
+
 by the numbers
     In accordance with a rigidly followed set
     of rules.

@@ -140,18 +140,6 @@ Pythagorean metric
 
     The associated norm is called L2 norm.
 
-semantic similarity
-    (of two words or word vectors)
-
-    Methods:
-    - Euclidean distance
-    - Cosine similarity
-
-    Sometimes, the nearest neighbors according
-    to this metric reveal rare but relevant
-    words that lie outside an average human's
-    vocabulary.
-
 Riffle
     The fancy shuffle thing.
 
@@ -13289,3 +13277,10 @@ levy
 
 conciliatory
     Intended or likely to placate or pacify.
+
+geofence
+    A virtual geographic boundary, defined by
+    GPS or RFID technology, that enables
+    software to trigger a response when a
+    mobile device enters or leaves a
+    particular area.

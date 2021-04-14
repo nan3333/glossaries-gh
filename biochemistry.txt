@@ -9010,3 +9010,8 @@ RPKA
     [#chemistry]
 
     A subset of (1).
+
+amyloid
+    A protein that is deposited in the liver,
+    kidneys, spleen, or other tissues in
+    certain diseases.

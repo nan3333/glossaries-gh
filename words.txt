@@ -1866,24 +1866,6 @@ languish
     (of a person or other living thing) lose
     or lack vitality; grow weak or feeble.
 
-Contextual Similarity
-    If the representation has more contextual
-    similarity that means it is a more
-    expressive representation.
-
-    Examples:
-    - word vectors
-      They are similar in representation.
-      This means you can do algebra with them.
-    - emacs
-      When everything is represented in a
-      grid, this means you can compose and
-      apply the same operations to many
-      things that exist within the
-      representation.
-
-    ewwlinks +/"Contextual Similarity" "http://webcache.googleusercontent.com/search?q=cache:https://medium.com/deeper-learning/glossary-of-deep-learning-word-embedding-f90c3cec34ca"
-
 anatidaephobia
     A person suffering from this condition
     feels that somewhere in the world, a duck

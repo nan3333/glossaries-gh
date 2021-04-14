@@ -393,6 +393,42 @@ FastText
     A library for text classification and
     representation.
 
+sentential
+    Relating to a sentence.
+
+contextual similarity vs semantic similarity
+    https://www.tandfonline.com/doi/abs/10.1080/01690969108406936#:~:text=Semantic%20similarity%20is%20estimated%20by,and%20the%20discriminability%20of%20contexts.
+
+contextual similarity
+    If the representation has more contextual
+    similarity that means it is a more
+    expressive representation.
+
+    Examples:
+    - word vectors
+      They are similar in representation.
+      This means you can do algebra with them.
+    - emacs
+      When everything is represented in a
+      grid, this means you can compose and
+      apply the same operations to many
+      things that exist within the
+      representation.
+
+    ewwlinks +/"Contextual Similarity" "http://webcache.googleusercontent.com/search?q=cache:https://medium.com/deeper-learning/glossary-of-deep-learning-word-embedding-f90c3cec34ca"
+
+semantic similarity
+    (of two words or word vectors)
+
+    Methods:
+    - Euclidean distance
+    - Cosine similarity
+
+    Sometimes, the nearest neighbors according
+    to this metric reveal rare but relevant
+    words that lie outside an average human's
+    vocabulary.
+
 GloVe
     (coined from Global Vectors)
 
