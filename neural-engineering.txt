@@ -1,5 +1,4 @@
-neuroengineering
-neural engineering
+Neural engineering
     A discipline within biomedical engineering
     that uses engineering techniques to
     understand, repair, replace, or enhance
