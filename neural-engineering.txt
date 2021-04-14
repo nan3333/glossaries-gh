@@ -1,0 +1,10 @@
+Neural engineering
+    A discipline within biomedical engineering
+    that uses engineering techniques to
+    understand, repair, replace, or enhance
+    neural systems.
+    
+    Neural engineers are uniquely qualified to
+    solve design problems at the interface of
+    living neural tissue and non-living
+    constructs.
