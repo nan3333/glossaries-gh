@@ -1193,3 +1193,13 @@ graph-based ranking
     computed from the entire graph, rather
     than relying only on local vertex-specific
     information.
+
+Search engine indexing
+    Search engine optimisation indexing is the
+    collecting, parsing, and storing of data
+    to facilitate fast and accurate IR.
+    
+    Index design incorporates
+    interdisciplinary concepts from
+    linguistics, cognitive psychology,
+    mathematics, informatics, and CS.

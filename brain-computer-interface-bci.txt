@@ -22,3 +22,19 @@ neural decoding
         To characterize how the electrical
         activity of neurons elicit activity
         and responses in the brain.
+
+Crosstalk
+    Unintended brain activations that
+    interfere with bimanual actions and could
+    also occur during motor imagery.
+
+Bimanual coordination
+    Encompasses a large class of situations in
+    which the brain must simultaneously
+    control multiple movements, such as when
+    we use our two hands to manipulate an
+    object or perform a task.
+    
+    Bimanual coordination has been one of the
+    most widely studied problems in motor
+    control.
