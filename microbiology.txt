@@ -1,3 +1,18 @@
+action potential
+    Defined as a sudden, fast, transitory, and
+    propagating change of the resting membrane
+    potential.
+
+    Only neurons and muscle cells are capable
+    of generating an action potential; that
+    property is called the excitability.
+
+    An action potential occurs when the
+    membrane potential of a specific cell
+    location rapidly rises and falls: this
+    depolarization then causes adjacent
+    locations to similarly depolarize. 
+
 cytoskeleton
     A microscopic network of protein filaments
     and tubules in the cytoplasm of many
