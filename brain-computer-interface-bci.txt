@@ -38,3 +38,17 @@ Bimanual coordination
     Bimanual coordination has been one of the
     most widely studied problems in motor
     control.
+
+Pairwise classification
+    A class binarization procedure that
+    converts a multi-class problem into a
+    series of two-class problems, one problem
+    for each pair of classes.
+
+Motor imagery
+    A dynamic state during which an individual
+    mentally simulates a physical action.
+
+    This type of phenomenal experience implies
+    that the subject feels themselves
+    performing the action.
