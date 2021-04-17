@@ -1,3 +1,15 @@
+Short Position
+The Short Position
+    A technique used when an investor
+    anticipates that the value of a stock will
+    decrease in the short term, perhaps in the
+    next few days or weeks.
+
+    In a short sell transaction the investor
+    borrows the shares of stock from the
+    investment firm to sell to another
+    investor.
+
 option
     [finance]
     [stock trading]
