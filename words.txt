@@ -9853,3 +9853,21 @@ ethnographic
 
 complexify
     https://www.researchgate.net/publication/261687570_From_Observation_to_Transcription_and_Back_Theory_Practice_and_Interpretation_in_the_Analysis_of_Children's_Naturally_Occurring_Discourse
+
+busyness
+    The state or condition of having a great
+    deal to do.
+    "it's easy to get caught up in the
+    busyness of life".
+
+    The quality of being full of activity.
+    "the busyness and noise of the street".
+
+    The quality of being excessively detailed
+    or decorated.
+    "the busyness of the interior design".
+
+ideating
+    Form an idea of; imagine or conceive.
+    "he is part of a team that ideates
+    branding strategies"

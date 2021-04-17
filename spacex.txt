@@ -8,3 +8,6 @@ payload fairing
     An additional function on some flights is
     to maintain the cleanroom environment for
     precision instruments.
+
+MECO
+Main Engine Cut Off
