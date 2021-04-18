@@ -10,3 +10,11 @@ NNS
     of a dissimilarity function: the less
     similar the objects, the larger the
     function values.
+
+convex optimization problem
+    A problem where all of the constraints are
+    convex functions, and the objective is a
+    convex function if minimizing, or a
+    concave function if maximizing. Linear
+    functions are convex, so linear
+    programming problems are convex problems.
