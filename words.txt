@@ -9871,3 +9871,14 @@ ideating
     Form an idea of; imagine or conceive.
     "he is part of a team that ideates
     branding strategies"
+
+recant
+    Say that one no longer holds an opinion or
+    belief, especially one considered
+    heretical.
+    "heretics were burned if they would not
+    recant"
+
+muse
+    A person who serves as an artist's
+    inspiration.

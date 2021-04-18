@@ -13284,3 +13284,10 @@ geofence
     software to trigger a response when a
     mobile device enters or leaves a
     particular area.
+
+Double Irish arrangement
+    The Double Irish was a base erosion and
+    profit shifting corporate tax tool used
+    mostly by US multinationals since the late
+    1980s to avoid corporate taxation on
+    non-U.S. profits.
