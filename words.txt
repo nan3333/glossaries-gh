@@ -9846,3 +9846,8 @@ recant
 muse
     A person who serves as an artist's
     inspiration.
+
+tenacity
+    The quality or fact of being able to grip
+    something firmly; grip.
+    "the sheer tenacity of the limpet"
