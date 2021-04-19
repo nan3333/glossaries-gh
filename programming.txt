@@ -1,5 +1,14 @@
 $NOTES/ws/computing/glossary.txt
 
+reflection
+    Can be used for observing and modifying
+    program execution at runtime.
+
+    A reflection-oriented program component
+    can monitor the execution of an enclosure
+    of code and can modify itself according to
+    a desired goal related to that enclosure.
+
 WASI
     An extension to WASM.
 
