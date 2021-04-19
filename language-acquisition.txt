@@ -10,3 +10,16 @@ MLU
     
     A higher MLU is taken to indicate a higher
     level of language proficiency.
+
+Universal grammar
+UG
+    [#modern linguistics]
+
+    The theory of the genetic component of the
+    language faculty, usually credited to Noam
+    Chomsky.
+
+    The basic postulate of UG is that a
+    certain set of structural rules are innate
+    to humans, independent of sensory
+    experience.

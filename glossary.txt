@@ -12291,62 +12291,6 @@ louver
     in order to allow air or light in while
     keeping sunshine or moisture out.
 
-umwelt
-    [#semiotics]
-
-    The "biological foundations that lie at
-    the very epicenter of the study of both
-    communication and signification in the
-    human [and non-human] animal".
-
-    The term is usually translated as "self-
-    centered world".
-
-Semiotics
-semiotic studies
-    The study of sign process (semiosis).
-
-    It includes the study of signs and sign
-    processes, indication, designation,
-    likeness, analogy, allegory, metonymy,
-    metaphor, symbolism, signification, and
-    communication.
-
-    It is not to be confused with the
-    Saussurean tradition called semiology,
-    which is a subset of semiotics.
-
-    The semiotic tradition explores the study
-    of signs and symbols as a significant part
-    of communications.
-
-    Different from linguistics, semiotics also
-    studies non-linguistic sign systems.
-
-Biosemiotics
-    [field of semiotics and biology]
-
-    Biology interpreted as a sign systems
-    study, or, to elaborate, a study of:
-    - signification, communication and habit
-      formation of living processes
-    - semiosis (changing sign relations) in
-      living nature
-    - the biological basis of all signs and
-      sign interpretation
-
-    Studies the prelinguistic meaning-making,
-    or production and interpretation of signs
-    and codes in the biological realm.
-
-    Biosemiotics attempts to integrate the
-    findings of biology and semiotics and
-    proposes a paradigmatic shift in the
-    scientific view of life, demonstrating
-    that semiosis (sign process, including
-    meaning and interpretation) is one of its
-    immanent and intrinsic features.
-
 Unix philosophy
     Emphasizes building simple, short, clear,
     modular, and extensible code that can be
