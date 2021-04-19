@@ -2490,9 +2490,6 @@ graphql edge
     Evil can only be 'disguised' if we do not
     know what we are looking for.
 
-Radix tree
-    Based on the binary tree.
-
 GraphQL query language
     Basically all about selecting fields on
     objects.
