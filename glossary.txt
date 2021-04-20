@@ -13264,7 +13264,19 @@ retroduction
     simplest and most likely conclusion from
     the observations.
 
-abductive instinct
+mind-body dualism
+    [philosophical position]
+
+    Mental phenomena are non-physical, or that
+    the mind and body are distinct and
+    separable.
+    
+    Thus, it encompasses a set of views about
+    the relationship between mind and matter,
+    as well as between subject and object, and
+    is contrasted with other positions, such
+    as physicalism and enactivism, in the
+    mind–body problem.
 
 ghost in the machine
     British philosopher Gilbert Ryle's
@@ -13290,4 +13302,25 @@ reflexive
     is contained within the premises.
 
 abductive instinct
+    Instinct that people have on what to avoid
+    reasoning about.
     
+mysterianism
+    [philosophical position]
+
+    Proposes that the hard problem of
+    consciousness cannot be resolved by
+    humans.
+
+    The unresolvable problem is how to explain
+    the existence of qualia.
+
+    The belief that no one can know the
+    ultimate nature of reality.
+
+four basic types of reasoning:
+four basic forms of logic:
+    - deductive,
+    - inductive,
+    - abductive, and
+    - metaphoric inference.
