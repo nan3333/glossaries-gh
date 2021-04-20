@@ -1,3 +1,9 @@
+nREPL
+network REPL
+    A protocol that allows other processes to
+    send commands to a Clojure REPL through a
+    network port.
+
 variable assignment
 binding (in Clojure)
 
@@ -265,3 +271,12 @@ expect
     [#clojure-test]
 
     https://github.com/clojure-expectations/clojure-test
+
+Proto
+    This is a REPL for Atom.
+
+    http://webcache.googleusercontent.com/search?q=cache:https://medium.com/@daniel.oliver.king/a-clojure-development-environment-that-gets-out-of-your-way-c11e6711ead3
+
+ns
+    The namespace must match the name of the
+    file.
