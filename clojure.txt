@@ -1,3 +1,39 @@
+ring
+    [Clojure library]
+
+    Defines a common interface for expressing
+    web applications.           
+
+    http://webcache.googleusercontent.com/search?q=cache:https://medium.com/@daniel.oliver.king/getting-real-work-done-in-clojure-application-development-683c8129a313
+
+compojure
+    [Clojure library]
+
+    A small routing library for Ring that
+    allows web applications to be composed of
+    small, independent parts.
+
+    http://webcache.googleusercontent.com/search?q=cache:https://medium.com/@daniel.oliver.king/getting-real-work-done-in-clojure-application-development-683c8129a313
+
+ring/ring-json
+    [Clojure library]
+
+    Standard Ring middleware functions for
+    handling JSON requests and responses.
+
+    http://webcache.googleusercontent.com/search?q=cache:https://medium.com/@daniel.oliver.king/getting-real-work-done-in-clojure-application-development-683c8129a313
+
+ragtime
+    [Clojure library]
+
+    For migrating structured data in a way
+    that's database independent.
+
+    It defines a common interface for
+    expressing migrations.
+
+    http://webcache.googleusercontent.com/search?q=cache:https://medium.com/@daniel.oliver.king/getting-real-work-done-in-clojure-application-development-683c8129a313
+
 nREPL
 network REPL
     A protocol that allows other processes to

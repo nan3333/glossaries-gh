@@ -13247,3 +13247,47 @@ seat of sensation
     The term originally entered English from
     the Late Latin in the mid-17th century,
     from the stem sens-.
+
+adbuction
+adbuctive
+abduction
+adbuctive inference
+abductive reasoning
+retroduction
+    A form of logical inference formulated and
+    advanced by American philosopher Charles
+    Sanders Peirce beginning in the last third
+    of the 19th century.
+
+    It starts with an observation or set of
+    observations and then seeks to find the
+    simplest and most likely conclusion from
+    the observations.
+
+abductive instinct
+
+ghost in the machine
+    British philosopher Gilbert Ryle's
+    description of René Descartes' mind-body
+    dualism.
+
+    Ryle introduced the phrase in The Concept
+    of Mind to highlight the view of Descartes
+    and others that mental and physical
+    activity occur simultaneously but
+    separately.
+
+reflexive
+    [linguistics]
+
+    A verb form which is used when the subject
+    and object are the same.
+
+reflexive
+    [logic]
+
+    A form of argument in which the conclusion
+    is contained within the premises.
+
+abductive instinct
+    
