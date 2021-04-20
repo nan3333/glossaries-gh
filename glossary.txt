@@ -13150,8 +13150,6 @@ Dosimetrists
     applying the appropriate dosage of
     radiation at the correct part of the body.
 
-autocracy
-
 Paddock
     A paddock is a small enclosure for horses.
 
@@ -13278,6 +13276,13 @@ mind-body dualism
     as physicalism and enactivism, in the
     mind–body problem.
 
+René Descartes
+Descartes
+    Said "day cart".
+
+    French-born philosopher, mathematician,
+    and scientist.
+
 ghost in the machine
     British philosopher Gilbert Ryle's
     description of René Descartes' mind-body
@@ -13324,3 +13329,11 @@ four basic forms of logic:
     - inductive,
     - abductive, and
     - metaphoric inference.
+
+autocracy
+    A form of government in which one person
+    has absolute power.
+
+    A system of government by a single,
+    absolute ruler or by a small group of
+    rulers.
