@@ -13347,3 +13347,23 @@ Mnemosyne
     "remembrance, memory".
     
     Mnemosyne is the mother of the nine Muses.
+
+hysteresis
+    The phenomenon in which the value of a
+    physical property lags behind changes in
+    the effect causing it, as for instance
+    when magnetic induction lags behind the
+    magnetizing force.
+
+highball
+    An iced drink containing liquor (such as
+    whiskey) and water or a carbonated
+    beverage (such as ginger ale) and served
+    in a tall glass.
+
+    A railroad signal for a train to proceed
+    at full speed.  highball.
+
+stiff drink
+    A strong alcoholic drink He poured himself
+    a stiff drink.
