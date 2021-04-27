@@ -1,3 +1,136 @@
+semiosis
+    It is important to understand what I mean
+    by semiosis.
+    
+    All dynamical action, or action of brute
+    force, physical or psychical, either takes
+    place between two subjects (whether they
+    react equally upon each other, or one is
+    agent and the other patient, entirely or
+    partially) or at any rate is a resultant
+    of such actions between pairs.
+    
+    But by “semiosis” I mean, on the contrary,
+    an action, or influence, which is, or
+    involves, a coöperation of three subjects,
+    such as a sign, its object, and its
+    interpretant, this tri-relative influence
+    not being in any way resolvable into
+    actions between pairs.
+
+constructive vs selective grammar
+    We will distinguish between selective
+    grammars and constructive grammars
+    following the spirit of the classical
+    terminological distinction that Massimo
+    Piattelli-Palmarini (1989) originally
+    introduced into linguistics from biology.
+
+    In textbooks, you will never find the
+    rules that eliminate the impossible
+    combinations of words (selective
+    grammars).
+
+    You only find the rules that describe the
+    possible combinations (constructive
+    grammars), and among these rules, you are
+    likely to find just those that lead to
+    ‘‘proper’’ language rather than actual
+    spoken language.
+    
+    The Boundaries of Babel_ The Brain and the Enigma of Impossible Languages (2008, The MIT Press) - libgen.lc.pdf
+
+neurobiological correlates
+    https://mitpress.mit.edu/books/boundaries-babel
+
+universal grammar
+    Arguments for:
+    - Convergence
+
+components of universal grammar
+
+displaced reference
+
+discrete infinity
+
+nativism
+generativism
+
+X-bar theory
+X` theory
+    A theory of syntactic category formation.
+
+    It embodies two independent claims: one,
+    that phrases may contain intermediate
+    constituents projected from a head X; and
+    two, that this system of projected
+    constituency may be common to more than
+    one category.
+
+    Noam Chomsky said something about it.
+
+    https://www.youtube.com/watch?v=n8TYuq173N0&ab_channel=TheTrevTutor
+    - phrase
+    - specificer
+    - adjunct
+    - complement
+    - head
+
+specifier
+    [#x-bar]
+
+    Daughters to XPs and sisters to X`s
+
+merge function
+    https://www.youtube.com/watch?v=9JScy7ulDpE
+
+    Language is designed as a system of
+    thought and not of a system of
+    externalisation.
+
+phonology
+    A branch of linguistics that studies how
+    languages or dialects systematically
+    organize their sounds.
+
+    The term also refers to the sound system
+    of any particular language variety.
+
+    At one time, the study of phonology only
+    related to the study of the systems of
+    phonemes in spoken languages.
+
+Reflexive pronoun
+    In general linguistics, a reflexive
+    pronoun, sometimes simply called a
+    reflexive, is an anaphoric pronoun that
+    must be coreferential with another nominal
+    within the same clause.
+
+    In the English language specifically, a
+    reflexive pronoun will end in ‑self or
+    ‑selves, and refer to a previously named
+    noun or pronoun.
+
+indelible
+    Making marks that cannot be removed.
+
+    "indelible fingerprint"
+
+impossible language
+     The human mind, despite its almost
+     infinite ingenuity, can't invent a
+     language that doesn't share the
+     fundamental properties of language
+     itself.
+
+    - the conditions of possibility of language.
+    - the mystery of human communication
+    - studies of syntax with neurology   
+
+    https://mitpress.mit.edu/books/impossible-languages
+
+
 phrasal verb
     An idiomatic phrase consisting of a verb
     and another element, typically either an

@@ -1,3 +1,85 @@
+Amazon Elastic File System
+EFS
+    A cloud storage service provided by Amazon
+    Web Services designed to provide scalable,
+    elastic, concurrent with some
+    restrictions, and encrypted file storage
+    for use with both AWS cloud services and
+    on-premises resources.
+
+    This is used to mount EFS filesystems.
+
+    https://github.com/aws/efs-utils
+    
+    e.g.
+        sudo mount -t efs file-system-id efs-mount-point/
+
+amazon-efs-utils
+    Utilities for Amazon Elastic File System
+    (EFS)
+
+task definition
+    Required to run Docker containers in
+    Amazon ECS.
+
+    A task definition contains a list of
+    container definitions received by the
+    Docker daemon to create a container
+    instance.
+
+Amazon Resource Name
+ARN
+    It's an ID.
+
+Amazon Elastic Container Service
+ECS
+    A cloud computing service in AWS that
+    manages containers and allows developers
+    to run applications in the cloud without
+    having to configure an environment for the
+    code to run in.
+    
+    ECS supports Docker, an open source Linux
+    container service.
+
+ESC Service
+    https://medium.com/boltops/gentle-introduction-to-how-aws-ecs-works-with-example-tutorial-cea3d27ce63d#:~:text=Service%20%E2%80%94%20Defines%20long%20running%20tasks,instance%20to%20an%20ECS%20Cluster.
+
+    Defines long running tasks of the same
+    Task Definition.
+    
+    This can be 1 running container or
+    multiple running containers all using the
+    same Task Definition.
+
+ECS cluster
+    An Amazon ECS cluster is a logical
+    grouping of tasks or services.
+    
+    If you are running tasks or services that
+    use the EC2 launch type, a cluster is also
+    a grouping of container instances.
+    
+    If you are using capacity providers, a
+    cluster is also a logical grouping of
+    capacity providers.
+
+ECS task
+    A task is the instantiation of a task
+    definition within a cluster.
+    
+    After you have created a task definition
+    for your application within Amazon ECS,
+    you can specify the number of tasks to run
+    on your cluster.
+    
+    The Amazon ECS task scheduler is
+    responsible for placing tasks within your
+    cluster.
+
+VPC
+    Virtual Private Cloud
+
 Amazon Managed Blockchain
     https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-ethereum-on-amazon-managed-blockchain/
 

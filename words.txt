@@ -9851,3 +9851,7 @@ tenacity
     The quality or fact of being able to grip
     something firmly; grip.
     "the sheer tenacity of the limpet"
+
+flummoxed
+    bewildered or perplexed.
+    "he became flummoxed and speechless"

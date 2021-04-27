@@ -1,3 +1,158 @@
+dns_name
+    This is automatically assigned for:
+    - aws_elb
+    - aws_alb
+
+deployment_minimum_healthy_percent
+    The minimum healthy percentage is 50%.
+    This allows the service to stop a
+    container task (leaving only one running)
+    in order to use the resource freed up to
+    start a new version of the container task
+    when we do rolling deployment.
+
+stickiness
+    https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/lb_target_group
+
+locals
+    A local value assigns a name to an
+    expression, so you can use it multiple
+    times within a module without repeating
+    it.
+    
+module
+    A module is a container for multiple
+    resources that are used together. Every
+    Terraform configuration has at least one
+    module, known as its root module, which
+    consists of the resources defined in the .
+    tf files in the main working directory.
+
+    If you're familiar with traditional
+    programming languages, it can be useful to
+    compare Terraform modules to function
+    definitions:
+    
+    - Input variables are like function arguments. 
+    - Output values are like function return values. 
+    - Local values are like a function's temporary local variables. 
+
+ecs-task-definition
+    Import the mongodb module, then you get
+    this. It's nothing to do with mongodb
+    though.
+
+    The purpose of this module is to generate
+    a valid Amazon ECS Task Definition
+    dynamically.
+
+    https://registry.terraform.io/modules/mongodb/ecs-task-definition/aws/latest
+
+    It's also not this:
+        https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/ecs_task_definition
+
+terraform.tfvars
+terraform.tfvars.json
+*.auto.tfvars
+*.auto.tfvars.json
+    Files named exactly terraform.tfvars or terraform.tfvars.json.
+    Any files with names ending in .auto.tfvars or .auto.tfvars.json.
+
+    These variables are loaded automatically.
+
+    variables can also be passed in from
+    environment variables with TF_VAR_
+    prefixes:
+        export TF_VAR_aws_access_key_id=xxxxxxxx
+        export TF_VAR_aws_secret_access_key=xxxxxxxxxxxxxxxxxxx
+
+data
+    https://www.terraform.io/docs/language/data-sources/index.html
+
+    ewwlinks +/"data \"aws_ecs_task_definition\" \"film_ratings_app\" {" "https://dzone.com/articles/deploy-a-clojure-web-application-to-aws-using-terr"
+
+    ewwlinks +/"data \"aws_ami\" \"example\" {" "https://www.terraform.io/docs/language/data-sources/index.html"
+
+    A data block requests that Terraform read
+    from a given data source ("aws_ami") and
+    export the result under the given local
+    name ("example").
+
+    The name is used to refer to this resource
+    from elsewhere in the same Terraform
+    module, but has no significance outside of
+    the scope of a module.
+
+jsonencode
+    gli -F "\\.tf$" json
+    ga json .tf
+    ga jsonencode .tf
+
+    https://www.terraform.io/docs/language/functions/jsonencode.html
+
+provisioner
+    Note: Provisioners should only be used as
+    a last resort. For most common situations
+    there are better alternatives. For more
+    information, see the main Provisioners
+    page.
+
+    Provisioners can be used to model specific
+    actions on the local machine or on a
+    remote machine in order to prepare servers
+    or other infrastructure objects for
+    service.
+    
+    Provisioners are a Last Resort.
+    
+    Terraform includes the concept of
+    provisioners as a measure of pragmatism,
+    knowing that there will always be certain
+    behaviors that can't be directly
+    represented in Terraform's declarative
+    model.
+
+    Examples:
+    - file
+    - local-exec
+    - remote-exec
+
+    Vendor Provisioners:
+    - chef
+    - habitat
+    - puppet
+    - salt-masterless
+
+provisioner "file"
+    Used to copy files or directories from the
+    machine executing Terraform to the newly
+    created resource. The file provisioner
+    supports ssh.
+
+Terraform graph
+    Contains nodes
+
+nodes
+    types:
+    - Resource node
+    - Provider configuration node
+    - Resource meta-node
+
+resource node
+    Manages an entity of this provider (EC2,
+    VPC, and so on, in the case of AWS).
+
+provider configuration node
+    Configures a provider (AWS, in our
+    examples)
+
+resource meta-node
+    Doesn’t really do anything special; it is
+    used for convenience and makes a graph
+    more pretty. It is applicable only if you
+    specify a count parameter greater than
+    one.
+
 Terragrunt
     DRY and maintainable Terraform code.
 

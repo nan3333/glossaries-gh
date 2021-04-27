@@ -1,3 +1,18 @@
+Duct
+    A highly modular framework for building
+    server-side applications in Clojure using
+    data-driven architecture.
+
+    It is similar in scope to Arachne, and is
+    based on Integrant.
+    
+    Duct builds applications around an
+    immutable configuration that acts as a
+    structural blueprint.
+    
+    The configuration can be manipulated and
+    queried to produce sophisticated behavior.
+
 ring
     [Clojure library]
 
