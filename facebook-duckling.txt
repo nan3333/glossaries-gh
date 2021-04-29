@@ -3,6 +3,9 @@ dimension
 
     Learn to create custom dimensions.
 
+    cd "$MYGIT/facebook/duckling"; stack install
+    custom-dimension-example
+
 language
     sp +/"To add a new language:" "$HOME/var/smulliga/source/git/facebook/duckling/README.md"
 
