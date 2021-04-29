@@ -1,0 +1,3 @@
+QL pack
+    Contains important metadata that tells the
+    CodeQL CLI how to process the query files.

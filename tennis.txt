@@ -1,0 +1,7 @@
+real tennis
+court tennis (US)
+royal tennis (England + Aus)
+    https://en.wikipedia.org/wiki/Real_tennis
+
+lawn tennis
+    Modern game of tennis.

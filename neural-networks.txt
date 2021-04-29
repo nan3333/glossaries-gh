@@ -1,0 +1,58 @@
+Recursive Neural Networks
+    The main assumption for Recursive Neural
+    Net development is such that recursion is
+    a natural way for describing language.
+
+    Perfect for settings that have a nested
+    hierarchy and an intrinsic recursive
+    structure
+
+Contrastive Loss Function
+    Employed to learn the parameters W of a
+    parameterized function GW, in such a way
+    that neighbors are pulled together and
+    non-neighbors are pushed apart.
+    
+    Prior knowledge can be used to identify
+    the neighbors for each training data
+    point.
+
+Siamese Network
+    Consists of two identical neural networks,
+    each taking one of the two input images.
+    
+    The last layers of the two networks are
+    then fed to a contrastive loss function,
+    which calculates the similarity between
+    the two images.
+
+Wake-sleep algorithm
+    Layers of the NN. R, G are weights used by
+    the wake-sleep algorithm to modify data
+    inside the layers.
+    
+    The wake-sleep algorithm is an
+    unsupervised learning algorithm for a
+    stochastic multilayer NN.
+    
+    The algorithm adjusts the parameters so as
+    to produce a good density estimator.
+    
+    There are two learning phases, the “wake”
+    phase and the “sleep” phase, which are
+    performed alternately.
+    
+    It was first designed as a model for brain
+    functioning using variational Bayesian
+    learning.
+    
+    After that, the algorithm was adapted to
+    ML.
+    
+    It can be viewed as a way to train a
+    Helmholtz Machine.
+    
+    It can also be used in Deep Belief
+    Networks (DBN).
+
+    https://en.wikipedia.org/wiki/Wake-sleep_algorithm

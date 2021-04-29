@@ -1,0 +1,4 @@
+allegory
+    A story, poem, or picture that can be
+    interpreted to reveal a hidden meaning,
+    typically a moral or political one.
