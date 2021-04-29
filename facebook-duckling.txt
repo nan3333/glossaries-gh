@@ -16,3 +16,6 @@ locale
 rule
     Rules have a name, a pattern and a
     production.
+
+corpus
+    vim +/"mkdir \"\$l/corpus\"" "$MYGIT/facebookarchive/duckling_old/bin/add-new-language.sh"
