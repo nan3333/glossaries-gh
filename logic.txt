@@ -1,3 +1,15 @@
+syllogism
+    A syllogism is a kind of logical argument
+    that applies deductive reasoning to arrive
+    at a conclusion based on two or more
+    propositions that are asserted or assumed
+    to be true.
+
+    In a form, defined by Aristotle, from the
+    combination of a general statement and a
+    specific statement, a conclusion is
+    deduced.
+
 Homotopy type theory
 HoTT
     Various lines of development of
