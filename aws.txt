@@ -1,3 +1,11 @@
+AppSync
+    https://sammart.in/post/2020-05-17-querying-appsync-with-python/
+
+    A really easy way to quickly assemble a
+    GraphQL API to interact with data from
+    DynamoDB, Lambda, ElasticSearch, RDS, or
+    other HTTP endpoints.
+
 Amazon Elastic File System
 EFS
     A cloud storage service provided by Amazon
