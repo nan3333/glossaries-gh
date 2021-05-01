@@ -13367,3 +13367,9 @@ highball
 stiff drink
     A strong alcoholic drink He poured himself
     a stiff drink.
+
+google driven development
+GDD
+    e.g. javadoc
+
+    You have to Google for documentation.
