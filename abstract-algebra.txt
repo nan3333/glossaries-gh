@@ -1,3 +1,13 @@
+isomorphism
+    It indicates a structure preserving map
+    between two sets containing the same
+    number of elements.
+
+homomorphism
+    Like an isomorphism but instead is when
+    the map is from a larger set to a smaller
+    one.
+
 poincare duality [theorem]
     A basic result on the structure of the
     homology and cohomology groups of
