@@ -9855,3 +9855,12 @@ tenacity
 flummoxed
     bewildered or perplexed.
     "he became flummoxed and speechless"
+
+vertiginous
+    Extremely high or steep.
+    "vertiginous drops to the valleys below"
+
+    Relating to or affected by vertigo.
+
+    Causing or characterized by a sensation of
+    whirling and a feeling of instability.
