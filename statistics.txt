@@ -1,3 +1,8 @@
+stochastic
+    Refers to the property of being well
+    described by a random probability
+    distribution.
+
 statistical modelling
     A method of mathematically approximating
     the world.

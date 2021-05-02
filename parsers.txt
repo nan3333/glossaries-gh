@@ -133,3 +133,6 @@ ANother Tool for Language Recognition
     A powerful parser generator for reading,
     processing, executing, or translating
     structured text or binary files.
+
+formal language
+    A set of strings over an alphabet.
