@@ -2460,3 +2460,24 @@ contrastive pre-training
     classic high-end ImageNet networks.
 
     See "contrastive learning".
+
+Text simplification
+    An operation used in NLP to modify,
+    enhance, classify or otherwise process an
+    existing corpus of human-readable text in
+    such a way that the grammar and structure
+    of the prose is greatly simplified, while
+    the underlying meaning and information
+    remains the same.
+    
+    Text simplification is an important area
+    of research, because natural human
+    languages ordinarily contain large
+    vocabularies and complex compound
+    constructions that are not easily
+    processed through automation.
+    
+    In terms of reducing language diversity,
+    semantic compression can be employed to
+    limit and simplify a set of words used in
+    given texts.
