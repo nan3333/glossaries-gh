@@ -9864,3 +9864,14 @@ vertiginous
 
     Causing or characterized by a sensation of
     whirling and a feeling of instability.
+
+deign
+    Do something that one considers to be
+    beneath one's dignity.
+    "she did not deign to answer the maid's
+    question"
+
+    Condescend to give (something).
+    "he had deigned an apology"
+
+    "he deigns to visit us"
