@@ -9875,3 +9875,13 @@ deign
     "he had deigned an apology"
 
     "he deigns to visit us"
+
+staccato
+    Performed with each note sharply detached
+    or separated from the others.
+    "a staccato rhythm"
+
+    With each note sharply detached or
+    separated from the others.
+    "I find arpeggio playing is easily done
+    staccato"
