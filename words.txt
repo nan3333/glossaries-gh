@@ -4988,6 +4988,39 @@ phrenology
 melancholic
     Feeling or expressing pensive sadness.
 
+anaphora
+    [grammar]
+
+    The use of a word referring back to a word
+    used earlier in a text or conversation, to
+    avoid repetition, for example the pronouns
+    he, she, it, and they and the verb do in I
+    like it and so do they.
+
+    [rhetoric]
+
+    An anaphora is a rhetorical device that
+    consists of repeating a sequence of words
+    at the beginnings of neighboring clauses,
+    thereby lending them emphasis.
+
+    In contrast:
+    - epistrophe
+
+    Related:
+    - symploce
+
+epistrophe
+    [rhetoric]
+
+    Repeating words at the clauses' ends.
+
+symploce
+    [rhetoric]
+
+    The combination of anaphora and
+    epistrophe.
+
 anaphoric
     Of or relating to anaphora an anaphoric
     usage especially : being a word or phrase
@@ -9885,3 +9918,8 @@ staccato
     separated from the others.
     "I find arpeggio playing is easily done
     staccato"
+
+extempore
+    Spoken or done without preparation.
+
+    Said "extempouree".
