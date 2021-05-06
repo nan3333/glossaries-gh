@@ -1,3 +1,6 @@
+adjacent host
+    A host on the same subnet.
+
 IP protocol number
     https://en.wikipedia.org/wiki/List_of_IP_protocol_numbers
 
