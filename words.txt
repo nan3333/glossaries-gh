@@ -9929,3 +9929,17 @@ subterfuge
     goal.
     "he had to use subterfuge and bluff on
     many occasions"
+
+devil-may-care
+    [adjective]
+
+    Cheerful and reckless.
+
+    "light-hearted, devil-may-care young
+    pilots"
+
+construed
+    Interpreted; construed.
+
+    "that walking stick could be construed as
+    a dangerous weapon"
