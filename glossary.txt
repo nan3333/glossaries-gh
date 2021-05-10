@@ -13373,3 +13373,8 @@ GDD
     e.g. javadoc
 
     You have to Google for documentation.
+
+escapologist
+    An entertainer specializing in freeing
+    themselves from the confinement of such
+    things as ropes, handcuffs, and chains.

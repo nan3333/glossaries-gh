@@ -9923,3 +9923,9 @@ extempore
     Spoken or done without preparation.
 
     Said "extempouree".
+
+subterfuge
+    Deceit used in order to achieve one's
+    goal.
+    "he had to use subterfuge and bluff on
+    many occasions"
