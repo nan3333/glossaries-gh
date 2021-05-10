@@ -9943,3 +9943,11 @@ construed
 
     "that walking stick could be construed as
     a dangerous weapon"
+
+mawkishness
+    The quality or condition of being
+    affectedly or overly emotional: bathos,
+    maudlinism, sentimentalism,
+    sentimentality.
+
+    "Forgive my mawkishness"
