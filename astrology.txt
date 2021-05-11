@@ -1,0 +1,38 @@
+Ecliptic
+    The ecliptic is the plane of Earth's orbit
+    around the Sun.
+
+    From the perspective of an observer on
+    Earth, the Sun's movement around the
+    celestial sphere over the course of a year
+    traces out a path along the ecliptic
+    against the background of stars.
+
+Zodiac
+    The zodiac is an area of the sky that
+    extends approximately 8° north or south of
+    the ecliptic, the apparent path of the Sun
+    across the celestial sphere over the
+    course of the year.
+
+    The paths of the Moon and visible planets
+    are also within the belt of the zodiac.
+
+Gemini
+    [Astrological sign]
+
+    Gemini is the third astrological sign in
+    the zodiac, originating from the
+    constellation of Gemini. Under the
+    tropical zodiac, the sun transits this
+    sign between about May 21 to June 21.
+    Under the sidereal zodiac, the sun
+    transits this sign from about June 16 to
+    July 16. Wikipedia
+
+    Element: Air
+    Symbol: Twin
+    Ruling planet: Mercury
+    End Date: June 20
+    Start Date: May 20
+    Zodiac quality: Mutable
