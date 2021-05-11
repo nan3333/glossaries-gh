@@ -1,3 +1,6 @@
+dependency management
+    https://cljdoc.org/d/leiningen/leiningen/2.9.5/doc/managed-dependencies-with-leiningen
+
 Duct
     A highly modular framework for building
     server-side applications in Clojure using
