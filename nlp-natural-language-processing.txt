@@ -1734,40 +1734,6 @@ SIF
 
     sp +/"from fse.models import sif" "$MYGIT/GiovanniStephens/word2vec-sif/semantic_search.py"
 
-language model
-LM
-statistical language model
-    Requires
-    - word embeddings
-
-    Provides
-    - Language modeling
-
-    Metrics
-    - Predict the next word in the sentence
-
-    Traning involves learning the likelihood
-    of occurrence of a word based on the
-    previous sequence of words used in the
-    text.
-
-    Can be operated at:
-    - character level,
-    - n-gram level,
-    - sentence level, or even
-    - paragraph level.
-
-    A probability distribution over sequences
-    of words.
-    
-    Given such a sequence, say of length m, it
-    assigns a probability to the whole
-    sequence.
-    
-    The language model provides context to
-    distinguish between words and phrases that
-    sound similar.
-
 cognitive grammar
     A cognitive approach to language developed
     by Ronald Langacker, which hypothesizes
@@ -2481,3 +2447,59 @@ Text simplification
     semantic compression can be employed to
     limit and simplify a set of words used in
     given texts.
+
+language model
+LM
+statistical language model
+    Requires
+    - word embeddings
+
+    Provides
+    - Language modeling
+
+    Metrics
+    - Predict the next word in the sentence
+
+    Traning involves learning the likelihood
+    of occurrence of a word based on the
+    previous sequence of words used in the
+    text.
+
+    Can be operated at:
+    - character level,
+    - n-gram level,
+    - sentence level, or even
+    - paragraph level.
+
+    A probability distribution over sequences
+    of words.
+    
+    Given such a sequence, say of length m, it
+    assigns a probability to the whole
+    sequence.
+    
+    The language model provides context to
+    distinguish between words and phrases that
+    sound similar.
+
+    http://stephantul.github.io/python/pytorch/2020/09/18/fast_topk/
+
+    An LM is a statistical mechanism that
+    tries to predict a token, usually a word,
+    given some context.
+    
+    As a statistical mechanism, it thus
+    defines a probability distribution over a
+    fixed vocabulary V.
+    
+    The context is usually other tokens from
+    V, and usually consists of the preceding
+    tokens.
+    
+    So, at a given time-step, a LM produces a
+    vector of probabilities over the entire
+    vocabulary.
+    
+    Given the true targets, we can then assess
+    the quality of the LM by, for example,
+    calculating the cross entropy.

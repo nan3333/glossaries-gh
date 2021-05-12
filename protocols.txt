@@ -1,0 +1,13 @@
+Gemini
+    [Protocol]
+
+    The Gemini protocol is an application
+    layer protocol for distributed hypertext
+    information systems that provides access
+    to simple, primarily textual documents in
+    Gemini space.
+
+    This is done with contemporary
+    technologies such as TLS, thereby
+    improving privacy and user agency relative
+    to the Web.

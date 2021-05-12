@@ -334,3 +334,6 @@ Proto
 ns
     The namespace must match the name of the
     file.
+
+@
+    deref
