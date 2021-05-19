@@ -84,6 +84,8 @@ Byte Pair Encoding
 BPE
     [subword algorithm]
 
+    https://en.wikipedia.org/wiki/Byte_pair_encoding
+
     Byte pair encoding or digram coding is a
     simple form of data compression in which
     the most common pair of consecutive bytes
@@ -103,6 +105,8 @@ BPE
     vim +/"\"\"\"Byte pair encoding utilities\"\"\"" "$MYGIT/mullikine/gpt-2/src/encoder.py"
 
     Used to build a subword dictionary.
+
+    $MYGIT/openai/GPT-3-Encoder/vocab.bpe
 
 Schemata
     Cognitive structures representing generic

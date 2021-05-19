@@ -1,3 +1,6 @@
+exp_continue
+    Loop the expect.
+
 fileevent
     [built-in Tcl command]
 
@@ -7,6 +10,8 @@ fileevent
 
 expect
     [#tcl/expect]
+
+    https://www.oreilly.com/library/view/tcltk-in-a/9780596803520/re132.html
 
     Apart from patterns, the expect construct
     can take keywords.

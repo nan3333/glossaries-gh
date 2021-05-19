@@ -1,3 +1,13 @@
+TeamCity
+    [JetBrains]
+
+    Let TeamCity do the routine work. Get
+    powerful CI out of the box. Fully automate
+    DevOps pipelines of any complexity and
+    scale, without writing any code. Docker,
+    Maven, NuGet. C++, Python, PHP, Node.JS.
+    Cloud Integrations.
+
 Shift Left
     [#testing]
 
