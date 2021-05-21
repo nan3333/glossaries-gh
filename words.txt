@@ -9978,3 +9978,8 @@ humanitarian
     Concerned with or seeking to promote human
     welfare.
     "groups sending humanitarian aid"
+
+cronyism
+    The appointment of friends and associates
+    to positions of authority, without proper
+    regard to their qualifications.
