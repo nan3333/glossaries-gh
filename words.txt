@@ -9983,3 +9983,13 @@ cronyism
     The appointment of friends and associates
     to positions of authority, without proper
     regard to their qualifications.
+
+procurement
+    The process of finding and agreeing to
+    terms, and acquiring goods, services, or
+    works from an external source, often via a
+    tendering or competitive bidding process.
+
+    Procurement generally involves making
+    buying decisions under conditions of
+    scarcity.
