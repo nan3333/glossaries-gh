@@ -1,0 +1,10 @@
+decentralised
+federated
+    Applications whose main purpose is
+    fulfilled as part of a network, where that
+    network is not reliant on any preordained
+    nodes.
+
+distributed
+peer to peer
+    [decentralised]

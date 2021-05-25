@@ -1,5 +1,19 @@
 http://www.colby.edu/chemistry/OChem/STEREOCHEM/definitions.html
 
+Anisotropy
+    The property of a material which allows it
+    to change or assume different properties
+    in different directions as opposed to
+    isotropy.
+
+    The property of substances to exhibit
+    variations in physical properties along
+    different molecular axes. It is seen in
+    crystals, liquid crystals and, less
+    commonly, in liquids. For example,
+    consider the primitive cubic crystal
+    lattice structure shown here.
+
 polymorphism
     https://www.u-tokyo.ac.jp/focus/en/press/z0508_00161.html
 
