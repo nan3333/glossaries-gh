@@ -10029,3 +10029,14 @@ mimesis
     representation, mimicry, the act of
     expression, the act of resembling, and the
     presentation of the self.
+
+incontrovertible
+    Not able to be denied or disputed.
+    "incontrovertible proof"
+
+untenable
+    (especially of a position or view) not
+    able to be maintained or defended against
+    attack or objection.
+
+    "this argument is clearly untenable"

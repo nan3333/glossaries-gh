@@ -13385,3 +13385,11 @@ golden handcuffs
     The idea that an employee can’t leave
     because they would be giving up too much
     money if they do.
+
+rule-bound
+    Overly limited or restricted by rules.
+    "a complex and rule-bound system,
+    difficult to understand, and hard to
+    administer"
+
+    "How rule-bound are you?"

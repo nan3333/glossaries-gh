@@ -1,3 +1,4 @@
+eieio
 EIEIO
 Enhanced Implementation of Emacs Interpreted Objects
     Provides an Object Oriented layer for
