@@ -13393,3 +13393,14 @@ rule-bound
     administer"
 
     "How rule-bound are you?"
+
+pincer movement
+pincer move
+double envelopment
+    A military maneuver in which forces
+    simultaneously attack both flanks of an
+    enemy formation.
+    
+    This classic maneuver holds an important
+    foothold throughout the history of
+    warfare.

@@ -345,3 +345,7 @@ ns
 
 @
     deref
+
+:gen-class
+    May generate a .class if being compiled,
+    otherwise it does nothing.

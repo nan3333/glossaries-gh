@@ -10040,3 +10040,8 @@ untenable
     attack or objection.
 
     "this argument is clearly untenable"
+
+summarily
+    In a summary manner; without the customary
+    formalities.
+    "she was summarily dismissed"

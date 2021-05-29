@@ -1,5 +1,11 @@
 $NOTES/ws/computing/glossary.txt
 
+referentially transparent
+    An expression is called referentially
+    transparent if it can be replaced with its
+    corresponding value (and vice-versa)
+    without changing the program's behavior.
+
 reflection
     Can be used for observing and modifying
     program execution at runtime.

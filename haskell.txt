@@ -580,6 +580,8 @@ monad
     See "monad transformer".
 
 monad transformer
+    https://wiki.haskell.org/Monad_Transformers_Explained
+
     You have an innermost monad (usually
     Identity or IO but you can use any monad).
 
