@@ -13404,3 +13404,10 @@ double envelopment
     This classic maneuver holds an important
     foothold throughout the history of
     warfare.
+
+Xenobot
+    Named after the African clawed frog, are
+    synthetic lifeforms that are automatically
+    designed by computers to perform some
+    desired function and built by combining
+    together different biological tissues.

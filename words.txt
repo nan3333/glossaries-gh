@@ -10045,3 +10045,54 @@ summarily
     In a summary manner; without the customary
     formalities.
     "she was summarily dismissed"
+
+agog
+    Very eager or curious to hear or see
+    something.
+    "I'm all agog"
+
+aghast
+    Filled with horror or shock.
+    "she winced, aghast at his cruelty"
+
+incumbent
+    Necessary for (someone) as a duty or
+    responsibility.
+
+bungled
+    (of a task) carried out clumsily or
+    incompetently.
+    "a bungled bank raid"
+
+gratuitous
+    Done without good reason; uncalled for.
+    "gratuitous violence"
+
+rife
+    (especially of something undesirable) of
+    common occurrence; widespread.
+    "male chauvinism was rife in medicine"
+
+chauvinism
+    The irrational belief in the superiority
+    or dominance of one's own group or people,
+    who are seen as strong and virtuous, while
+    others are considered weak, unworthy or
+    inferior.
+
+    It can be described as a form of extreme
+    patriotism and nationalism, a fervent
+    faith in national excellence and glory.
+
+male chauvinism
+    Male prejudice against women; the belief
+    that men are superior in terms of ability,
+    intelligence, etc.
+
+    "a bastion of male chauvinism"
+
+pensive
+    Engaged in, involving, or reflecting deep
+    or serious thought.
+
+    "a pensive mood"
