@@ -10096,3 +10096,7 @@ pensive
     or serious thought.
 
     "a pensive mood"
+
+peccadillos
+    A small, relatively unimportant offense or
+    sin.
