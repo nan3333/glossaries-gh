@@ -10100,3 +10100,7 @@ pensive
 peccadillos
     A small, relatively unimportant offense or
     sin.
+
+misogynist
+    A person who dislikes, despises, or is
+    strongly prejudiced against women.
