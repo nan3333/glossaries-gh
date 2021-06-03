@@ -10109,3 +10109,10 @@ peccadillos
 misogynist
     A person who dislikes, despises, or is
     strongly prejudiced against women.
+
+persevere
+    Continue in a course of action even in the
+    face of difficulty or with little or no
+    indication of success.
+
+    "his family persevered with his treatment"
