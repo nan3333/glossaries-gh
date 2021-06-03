@@ -9596,6 +9596,7 @@ goading
 
 shill
 shilled
+shilling
     Ensnared, enticed, seduced, decoyed.
 
     "they've been shilled to believe"

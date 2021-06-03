@@ -1,5 +1,12 @@
 $NOTES/ws/ranking/glossary.txt
 
+content-addressable storage
+content-addressed storage
+CAS
+    A way to store information so it can be
+    retrieved based on its content, not its
+    location.
+
 Shakespeare
 
 information ordering
