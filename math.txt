@@ -1,3 +1,6 @@
+autonomous differential equations
+    https://youtu.be/uzJXeluCKMs?t=150
+
 Transition matrix
     - The matrix associated with a change of
       basis for a vector space.

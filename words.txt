@@ -10116,3 +10116,18 @@ persevere
     indication of success.
 
     "his family persevered with his treatment"
+
+gumption
+    Shrewd or spirited initiative and
+    resourcefulness.
+
+    "the president would hire almost any young
+    man who had the gumption to ask for a job"
+
+internment
+    The state of being confined as a prisoner,
+    especially for political or military
+    reasons.
+
+    "he was threatened with internment in a
+    concentration camp"
