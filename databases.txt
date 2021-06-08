@@ -1,3 +1,14 @@
+durability
+    [ACID property]
+
+    Guarantees that transactions that have
+    committed will survive permanently.
+
+    For example, if a flight booking reports
+    that a seat has successfully been booked,
+    then the seat will remain booked even if
+    the system crashes.
+
 Create, read, update and delete
 CRUD
     Create, read, update, and delete are the

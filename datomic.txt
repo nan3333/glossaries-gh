@@ -1,3 +1,52 @@
+time-travel
+    [features of Datomic]
+
+    - db.asOf()
+    - db.history()
+    - :db/txInstant
+
+datomic peer
+    datomic peer server
+    datomic peer library
+
+datomic peer server
+    Have multiple of these if you want.
+
+    Provides an interface for Datomic clients
+    to access databases.
+
+    https://docs.datomic.com/on-prem/peer/peer-server.html
+
+    You start a peer server.
+
+    ewwlinks +/"Starting a Peer Server" "https://docs.datomic.com/on-prem/getting-started/dev-setup.html"
+
+    The Datomic Peer Server does not create
+    durable-storage databases itself.
+
+    To use a Peer Server along with a dev
+    storage database you will need to have
+    previously created a database and have a
+    running dev Transactor.
+
+datomic peer library
+    You can include the peer library into your
+    clojure project.
+
+    https://docs.datomic.com/on-prem/peer/integrating-peer-lib.html
+
+    This is how to interact with the datomic
+    database.
+
+connection string
+    datomic:dev://localhost:4334/<DB-NAME>
+
+    Example:
+        datomic:dev://localhost:4334/hello
+
+transactor
+    https://docs.datomic.com/on-prem/getting-started/dev-setup.html
+
 transactor properties file
 
 namespace qualified keyword field
