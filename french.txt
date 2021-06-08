@@ -42,3 +42,7 @@ enchanté
 oubliette
     A secret dungeon with access only through
     a trapdoor in its ceiling.
+
+guff
+    Trivial, worthless, or insolent talk or
+    ideas.

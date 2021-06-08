@@ -1,3 +1,40 @@
+Nixpkgs
+    The git repository containing all packages
+    and NixOS modules/expressions.
+
+    Installing packages directly from the
+    master branch of the Nixpkgs repo is
+    possible, but risky, since git commits are
+    merged into master before being heavily
+    tested.
+
+    That's where channels are useful.
+
+channel
+    https://nixos.wiki/wiki/Nix_channels
+
+    A "channel" is a name for the latest
+    "verified" git commits in Nixpkgs.
+
+    Each channel has a different definition of
+    what "verified" means.
+    
+    Each time a new git commit is verified,
+    the channel declaring this verification
+    gets updated.
+    
+    Contrary to a user of the git master
+    branch, a channel user will benefit from
+    both verified commits and binary packages
+    from the binary cache.
+
+    Channels are reified as git branches in
+    the nixpkgs repository and as disk images
+    in the channels webpage.
+
+    There is also the handy nix channel status
+    webpage that tracks the age of channels.
+
 User environment
     Sets of software packages available to a
     user at some point in time.

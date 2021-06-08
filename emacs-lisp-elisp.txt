@@ -1,3 +1,9 @@
+user-error
+    This is like error except that a user
+    error (or "pilot error") comes from an
+    incorrect manipulation by the user, not
+    from an actual problem.
+
 eieio
 EIEIO
 Enhanced Implementation of Emacs Interpreted Objects

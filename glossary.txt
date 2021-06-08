@@ -13428,3 +13428,24 @@ mamacita
     The moniker is never really used to
     describe an actual mother, a genuine mamá
     or mamita.
+
+haberdashery
+    Small items used in sewing, such as
+    buttons, zips, and thread.
+
+concordance
+    An alphabetical list of the principal
+    words used in a book or body of work,
+    listing every instance of each word with
+    its immediate context.
+
+garland
+    A decorative braid, knot or wreath of
+    flowers, leaves, or other material.
+
+    Garlands can be worn on the head or around
+    the neck, hung on an inanimate object, or
+    laid in a place of cultural or religious
+    importance.
+
+    "garland of roses"

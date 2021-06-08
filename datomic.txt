@@ -1,0 +1,32 @@
+transactor properties file
+
+namespace qualified keyword field
+    Example
+        :user/name
+
+non-namespace qualified keyword field
+    Example:
+        :cars
+
+attribute
+    Wefine fields stating what their name is
+    and what type of data they hold.
+
+    In Datomic nomenclature fields are
+    referred to as attributes.
+
+table
+    [#RDBMS]
+
+    In datomic, we do away with the concept of
+    a table.
+
+    You could say datomic ONLY specifies
+    'columns'.
+
+    Additionally, these columns have no
+    relationship to (or grouping with) any
+    other column.
+
+    Contrast this with an RDBMS which groups
+    columns with the concept of a table.
