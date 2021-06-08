@@ -5,11 +5,26 @@ time-travel
     - db.history()
     - :db/txInstant
 
+storage service
+
+transactor
+    [server]
+
+    https://docs.datomic.com/on-prem/getting-started/dev-setup.html
+
+transactor properties file
+    Config file for a transactor.
+
+client
+
 datomic peer
-    datomic peer server
-    datomic peer library
+peer
+    Related:
+    - datomic peer server
+    - datomic peer library
 
 datomic peer server
+peer server
     Have multiple of these if you want.
 
     Provides an interface for Datomic clients
@@ -43,11 +58,6 @@ connection string
 
     Example:
         datomic:dev://localhost:4334/hello
-
-transactor
-    https://docs.datomic.com/on-prem/getting-started/dev-setup.html
-
-transactor properties file
 
 namespace qualified keyword field
     Example
