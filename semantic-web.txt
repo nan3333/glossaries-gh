@@ -1,3 +1,26 @@
+SPARQL
+    [RDF query language]
+
+    A semantic query language for
+    databases, able to retrieve and manipulate
+    data stored in Resource Description
+    Framework format.
+
+Turtle
+Terse RDF Triple Language
+    [File format]
+
+    A syntax and file format for expressing
+    data in the Resource Description Framework
+    data model.
+
+    Turtle syntax is similar to that of
+    SPARQL, an RDF query language.
+
+    It is a common data format for storing RDF
+    data, along with N-Triples, JSON-LD and
+    RDF/XML.
+
 OWL
 Web Ontology Language
     A family of knowledge representation

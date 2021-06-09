@@ -13449,3 +13449,21 @@ garland
     importance.
 
     "garland of roses"
+
+brochure
+    An informative paper document that can be
+    folded into a template, pamphlet, or
+    leaflet.
+
+    Can also be a set of related unfolded
+    papers put into a pocket folder or packet
+
+evidentialism
+    A thesis in epistemology which states that
+    one is justified to believe something if
+    and only if that person has evidence which
+    supports their belief.
+
+    Evidentialism is therefore a thesis about
+    which beliefs are justified and which are
+    not.
