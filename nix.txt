@@ -1,3 +1,9 @@
+sandbox
+    Sandboxes are deprecated and no longer
+    available in cabal.
+
+    cabal sandbox init
+
 Nixpkgs
     The git repository containing all packages
     and NixOS modules/expressions.

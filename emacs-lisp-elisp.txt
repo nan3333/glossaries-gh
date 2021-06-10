@@ -1,3 +1,32 @@
+transient
+    An abstraction involving a prefix command,
+    infix arguments and suffix commands.
+
+    Always involves at least two commands:
+    - a prefix
+    - a suffix
+
+    Usually has several infix and suffix
+    commands.
+
+prefix
+    [#transient]
+
+infix
+    [#transient]
+
+    Calling an infix command causes its value
+    to be changed, possibly by reading a new
+    value in the minibuffer.
+
+suffix
+    [#transient]
+
+    Calling a suffix command usually causes
+    the transient to be exited but suffix
+    commands can also be configured to not
+    exit the transient.
+
 user-error
     This is like error except that a user
     error (or "pilot error") comes from an

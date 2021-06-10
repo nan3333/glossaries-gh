@@ -10326,3 +10326,35 @@ empirical
 
     "they provided considerable empirical
     evidence to support their argument"
+
+interstitial
+    Of, forming, or occupying interstices.
+    "the interstitial space"
+
+    An advertisement that appears while a
+    chosen website or page is downloading.
+
+empiricism 
+    [#philosophy]
+
+    A theory that states that knowledge comes
+    only or primarily from sensory experience.
+
+    It is one of several views of
+    epistemology, along with rationalism and
+    skepticism.
+
+    Empiricism emphasizes the role of
+    empirical evidence in the formation of
+    ideas, rather than innate ideas or
+    traditions.
+
+discordant
+    Disagreeing or incongruous.
+    "the operative principle of democracy is a
+    balance of discordant qualities"
+
+    (of sounds) harsh and jarring because of a
+    lack of harmony.
+    "the singers continued their discordant
+    chanting"

@@ -1,5 +1,16 @@
 $NOTES/ws/ranking/glossary.txt
 
+Dewey Decimal Classification
+Dewey Decimal System
+    A proprietary library classification
+    system first published in the United
+    States by Melvil Dewey in 1876.
+
+    Organises the contents of a library based
+    on the division of all knowledge into 10
+    groups, with each group assigned 100
+    numbers.
+
 content-addressable storage
 content-addressed storage
 CAS
