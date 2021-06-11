@@ -1,5 +1,16 @@
 https://github.com/mullikine/weightagnostic.github.io/blob/master/draft.md
 
+saliency map
+    [#computer vision]
+
+    An image that shows each pixel's unique
+    quality.
+
+    The goal of a saliency map is to simplify
+    and/or change the representation of an
+    image into something that is more
+    meaningful and easier to analyze.
+
 training
 training set
 training data set

@@ -19,6 +19,10 @@ infix
     to be changed, possibly by reading a new
     value in the minibuffer.
 
+    Transient supports infix arguments; values
+    that are set by infix commands and then
+    consumed by the invoked suffix command(s).
+
 suffix
     [#transient]
 

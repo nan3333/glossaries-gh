@@ -1,3 +1,14 @@
+prior
+prior probability of an event
+    The probability of the event computed
+    before the collection of new data.
+
+    For example, if 0.01 of a population has
+    schizophrenia then the probability that a
+    person drawn at random would have
+    schizophrenia is 0.01. This is the prior
+    probability.
+
 Maximum Liklihood [Estimation]
 MLE
     The goal of maximum likelihood is to find

@@ -1,3 +1,8 @@
+interpretability
+    A relation between formal theories that
+    expresses the possibility of interpreting
+    or translating one into the other.
+
 syllogism
     A syllogism is a kind of logical argument
     that applies deductive reasoning to arrive

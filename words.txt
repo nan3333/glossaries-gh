@@ -10358,3 +10358,9 @@ discordant
     lack of harmony.
     "the singers continued their discordant
     chanting"
+
+irk
+irked
+    Irritate; annoy.
+    "it irks her to think of the runaround she
+    received"

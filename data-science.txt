@@ -294,6 +294,7 @@ confusion matrix
 error matrix
 matching matrix (unsupervised learning)
     [table layout]
+    [#classification]
 
     Visualise the performance of an algorithm,
     typically a supervised learning one.
