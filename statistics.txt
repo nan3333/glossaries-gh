@@ -1,3 +1,43 @@
+model validation
+    The process by which model outputs are
+    (systematically) compared to independent
+    real-world observations to judge the
+    quantitative and qualitative
+    correspondence with reality.
+
+cross-validation
+rotation estimation
+out-of-sample testing
+    [model validation technique]
+
+    Any of various similar model validation
+    techniques for assessing how the results
+    of a statistical analysis will generalize
+    to an independent data set.
+
+    It is mainly used in settings where the
+    goal is prediction, and one wants to
+    estimate how accurately a predictive model
+    will perform in practice.
+
+    In a prediction problem, a model is
+    usually given a dataset of known data on
+    which training is run (training dataset),
+    and a dataset of unknown data (or first
+    seen data) against which the model is
+    tested (called the validation dataset or
+    testing set).
+
+    The goal of cross-validation is to test
+    the model's ability to predict new data
+    that was not used in estimating it, in
+    order to flag problems like overfitting or
+    selection bias and to give an insight on
+    how the model will generalize to an
+    independent dataset (i.e., an unknown
+    dataset, for instance from a real
+    problem).
+
 stochastic
     Refers to the property of being well
     described by a random probability
@@ -6,11 +46,11 @@ stochastic
 statistical modelling
     A method of mathematically approximating
     the world.
-    
+
     Statistical models contain variables that
     can be used to explain relationships
     between other variables.
-    
+
     We use hypothesis testing, confidence
     intervals etc to make inferences and
     validate our hypothesis.
@@ -19,10 +59,10 @@ CI
 confidence interval
     A type of estimate computed from the
     statistics of the observed data.
-    
+
     This proposes a range of plausible values
     for an unknown parameter.
-    
+
     The interval has an associated confidence
     level that the true parameter is in the
     proposed range
@@ -36,7 +76,7 @@ sample size determination
     The act of choosing the number of
     observations or replicates to include in a
     statistical sample.
-    
+
     The sample size is an important feature of
     any empirical study in which the goal is
     to make inferences about a population from
@@ -56,7 +96,7 @@ outlier
 
     If the z score is greater than 3 than we
     can classify that point as an outlier.
-    
+
     Any point outside of 3 standard deviations
     would be an outlier.
 
@@ -93,26 +133,26 @@ standardized variable
     observation or data point is above the
     mean value of what is being observed or
     measured.
-    
+
     Observed values above the mean have
     positive standard scores, while values
     below the mean have negative standard
     scores.
-    
+
     It is calculated by subtracting the
     population mean from an individual raw
     score and then dividing the difference by
     the population standard deviation.
-    
+
     This conversion process is called
     standardizing or normalizing (however,
     "normalizing" can refer to many types of
     ratios; see normalization for more).
-    
+
     They are most frequently used to compare
     an observation to a theoretical deviate,
     such as a standard normal deviate.
-    
+
     Computing a z-score requires knowing the
     mean and standard deviation of the
     complete population to which a data point
@@ -125,7 +165,7 @@ standardized variable
 R-squared
 R2
     [statistical measure]
-    
+
     Represents the proportion of the variance
     for a dependent variable that's explained
     by an independent variable or variables in
@@ -143,7 +183,7 @@ Null hypothesis
 p-value
 probability value
     [statistical hypothesis testing]
-    
+
     For a given statistical model, the
     probability that, when the null hypothesis
     is true, the statistical summary would be
@@ -231,7 +271,7 @@ Naive Bayes
     of each category using Bayes theorem, and
     the category with the highest probability
     will be output.
-    
+
     Have been successfully applied to many
     domains, particularly NLP.
 
@@ -340,10 +380,10 @@ CRF
 
     Often applied in pattern recognition and
     ML and used for structured prediction.
-    
+
     CRFs fall into the sequence modeling
     family.
-    
+
     Whereas a discrete classifier predicts a
     label for a single sample without
     considering "neighboring" samples, a CRF
@@ -351,31 +391,31 @@ CRF
     linear chain CRF (which is popular in NLP)
     predicts sequences of labels for sequences
     of input samples.
-    
+
     CRFs are a type of discriminative
     undirected probabilistic graphical model.
-    
+
     They are used to encode known
     relationships between observations and
     construct consistent interpretations and
     are often used for labeling or parsing of
     sequential data, such as NLP or biological
     sequences and in CV.
-    
+
     Specifically, CRFs find applications in
     POS tagging, shallow parsing,named entity
     recognition,gene finding and peptide
     critical functional region finding, among
     other tasks, being an alternative to the
     related hidden Markov models (HMMs).
-    
+
     In CV, CRFs are often used for object
     recognition and image segmentation.
 
 rejection sampling
     A basic technique used to generate
     observations from a distribution.
-    
+
     It is also commonly called the acceptance-
     rejection method or "accept-reject
     algorithm" and is a type of exact
@@ -394,10 +434,10 @@ importance sampling
     while only having samples generated from a
     different distribution than the
     distribution of interest.
-    
+
     It is related to umbrella sampling in
     computational physics.
-    
+
     Depending on the application, the term may
     refer to the process of sampling from this
     alternative distribution, the process of
