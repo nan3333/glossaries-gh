@@ -1666,8 +1666,11 @@ fully connected layer
     neurons in the previous layer.
 
 logit
+un-normalized log-probability
     Raw weighted sums plus bias before the
     activation function.
+
+    logits are un-normalized log-probabilities
 
 batch
 

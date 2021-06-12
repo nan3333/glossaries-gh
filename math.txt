@@ -1,5 +1,13 @@
+surreal numbers
+    [[https://www.youtube.com/watch?v=mPn2AdMH7UQ][Surreal Numbers {writing the first book} - Numberphile - YouTube]]
+
+    With surreal numbers it makes sense to
+    talk about "infinity minus 3","infinity to
+    the third power", or "the square root of
+    infinity".
+
 autonomous differential equations
-    https://youtu.be/uzJXeluCKMs?t=150
+    [[https://youtu.be/uzJXeluCKMs][Chaos Theory: the language of {in}stability - YouTube]]
 
 Transition matrix
     - The matrix associated with a change of

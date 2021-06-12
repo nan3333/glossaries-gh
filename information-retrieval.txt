@@ -1,5 +1,10 @@
 $NOTES/ws/ranking/glossary.txt
 
+semantic search
+    Not only find keywords, but to determine
+    the intent and contextual meaning of the
+    words a person is using for search.
+
 Dewey Decimal Classification
 Dewey Decimal System
     A proprietary library classification

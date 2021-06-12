@@ -7229,6 +7229,18 @@ corroborate
     Confirm or give support to (a statement,
     theory, or finding).
 
+    "I would like to corroborate your story
+    before we proceed further."
+
+ascertain
+    Find (something) out for certain; make sure of.
+
+    "an attempt to ascertain the cause of the
+    accident"
+
+    "I am attempting to ascertain whether Dr.
+    Tainer's story is true."
+
 cur
     Used to describe a mongrel dog,
     particularly of aggressive or unfriendly
@@ -10372,3 +10384,7 @@ giblets
     to make gravy, stuffing, or soup.
 
     "the giblets of the brain" (deep within)
+
+plutocratic
+    Relating to or characterized by government
+    by the wealthy.
