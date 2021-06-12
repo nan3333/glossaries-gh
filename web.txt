@@ -1,0 +1,10 @@
+backlink
+    A backlink for a given web resource is a
+    link from some other website to that web
+    resource.
+    
+    A web resource may be a website, web page,
+    or web directory.
+    
+    A backlink is a reference comparable to a
+    citation.
