@@ -1,6 +1,10 @@
 surreal numbers
     [[https://www.youtube.com/watch?v=mPn2AdMH7UQ][Surreal Numbers {writing the first book} - Numberphile - YouTube]]
 
+    Explanation:
+        https://youtu.be/mPn2AdMH7UQ?t=616
+        [[https://www.youtube.com/watch?v=aRUABAUcTiI][0.999... Repeating Is Equal To 1, But Something Like It Is Not {Introduction To The Surreal Numbers} - YouTube]]
+
     With surreal numbers it makes sense to
     talk about "infinity minus 3","infinity to
     the third power", or "the square root of
