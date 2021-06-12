@@ -1,0 +1,4 @@
+universe
+    A collection that contains all the
+    entities one wishes to consider in a given
+    situation.
