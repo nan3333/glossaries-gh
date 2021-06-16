@@ -1,3 +1,12 @@
+Open banking
+    The practice of allowing a third party to
+    contact a bank on your behalf and instruct
+    it to make a payment, or to release your
+    financial information.
+    
+    In both cases this is done electronically,
+    securely and only when approved by you.
+
 option
     [finance]
     [stock trading]

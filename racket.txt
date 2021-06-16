@@ -958,3 +958,7 @@ expander
      correspond to real Racket expressions
      (which are then evaluated to produce a
      result).
+
+#lang reader
+    Use the "stacker.rkt" module as the reader
+    for this language

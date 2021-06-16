@@ -62,10 +62,15 @@ thingim-ebob
     thing whose name one has forgotten, does
     not know, or does not wish to mention.
 
-borking
-    obstruct (someone, especially a candidate
-    for public office) by systematically
-    defaming or vilifying them.
+    NLG: A thingamajig.
+
+    NLG: an object whose name is unknown or
+    has been forgotten.
+
+thingamajig
+    NLG: A thing of no importance; an object
+    whose name is forgotten or not known.
+    "you'll need a thingamajig to open it"
 
 industrious
     What an industrious empire
@@ -10298,19 +10303,6 @@ straddle
     "the colonel straddled in front of the
     fire"
 
-teleological
-    PHILOSOPHY
-    Relating to or involving the explanation
-    of phenomena in terms of the purpose they
-    serve rather than of the cause by which
-    they arise.
-    "teleological narratives of progress"
-
-    THEOLOGY
-    Relating to the doctrine of design and
-    purpose in the material world.
-    "a teleological view of nature"
-
 teleology
 finality
     A reason or explanation for something as a
@@ -10388,3 +10380,192 @@ giblets
 plutocratic
     Relating to or characterized by government
     by the wealthy.
+
+gambit
+    An act or remark that is calculated to
+    gain an advantage, especially at the
+    outset of a situation.
+
+    "his resignation was a tactical gambit"
+
+    (in chess) an opening move in which a
+    player makes a sacrifice, typically of a
+    pawn, for the sake of a compensating
+    advantage.
+
+    "he tried the dubious Budapest gambit"
+
+whipsawed
+    NLG: To be pulled in opposite directions.
+
+    Cut with a whipsaw.
+    "he was whipsawing lumber"
+
+    Subject to two difficult situations or
+    opposing pressures at the same time.
+
+    "the army has been whipsawed by a
+    shrinking budget and a growing pool of
+    recruits"
+
+dumb
+    Unable to speak.
+
+stupid
+    Lacking in intelligence or exhibiting the
+    quality of having been done by someone
+    lacking in intelligence.
+
+paraphrase
+    A restatement of the meaning of a text or
+    passage using other words.
+
+    The term itself is derived via Latin
+    paraphrasis from Greek παράφρασις
+    'additional manner of expression'.
+
+    The act of paraphrasing is also called
+    "paraphrasis".
+
+credence
+    When something is given credence, it is
+    made more believable.
+    
+    But it can also be used like this: Mary
+    talked a lot about the poltergeist in her
+    house.
+    
+    To most, her story had little credence,
+    but I like a good ghost story, and so,
+    decided to believe.
+
+    "adds credence to"
+
+love
+    Four unique forms of love are found in
+    Scripture. They are communicated through
+    four Greek words.
+
+    - Eros   - romantic love
+    - Storge - family love
+    - Philia - brotherly
+    - Agape  - God's divine love
+             - unconditional love
+               Christians believe this is the
+               highest type of love, and it is
+               the love that Jesus has for
+               humans.
+
+    Eight types of love:
+    These are actually dim-witted
+    classificiations, in my opinion, as if not
+    actual thought/discovery was placed into
+    making this list.
+
+    - Philia    - Affectionate Love.
+                  Love without romantic
+                  attraction and occurs
+                  between friends or family
+                  members.
+    - Pragma    - Enduring Love.
+    - Storge    - Familiar Love.
+    - Eros      - Romantic Love.
+    - Ludus     - Playful Love.
+    - Mania     - Obsessive Love.
+    - Philautia - Self Love.
+    - Agape     - Selfless Love.
+
+denigrated
+    Criticize unfairly; disparage.
+
+fortitude
+    Courage in pain or adversity.
+    "she endured her illness with great
+    fortitude"
+
+microcosm
+    A miniature world or a small community
+    that is a replica of a larger one.
+
+defencelessly
+    In a defenceless manner; without being
+    able to defend oneself. "the defenceless
+    animal was killed"
+
+macabre
+    Gruesomely or disgustingly tragic.
+
+    "macabre tales of death and destruction"
+
+lugubrious
+    NLG: Expressing grief; mournful.
+
+doleful
+    NLG: Expressing or causing sorrow or
+    regret; mournful.
+
+gloomy
+    (of weather) overcast or dull.
+
+    "a gloomy day"
+
+sombre
+    Having or suggesting a dark or gloomy
+    quality. "a sombre mood"; "a dark and
+    brooding figure"
+
+acuity
+    Mental sharpness; quickness of mind.
+
+apologists
+    A person who offers an argument in defence
+    of something controversial.
+
+    "critics said he was an apologist for
+    colonialism"
+
+borking
+    Obstruct (someone, especially a candidate
+    for public office) by systematically
+    defaming or vilifying them.
+
+    NLG: (of a person or their work) subject
+    to harsh criticism or derision. "the
+    borking of the President in the press"
+
+teleological
+    PHILOSOPHY
+    Relating to or involving the explanation
+    of phenomena in terms of the purpose they
+    serve rather than of the cause by which
+    they arise.
+    "teleological narratives of progress"
+
+    THEOLOGY
+    Relating to the doctrine of design and
+    purpose in the material world.
+    "a teleological view of nature"
+
+    NLG: Of or relating to the philosophical
+    doctrine of teleology, which is the idea
+    that some things have a purpose or goal.
+
+semaphore
+    A system of sending messages by holding
+    the arms or two flags or poles in certain
+    positions according to an alphabetic code.
+
+    "In a world where we semaphore our
+    successes to each other at every possible
+    opportunity..."
+
+japed
+    Say or do something in jest or mockery.
+
+slight
+slights
+    Insult (someone) by treating or speaking
+    of them without proper respect or
+    attention.
+
+    "he was desperate not to slight a guest"

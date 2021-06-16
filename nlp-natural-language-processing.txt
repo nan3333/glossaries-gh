@@ -1999,7 +1999,7 @@ OOV
 
     https://medium.com/@shabeelkandi/handling-out-of-vocabulary-words-in-natural-language-processing-based-on-context-4bbba16214d5
 
-    http://webcache.googleusercontent.com/search?q=cache:https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46
+    https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46
 
 polar word
 opinion word
