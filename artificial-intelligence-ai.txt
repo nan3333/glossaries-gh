@@ -1,5 +1,9 @@
 image captioning
 
+metacognition
+    Awareness and understanding of one's own
+    thought processes.
+
 policy
     https://blog.google/topics/ai/ai-principles/
 

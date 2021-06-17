@@ -10569,3 +10569,16 @@ slights
     attention.
 
     "he was desperate not to slight a guest"
+
+attribution
+    NLG: The act of assigning credit or blame
+    to someone or something.
+
+asshat
+    A stupid or contemptible person.
+
+asshattery
+    The obnoxious behaviour of an asshat.
+
+    NLG: Obnoxious, rude, or obnoxious
+    behaviour.

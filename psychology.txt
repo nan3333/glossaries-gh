@@ -117,3 +117,17 @@ dark triad
     - machiavellianism
     - narcissism
     - psychopathy
+
+attribution
+    [#psychology]
+
+    Humans are motivated to assign causes to
+    their actions and behaviors.
+    
+    Social psychology states that attribution
+    is the process by which individuals
+    explain the causes of behavior and events
+    as being either external or internal.
+    
+    Models to explain this process are called
+    attribution theory.
