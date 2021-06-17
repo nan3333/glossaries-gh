@@ -1,3 +1,12 @@
+liquidity aggregator
+    Technology that allows participants to
+    simultaneously obtain streamed prices from
+    several liquidity providers/pools.
+
+    Computer algorithms allow customization of
+    the price streams for both the liquidity
+    provider and the receiving counterparty.
+
 Open banking
     The practice of allowing a third party to
     contact a bank on your behalf and instruct

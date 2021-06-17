@@ -4,3 +4,13 @@ State channels
     of the blockchain, or 'off-chain,' and
     greatly minimize their use of 'on-chain'
     operations.
+
+Layer 2
+    A secondary framework or protocol that is
+    built on top of an existing blockchain
+    system.
+
+    The main goal of these protocols is to
+    solve the transaction speed and scaling
+    difficulties that are being faced by the
+    major cryptocurrency networks.
