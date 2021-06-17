@@ -1,6 +1,11 @@
 Layer 2 Rollup
     https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/
 
+    https://youtu.be/XW0QZmtbjvs?t=4270
+
+    Instead of just publishing transactions
+    directly on chain
+
 Amazon Managed Blockchain
     https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-ethereum-on-amazon-managed-blockchain/
 

@@ -10589,3 +10589,10 @@ equivocate
 
     "the government have equivocated too often
     in the past"
+
+enmity
+    A state or feeling of active opposition or
+    hostility.
+
+    "decades of enmity between the two
+    countries"

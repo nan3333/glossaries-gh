@@ -1,6 +1,18 @@
 $HOME/notes/ws/racket/scratch/scratch.rkt
 https://beautifulracket.com/appendix/glossary.html
 
+syntactic form
+form
+    Examples:
+    - macro
+
+    A macro doesn’t evaluate the code it gets
+    as input.
+
+    Rather, it implements a template for
+    putting items into certain positions, like
+    filling in the blanks of a form.
+
 custodian
     Manages a collection of threads, file-
     stream ports, TCP ports, TCP listeners,
@@ -495,9 +507,29 @@ string join
 
     (slist->string '(red yellow blue green))
 
-macros
+macro
     The simplest way to create a macro is to use
     define-syntax-rule.
+
+    3 golden rules of macros:
+    
+    1   At compile time, a macro takes one
+        code fragment as input, and converts
+        it to a new code fragment. The input &
+        output code fragments are each
+        packaged inside a syntax object.
+    
+    2   Because compile time happens before
+        run time, all macros operate before
+        any run-time functions.
+    
+    3   A macro can only treat its input code
+        as a literal syntactic entity. It
+        can’t evaluate arguments or
+        expressions within that code, because
+        those values are only available at run
+        time (which happens after compile
+        time).
 
 define-syntax-rule
     The simplest way to create a macro.
@@ -962,3 +994,11 @@ expander
 #lang reader
     Use the "stacker.rkt" module as the reader
     for this language
+
+atom
+    A value that is not a list.
+
+bound
+    Describes an identifier that has a
+    binding.
+    
