@@ -1,3 +1,13 @@
+X-formers
+    A transformer variant.
+
+vanilla transformer
+    [#X-formers]
+
+    A transformer that is not an X-former.
+
+    https://papers.labml.ai/paper/2106.04554
+
 transformer
     [transformer]
 

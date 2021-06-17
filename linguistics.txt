@@ -1,3 +1,18 @@
+Affix
+    [#linguistics]
+    [morpheme]
+
+    A morpheme that is attached to a word stem
+    to form a new word or word form.
+
+    Affixes may be derivational, like English
+    -ness and pre-, or inflectional, like
+    English plural -s and past tense -ed.
+
+    They are bound morphemes by definition;
+    prefixes and suffixes may be separable
+    affixes.
+
 semiosis
     It is important to understand what I mean
     by semiosis.
