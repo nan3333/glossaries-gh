@@ -10582,3 +10582,10 @@ asshattery
 
     NLG: Obnoxious, rude, or obnoxious
     behaviour.
+
+equivocate
+    Use ambiguous language so as to conceal
+    the truth or avoid committing oneself.
+
+    "the government have equivocated too often
+    in the past"

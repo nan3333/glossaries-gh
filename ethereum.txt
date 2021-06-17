@@ -48,7 +48,7 @@ web3
 
     Many Web3 developers have chosen to build
     dapps because of Ethereum's inherent
-    decentralization:
+    decentralisation:
 
     - Anyone who is on the network has
       permission to use the service – or in
@@ -546,12 +546,43 @@ keystore file
     encrypted by a passphrase for extra
     security.
 
+blockchain scaling paradigms
+    Two major paradigms:
+    - layer 1
+    - layer 2
+
+layer 1
+    [blockchain scaling paradigm]
+
+    https://youtu.be/XW0QZmtbjvs?t=2827
+
+    Make the blockchain itself capable of
+    processing more transactions by having
+    some mechanism for doing that despite
+    there being a limit to capacity for each
+    participant in the blockchain.
+
+    The most popular paradigm for Layer 1:
+    - Sharding
+
 layer 2
+    [blockchain scaling paradigm]
+
+    Keep the blockchain as is but create
+    clever protocols on top of the blockchain
+    that still use the blockchain and inherit
+    things like the security guarantees of the
+    blockchain but at the same time a lot of
+    things are off-chain.
+
     An area of development focussed on
     layering improvements on top of the
     Ethereum protocol. These improvements are
     related to transaction speeds, cheaper
     transaction fees, and transaction privacy.
+
+    The most popular paradigm for Layer 2:
+    - Rollups
 
 LevelDB
     An open source on-disk key-value store,
@@ -991,12 +1022,32 @@ zero address
     creation transaction.
 
 Zero-knowledge rollup
+ZK-Rollup
+ZK Rollup
+    https://youtu.be/XW0QZmtbjvs?t=4669
+
     A rollup of transactions that use validity
     proofs to offer increased layer 2
     transaction throughput while using the
     security provided by mainnet (layer 1).
+
     Although they can't handle complex
     transaction types, like Optimistic
     rollups, they don't have latency issues
     because transactions are provably valid
     when submitted.
+
+optimistic rollups
+    https://youtu.be/XW0QZmtbjvs?t=4656
+
+    Sit in parallel to the main Ethereum chain
+    on layer 2.
+    
+    They can offer improvements in scalability
+    because they don't do any computation by
+    default.
+    
+    With Optimistic rollups, transactions are
+    written to the main Ethereum chain as
+    calldata , optimising them further by
+    reducing the gas cost.

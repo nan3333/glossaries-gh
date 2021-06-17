@@ -1,3 +1,6 @@
+legislate
+    Make or enact laws.
+
 Mens rea
     The intent a person has behind committing
     a crime.
