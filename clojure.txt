@@ -349,3 +349,41 @@ ns
 :gen-class
     May generate a .class if being compiled,
     otherwise it does nothing.
+
+transducer
+    https://stackoverflow.com/q/26317325
+
+    Transducers are recipes of what to do with
+    a sequence of data without knowledge of
+    what the underlying sequence is (how to do
+    it). It can be any seq, async channel or
+    maybe observable.
+    
+    They are composable and polymorphic.
+    
+    The benefit is, you don't have to
+    implement all standard combinators every
+    time a new data source is added. Again and
+    again. As a result, you as user are able
+    to reuse those recipes on different data
+    sources.
+
+    Transducers are composable algorithmic
+    transformations.
+    
+    They are independent from the context of
+    their input and output sources and specify
+    only the essence of the transformation in
+    terms of an individual element.
+    
+    Because transducers are decoupled from
+    input or output sources, they can be used
+    in many different processes - collections,
+    streams, channels, observables, etc.
+    
+    Transducers compose directly, without
+    awareness of input or creation of
+    intermediate aggregates.
+
+    NLG: A transducer is a function defined as
+    a reduction.

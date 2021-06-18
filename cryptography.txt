@@ -115,3 +115,14 @@ zk-STARK
     Zero-knowledge proofs that require no
     interaction between the prover and
     verifier.
+
+    Allows you to generate a proof that some
+    computation has some particular output, in
+    such a way that the proof can be verified
+    extremely quickly even if the underlying
+    computation takes a very long time to run.
+    
+    The "ZK" ("zero knowledge") part adds an
+    additional feature: the proof can keep
+    some of the inputs to the computation
+    hidden.

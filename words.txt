@@ -10596,3 +10596,10 @@ enmity
 
     "decades of enmity between the two
     countries"
+
+fluctuation
+    An irregular rising and falling in number
+    or amount; a variation.
+
+    "fluctuations in the yearly values could
+    be caused by a variety of factors"
