@@ -1,3 +1,37 @@
+Bi-Encoder
+    https://www.sbert.net/examples/applications/cross-encoder/README.html
+
+    Bi-Encoders produce for a given sentence a
+    sentence embedding. We pass to a BERT
+    independently the sentences A and B, which
+    result in the sentence embeddings u and v.
+    These sentence embedding can then be
+    compared using cosine similarity.
+
+Cross-Encoder
+    https://www.sbert.net/examples/applications/cross-encoder/README.html
+
+    We pass both sentences simultaneously to
+    the Transformer network. It produces than
+    an output value between 0 and 1 indicating
+    the similarity of the input sentence pair:
+
+    A Cross-Encoder does not produce a
+    sentence embedding. Also, we are not able
+    to pass individual sentences to a
+    Cross-Encoder.
+
+Bi-Encoder vs  Cross-Encoder
+    https://www.sbert.net/examples/applications/cross-encoder/README.html
+
+    As detailed in our paper, Cross-Encoder
+    achieve better performances than
+    Bi-Encoders. However, for many application
+    they are not pratical as they do not
+    produce embeddings we could e.g. index or
+    efficiently compare using cosine
+    similarity.
+
 X-formers
     A transformer variant.
 

@@ -8,3 +8,13 @@ backlink
     
     A backlink is a reference comparable to a
     citation.
+
+fragment identifier
+    [#computer hypertext]
+
+    A short string of characters that refers
+    to a resource that is subordinate to
+    another, primary resource.
+
+    #Regular-expressions
+    [[https://www.gnu.org/software/ed/manual/ed_manual.html#Regular-expressions][GNU 'ed' Manual]]

@@ -10603,3 +10603,12 @@ fluctuation
 
     "fluctuations in the yearly values could
     be caused by a variety of factors"
+
+precarity
+    The state of being precarious or
+    uncertain.
+    "the precarity of the housing market"
+
+    A state of persistent insecurity with
+    regard to employment or income.
+    "growing economic precarity"
