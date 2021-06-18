@@ -71,6 +71,8 @@ bag-of-words
 bag-of-words model
 BoW
 BoW model
+    https://ryanong.co.uk/2020/01/03/day-3-word-embeddings/
+
     A simplifying representation used in NLP
     and IR.
     
@@ -209,7 +211,7 @@ Stylometics
     to fine-art paintings as well.
 
     Examples:
-    - prevalance of adjectives,
+    - prevalence of adjectives,
     - subordinate clauses, and
     - compound sentences
 
@@ -453,8 +455,15 @@ word embedding
     - distributional word embeddings
     - contextualised word embeddings
 
+    3 popular types:
+    - Word2Vec (2013)
+    - GloVe (2014)
+    - FastText (2017)
+
 distributional word embeddings
 fixed Word Embeddings
+    https://ryanong.co.uk/2020/01/03/day-3-word-embeddings/
+
     Better than BoW.
 
     Each word has only one vector

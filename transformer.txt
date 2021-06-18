@@ -1,3 +1,8 @@
+https://huggingface.co/transformers/examples.html
+
+DistilBERT
+    https://huggingface.co/transformers/model_doc/distilbert.html
+
 Bi-Encoder
     https://www.sbert.net/examples/applications/cross-encoder/README.html
 

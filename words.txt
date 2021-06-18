@@ -10612,3 +10612,11 @@ precarity
     A state of persistent insecurity with
     regard to employment or income.
     "growing economic precarity"
+
+bereft
+    Deprived of or lacking (something).
+    "her room was stark and bereft of colour"
+
+    (of a person) sad and lonely, especially
+    through someone's death or departure.
+    "his death in 1990 left her bereft"
