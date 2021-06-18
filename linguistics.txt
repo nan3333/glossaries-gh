@@ -453,6 +453,8 @@ morphology
     and how they make up a language's
     vocabulary.
 
+inflectional morphology
+
 realization
     [#linguistics]
     
@@ -659,16 +661,6 @@ indicative mood
       an order. It's not a statement or a
       question.)
 
-inflected
-inflection
-    [linguistic morphology]
-
-    A process of word formation, in which a
-    word is modified to express different
-    grammatical categories such as tense,
-    case, voice, aspect, person, number,
-    gender, mood, animacy, and definiteness. 
-
 agglutinative language
     A type of synthetic language with
     morphology that primarily uses
@@ -770,3 +762,22 @@ nominal
     that in many languages nouns and
     adjectives share a number of morphological
     and syntactic properties
+
+inflected
+inflection
+    [linguistic morphology]
+
+    A process of word formation, in which a
+    word is modified to express different
+    grammatical categories such as tense,
+    case, voice, aspect, person, number,
+    gender, mood, animacy, and definiteness. 
+
+inflectional morphology
+    The study of processes, including
+    affixation and vowel change, that
+    distinguish word forms in certain
+    grammatical categories.
+
+    NLG: The study of how words change their
+    form to express different meanings.

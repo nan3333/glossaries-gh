@@ -11,6 +11,48 @@ subword
     Something in-between a word and a
     character.
 
+IE
+information extraction
+    https://web.stanford.edu/~jurafsky/slp3/17.pdf
+
+    Extracting limited kinds of semantic
+    content from text.
+
+    Turns the unstructured information
+    extraction information embedded in texts
+    into structured data, for example for
+    populating a relational database to enable
+    further processing.
+
+    Steps
+    -   Find the proper names or named
+        entities in a text.
+    -   The task of named entity recognition
+        (NER) is to find each named entity
+        recognition mention of a named entity
+        in the text and label its type.
+
+terminology extraction
+automatic keyphrase extraction
+keyphrase extraction
+    http://bdewilde.github.io/blog/2014/09/23/intro-to-automatic-keyphrase-extraction/
+
+    Extraction of important topical words and
+    phrases from documents.
+
+    Suffers from poor performance relative to
+    many other core NLP tasks, partly because
+    there’s no objectively “correct” set of
+    keyphrases for a given document.
+
+    Two steps
+    -   A set of words and phrases that could
+        convey the topical content of a
+        document are identified, then
+    -   these candidates are scored/ranked and
+        the “best” are selected as a
+        document’s keyphrases.
+
 Named entity recognition
 Named-entity recognition
 NER
@@ -455,10 +497,11 @@ word embedding
     - distributional word embeddings
     - contextualised word embeddings
 
-    3 popular types:
+    types:
     - Word2Vec (2013)
     - GloVe (2014)
     - FastText (2017)
+    - ELMo (2018)
 
 distributional word embeddings
 fixed Word Embeddings
@@ -482,8 +525,8 @@ contextualised word embeddings
     - ELMo
     - ...
 
-    Better than distributional word
-    embeddings.
+    Better than:
+    - distributional word embeddings.
 
     Distributional word embeddings means that
     each word has only one vector
@@ -1314,6 +1357,9 @@ morpheme
     The linguistics field of study dedicated
     to morphemes is called morphology.
 
+pretraining
+pretrained
+pre-training
 language model pretraining
 pretrained language model
 pre-training language representations
