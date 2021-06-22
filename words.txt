@@ -10742,3 +10742,7 @@ reciprocity
     countries"
 
     "reciprocity pact"
+
+virtuosity
+    NLG: The quality of having great technical
+    skill, especially in music.

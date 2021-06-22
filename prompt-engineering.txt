@@ -1,1 +1,4 @@
+prompt programming
+    [[calibre:Prompt Programming for Large Language Models]]
 
+    https://github.com/semiosis/examplary
