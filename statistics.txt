@@ -674,3 +674,9 @@ Support-vector Machines
     letters in handwriting.
 
     $HOME/notes2018/ws/codecraft/03.07.18.org
+
+uncontrolled clustering algorithm
+    NLG: An algorithm that groups points into
+    clusters by comparing the distance of each
+    point to the centroid of all points in the
+    cluster.

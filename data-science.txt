@@ -486,3 +486,8 @@ Covariance [coefficient/matrix]
     are positively related, while a negative
     covariance means the variables are
     inversely related.
+
+L2-norm penalty
+    NLG: A penalty that is based on the square
+    of the difference between the actual and
+    predicted value.
