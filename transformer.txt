@@ -231,3 +231,14 @@ positional encodings
 
     Position and order of words are the essential parts of any language. They define the grammar and thus the actual semantics
     of a sentence.
+
+soft prompt
+    [[calibre:The Power of Scale for Parameter-Efficient Prompt Tuning]]
+
+prompt tuning
+    [[calibre:The Power of Scale for Parameter-Efficient Prompt Tuning]]
+
+    A simple yet effective mechanism for
+    learning "soft prompts" to condition
+    frozen language models to perform specific
+    downstream tasks.

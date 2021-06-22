@@ -1,3 +1,22 @@
+ens
+ens.domains
+    NFT on ethereum that gives you a name.
+
+uniswap
+    A decentralized finance protocol that is
+    used to exchange cryptocurrencies.
+    
+    Uniswap is also the name of the company
+    that initially built the Uniswap protocol.
+    
+    The protocol facilitates automated
+    transactions between cryptocurrency tokens
+    on the Ethereum blockchain through the use
+    of smart contracts.
+
+    https://app.uniswap.org/#/swap
+    Select token to swap between.
+
 Layer 2 Rollup
     https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/
 
@@ -1056,3 +1075,25 @@ optimistic rollups
     written to the main Ethereum chain as
     calldata , optimising them further by
     reducing the gas cost.
+
+yield farming
+    Yield farming, also referred to as
+    liquidity mining, is a way to generate
+    rewards with cryptocurrency holdings.
+    
+    In simple terms, it means locking up
+    cryptocurrencies and getting rewards.
+    
+    In some sense, yield farming can be
+    paralleled with staking.
+
+yearn
+yearn finance
+    A suite of products in Decentralized
+    Finance (DeFi) that provides lending
+    aggregation, yield generation, and
+    insurance on the Ethereum blockchain.
+
+    The protocol is maintained by various
+    independent developers and is governed by
+    YFI holders.

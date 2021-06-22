@@ -2158,6 +2158,8 @@ fine-tuning
     "Retrain FastText model with our domain
     specific vocabulary."
 
+Classification
+Sequence Classification
 Text Classification
     Subtasks:
     - Automated Essay Scoring
@@ -2440,6 +2442,13 @@ self-attention
     other elements of the input they should
     attend to.
 
+self-attention layer
+    [#transformer]
+
+    A layer that helps the encoder look at
+    other words in the input sentence as it
+    encodes a specific word.
+
 seq2seq
 sequence-to-sequence
     Models that generate a new sequence from
@@ -2562,3 +2571,8 @@ statistical language model
     Given the true targets, we can then assess
     the quality of the LM by, for example,
     calculating the cross entropy.
+
+position encoding
+    [#transformer]
+
+    https://kazemnejad.com/blog/transformer_architecture_positional_encoding/

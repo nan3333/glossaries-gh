@@ -46,3 +46,63 @@ oubliette
 guff
     Trivial, worthless, or insolent talk or
     ideas.
+
+des céréales
+    NLG: (French) cereal.
+
+une pâtisserie industrielle
+    Mass-produced, prepackaged pastry.
+
+boulangerie
+    NLG: A bakery.
+
+un grille-pain
+    NLG: (French) a toaster.
+
+industrielle
+    NLG: of or relating to industry.
+
+d’hier
+    When talking about bread, it means a day
+    old.
+
+    NLG: (of a person or their behaviour) old-
+    fashioned, fussy, and/or prudish.
+
+du beurre
+    NLG: (French) under the butter.
+
+en tranches
+    NLG: A French word meaning "in slices" or
+    "in portions".
+
+beurre
+    NLG: (French) butter.
+
+un produit laitier
+    NLG: A dairy product.
+
+le goûter
+    A late afternoon snack.
+
+    NLG: (French) afternoon tea.
+
+confiture
+    Jam.
+
+de la confiture
+    NLG: French: "from the jam"
+
+des gâteaux
+    NLG: French for "of the cakes"
+
+café au lait
+    NLG: a coffee-coloured beverage made from
+    coffee and hot milk.
+
+café américain
+    Coffee served the typical American way -
+    less strong, and in a large mug.
+
+    NLG: A combination of coffee and hot milk
+    served with a small amount of hot water.

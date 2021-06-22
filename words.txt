@@ -86,9 +86,6 @@ prescient
 pertinent
     Here are the pertinent section of my init.el
 
-eschew
-    Deliberately avoid using; abstain from.
-
 zero-day
     Winzen said that it happened on Thursday
     night, a day after a PHP zero-day exploit
@@ -99,15 +96,19 @@ cursory
 
 bespoke
     Example:
-        We have bespoke libraries and often lots of them.
+        We have bespoke libraries and often
+        lots of them.
 
-    (of goods, especially clothing) made to order.
+    (of goods, especially clothing) made to
+    order.
         "a bespoke suit"
 
-    (of a trader) making bespoke items of clothing.
+    (of a trader) making bespoke items of
+    clothing.
         "the bespoke tailors of Savile Row"
 
-    (of a computer program) written or adapted for a specific user or purpose.
+    (of a computer program) written or adapted
+    for a specific user or purpose.
         "completely bespoke software systems"
 
 operatic
@@ -314,9 +315,6 @@ venial sin
 earnest
     Resulting from or showing sincere and
     intense conviction.
-
-abeyance
-    A state of temporary disuse or suspension.
 
 pedagogical
     Relating to teaching.
@@ -862,10 +860,6 @@ whirring
     (especially of a machine or a bird's
     wings) make a low, continuous, regular
     sound.
-
-confluence
-    The junction of two rivers, especially
-    rivers of approximately equal width.
 
 dissolution
     The closing down or dismissal of an
@@ -1417,8 +1411,14 @@ Posterior
     Examples:
     - posterior probability
 
-Kakorrhaphiophobia                                                                                                                  ▒
-    Get over the fear of failure.
+Kakorrhaphiophobia
+    An abnormal, persistent, irrational fear
+    of failure.
+    
+    In clinical cases, it's debilitating: the
+    fear of even the most subtle failure or
+    defeat is so intense that it restricts a
+    person from doing anything at all.
 
 anachronism
     A thing belonging or appropriate to a
@@ -5737,13 +5737,6 @@ trepidation
     A feeling of fear or anxiety about
     something that may happen.
 
-paucity
-    'poor-city'
-
-    The presence of something in only small or
-    insufficient quantities or amounts.
-    "a paucity of information"
-
 inexorably
 inexorable
     Impossible to stop or prevent.
@@ -6920,10 +6913,6 @@ remediation
     particular of reversing or stopping
     environmental damage.
 
-paucity
-    The presence of something in only small or
-    insufficient quantities or amounts.
-
 accretion
     Growth or increase by the gradual
     accumulation of additional layers or
@@ -7699,9 +7688,6 @@ shorten
     "the new law might abridge our freedom of
     expression"
 
-curtail
-    Place restrictions on.
-
 biopic
     A film dramatizing the life of a
     particular person, typically a public or
@@ -8130,10 +8116,6 @@ contemptible
     despicable may imply utter worthlessness
     and usually suggests arousing an attitude
     of moral indignation.
-
-craven
-    Lacking the least bit of courage :
-    contemptibly fainthearted
 
 categorically
     In a way that is unambiguously explicit
@@ -10620,3 +10602,128 @@ bereft
     (of a person) sad and lonely, especially
     through someone's death or departure.
     "his death in 1990 left her bereft"
+
+tryst
+    noun or verb
+
+    A private romantic rendezvous between
+    lovers.
+    "a moonlight tryst"
+
+dasein
+    A German word that means "being there" or
+    "presence" (German: da "there"; sein "to
+    be"), and is often translated into English
+    with the word "existence".
+    
+    It is a fundamental concept in the
+    existential philosophy of Martin
+    Heidegger.
+    
+    Heidegger uses the expression Dasein to
+    refer to the experience of being that is
+    peculiar to human beings.
+    
+    Thus it is a form of being that is aware
+    of and must confront such issues as
+    personhood, mortality and the dilemma or
+    paradox of living in relationship with
+    other humans while being ultimately alone
+    with oneself.
+
+milieu
+    A general, overarching attribute that
+    gives context to a physical location or
+    set of occurrences.
+    
+    Essentially, it describes the type of
+    environment in which things happen.
+    
+    A milieu is made up of people, emotions,
+    attitudes, and physical objects - really,
+    anything that is significant to a setting.n
+
+paucity
+    The presence of something in only small or
+    insufficient quantities or amounts;
+    scarcity.
+
+    "a paucity of information"
+
+    Said "poor-city".
+
+makeshift
+    Acting as an interim and temporary
+    measure.
+    "arranging a row of chairs to form a
+    makeshift bed"
+
+factory settings
+stock configuration
+    NLG: A standard range of features or
+    components that are fitted as standard to
+    a car model.
+
+indelible
+    (of ink or a pen) making marks that cannot
+    be removed.
+
+eschew
+    Deliberately avoid using; abstain from.
+
+    NLG: To avoid or shun. "he eschewed the
+    use of animal products"
+
+affable
+    Friendly, good-natured, or easy to talk
+    to.
+
+ingratiate
+    Bring oneself into favour with someone by
+    flattering or trying to please them.
+
+    "a sycophantic attempt to ingratiate
+    herself with the local aristocracy"
+
+abrogate
+    Repeal or do away with (a law, right, or
+    formal agreement).
+    "a proposal to abrogate temporarily the
+    right to strike"
+
+    Evade (a responsibility or duty).
+    "we believe the board is abrogating its
+    responsibilities to its shareholders"
+
+abeyance
+    A state of temporary disuse or suspension.
+
+    "matters were held in abeyance pending
+    further enquiries"
+
+curtail
+    Place restrictions on.
+
+    Reduce in extent or quantity; impose a
+    restriction on.
+    "civil liberties were further curtailed"
+
+    Deprive someone of (something).
+    "I that am curtailed of this fair
+    proportion"
+
+    "savagely curtailing"
+
+confluence
+    The junction of two rivers, especially
+    rivers of approximately equal width.
+
+    NLG: The flowing together of two or more
+    streams.
+
+craven
+    Contemptibly lacking in courage; cowardly.
+    "a craven abdication of his moral duty"
+
+    Lacking the least bit of courage :
+    contemptibly fainthearted

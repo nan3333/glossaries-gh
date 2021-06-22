@@ -1,5 +1,48 @@
+https://docs.ansible.com/ansible/latest/reference_appendices/glossary.html
+
+Fact
+    Facts are simply things that are
+    discovered about remote nodes.
+    
+    While they can be used in playbooks and
+    templates just like variables, facts are
+    things that are inferred, rather than set.
+    
+    Facts are automatically discovered by
+    Ansible when running plays by executing
+    the internal setup module on the remote
+    nodes.
+    
+    You never have to call the setup module
+    explicitly, it just runs, but it can be
+    disabled to save time if it is not needed
+    or you can tell ansible to collect only a
+    subset of the full facts via the
+    gather_subset: option.
+    
+    For the convenience of users who are
+    switching from other configuration
+    management systems, the fact module will
+    also pull in facts from the ohai and
+    facter tools if they are installed.
+    
+    These are fact libraries from Chef and
+    Puppet, respectively.
+    
+    (These may also be disabled via
+    gather_subset:)
+
 task
 role
+    It's like a package that you install but
+    gives the server a role.
+
+    Either/or:
+        ansible-galaxy search elasticsearch
+        ansible-galaxy role search elasticsearch --platforms Ubuntu
+
+    Then install it:
+        ansible-galaxy install 0x0i.elasticsearch
 
 Tower
 Red Hat Ansible Tower

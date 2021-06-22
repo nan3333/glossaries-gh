@@ -5,6 +5,9 @@ semantic search
     the intent and contextual meaning of the
     words a person is using for search.
 
+    For a given query sentence, find the most
+    similar sentence in the corpus.
+
 Dewey Decimal Classification
 Dewey Decimal System
     A proprietary library classification
@@ -152,6 +155,11 @@ text corpus
     testing, checking occurrences or
     validating linguistic rules within a
     specific language territory.
+
+    It might just be a list of sentences.
+
+    Example:
+        sp +/"corpus = \['A man is eating food.'," "$HOME/var/smulliga/source/git/UKPLab/sentence-transformers/examples/applications/semantic-search/semantic_search.py"
 
 full-text search
     [#text retrieval]

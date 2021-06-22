@@ -13,7 +13,14 @@ PCFG
     probabilities of the rules used to
     generate it.
 
-Probabilistic context free grammars are implemented by the PCFG class, which is defined in the nltk.cfg module. Like CFGs, each PCFG consists of a start state and a set of rules. But the rules are represented by PCFG_Rule, a subclass of CFG_Rule that associates a probability with a context free grammar rule.
+    Probabilistic context free grammars are
+    implemented by the PCFG class, which is
+    defined in the nltk.cfg module. Like CFGs,
+    each PCFG consists of a start state and a
+    set of rules. But the rules are
+    represented by PCFG_Rule, a subclass of
+    CFG_Rule that associates a probability
+    with a context free grammar rule.
 
 Parser generator
     Takes a grammar of your language and
