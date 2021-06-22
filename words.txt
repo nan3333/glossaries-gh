@@ -10746,3 +10746,7 @@ reciprocity
 virtuosity
     NLG: The quality of having great technical
     skill, especially in music.
+
+grassroots
+    The most basic level of an activity or
+    organization.
