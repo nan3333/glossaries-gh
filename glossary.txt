@@ -522,6 +522,24 @@ EKF
     which linearizes about an estimate of the
     current mean and covariance.
 
+weak learner
+    [#ensemble learning]
+
+    https://machinelearningmastery.com/strong-learners-vs-weak-learners-for-ensemble-learning/
+
+    Models that perform slightly better than
+    random guessing.
+
+    See "Boosting".
+
+strong learner
+    [#ensemble learning]
+
+    https://machinelearningmastery.com/strong-learners-vs-weak-learners-for-ensemble-learning/
+
+    Models that have arbitrarily good
+    accuracy.
+
 Boosting
     [[https://www.youtube.com/watch?v=JsmT2y-ZoLA][Boosting - YouTube]]
 
@@ -13417,6 +13435,10 @@ evidentialism
     not.
 
 blame game
+    NLG: A situation in which each person
+    involved tries to avoid taking
+    responsibility for something that has gone
+    wrong.
 
 touchstone
     A piece of fine-grained dark schist or

@@ -214,7 +214,7 @@ AlphaZero
     games to which Campbell alludes do not.
     
     Poker furnishes a good example of such
-    games of “imperfect” information: Players
+    games of imperfect information: Players
     can hold their cards close to their
     chests.
     
@@ -282,7 +282,7 @@ Bootstrap aggregating
 
     Involves creating multiple models of a
     single algorithm such as a decision tree,
-    each each trained on a different bootstrap
+    each trained on a different bootstrap
     sample of the data.
 
     Because bootstrapping involves sampling
@@ -337,6 +337,9 @@ Bootstrap aggregating
     vim +/"bagging" "$HOME/notes/ws/chenrong-lu/bagging.org"
 
 kernelised support vector machine
+    NLG: A type of ML algorithm which is a
+    kernelized version of the support vector
+    machine.
 
 random forest
 random decision forest
@@ -374,8 +377,13 @@ random decision forest
     The result is known as a random forest.
 
 random forest classifier
+    NLG: A type of ML algorithm that is based
+    on a collection of decision trees.
 
 random forest regressor
+    NLG: A regression tree-based ML algorithm
+    that is used for classification and
+    regression problems.
 
 ML
     Topics
