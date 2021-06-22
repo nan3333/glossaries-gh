@@ -1002,3 +1002,20 @@ bound
     Describes an identifier that has a
     binding.
     
+Pollen
+    #lang pollen
+
+    Pollen is a publishing system that helps
+    authors make functional and beautiful
+    digital books.
+
+lozenge
+    [#Pollen]
+
+    Pollen uses a special character — the
+    lozenge, which looks like this: ◊ — to
+    mark commands within a Pollen source file.
+    So when you put a ◊ in your source,
+    whatever comes next will be treated as a
+    command. If you don’t, it will just be
+    interpreted as plain text.
