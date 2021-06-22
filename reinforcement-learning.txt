@@ -381,3 +381,12 @@ TD learning
         are related to the temporal difference
         model of animal learning.
 
+conditioning
+    [#physiology]
+
+    A behavioral process whereby a response
+    becomes more frequent or more predictable
+    in a given environment as a result of
+    reinforcement, with reinforcement
+    typically being a stimulus or reward for a
+    desired response.

@@ -6258,11 +6258,6 @@ whimsical
     Playfully quaint or fanciful, especially
     in an appealing and amusing way.
 
-Ablation
-    Removal or destruction of material from an
-    object by vaporization, chipping, or other
-    erosive processes.
-
 eminently
     To a notable degree; very.
 
@@ -10727,3 +10722,23 @@ craven
 
     Lacking the least bit of courage :
     contemptibly fainthearted
+
+ablation
+    Removal or destruction of material from an
+    object by vaporization, chipping, or other
+    erosive processes.
+
+    NLG: The removal of part of a body by
+    cutting, burning, or other means.
+
+reciprocity
+    The practice of exchanging things with
+    others for mutual benefit, especially
+    privileges granted by one country or
+    organization to another.
+
+    "the Community intends to start
+    discussions on reciprocity with third
+    countries"
+
+    "reciprocity pact"

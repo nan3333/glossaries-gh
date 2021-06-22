@@ -223,8 +223,7 @@ attention head
 
     See "multi-head self-attention".
 
-
-positional encodings
+positional encoding
     [[https://ryanong.co.uk/2020/01/11/day-11-transformers-positioning-encoding-and-decoder/][Day 11 - Transformers: Positioning Encoding and Decoder - Ryan Ong]]
 
     ewwlinks +/"What is positional encoding" "https://kazemnejad.com/blog/transformer_architecture_positional_encoding/"
@@ -235,6 +234,12 @@ positional encodings
 soft prompt
     [[calibre:The Power of Scale for Parameter-Efficient Prompt Tuning]]
 
+    Unlike the discrete text prompts used by
+    GPT-3, soft prompts are learned through
+    back-propagation and can be tuned to
+    incorporate signal from any number of
+    labeled examples.
+
 prompt tuning
     [[calibre:The Power of Scale for Parameter-Efficient Prompt Tuning]]
 
@@ -242,3 +247,21 @@ prompt tuning
     learning "soft prompts" to condition
     frozen language models to perform specific
     downstream tasks.
+
+    A simplification of prefix tuning.
+
+prefix tuning
+    [[calibre:Prefix-Tuning: Optimizing Continuous Prompts for Generation]]
+
+signal
+    [[y:soft prompt]]
+
+T5
+Text-To-Text Transfer Transformer
+    https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html
+
+Colossal Clean Crawled Corpus
+C4
+    https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html
+
+    https://www.tensorflow.org/datasets/catalog/c4

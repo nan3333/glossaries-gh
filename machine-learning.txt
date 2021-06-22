@@ -90,8 +90,21 @@ nominal
         Categorical data that has an explicit
         ordering.
 
-Self-Supervised Learning
-    Autonomous supervised learning.
+supervised learning
+    NLG: The process of learning from data
+    with the guidance of a teacher or
+    supervisor.
+
+unsupervised learning
+    NLG: learning that is not supervised by a
+    teacher or tutor.
+
+semi-supervised learning
+    NLG: ML where some of the training data is
+    labelled, but not all of it.
+
+self-supervised learning
+Autonomous supervised learning
 
     It is a representation learning approach
     that eliminates the pre-requisite

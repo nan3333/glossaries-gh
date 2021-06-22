@@ -1,5 +1,13 @@
 prompt design
 prompt engineering
+priming
+    As smart as GPT-3 is, it still doesn't
+    excel at most tasks out of the box.
+    
+    It benefits greatly from seeing a few
+    examples, a process we like to refer to as
+    "priming".
+
     You have to pay attention to what model
     you’re creating it for.
     
@@ -57,17 +65,6 @@ davinci-instruct
     for the GPT-3 API here . 
 
     https://beta.openai.com/playground?model=davinci-instruct-beta
-
-Fine-tuning
-    [NLP]
-
-    https://www.gwern.net/GPT-3#finetuning
-
-    To help a language model like GPT-3
-    perform more specialized tasks you can
-    train it with additional data (like a
-    programming language, domain specific
-    terminology or special classifications.)
 
 Transformer
     Can be trained on stupendously large

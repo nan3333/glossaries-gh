@@ -1767,14 +1767,6 @@ GPT
     in a sequence of tokens in an unsupervised
     way.
 
-priming
-    As smart as GPT-3 is, it still doesn't
-    excel at most tasks out of the box.
-    
-    It benefits greatly from seeing a few
-    examples, a process we like to refer to as
-    "priming".
-
 Language modeling
     String words together appropriately in
     small, grammatically correct sentences
@@ -2149,7 +2141,10 @@ POS Tagging
     Assigning word types to tokens, like verb
     or noun.
 
+model-tuning
 fine-tuning
+    [#NLP]
+
     Take a pre-trained model and update the
     weights for the new domain; typically only
     retraining that few layers and/or using
@@ -2157,6 +2152,14 @@ fine-tuning
 
     "Retrain FastText model with our domain
     specific vocabulary."
+
+    https://www.gwern.net/GPT-3#finetuning
+
+    To help a language model like GPT-3
+    perform more specialized tasks you can
+    train it with additional data (like a
+    programming language, domain specific
+    terminology or special classifications.)
 
 Classification
 Sequence Classification
