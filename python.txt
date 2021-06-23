@@ -1025,3 +1025,6 @@ textpipe
     HTML tags and extracting metadata such as
     the number of words and named entities
     from the text.
+
+PIL
+    Python Imaging Library.

@@ -301,3 +301,22 @@ inverse laplace transform
     Laplace transform together have a number
     of properties that make them useful for
     analysing linear dynamical systems.
+
+Amenable group
+    [#mathematics]
+
+    A locally compact topological group G
+    carrying a kind of averaging operation on
+    bounded functions that is invariant under
+    translation by group elements.
+
+Topological group
+    [#mathematics]
+
+    Logically the combination of groups and
+    topological spaces, i.e. they are group
+    and topological spaces at the same time,
+    s.t. the continuity condition for the
+    group operations connect these two
+    structures together and consequently they
+    are not independent from each other.

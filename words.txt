@@ -10750,3 +10750,12 @@ virtuosity
 grassroots
     The most basic level of an activity or
     organization.
+
+purport
+    Appear to be or do something, especially
+    falsely.
+    "she is not the person she purports to be"
+
+seminal
+    Strongly influencing later developments.
+    "his seminal work on chaos theory"

@@ -21,6 +21,6 @@ Halle Berry neuron
 
     https://openai.com/blog/multimodal-neurons/
 
-Contrastive Language–Image Pre-training
+Contrastive Language-Image Pre-training
 CLIP
     https://towardsdatascience.com/generating-images-from-prompts-using-clip-and-stylegan-1f9ed495ddda
