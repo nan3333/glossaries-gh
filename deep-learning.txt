@@ -1732,6 +1732,14 @@ re-ID
     Finally, some important yet under-
     investigated open issues are discussed.
 
+mINP
+    [evaluation metric for person Re-ID]
+
+    Indicating the cost for finding all the
+    correct matches, which provides an
+    additional criteria to evaluate the Re-ID
+    system for real applications.
+
 multi-object tracking
 MOT
     Key components:
@@ -1761,3 +1769,17 @@ Contrastive loss
 
 Cossim Power
     Does it mean "Cosine Similarity"?
+
+differentiable programming
+    A programming paradigm in which a numeric
+    computer program can be differentiated
+    throughout via automatic differentiation.
+    
+    This allows for gradient based
+    optimization of parameters in the program,
+    often via GD.
+    
+    Differentiable programming has found use
+    in a wide variety of areas, particularly
+    scientific computing and artificial
+    intelligence.

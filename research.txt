@@ -1,3 +1,22 @@
+LaTeX2e
+    The current (23.06.21) version of latex.
+
+arXiv
+    An open-access repository of electronic
+    preprints and postprints (known as
+    e-prints) approved for posting after
+    moderation, but not peer review.
+
+BibTeX
+    Reference management software for
+    formatting lists of references. The BibTeX
+    tool is typically used together with the
+    LaTeX document preparation system. Within
+    the typesetting system, its name is styled
+    as the following: 
+
+        {\mathrm {B{\scriptstyle {IB}}\!T\!_{\displaystyle E}\!X} }
+
 empirical research
     Research using empirical evidence.
     

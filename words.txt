@@ -8048,10 +8048,6 @@ sanguine
 
     A blood-red colour.
 
-insipid
-    Lacking flavour; weak or tasteless.
-    "mugs of insipid coffee"
-
 vapid
     Offering nothing that is stimulating or
     challenging; bland.
@@ -10747,6 +10743,9 @@ virtuosity
     NLG: The quality of having great technical
     skill, especially in music.
 
+    NLG: The quality of being very skilful in
+    a particular activity.
+
 grassroots
     The most basic level of an activity or
     organization.
@@ -10759,3 +10758,16 @@ purport
 seminal
     Strongly influencing later developments.
     "his seminal work on chaos theory"
+
+insipid
+    Lacking flavour; weak or tasteless.
+    "mugs of insipid coffee"
+
+tantamount
+    Equivalent in seriousness to; virtually
+    the same as.
+
+    "the resignations were tantamount to an
+    admission of guilt"
+
+    "is tantamount to"
