@@ -1,3 +1,37 @@
+datomic
+    $NOTES/ws/datomic/factoids.org
+
+consintent read
+    https://youtu.be/9TYfcyvSpEQ?t=2156
+
+conditional put
+    https://youtu.be/9TYfcyvSpEQ?t=2156
+
+retract
+    [#tx]
+
+    https://youtu.be/9TYfcyvSpEQ?t=2156
+
+assert
+    [#tx]
+
+    https://youtu.be/9TYfcyvSpEQ?t=2156
+
+tx-data
+    - tx-fn(args...)
+    - assert
+    - retract
+
+    assertions and retractions are the atomic
+    units of transactions in an expansion
+    process.
+
+    https://youtu.be/9TYfcyvSpEQ?t=2400
+
+transaction function
+tx-fn
+    
+
 sorting
     This is how to organise things.
 
