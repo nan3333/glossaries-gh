@@ -2109,11 +2109,6 @@ intercessory prayer
     forms a distinct form of prayer, alongside
     Adoration, Confession and Thanksgiving.
 
-untenable
-    (especially of a position or view) not
-    able to be maintained or defended against
-    attack or objection.
-
 palantir
     A magical artifact from J. R. R. Tolkien's
     fantasy legendarium.
@@ -10802,3 +10797,42 @@ abate
     reduce or remove (a nuisance).
     "this action would not have been
     sufficient to abate the odour nuisance"
+
+putative
+    Generally considered or reputed to be.
+
+accrete
+    grow by accumulation or coalescence.
+    "ice that had accreted grotesquely into
+    stalactites"
+
+    form (a composite whole) by gradual
+    accumulation.
+    "the collection of art he had accreted was
+    to be sold"
+
+    (with reference to matter or a body) come
+    or bring together under the influence of
+    gravitation.
+    "the gas will cool and then accrete to the
+    galaxy's core"
+
+untenable
+    (especially of a position or view) not
+    able to be maintained or defended against
+    attack or objection.
+
+amortise
+    Gradually write off the initial cost of
+    (an asset) over a period.
+    "the vessel's owners could not amortize
+    her high capital costs"
+
+    Reduce or pay off (a debt) with regular
+    payments.
+    "eighty per cent of the proceeds has been
+    used to amortize the public debt"
+
+    Transfer (land) to a corporation in
+    mortmain.
+    "lands amortized without licence"

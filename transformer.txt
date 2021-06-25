@@ -1,5 +1,12 @@
 https://huggingface.co/transformers/examples.html
 
+Jax
+    JAX is Autograd and XLA, brought together
+    for high-performance machine learning
+    research.
+
+    https://github.com/google/jax
+
 DistilBERT
     https://huggingface.co/transformers/model_doc/distilbert.html
 

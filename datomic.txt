@@ -1,3 +1,28 @@
+sorting
+    This is how to organise things.
+
+fact
+    Facts have a time attribute.
+    This is also true in the Latin.
+
+    https://youtu.be/9TYfcyvSpEQ?t=1353
+
+composite collections
+    An entire database can become a value to
+    your program.
+
+    It can be as useful and reliable for the
+    basis of decision-making as an immutable
+    string is.
+
+value
+    https://youtu.be/9TYfcyvSpEQ?t=609
+
+    Something that could constitute the basis
+    for a decision making process.
+
+    A value never changes.
+
 time-travel
     [features of Datomic]
 
