@@ -2633,12 +2633,21 @@ attack planning
 
 
 author identification
+authorship identification
+    Identify authors from their writings.
 
+author name disambiguation
+    A type of disambiguation and record
+    linkage applied to the names of individual
+    people. The process could, for example,
+    distinguish individuals with the name
+    "John Smith".
 
 author recognition
 
 
 automated complexity analysis
+    https://arxiv.org/abs/1102.3129
 
 
 automated theorem proving
@@ -2660,7 +2669,31 @@ combinatory categorial grammar
 
 
 computational philology
+    http://martinweisser.org/publications/comp_phil.pdf
 
+    A newly emerging course of studies at
+    German universities.
+    
+    It combines aspects of ‘traditional’
+    teaching and research in Language and
+    Computing, Computer-Aided Language
+    Learning and multimedial presentation and
+    publishing of linguistic data.
+    
+    The following chapter will present an
+    overview as to which aspects of
+    information technology (IT) and
+    linguistics may be relevant in the design
+    of a course in Computational Philology,
+    and which problems may be expected in
+    teaching linguists about many aspects of
+    IT they may be somewhat unused to.
+    
+    The chapter is to a large extent based on
+    experiences from a course that has already
+    been taught at Chemnitz University of
+    Technology (TUC) in the summer semester
+    2005.
 
 concept extraction
 
@@ -2927,6 +2960,15 @@ satisfiability modulo theories
 
 
 semantic annotation
+    The process of tagging documents with
+    relevant concepts.
+    
+    The documents are enriched with metadata:
+    references that link the content to
+    concepts, described in a knowledge graph.
+    
+    This makes unstructured content easier to
+    find, interpret and reuse.
 
 
 semantic labelling
@@ -2997,10 +3039,82 @@ virtual agent
 
 virtual agents
 
+anaphora
+    The use of an expression whose
+    interpretation depends upon another
+    expression in context (its antecedent or
+    postcedent).
+    
+    In a narrower sense, anaphora is the use
+    of an expression that depends specifically
+    upon an antecedent expression and thus is
+    contrasted with cataphora, which is the
+    use of an expression that depends upon a
+    postcedent expression.
+    
+    The anaphoric (referring) term is called
+    an anaphor.
+    
+    For example, in the sentence Sally
+    arrived, but nobody saw her, the pronoun
+    her is an anaphor, referring back to the
+    antecedent Sally.
+
+anaphora resolution
+    There are many theories that attempt to
+    prove how anaphors are related and trace
+    back to their antecedents, with centering
+    theory (Grosz, Joshi, and Weinstein 1983)
+    being one of them.
+    
+    Taking the computational theory of mind
+    view of language, centering theory gives a
+    computational analysis of underlying
+    antecedents.
+    
+    In their original theory, Grosz, Joshi, &
+    Weinstein (1983) propose that some
+    discourse entities in utterances are more
+    "central" than others, and this degree of
+    centrality imposes constraints on what can
+    be the antecedent.
+
+    In the theory, there are different types
+    of centers: forward facing, backwards
+    facing, and preferred.
+
+    Forward facing centers
+        A ranked list of discourse entities in
+        an utterance. The ranking is debated,
+        some focusing on theta relations
+        (Yıldırım et al. 2004) and some
+        providing definitive lists.
+
+    Backwards facing center
+        The highest ranked discourse entity in the previous utterance.
+
+    Preferred center
+        The highest ranked discourse entity in
+        the previous utterance realised in the
+        current utterance.
 
 word sense disambiguation
-
+word-sense disambiguation
+WSD
+    An open problem in computational
+    linguistics concerned with identifying
+    which sense of a word is used in a
+    sentence.
+    
+    The solution to this issue impacts other
+    computer-related writing, such as
+    discourse, improving relevance of search
+    engines, anaphora resolution, coherence,
+    and inference.
 
 word sense induction
-
-
+word-sense induction
+discrimination
+    An open problem of NLP, which concerns
+    the automatic identification of the
+    senses of a word.
