@@ -2579,3 +2579,428 @@ position encoding
     [#transformer]
 
     https://kazemnejad.com/blog/transformer_architecture_positional_encoding/
+    
+activity recognition
+    NLG: The ability for a computer to
+    recognize what a user is doing, such as
+    typing on a keyboard, moving the mouse,
+    etc.
+
+adversarial planner
+    [#game theory]
+
+    https://arxiv.org/pdf/1601.06108
+
+adversarial planning
+    [#game theory]
+
+    https://arxiv.org/pdf/1601.06108
+
+agent communication language
+    Proposed by the Foundation for Intelligent
+    Physical Agents, is a proposed standard
+    language for agent communications.
+    
+    Knowledge Query and Manipulation Language
+    is another proposed standard.
+
+anomaly
+anomaly detection
+    [#data mining]
+
+    Referred to the identification of items or
+    events that do not conform to an expected
+    pattern or to other items present in a
+    dataset.
+    
+    Typically, these anomalous items have the
+    potential of getting translated into some
+    kind of problems such as structural
+    defects, errors or frauds.
+
+argument mining
+    [#NLP]
+
+    The goal of argument mining is the
+    automatic extraction and identification of
+    argumentative structures from NL text with
+    the aid of computer programs.
+
+argumentation
+
+
+attack planning
+
+
+author identification
+
+
+author recognition
+
+
+automated complexity analysis
+
+
+automated theorem proving
+
+
+automatic subject classification
+
+
+automatic text annotation
+
+
+c4isr
+
+
+causal relation extraction
+
+
+combinatory categorial grammar
+
+
+computational philology
+
+
+concept extraction
+
+
+conditional planning
+
+
+conll
+
+
+content analysis
+
+
+content filtering
+
+
+controlled english to logic translation
+
+
+corporate memory
+
+
+cough recognition
+
+
+coughing recognition
+
+
+data privacy lab
+
+
+data scrubber
+
+
+deep learning
+
+
+definition extraction
+
+
+definitional question answering
+
+
+deidentification
+
+
+dialog act recognition
+
+
+discourse parsing
+
+
+document structure analysis
+
+
+dynamic epistemic logic
+
+
+email classification
+
+
+emotion detection
+
+
+emotion detection from audio
+
+
+entity classification
+
+
+entity recognition
+
+
+entity resolution
+
+
+event extraction
+
+
+example-based machine translation
+
+
+facebook client
+
+
+fact extraction
+
+
+general game playing
+
+
+general video game playing
+
+
+grammar correction
+
+
+grammar induction
+
+
+grammar learning
+
+
+grammatical inference
+
+
+hypothesis generation
+
+
+inductive logic programming
+
+
+inductive programming
+
+
+intelligent agent
+
+
+intelligent software agent
+
+
+intent analysis
+
+
+intention extraction
+
+
+iso 24617-2
+
+
+kbc
+
+
+kbp
+
+
+knowledge-based machine translation
+
+
+knowledge base acceleration
+
+
+knowledge discovery
+
+
+link detection
+
+
+machine reading
+
+
+machine translation
+
+
+mathematical knowledge management
+
+
+medical device access
+
+
+multiagent planning
+
+
+name resolution
+
+
+named entity classification
+
+
+named entity recognition
+
+
+natural language understanding
+
+
+neural network text
+
+
+news filtering
+
+
+object recognition
+
+
+ontology learning
+
+
+paragraph splitter
+
+
+pattern mining
+
+
+pddl
+
+
+penn treebank tagger
+
+
+philology
+
+
+plan recognition
+
+
+planning
+
+
+practical reasoning
+
+
+prediction market
+
+
+program understanding
+
+
+prolog
+
+
+prolog machine translation
+
+
+prolog translation memory
+
+
+psychoanalysis
+
+
+puccini planner
+
+
+question answering
+
+
+quote extraction
+
+
+recognizing textual entailment
+
+
+recommendation engine
+
+
+recommender system
+
+
+record linkage
+
+
+relation extraction
+
+
+resume analysis
+
+
+resume information extraction
+
+
+rule-based machine translation
+
+
+satisfiability modulo theories
+
+
+semantic annotation
+
+
+semantic labelling
+
+
+semantic markup
+
+
+semantic role labelling
+
+
+semantic text annotation
+
+
+softbot
+
+
+software agent
+
+
+statistical trend detection
+
+
+story generation
+
+
+story writing software
+
+
+streaming text clustering
+
+
+teamcore
+
+
+text analysis
+
+
+text clustering
+
+
+text extraction
+
+
+text mining
+
+
+text summarization
+
+
+time management add adhd
+
+
+topic detection and tracking
+
+
+topic gisting
+
+
+translation memory
+
+
+trend detection
+
+
+virtual agent
+
+
+virtual agents
+
+
+word sense disambiguation
+
+
+word sense induction
+
+

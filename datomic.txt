@@ -1,5 +1,35 @@
+entity
+    Feels like maps, but they're actually
+    more like multimaps.
+
+    Reverse attributes - inverted index.
+    Can get keys from values.
+
+Guava
+    Google's Java Library.
+
+    https://github.com/google/guava
+
+multimap
+    A Multimap is a new collection type that
+    is found in Google's Guava library for
+    Java.
+    
+    A Multimap can store more than one value
+    against a key.
+    
+    Both the keys and the values are stored in
+    a collection
+
 datomic
     $NOTES/ws/datomic/factoids.org
+
+perception
+    Obtain a queue of transactions.
+    - not just your own.
+
+    Query transformations for
+    filtering/triggering.
 
 consintent read
     https://youtu.be/9TYfcyvSpEQ?t=2156
@@ -17,7 +47,22 @@ assert
 
     https://youtu.be/9TYfcyvSpEQ?t=2156
 
+transaction
+    Transactions happen on the transactor in
+    serial.
+
+    But you parallelise it by pipelining the
+    architecture.
+
+    https://youtu.be/7Fi-UvrRpyI?t=2270
+
+HornetQ
+    An open-source asynchronous messaging
+    project from JBoss. It is an example of
+    Message-oriented middleware.
+
 tx-data
+transaction data
     - tx-fn(args...)
     - assert
     - retract
@@ -30,14 +75,29 @@ tx-data
 
 transaction function
 tx-fn
-    
+    (f db & args) -> tx-data
+
+    Send it to the database and it runs there
+    using values.
+
+    A function of the 'value of the database'
+    and some arguments and it produces other
+    tx-data.
+
+    Because tx-fn can return a tx-data, it can
+    recall other assertions, retractions and
+    maybe other tx-fn.
 
 sorting
     This is how to organise things.
 
 fact
-    Facts have a time attribute.
-    This is also true in the Latin.
+    Facts have a time attribute (actually, a
+    transaction ID, because the transaction is
+    given the timestamp).
+
+    This is also true in the Latin definition
+    for fact -- it has a time.
 
     https://youtu.be/9TYfcyvSpEQ?t=1353
 
@@ -70,6 +130,10 @@ transactor
     [server]
 
     https://docs.datomic.com/on-prem/getting-started/dev-setup.html
+
+    Accepts transactions.
+
+    Periodic indexing in the background.
 
 transactor properties file
     Config file for a transactor.

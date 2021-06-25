@@ -869,3 +869,61 @@ Huygens–Fresnel principle
     of wave propagation both in the far-field
     limit and in near-field diffraction and
     also reflection.
+
+Zone plate
+    [#laria]
+
+    A zone plate is a device used to focus
+    light or other things exhibiting wave
+    character.
+    
+    Unlike lenses or curved mirrors, zone
+    plates use diffraction instead of
+    refraction or reflection.
+    
+    Based on analysis by French physicist
+    Augustin-Jean Fresnel, they are sometimes
+    called Fresnel zone plates in his honor.
+
+Faraday cage
+Faraday shield
+    An enclosure used to block electromagnetic
+    fields.
+    
+    A Faraday shield may be formed by a
+    continuous covering of conductive
+    material, or in the case of a Faraday
+    cage, by a mesh of such materials.
+    
+    Faraday cages are named after scientist
+    Michael Faraday, who invented them in
+    1836.
+    
+    Video of a Faraday cage shielding a man
+    from electricity
+    
+    A Faraday cage operates because an
+    external electrical field causes the
+    electric charges within the cage's
+    conducting material to be distributed so
+    that they cancel the field's effect in the
+    cage's interior.
+    
+    This phenomenon is used to protect
+    sensitive electronic equipment (for
+    example RF receivers) from external radio
+    frequency interference (RFI) often during
+    testing or alignment of the device.
+    
+    They are also used to protect people and
+    equipment against actual electric currents
+    such as lightning strikes and
+    electrostatic discharges, since the
+    enclosing cage conducts current around the
+    outside of the enclosed space and none
+    passes through the interior.
+    
+    Faraday cages cannot block stable or
+    slowly varying magnetic fields, such as
+    the Earth's magnetic field (a compass will
+    still work inside).

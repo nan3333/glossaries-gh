@@ -10836,3 +10836,9 @@ amortise
     Transfer (land) to a corporation in
     mortmain.
     "lands amortized without licence"
+
+reify
+    Make (something abstract) more concrete or
+    real.
+    "these instincts are, in man, reified as
+    verbal constructs"

@@ -13343,16 +13343,3 @@ schist
     Most schists are mica schists, but
     graphite and chlorite schists are also
     common.
-
-Zone plate
-    A zone plate is a device used to focus
-    light or other things exhibiting wave
-    character.
-    
-    Unlike lenses or curved mirrors, zone
-    plates use diffraction instead of
-    refraction or reflection.
-    
-    Based on analysis by French physicist
-    Augustin-Jean Fresnel, they are sometimes
-    called Fresnel zone plates in his honor.

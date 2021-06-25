@@ -1,3 +1,16 @@
+keyword
+    Always maps to itself.
+
+    Very useful for keys in maps because they
+    print and read as themselves, and they
+    evaluate very quickly.
+
+nil
+    nil is the Java Null.
+
+    When you get a Null back from Java, it's
+    going to say nil.
+
 ^:private
     https://stackoverflow.com/a/20443693
 
@@ -25,7 +38,7 @@ ring
     Defines a common interface for expressing
     web applications.           
 
-    http://webcache.googleusercontent.com/search?q=cache:https://medium.com/@daniel.oliver.king/getting-real-work-done-in-clojure-application-development-683c8129a313
+    https://medium.com/@daniel.oliver.king/getting-real-work-done-in-clojure-application-development-683c8129a313
 
 compojure
     [Clojure library]
@@ -34,7 +47,7 @@ compojure
     allows web applications to be composed of
     small, independent parts.
 
-    http://webcache.googleusercontent.com/search?q=cache:https://medium.com/@daniel.oliver.king/getting-real-work-done-in-clojure-application-development-683c8129a313
+    https://medium.com/@daniel.oliver.king/getting-real-work-done-in-clojure-application-development-683c8129a313
 
 ring/ring-json
     [Clojure library]
@@ -42,7 +55,7 @@ ring/ring-json
     Standard Ring middleware functions for
     handling JSON requests and responses.
 
-    http://webcache.googleusercontent.com/search?q=cache:https://medium.com/@daniel.oliver.king/getting-real-work-done-in-clojure-application-development-683c8129a313
+    https://medium.com/@daniel.oliver.king/getting-real-work-done-in-clojure-application-development-683c8129a313
 
 ragtime
     [Clojure library]
@@ -53,7 +66,7 @@ ragtime
     It defines a common interface for
     expressing migrations.
 
-    http://webcache.googleusercontent.com/search?q=cache:https://medium.com/@daniel.oliver.king/getting-real-work-done-in-clojure-application-development-683c8129a313
+    https://medium.com/@daniel.oliver.king/getting-real-work-done-in-clojure-application-development-683c8129a313
 
 nREPL
 network REPL
@@ -337,7 +350,7 @@ expect
 Proto
     This is a REPL for Atom.
 
-    http://webcache.googleusercontent.com/search?q=cache:https://medium.com/@daniel.oliver.king/a-clojure-development-environment-that-gets-out-of-your-way-c11e6711ead3
+    https://medium.com/@daniel.oliver.king/a-clojure-development-environment-that-gets-out-of-your-way-c11e6711ead3
 
 ns
     The namespace must match the name of the
