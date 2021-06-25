@@ -10771,3 +10771,34 @@ tantamount
     admission of guilt"
 
     "is tantamount to"
+
+mandate
+    In politics, a mandate is the authority
+    granted by a constituency to act as its
+    representative.
+    
+    The concept of a government having a
+    legitimate mandate to govern via the fair
+    winning of a democratic election is a
+    central idea of representative democracy.
+
+consequential
+    Following as a result or effect.
+    "a loss of confidence and a consequential
+    withdrawal of funds"
+
+    Important; significant.
+    "the new congress lacked consequential
+    leaders"
+
+abate
+    (of something unpleasant or severe) become
+    less intense or widespread.
+    "the storm suddenly abated"
+
+    make (something) less intense.
+    "nothing abated his crusading zeal"
+
+    reduce or remove (a nuisance).
+    "this action would not have been
+    sufficient to abate the odour nuisance"

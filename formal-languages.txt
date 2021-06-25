@@ -316,7 +316,7 @@ attribute grammar
     anywhere else, in a controlled and formal
     way.
 
-Backus–Naur form
+Backus-Naur form
 Backus normal form
 BNF
     [notation technique]
