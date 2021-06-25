@@ -1,1 +1,8 @@
 https://matt.might.net/articles/grammars-bnf-ebnf/
+
+::=
+    [#BNF]
+
+    Means:
+    - May expand into, or
+    - May be replaced with.
