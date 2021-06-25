@@ -18,3 +18,11 @@ fragment identifier
 
     #Regular-expressions
     [[https://www.gnu.org/software/ed/manual/ed_manual.html#Regular-expressions][GNU 'ed' Manual]]
+
+apex
+    The top or highest part of something,
+    especially one forming a point.
+
+apex domain
+    Example:
+    - example.com
