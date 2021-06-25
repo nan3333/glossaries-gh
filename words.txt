@@ -10842,3 +10842,17 @@ reify
     real.
     "these instincts are, in man, reified as
     verbal constructs"
+
+sensibility
+sensibilities
+    The quality of being able to appreciate
+    and respond to complex emotional or
+    aesthetic influences; sensitivity.
+    "the study of literature leads to a growth
+    of intelligence and sensibility"
+
+    A quality of delicate sensitivity that
+    makes one liable to be offended or
+    shocked.
+    "the scale of the poverty revealed by the
+    survey shocked people's sensibilities"
