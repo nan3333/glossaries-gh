@@ -212,3 +212,10 @@ table
 
     Contrast this with an RDBMS which groups
     columns with the concept of a table.
+
+assertion
+    Adds a single atomic fact to Datomic.
+    Assertions are represented by ordinary
+    data structures (lists or maps).
+
+    https://docs.datomic.com/on-prem/tutorial/assertion.html

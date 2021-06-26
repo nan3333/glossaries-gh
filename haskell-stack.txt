@@ -1,4 +1,6 @@
 package.yaml
+    [#cabal]
+
     A file format supported by hpack.
     
     It adds some niceties on top of cabal.
