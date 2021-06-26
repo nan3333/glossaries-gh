@@ -7685,16 +7685,6 @@ Maxwell's equations
     propose that light is an electromagnetic
     phenomenon.
 
-Gödel machine
-    Theoretical self-improving computer
-    program that solves problems in an optimal
-    way.
-
-    Uses a recursive self-improvement protocol
-    in which it rewrites its own code when it
-    can prove the new code provides a better
-    strategy.
-
 variate
     random variable, variate, variant,
     stochastic variable, chance variable

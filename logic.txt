@@ -1,3 +1,16 @@
+Lemma
+    [#Mathematics]
+    [#informal logic]
+    [#argument mapping]
+
+    A lemma is a generally minor, proven
+    proposition which is used as a stepping
+    stone to a larger result.
+
+    For that reason, it is also known as a
+    "helping theorem" or an "auxiliary
+    theorem".
+
 interpretability
     A relation between formal theories that
     expresses the possibility of interpreting
