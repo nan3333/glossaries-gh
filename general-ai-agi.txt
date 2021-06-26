@@ -1,3 +1,29 @@
+Self-reference
+    Occurs in natural or formal languages when
+    a sentence, idea or formula refers to
+    itself.
+    
+    The reference may be expressed either
+    directly—through some intermediate
+    sentence or formula—or by means of some
+    encoding.
+    
+    In philosophy, it also refers to the
+    ability of a subject to speak of or refer
+    to itself, that is, to have the kind of
+    thought expressed by the first person
+    nominative singular pronoun "I" in
+    English.
+    
+    Self-reference is studied and has
+    applications in mathematics, philosophy,
+    computer programming, and linguistics, as
+    well as in humor.
+    
+    Self-referential statements are sometimes
+    paradoxical, and can also be considered
+    recursive.
+
 Deep Symbolic Network
 DSN
     [#general AI]
