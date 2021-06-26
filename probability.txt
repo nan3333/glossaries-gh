@@ -1,3 +1,52 @@
+statistical parameter
+population parameter
+    A quantity entering into the probability
+    distribution of a statistic or a random
+    variable.
+
+    It can be regarded as a numerical
+    characteristic of a statistical population
+    or a statistical model.
+
+    Suppose that we have an indexed family of
+    distributions.
+
+    If the index is also a parameter of the
+    members of the family, then the family is
+    a parameterized family.
+
+    For example, the family of chi-squared
+    distributions can be indexed by the number
+    of degrees of freedom: the number of
+    degrees of freedom is a parameter for the
+    distributions, and so the family is
+    thereby parameterized.
+
+variate
+    Random variable, variate, variant,
+    stochastic variable, chance variable
+
+    A variable quantity that is random.
+
+discrete variable
+    A variable that can only take on a certain
+    number of values.
+
+    In other words, they don't have an
+    infinite number of values.
+
+    If you can count a set of items, then it's
+    a discrete variable.
+
+    The opposite of a discrete variable is a
+    continuous variable.
+
+probability distribution
+    A function of a discrete variable whose
+    integral over any interval is the
+    probability that the variate specified by
+    it will lie within that interval.
+
 prior
 prior probability of an event
     The probability of the event computed

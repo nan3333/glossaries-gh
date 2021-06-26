@@ -1,5 +1,62 @@
 https://github.com/mullikine/weightagnostic.github.io/blob/master/draft.md
 
+Boltzmann machine
+stochastic Hopfield network with hidden units
+    [stochastic RNN]
+    [Markov random field]
+
+    Can be seen as the stochastic, generative
+    counterpart of Hopfield networks. They
+    were one of the first neural networks
+    capable of learning internal
+    representations, and are able to represent
+    and (given sufficient time) solve
+    difficult combinatoric problems.
+
+RBM
+restricted Boltzmann machine
+    [generative stochastic ANN]
+
+    Can learn a probability distribution over
+    its set of inputs.
+
+    Rose to prominence after Geoffrey Hinton
+    and collaborators invented fast learning
+    algorithms for them in the mid-2000.
+
+    RBMs have found applications in:
+    - dimensionality reduction
+    - classification
+    - collaborative filtering
+    - feature learning
+    - topic modeling
+    - many body quantum mechanics
+
+    Can be trained in either supervised or
+    unsupervised ways, depending on the task.
+
+    A variant of Boltzmann machines, with the
+    restriction that their neurons must form a
+    bipartite graph.
+
+    By contrast, "unrestricted" Boltzmann
+    machines may have connections between
+    hidden units.
+
+    This restriction allows for more efficient
+    training algorithms than are available for
+    the general class of Boltzmann machines,
+    in particular the gradient-based
+    contrastive divergence algorithm.
+
+    Can also be used in deep learning
+    networks:
+    - deep belief networks can be formed by
+      "stacking" RBMs and optionally
+      fine-tuning the resulting deep network
+      with gradient descent and
+      backpropagation.
+
 deep-belief network
     https://skymind.ai/wiki/deep-belief-network
 

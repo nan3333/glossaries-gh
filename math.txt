@@ -1,3 +1,6 @@
+Fourier
+    Said "four-ee-ay".
+
 surreal numbers
     [[https://www.youtube.com/watch?v=mPn2AdMH7UQ][Surreal Numbers {writing the first book} - Numberphile - YouTube]]
 
