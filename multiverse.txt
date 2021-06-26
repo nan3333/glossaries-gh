@@ -1,5 +1,8 @@
 [[calibre:Multiversal views on language models]]
 
+Loom Space
+    https://github.com/knc-neural-calculus/loom
+
 continuation
     NLG: A continuation of a story or
     narrative.
