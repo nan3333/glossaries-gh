@@ -1,7 +1,31 @@
+isomorphic
 isomorphism
+    [retaining structure bijective]
+
+    One morphism and another morphism, so that
+    the recombination of the two is an
+    identity morphism.
+
     It indicates a structure preserving map
     between two sets containing the same
     number of elements.
+
+diffeomorphism
+    [mathematics]
+
+    An isomorphism of smooth manifolds.
+
+    It is an invertible function that maps one
+    differentiable manifold to another such
+    that both the function and its inverse are
+    smooth.
+
+binomial distribution
+    Only 2 possible outcomes on any one
+    individual trial; typically,
+    - success
+    - failure
+
 
 homomorphism
     Like an isomorphism but instead is when

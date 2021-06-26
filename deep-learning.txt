@@ -1,5 +1,40 @@
 https://github.com/mullikine/weightagnostic.github.io/blob/master/draft.md
 
+deep-belief network
+    https://skymind.ai/wiki/deep-belief-network
+
+    A stack of restricted Boltzmann machines,
+    in which each RBM layer communicates with
+    both the previous and subsequent layers.
+
+    The nodes of any single layer don’t
+    communicate with each other laterally.
+
+    Used to recognize, cluster and generate
+    images, video sequences and motion-capture
+    data.
+
+Artificial Neural Network
+ANN
+    Pros
+    - Can perform tasks in which a linear
+      program cannot perform.
+    - Robust to partial failure.
+    - Does not need to be reprogrammed as it
+      learns itself.
+    - Can be implemented in an easy way
+      without any problem.
+    - Excel at solving complex problems.
+
+    Cons
+    - Requires training.
+    - May requires high processing time for
+      larger networks.
+    - The architecture is different from the
+      architecture and history of
+      microprocessors so they have to be
+      emulated.
+
 saliency map
     [#computer vision]
 

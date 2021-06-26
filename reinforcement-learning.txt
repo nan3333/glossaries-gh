@@ -1,3 +1,30 @@
+likelihood function
+likelihood
+    The joint probability distribution of
+    observed data considered as a function of
+    statistical parameters.
+
+    It describes the relative probability or
+    odds of obtaining the observed data for
+    all permissible values of the parameters,
+    and is used to identify the particular
+    parameter values that are most plausible
+    given the observed data.
+
+log-likelihood
+    The natural logarithm of the likelihood.
+
+    https://www.statlect.com/glossary/log-likelihood
+
+return
+cumulative reward
+    An agent's cumulative reward.
+
+reward
+reward signal
+    A number that tells it how good or bad the
+    current world state is.
+
 Deep reinforcement learning
 DRL
     Uses DL and RL principles in order to

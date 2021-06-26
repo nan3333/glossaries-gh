@@ -7812,104 +7812,8 @@ restricted Boltzmann machine
       with gradient descent and
       backpropagation.
 
-deep-belief network
-    https://skymind.ai/wiki/deep-belief-network
-
-    A stack of restricted Boltzmann machines,
-    in which each RBM layer communicates with
-    both the previous and subsequent layers.
-
-    The nodes of any single layer don’t
-    communicate with each other laterally.
-
-    Used to recognize, cluster and generate
-    images, video sequences and motion-capture
-    data.
-
-Quantum jump
-    Atomic electron transition or a similar
-    transition between quantum states, which
-    is a scientific phenomenon.
-
-    Apparently they're not instantaneous:
-        https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/
-
-Quantum jump method
-MCWF method
-Monte Carlo wave function method
-    [#computational physics]
-    [technique]
-
-    Used for simulating open quantum systems.
-
-    Example:
-        Approximate the density matrix of a
-        two-level atom undergoing damped Rabi
-        oscillations.
-
-real analysis
-    [branch of mathematical analysis]
-
-    Studies the behavior of real numbers,
-    sequences and series of real numbers, and
-    real-valued functions.
-
-Artificial Neural Network
-ANN
-    Pros
-    - Can perform tasks in which a linear
-      program cannot perform.
-    - Robust to partial failure.
-    - Does not need to be reprogrammed as it
-      learns itself.
-    - Can be implemented in an easy way
-      without any problem.
-    - Excel at solving complex problems.
-
-    Cons
-    - Requires training.
-    - May requires high processing time for
-      larger networks.
-    - The architecture is different from the
-      architecture and history of
-      microprocessors so they have to be
-      emulated.
-
 Fourier
     Said "four-ee-ay".
-
-genetic algorithm
-    When you're solving a problem, how do you
-    know if the answer you've found is
-    correct?
-
-    A specific approach to optimization
-    problems that can estimate known solutions
-    and simulate evolutionary behavior in
-    complex systems.
-
-    In many domains, there is a single correct
-    answer.
-
-    A mathematical function may have a global
-    maximum or other well-defined attributes.
-
-    However, other problems, like how a cell
-    behaves in a petri dish, do not have clear
-    solutions.
-
-    Enter evolution, which does not design
-    towards a known solution but optimizes
-    around constraints.
-
-        digraph g{
-            "Initialize population" -> "Fitness function"
-            "Fitness function" -> Selection
-            Selection -> Reproduction
-            Reproduction -> Terminations
-            Reproduction -> "While Not Termination Condition"
-            "While Not Termination Condition" -> "Fitness function"
-        }
 
 statistical parameter
 population parameter
@@ -7934,48 +7838,6 @@ population parameter
     degrees of freedom is a parameter for the
     distributions, and so the family is
     thereby parameterized.
-
-likelihood function
-likelihood
-    The joint probability distribution of
-    observed data considered as a function of
-    statistical parameters.
-
-    It describes the relative probability or
-    odds of obtaining the observed data for
-    all permissible values of the parameters,
-    and is used to identify the particular
-    parameter values that are most plausible
-    given the observed data.
-
-log-likelihood
-    The natural logarithm of the likelihood.
-
-    https://www.statlect.com/glossary/log-likelihood
-
-isomorphic
-isomorphism
-    [retaining structure bijective]
-
-    One morphism and another morphism, so that
-    the recombination of the two is an
-    identity morphism.
-
-diffeomorphism
-    [mathematics]
-
-    An isomorphism of smooth manifolds.
-
-    It is an invertible function that maps one
-    differentiable manifold to another such
-    that both the function and its inverse are
-    smooth.
-
-binomial distribution
-    Only 2 possible outcomes on any one
-    individual trial; typically,
-    - success
-    - failure
 
 outcomes
     Questions to ask about outcomes:
