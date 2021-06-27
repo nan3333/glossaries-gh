@@ -156,6 +156,16 @@ value
 
     A value never changes.
 
+    https://youtu.be/9TYfcyvSpEQ?t=1090
+
+    An accretion of facts.
+
+    It satisfies many of the requirements of a
+    value (i.e. it looks the same) but it
+    grows in that it has more than one view.
+
+accretion
+
 time-travel
     [features of Datomic]
 
