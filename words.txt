@@ -10856,3 +10856,7 @@ sensibilities
     shocked.
     "the scale of the poverty revealed by the
     survey shocked people's sensibilities"
+
+interstice
+    An intervening space, especially a very
+    small one.

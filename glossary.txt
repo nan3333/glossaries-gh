@@ -5385,7 +5385,7 @@ progress last 2 years
     can train models more efficiently
     more variants of models
 
-bleu score
+BLEU score
     perfect match = 1.0
     perfect mismatch = 0.0
 

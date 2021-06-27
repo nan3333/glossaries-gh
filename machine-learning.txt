@@ -103,9 +103,9 @@ semi-supervised learning
     NLG: ML where some of the training data is
     labelled, but not all of it.
 
+self-supervision
 self-supervised learning
 Autonomous supervised learning
-
     It is a representation learning approach
     that eliminates the pre-requisite
     requiring humans to label data.

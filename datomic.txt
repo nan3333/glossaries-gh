@@ -1,3 +1,42 @@
+persistent data structure
+    A data structure that always preserves the
+    previous version of itself when it is
+    modified.
+    
+    They can be considered as ‘immutable’ as
+    updates are not in-place.
+    
+    A data structure is partially persistent
+    if all versions can be accessed but only
+    the newest version can be modified.
+    
+    Fully persistent if every version can be
+    both accessed and modified.
+    
+    Confluently persistent is when we merge
+    two or more versions to get a new version.
+    
+    This induces a DAG on the version graph.
+
+structural sharing
+    https://youtu.be/9TYfcyvSpEQ?t=832
+
+    Provides an efficient way to share data
+    between multiple versions of it, instead
+    of copying the whole data.
+    
+    It's kind of similar to the way git
+    manages multiple versions of your source
+    code: git doesn't copy all the files on
+    each commit.
+
+    When you want a new datastructure, you
+    copy other datastructures into it.
+    
+    Build up from lists to trees, then once
+    you have trees you can make pretty much
+    anything, including maps.
+
 entity
     Feels like maps, but they're actually
     more like multimaps.
