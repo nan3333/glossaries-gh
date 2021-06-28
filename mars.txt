@@ -1,0 +1,4 @@
+Close Approach
+    When Mars is periodically the closest to
+    Earth at 33.9 million miles away every 2
+    years.
