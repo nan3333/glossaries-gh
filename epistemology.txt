@@ -20,3 +20,40 @@ epistemology
     regard to its methods, validity, and
     scope, and the distinction between
     justified belief and opinion.
+
+Epistemology
+    The branch of philosophy concerned with
+    knowledge.
+    
+    Epistemologists study the nature, origin,
+    and scope of knowledge, epistemic
+    justification, the rationality of belief,
+    and various related issues.
+
+Commonsense Reasoning
+
+Knowledge Representation and Model Checking technique
+    Provides the machinery to perform
+    "Commonsense Reasoning".
+
+Timed Automata
+    [Knowledge Representation and Model Checking technique]
+
+Event Calculus
+    [Knowledge Representation and Model Checking technique]
+
+    [[calibre:An Event Calculus Formalization of Timed Automata]]
+
+    A logic framework that allows the concept
+    of time to explicitly appear inside
+    formulas, while at the same time avoiding
+    to step outside First Order Logic.
+
+fluent
+    A time-dependent property
+
+event
+    [#Commonsense Reasoning]
+
+timepoints
+    [#Commonsense Reasoning]

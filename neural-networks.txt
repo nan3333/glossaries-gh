@@ -26,6 +26,11 @@ Siamese Network
     which calculates the similarity between
     the two images.
 
+Density estimation
+    The construction of an estimate, based on
+    observed data, of an unobservable
+    underlying probability density function.
+
 Wake-sleep algorithm
     Layers of the NN. R, G are weights used by
     the wake-sleep algorithm to modify data

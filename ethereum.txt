@@ -387,12 +387,14 @@ Ethash
     A proof-of-work algorithm for Ethereum
     1.0.
 
-ether
+Ether
+ETH
+Ξ
     The native cryptocurrency used by the
     Ethereum ecosystem, which covers gas costs
-    when executing transactions. Also writen
-    as ETH or its symbol Ξ, the Greek
-    uppercase Xi character.
+    when executing transactions.
+
+    Ξ is the Greek uppercase Xi character.
 
 events
     Allows the use of EVM logging facilities.

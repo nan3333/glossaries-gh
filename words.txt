@@ -8867,26 +8867,11 @@ ere
     "I was driven for some half mile ere we
     stopped"
 
-ineffable
-    Too great or extreme to be expressed or
-    described in words.
+hubris
+    Excessive pride or self-confidence.
 
-    "the ineffable mysteries of the soul"
-
-qualia
-    [#philosophy]
-    [#psychology]
-
-    Individual instances of subjective,
-    conscious experience.
-
-    https://youtu.be/evQsOFQju08?t=165
-
-explanatory gap
-    Our inability to connect physical
-    phenomenon to these raw feelings, our
-    inability to explain and share our own
-    internal qualia.
+    "the self-assured hubris among economists
+    was shaken in the late 1980s"
 
 trending
     Currently popular or widely discussed
