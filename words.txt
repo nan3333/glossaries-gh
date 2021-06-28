@@ -10864,3 +10864,11 @@ interstice
 incredulity
     The state of being unwilling or unable to
     believe something.
+
+faddish
+faddy
+fad
+    Intensely fashionable for a short time.
+
+    Being or in accordance with current social
+    fashions.
