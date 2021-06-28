@@ -9,6 +9,28 @@ physiosemiosis
     life, a role for which Deely coined the
     term physiosemiosis.
 
+pyramid of anthroposemiosis
+    Poles:
+    - Pole of the stipulable sign.
+    - Pole of the semiotic other
+    - Pole of the interpretant
+    - Pole of the semiotic self
+    - Pole of the object experienced
+
+    Circumferal axes:
+    - Identical axis
+    - Perlocutionary axis
+    - Supposed conventional axis
+    - Conventional axis
+    - Experiential axis
+
+    Inner axes:
+    - Symptomatic axis
+    - Taxonomic axis
+    - Contractual axis
+    - Informational axis
+    - Supposed experiential axis
+
 semiotics
     The study of signs and symbols and their
     use or interpretation.
