@@ -1,5 +1,14 @@
 awesome-open https://github.com/SwapneelM/awesome-particle-physics-for-non-physicists
 
+catadioptric
+    A catadioptric optical system is one where
+    refraction and reflection are combined in
+    an optical system, usually via lenses and
+    curved mirrors.
+
+dioptric
+    Purely refractive.
+
 Fresnel lens
     A type of composite compact lens developed
     by the French physicist Augustin-Jean
@@ -20,10 +29,9 @@ Fresnel lens
     some cases taking the form of a flat
     sheet.
     
-    The simpler dioptric (purely refractive)
-    form of the lens was first proposed by
-    Count Buffon, and independently reinvented
-    by Fresnel.
+    The simpler dioptric form of the lens was
+    first proposed by Count Buffon, and
+    independently reinvented by Fresnel.
     
     The catadioptric form of the lens,
     entirely invented by Fresnel, has outer
