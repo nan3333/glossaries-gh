@@ -1,3 +1,21 @@
+Gödel numbers
+Gödel numbering
+    https://www.youtube.com/watch?v=HeQX2HjkcNo
+
+    Can be interpreted as an encoding in which
+    a number is assigned to each symbol of a
+    mathematical notation, after which a
+    sequence of natural numbers can then
+    represent a sequence of symbols.
+
+    A function that assigns to each symbol and
+    well-formed formula of some formal
+    language a unique natural number, called
+    its Gödel number.
+    
+    The concept was used by Kurt Gödel for the
+    proof of his incompleteness theorems.
+
 Fourier
     Said "four-ee-ay".
 
