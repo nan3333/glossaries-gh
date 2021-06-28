@@ -1,3 +1,5 @@
+Long Form Assistant
+
 Self-reference
     Occurs in natural or formal languages when
     a sentence, idea or formula refers to

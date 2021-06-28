@@ -10857,3 +10857,8 @@ fad
 
     Being or in accordance with current social
     fashions.
+
+trepidation
+    A feeling of fear or anxiety about
+    something that may happen.
+    "the men set off in fear and trepidation"
