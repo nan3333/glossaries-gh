@@ -1,6 +1,67 @@
+physiosemiosis
+    [#Basics of Semiotics]
+
+    Laid down the argument that the action of
+    signs extends even further than life, and
+    that semiosis as an influence of the
+    future played a role in the shaping of the
+    physical universe prior to the advent of
+    life, a role for which Deely coined the
+    term physiosemiosis.
+
 semiotics
     The study of signs and symbols and their
     use or interpretation.
+
+zoosemiotics
+    The semiotic study of the use of signs
+    among animals, more precisely the study of
+    semiosis among animals, i.e. the study of
+    how something comes to function as a sign
+    to some animal.
+    
+    It is the study of animal forms of
+    knowing.
+
+discourse
+    Commonly speaking, the interaction between
+    sense and understanding.
+
+discursive
+    [#language]
+    [#philosophy]
+
+    Digressing from subject to subject.
+
+    "students often write dull, second-hand,
+    discursive prose"
+
+    Relating to discourse or modes of
+    discourse.
+
+    "the attempt to transform utterances from
+    one discursive context to another"
+
+semiosis of angels
+    https://muse.jhu.edu/article/636617/pdf
+
+    The question arises, could an intellectual
+    semiosis be possible that did not arise
+    out of and have constantly at its disposal
+    a perceptual base of cognitive materials
+    with which to work?
+    
+    Since discourse, commonly speaking, is
+    precisely this interaction between sense
+    and understanding, we are asking whether
+    there even can be an intellectual semiosis
+    which is not discursive.
+    
+    Or, to put it perhaps more plainly, can
+    semiosis extend even beyond the world of
+    matter and motion, to achieve its effect
+    and proper work also in a realm of pure
+    spirits bodiless from the start?
 
 umwelt
     [#semiotics]

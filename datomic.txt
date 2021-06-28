@@ -18,6 +18,17 @@ persistent data structure
     
     This induces a DAG on the version graph.
 
+universal schema
+datum
+    Entity/Attribute/Value/Transaction is a
+    path to time.
+
+    Consists of:
+    - Entity
+    - Attribute
+    - Value
+    - Transaction
+
 structural sharing
     https://youtu.be/9TYfcyvSpEQ?t=832
 
@@ -139,6 +150,8 @@ fact
     for fact -- it has a time.
 
     https://youtu.be/9TYfcyvSpEQ?t=1353
+
+    Talking about facts removes structure.
 
 composite collections
     An entire database can become a value to

@@ -10860,3 +10860,7 @@ sensibilities
 interstice
     An intervening space, especially a very
     small one.
+
+incredulity
+    The state of being unwilling or unable to
+    believe something.
