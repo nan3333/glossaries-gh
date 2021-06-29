@@ -1,8 +1,19 @@
-string
+modeling a business
+    Only need 3 types of things:
+    - stream
+    - tree
+    - mesh
 
+stream
+    Queues back up on your queue system.
+    
 tree
+    Gives you hierarchy.
 
 mesh
+    [graph]
+
+    A type of graph.
 
 persistent data structure
     A data structure that always preserves the
@@ -23,6 +34,24 @@ persistent data structure
     two or more versions to get a new version.
     
     This induces a DAG on the version graph.
+
+Entity/Attribute/Value
+Triple Store
+RDF
+    [Triple Store]
+
+    - Entity
+    - Attribute
+    - Value
+
+    Like RDF:
+    - subject,
+    - predicate, and
+    - object.
+
+    Can be used to find a datum.
+    The triple can be used to find the
+    quadruple.
 
 universal schema
 datum
