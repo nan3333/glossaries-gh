@@ -19,6 +19,7 @@ precognition
 prescience
 future vision
 future sight
+promnesia
     A claimed psychic ability to see events in
     the future.
     
@@ -26,6 +27,12 @@ future sight
     is no accepted scientific evidence that
     precognition is a real effect and it is
     widely considered to be pseudoscience.
+
+    Promnesia is similar to precognition,
+    which means knowing something and being
+    able to describe it before you encounter
+    it, but has a more visual meaning. It's
+    the déjà vu of parapsychology.
 
 clairvoyance
     The supposed faculty of perceiving things

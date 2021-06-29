@@ -10875,3 +10875,18 @@ conferred
     or characteristic) to someone or something
     a reputation for power will confer power—
     John Spanier.
+
+attestation
+    Evidence or proof of something.
+    "their vocabulary is no attestation to
+    your value as a parent"
+
+    A declaration that something exists or is
+    the case.
+    "personal attestations and subjective
+    claims only matter so much"
+
+    The action of being a witness to or
+    formally certifying something.
+    "he failed to prove the attestation of the
+    will by the witness"
