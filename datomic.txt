@@ -1,3 +1,9 @@
+∈
+    ∈	(-	2208	8712	ELEMENT OF
+
+    A returned set from a query.
+    ∈{["richhickey"] ["tonsky"] ["pithyless"]}
+
 modeling a business
     Only need 3 types of things:
     - stream
@@ -38,6 +44,7 @@ persistent data structure
 Entity/Attribute/Value
 Triple Store
 RDF
+clause
     [Triple Store]
 
     - Entity
@@ -52,6 +59,10 @@ RDF
     Can be used to find a datum.
     The triple can be used to find the
     quadruple.
+
+    When used as a query, is called a clause.
+
+    sp +/"\[?id :user\/name \"richhickey\"\]" "$HOME/var/smulliga/source/git/mullikine/code-org-tidbits/datomic/basic-query.org"
 
 universal schema
 datum
