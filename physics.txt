@@ -1,5 +1,26 @@
 awesome-open https://github.com/SwapneelM/awesome-particle-physics-for-non-physicists
 
+thermodynamic system
+    A body of matter and/or radiation,
+    confined in space by walls, with defined
+    permeabilities, which separate it from its
+    surroundings.
+    
+    The surroundings may include other
+    thermodynamic systems, or physical systems
+    that are not thermodynamic systems.
+    
+    A wall of a thermodynamic system may be
+    purely notional, when it is described as
+    being 'permeable' to all matter, all
+    radiation, and all forces.
+    
+    A thermodynamic system can be fully
+    described by a definite set of
+    thermodynamic state variables, which
+    always covers both intensive and extensive
+    properties.
+
 catadioptric
     A catadioptric optical system is one where
     refraction and reflection are combined in
