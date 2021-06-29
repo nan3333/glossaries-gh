@@ -49,11 +49,40 @@ structural sharing
     anything, including maps.
 
 entity
+    [#datalog]
+
     Feels like maps, but they're actually
     more like multimaps.
 
     Reverse attributes - inverted index.
     Can get keys from values.
+
+attribute
+    [#datalog]
+
+    Wefine fields stating what their name is
+    and what type of data they hold.
+
+    In Datomic nomenclature fields are
+    referred to as attributes.
+
+value
+    [#datalog]
+
+    https://youtu.be/9TYfcyvSpEQ?t=609
+
+    Something that could constitute the basis
+    for a decision making process.
+
+    A value never changes.
+
+    https://youtu.be/9TYfcyvSpEQ?t=1090
+
+    An accretion of facts.
+
+    It satisfies many of the requirements of a
+    value (i.e. it looks the same) but it
+    grows in that it has more than one view.
 
 Guava
     Google's Java Library.
@@ -161,22 +190,6 @@ composite collections
     basis of decision-making as an immutable
     string is.
 
-value
-    https://youtu.be/9TYfcyvSpEQ?t=609
-
-    Something that could constitute the basis
-    for a decision making process.
-
-    A value never changes.
-
-    https://youtu.be/9TYfcyvSpEQ?t=1090
-
-    An accretion of facts.
-
-    It satisfies many of the requirements of a
-    value (i.e. it looks the same) but it
-    grows in that it has more than one view.
-
 accretion
 
 time-travel
@@ -251,13 +264,6 @@ namespace qualified keyword field
 non-namespace qualified keyword field
     Example:
         :cars
-
-attribute
-    Wefine fields stating what their name is
-    and what type of data they hold.
-
-    In Datomic nomenclature fields are
-    referred to as attributes.
 
 table
     [#RDBMS]
