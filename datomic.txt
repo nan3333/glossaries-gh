@@ -1,3 +1,9 @@
+string
+
+tree
+
+mesh
+
 persistent data structure
     A data structure that always preserves the
     previous version of itself when it is
