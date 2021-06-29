@@ -10890,3 +10890,7 @@ attestation
     formally certifying something.
     "he failed to prove the attestation of the
     will by the witness"
+
+perforce
+    Used to express necessity or
+    inevitability.

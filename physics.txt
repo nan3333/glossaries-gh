@@ -1,5 +1,10 @@
 awesome-open https://github.com/SwapneelM/awesome-particle-physics-for-non-physicists
 
+sonoluminescence
+    The emission of short bursts of light from
+    imploding bubbles in a liquid when excited
+    by sound.
+
 thermodynamic system
     A body of matter and/or radiation,
     confined in space by walls, with defined
