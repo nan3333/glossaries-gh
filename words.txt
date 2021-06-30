@@ -10899,3 +10899,9 @@ subversive
     Seeking or intended to subvert an
     established system or institution.
     "subversive literature"
+
+cohort
+    A group of people with a shared
+    characteristic.
+    "a cohort of civil servants patiently
+    drafting legislation"
