@@ -1,6 +1,9 @@
 ontology
     [#information science]
 
+    An explicit specification of a
+    conceptualization.
+
     A set of concepts and categories in a
     subject area of domain that shows their
     properties and the relations between them.

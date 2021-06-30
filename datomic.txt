@@ -56,7 +56,7 @@ clause
     - predicate, and
     - object.
 
-    Can be used to find a datum.
+    Can be used to find a datom.
     The triple can be used to find the
     quadruple.
 
@@ -71,7 +71,7 @@ universal schema
     - Value
     - Transaction
 
-datum
+datom
 atomic fact
     [5-tuple]
 
@@ -83,7 +83,7 @@ atomic fact
     - A  - Attribute
     - V  - Value
     - Tx - Transaction
-    - Op - Boolean indicating if the datum is being
+    - Op - Boolean indicating if the datom is being
       added(true) or retracted(false)
 
     https://www.youtube.com/watch?v=faoXSarGgEI&list=PLZdCLR02grLpRgqU50KY3YfMePw1SHnpp&index=3
