@@ -25,6 +25,9 @@ reward signal
     A number that tells it how good or bad the
     current world state is.
 
+    https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/
+    [[calibre:Reward is enough]]
+
 Deep reinforcement learning
 DRL
     Uses DL and RL principles in order to
@@ -417,3 +420,26 @@ conditioning
     reinforcement, with reinforcement
     typically being a stimulus or reward for a
     desired response.
+
+offline
+offline RL
+     There is an agent and (instead of
+     interactive environment) a limited, fixed
+     dataset.
+     
+     The dataset contains experience
+     (trajectory rollouts of arbitrary
+     policies) from other scenarios where
+     agents were learning a policy to gain a
+     good reward.
+     
+     In contrast to online RL, such setup is
+     more challenging as there is no dynamic
+     environment to test hypothesis, and all
+     is left is to have a set of trajectories
+     without live feedback.
+     
+     By observing historical episodes of
+     interaction from other agents, an offline
+     agent needs to learn a good policy to
+     achieve a high reward.

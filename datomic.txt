@@ -65,15 +65,31 @@ clause
     sp +/"\[?id :user\/name \"richhickey\"\]" "$HOME/var/smulliga/source/git/mullikine/code-org-tidbits/datomic/basic-query.org"
 
 universal schema
-datum
-    Entity/Attribute/Value/Transaction is a
-    path to time.
-
     Consists of:
     - Entity
     - Attribute
     - Value
     - Transaction
+
+datum
+atomic fact
+    [5-tuple]
+
+    Entity/Attribute/Value/Transaction is a
+    path to time.
+
+    Consists of:
+    - E  - Entity
+    - A  - Attribute
+    - V  - Value
+    - Tx - Transaction
+    - Op - Boolean indicating if the datum is being
+      added(true) or retracted(false)
+
+    https://www.youtube.com/watch?v=faoXSarGgEI&list=PLZdCLR02grLpRgqU50KY3YfMePw1SHnpp&index=3
+
+universal relation
+    https://youtu.be/faoXSarGgEI?list=PLZdCLR02grLpRgqU50KY3YfMePw1SHnpp&t=42
 
 structural sharing
     https://youtu.be/9TYfcyvSpEQ?t=832
@@ -246,15 +262,23 @@ time-travel
     - :db/txInstant
 
 storage service
+    Contains facts.
+
+    ewwlinks +/"^Peers read facts from the Storage Service." "https://docs.datomic.com/on-prem/overview/architecture.html"
 
 transactor
     [server]
 
     https://docs.datomic.com/on-prem/getting-started/dev-setup.html
 
-    Accepts transactions.
+    ewwlinks +/"\* Accept transactions" "https://docs.datomic.com/on-prem/overview/architecture.html"
 
-    Periodic indexing in the background.
+    - Accept transactions
+    - Process them serially
+    - Commit the results to the storage service
+    - all writes are synchronously made to redundant storage
+    - Transmit changes to the peers
+    - Index in the background, place indexes in storage service
 
 transactor properties file
     Config file for a transactor.
@@ -263,6 +287,11 @@ client
 
 datomic peer
 peer
+    The Peer cache implements a least-recently
+    used policy for discarding data, making it
+    possible to work with databases that won't
+    fit entirely in memory.
+
     Related:
     - datomic peer server
     - datomic peer library
@@ -287,6 +316,8 @@ peer server
     storage database you will need to have
     previously created a database and have a
     running dev Transactor.
+
+    ewwlinks +/"^Peer Server" "https://docs.datomic.com/on-prem/overview/architecture.html"
 
 datomic peer library
     You can include the peer library into your

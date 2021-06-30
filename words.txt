@@ -10894,3 +10894,8 @@ attestation
 perforce
     Used to express necessity or
     inevitability.
+
+subversive
+    Seeking or intended to subvert an
+    established system or institution.
+    "subversive literature"
