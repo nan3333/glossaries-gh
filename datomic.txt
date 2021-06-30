@@ -197,6 +197,11 @@ transaction
 
     https://youtu.be/7Fi-UvrRpyI?t=2270
 
+    Can be about multiple entities.
+
+    The transactions themselves are one or
+    more datums.
+
 HornetQ
     An open-source asynchronous messaging
     project from JBoss. It is an example of
