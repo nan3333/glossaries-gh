@@ -9654,12 +9654,6 @@ concession
     Something that you allow or do to end a
     conflict or reach an agreement.
 
-disabuse
-    Persuade (someone) that an idea or belief
-    is mistaken.
-    "he quickly disabused me of my fanciful
-    notions"
-
 extralegal
     Beyond the reach of the government.
 
@@ -10905,3 +10899,16 @@ cohort
     characteristic.
     "a cohort of civil servants patiently
     drafting legislation"
+
+dogmatic
+    Inclined to lay down principles as
+    incontrovertibly true.
+
+unhinged
+
+disabuse
+disabused
+    Persuade (someone) that an idea or belief
+    is mistaken.
+    "he quickly disabused me of my fanciful
+    notions"

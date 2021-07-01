@@ -1,3 +1,14 @@
+double-spending
+    The risk that a digital currency can be
+    spent twice.
+    
+    It is a potential problem unique to
+    digital currencies because digital
+    information can be reproduced relatively
+    easily by savvy individuals who understand
+    the blockchain network and the computing
+    power necessary to manipulate it.
+
 State channels
     Refer to the process in which users
     transact with one another directly outside

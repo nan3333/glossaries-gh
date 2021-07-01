@@ -1,3 +1,30 @@
+panoptic
+    One universe, containing every possible
+    'thing': quantifiers work properly.
+
+transparent
+    Meanings of expressions do not depend on
+    the logical context: equality works
+    properly.
+
+unrestricted
+    Any name can be used for any logical
+    purpose: no type/sort checking, few
+    'legality' constraints.
+
+network logic
+    Meanings of expressions do not depend on
+    their network location: no
+    lexical/syntactic negotiation.
+
+    (Horatio principle)
+
+Horatio principle
+    http://mark.reid.name/blog/the-horatio-principle.html
+
+    Some events in a large world are
+    necessarily nonmeasurable.
+
 semantic web
     A proposed development of the World Wide
     Web in which data in web pages is
