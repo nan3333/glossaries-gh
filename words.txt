@@ -10912,3 +10912,14 @@ disabused
     is mistaken.
     "he quickly disabused me of my fanciful
     notions"
+
+orthodoxy
+    Is adherence to correct or accepted
+    creeds, especially in religion.
+
+heracy
+    Any belief or theory that is strongly at
+    variance with established beliefs or
+    customs, in particular the accepted
+    beliefs of a church or religious
+    organization.

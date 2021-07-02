@@ -3,6 +3,25 @@ $NOTES/ws/linguistics/glossary.txt
 http://learnthesewordsfirst.com/about/what-is-a-multi-layer-dictionary.html
 https://github.com/explosion/spaCy/blob/master/spacy/glossary.py
 
+soft gradient-based subword tokenization module
+GBST
+    [[calibre:Charformer: Fast Character Transformers via Gradient-based Subword Tokenization]]
+
+    Automatically learns latent subword
+    representations from characters in a data-
+    driven fashion.
+
+    Concretely, GBST enumerates candidate
+    subword blocks and learns to score them in
+    a position- wise fashion using a block
+    scoring network.
+
+Charformer
+    [[calibre:Charformer: Fast Character Transformers via Gradient-based Subword Tokenization]]
+
+    A deep Transformer model that integrates
+    GBST and operates on the byte level.
+
 extractive keyphrase system
 
 abstractive keyphrase system

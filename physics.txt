@@ -1,5 +1,10 @@
 awesome-open https://github.com/SwapneelM/awesome-particle-physics-for-non-physicists
 
+uno
+    https://en.wikipedia.org/wiki/Parts-per_notation#Uno
+
+    The “unit” for dimensionless quantities.
+
 sonoluminescence
     The emission of short bursts of light from
     imploding bubbles in a liquid when excited
