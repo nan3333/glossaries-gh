@@ -66,3 +66,9 @@ descriptive research
     This methodology focuses more on the
     “what” of the research subject rather than
     the “why” of the research subject.
+
+citation
+    A formal reference to a published or
+    unpublished source that you consulted and
+    obtained information from while writing
+    your research paper.

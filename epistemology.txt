@@ -21,7 +21,6 @@ epistemology
     scope, and the distinction between
     justified belief and opinion.
 
-Epistemology
     The branch of philosophy concerned with
     knowledge.
     
@@ -57,3 +56,12 @@ event
 
 timepoints
     [#Commonsense Reasoning]
+
+sensualism
+    [#epistemology]
+
+    A doctrine whereby sensations and
+    perception are the basic and most
+    important form of true cognition.
+
+    It may oppose abstract ideas.

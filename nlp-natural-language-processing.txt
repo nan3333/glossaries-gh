@@ -3009,52 +3009,64 @@ software agent
 
 
 statistical trend detection
-
+    NLG: The statistical study of a series of
+    data points to detect a pattern or trend.
 
 story generation
-
+    NLG: The process that generates the story.
 
 story writing software
-
+    NLG: A software program designed to help
+    you write and edit stories; usually
+    includes a word processor and a way to
+    organize your ideas.
 
 streaming text clustering
-
+    NLG: text clustering based on streaming
+    text.
 
 teamcore
 
-
 text analysis
-
+    NLG: The process of analysing a text to
+    identify its key themes and ideas.
 
 text clustering
-
+    NLG: A technique for arranging text on a
+    page in such a way that the text is
+    grouped together in the same cluster.
 
 text extraction
-
+    NLG: The process of automatically
+    extracting text from a document.
 
 text mining
-
+    NLG: The process of extracting information
+    from a text.
 
 text summarization
-
-
-time management add adhd
-
+    NLG: The process of extracting the main
+    idea of a text or document.
 
 topic detection and tracking
-
+    NLG: The ability to detect and track a
+    specific topic or theme.
 
 topic gisting
-
+    NLG: A process of extracting only the most
+    important information from a text.
 
 translation memory
-
+    NLG: A system that stores the translation
+    of a given Definition: text.
 
 trend detection
-
+    NLG: The process of detecting trends.
 
 virtual agent
-
+    NLG: A computer-based agent that acts
+    Definition: like a human being, but which
+    is not physically present.
 
 virtual agents
 
@@ -3137,3 +3149,11 @@ discrimination
     An open problem of NLP, which concerns
     the automatic identification of the
     senses of a word.
+
+subword tokenizer
+    A tokenizer than also breaks words up into
+    subwords. 
+
+    NLG: A part of a computer program that
+    performs the task of recognizing words
+    within a block of text.

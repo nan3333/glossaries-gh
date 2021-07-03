@@ -1,3 +1,49 @@
+multi-stage build
+from .* as
+    https://docs.docker.com/develop/develop-images/multistage-build/
+
+    By default, the stages are not named, and
+    you refer to them by their integer number,
+    starting with 0 for the first FROM
+    instruction.
+    
+    However, you can name your stages, by
+    adding an AS <NAME> to the FROM
+    instruction.
+    
+    This example improves the previous one by
+    naming the stages and using the name in
+    the COPY instruction.
+    
+    This means that even if the instructions
+    in your Dockerfile are re-ordered later,
+    the COPY doesn’t break.
+
+context
+    The docker build command builds an image
+    from a Dockerfile and a context.
+    
+    The build’s context is the set of files at
+    a specified location PATH or URL.
+    
+    The PATH is a directory on your local
+    filesystem.
+    
+    The URL is a Git repository location.
+    
+    The build context is processed
+    recursively.
+    
+    So, a PATH includes any subdirectories and
+    the URL includes the repository and its
+    submodules.
+    
+    This example shows a build command that
+    uses the current directory (.) as build
+    context:
+
+        docker build .
+
 composure
 docker-compose.yml
     v +/"- \[Docker Images\](#docker-images) Docker Images \/ Composures w\/ Solr." "$MYGIT/Anant/awesome-solr/README.md"
@@ -41,9 +87,6 @@ docker stack
     the docker stack command support the same
     docker-compose.yml file with slightly
     different features.
-
-multi-stage build
-    https://docs.docker.com/develop/develop-images/multistage-build/
 
 STOPSIGNAL
     The default signal sent to containers to

@@ -10934,3 +10934,25 @@ attrition
     often called a hiring freeze and is seen
     as a less disruptive way to trim the
     workforce and reduce payroll than layoffs.
+
+exoneration
+    Occurs when the conviction for a crime is
+    reversed, either through demonstration of
+    innocence, a flaw in the conviction, or
+    otherwise.
+    
+    Attempts to exonerate convicts are
+    particularly controversial in death
+    penalty cases, especially where new
+    evidence is put forth after the execution
+    has taken place.
+
+sensualist
+    A person devoted to physical, especially
+    sexual, pleasure.
+    "a dedicated sensualist"
+
+surmised
+    Suppose that something is true without
+    having evidence to confirm it.
+    "he surmised that something must be wrong"

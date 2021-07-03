@@ -120,6 +120,7 @@ Factor Graph
       Can be either evidence variables when
       their value is known, or query variables
       when their value should be predicted.
+
     - Factors
       Defines the relationships between
       variables in the graph. Each factor can
@@ -130,27 +131,39 @@ Factor Graph
       For example, if a factor node is
       connected to two variables nodes A and
       B, a possible factor function could be
-      imply(A,B), meaning that if the random
-      variable A takes value 1, then so must
-      the random variable B. Each factor
-      function has a weight associated with
-      it, which describes how much influence
-      the factor has on its variables in
-      relative terms. In other words, the
-      weight encodes the confidence we have in
-      the relationship expressed by the factor
-      function. If the weight is high and
-      positive, we are very confident in the
-      function that the factor encodes; if the
-      weight is high and negative, we are
-      confident that the function is
-      incorrect. The weight can be learned
-      from training data, or assigned
-      manually.
+      imply(A,B),
+      
+      meaning that if the random variable A
+      takes value 1, then so must the random
+      variable B.
+      
+      Each factor function has a weight
+      associated with it, which describes how
+      much influence the factor has on its
+      variables in relative terms.
+      
+      In other words, the weight encodes the
+      confidence we have in the relationship
+      expressed by the factor function.
+      
+      If the weight is high and positive, we
+      are very confident in the function that
+      the factor encodes; if the weight is
+      high and negative, we are confident that
+      the function is incorrect.
+      
+      The weight can be learned from training
+      data, or assigned manually.
 
 possible world [of a factor graph]
     An assignment to every variable in a
     factor graph.
+
+Markov Processes
+    NLG: A Markov process is a stochastic
+    process whose future state depends only on
+    its current state and not on the events
+    that occurred before it.
 
 stochastic process
 random process
@@ -173,11 +186,17 @@ RP
     - Bernoulli trial
     - Brownian motion
 
+independent and identically distributed
+iid
+    NLG: The assumption that the values of a
+    random variable are identically
+    distributed and the same for all values of
+    the random variable.
+
 Bernoulli process
     One of the simplest stochastic processes.
 
-    A sequence of independent and identically
-    distributed (iid) random variables, where
+    A sequence of iid random variables, where
     each random variable takes either the
     value 1 with probability p, and value 0
     with probability 1 - p.
@@ -305,7 +324,7 @@ conditional distribution
     interested in.
 
 joint probability distribution
-Bivariate Distribution, n=2.
+bivariate distribution
     Given random variables X,Y,..., that are
     defined on a probability space, the joint
     probability distribution for X,Y,... is a
@@ -318,7 +337,7 @@ Bivariate Distribution, n=2.
     falls in any particular ranger or discrete
     set of values specified.
 
-    In the case of 2 variablese this is called
+    In the case of 2 variables this is called
     a bivariate distribution.
 
 joint information
