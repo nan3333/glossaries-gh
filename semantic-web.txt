@@ -9,7 +9,7 @@ semantic web tower
           |     Logic                | Digital   |
         ------------------------------ Signature |
         |       Ontology vocabulary  |           |
-      --------------------------------------------
+      --------------------------------           |
       |         RDF + rdfschema      |           |
     ----------------------------------------------
     |           XML + NS + xmlschema             |
