@@ -1,5 +1,21 @@
 awesome-open https://github.com/SwapneelM/awesome-particle-physics-for-non-physicists
 
+tesla turbine
+    https://www.youtube.com/watch?v=AfCyzIbpLN4
+
+Boundary layer region
+    https://www.youtube.com/watch?v=AfCyzIbpLN4
+
+    Boundary layer, in fluid mechanics, thin
+    layer of a flowing gas or liquid in
+    contact with a surface such as that of an
+    airplane wing or of the inside of a pipe.
+
+    The flow in such boundary layers is
+    generally laminar at the leading or
+    upstream portion and turbulent in the
+    trailing or downstream portion.
+
 uno
     https://en.wikipedia.org/wiki/Parts-per_notation#Uno
 

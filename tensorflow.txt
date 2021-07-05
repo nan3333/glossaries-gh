@@ -22,6 +22,13 @@ Mesh Tensorflow
     https://www.youtube.com/watch?v=HgGyWS40g-g
 
 TFX
+TensorFlow Extended
+    An end-to-end platform for deploying
+    production ML pipelines When you’re ready
+    to move your models from research to
+    production, use TFX to create and manage a
+    production pipeline.
+
     [[https://www.youtube.com/watch?v=Mxk4qmO_1B4][TFX Episode 1: What exactly is this TFX thing? (Coding TensorFlow) - YouTube]]
 
     $NOTES/ws/machine-learning/procedure.txt
