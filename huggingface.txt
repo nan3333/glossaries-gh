@@ -1,5 +1,16 @@
 AutoNLP
-    [[egr:AutoNLP]]
+    https://huggingface.co/autonlp
+
+    An automatic way to train, evaluate and
+    deploy SOTA NLP models for different
+    tasks. 
 
 Inference API
+Accelerated Inference API
     [[egr:Inference API]]
+
+    Integrate into your apps over 10,000 pre-
+    trained SOTA models, or your own private
+    models, via simple HTTP requests, with 2x
+    to 10x faster inference than built-in
+    deployment, and scalability built-in.

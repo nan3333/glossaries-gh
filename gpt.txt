@@ -4,14 +4,15 @@ fine-tune checkpoint
 SST-2
     [dataset]
 
-    [[egr:SST-2]]
-
     Distilbert is traned on this for sentiment
     analysis.
 
-    eww:$DUMP/programs/httrack/mirrors/https-huggingface-co-transformers-/huggingface.co/transformers/quicktour.html#getting-started-on-a-task-with-a-pipeline
+    A binary classification benchmark for
+    sentiment analysis.
 
-AutoNLP
+    https://paperswithcode.com/sota/sentiment-analysis-on-sst-2-binary
+
+    eww:file:///$DUMP/programs/httrack/mirrors/https-huggingface-co-transformers-/huggingface.co/transformers/quicktour.html#getting-started-on-a-task-with-a-pipeline
 
 prompt design
 prompt engineering
@@ -66,7 +67,6 @@ max_tokens
     Integer, the number of tokens to be
     generated after prompt.
 
-
 GTP-3 Instruct
 davinci-instruct
     https://beta.openai.com/docs/engines/the-instruct-series-beta
@@ -102,10 +102,11 @@ Tokens
     You can read more about it:
         https://towardsdatascience.com/byte-pair-encoding-the-dark-horse-of-modern-nlp-eb36c7df4f10
 
-Epoch 
+epoch 
     An epoch is the number of times the model
-    passes over your data. So if
-    ```num-epochs``` is set to 5, the model in
+    passes over your data.
+
+    So if num-epochs is set to 5, the model in
     total will go 5 times over each training
     example. 
 

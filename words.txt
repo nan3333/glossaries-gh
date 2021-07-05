@@ -10961,3 +10961,9 @@ resolute
     Admirably purposeful, determined, and
     unwavering.
     "she was resolute and unswerving"
+
+pivotal
+    Of crucial importance in relation to the
+    development or success of something else.
+    "Japan's pivotal role in the world
+    economy"
