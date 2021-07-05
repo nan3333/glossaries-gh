@@ -72,12 +72,13 @@ keyphrase extraction
         the “best” are selected as a
         document’s keyphrases.
 
-Named entity recognition
-Named-entity recognition
+name entity recognition
+named entity recognition
+named-entity recognition
 NER
 entity identification
 named entity identification
-Named-entity extraction
+named-entity extraction
 entity chunking
 entity extraction
     [#information extraction]
@@ -1155,6 +1156,7 @@ non-destructive tokenization
     and an end index into the document array.
 
 summarisation
+summarization
     [#NLP]
 
     2 types:
@@ -3157,3 +3159,20 @@ subword tokenizer
     NLG: A part of a computer program that
     performs the task of recognizing words
     within a block of text.
+
+text generation
+    Provide a prompt and the model will
+    generate what follows.
+    
+filling masked text
+    [nlp task]
+
+    Given a text with masked words (e.g.,
+    replaced by [MASK]), fill the blanks.
+    
+feature extraction
+    [nlp task]
+
+    Return a tensor representation of the
+    text.
+    

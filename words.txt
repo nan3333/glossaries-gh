@@ -10956,3 +10956,8 @@ surmised
     Suppose that something is true without
     having evidence to confirm it.
     "he surmised that something must be wrong"
+
+resolute
+    Admirably purposeful, determined, and
+    unwavering.
+    "she was resolute and unswerving"

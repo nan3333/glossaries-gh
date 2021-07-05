@@ -1,3 +1,18 @@
+fine-tune checkpoint
+    ewwlinks +/"fine-tune checkpoint" "https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english"
+
+SST-2
+    [dataset]
+
+    [[egr:SST-2]]
+
+    Distilbert is traned on this for sentiment
+    analysis.
+
+    eww:$DUMP/programs/httrack/mirrors/https-huggingface-co-transformers-/huggingface.co/transformers/quicktour.html#getting-started-on-a-task-with-a-pipeline
+
+AutoNLP
+
 prompt design
 prompt engineering
 priming

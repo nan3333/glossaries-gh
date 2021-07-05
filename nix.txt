@@ -117,4 +117,28 @@ Nix expression
 
 Cachix
     Hosted Nix binary caches: Build Nix
-    packages once and share them for good
+    packages once and share them for good.
+
+    If your project build takes 15 minutes,
+    why build it three times and waste your
+    time? With Cachix you can share the
+    binaries once it's built.
+
+    - You build your software project on your
+      laptop during development.
+    - Your Continuous Integration builds the
+      project again to verify there are no
+      mistakes.
+    - Users of your project build it again to
+      use or deploy it.
+
+    This will also greatly reduce your CI
+    build times by rebuilding only what has
+    changed.
+
+    Upload binaries to your binary cache with:
+    $ nix-build | cachix push <name>
+
+    While users of your cache can configure
+    Nix without fiddling with config files:
+    $ cachix use <name> && nix-build
