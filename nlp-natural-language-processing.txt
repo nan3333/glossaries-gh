@@ -3196,3 +3196,18 @@ feature extraction
 
     Return a tensor representation of the
     text.
+
+Multi-class classification
+    One the most popular supervised
+    classification problem one might come
+    across when dealing with NLP problems.
+    
+    AutoNLP makes it super easy to train
+    multi-class classification models on your
+    data.
+    
+    Let’s assume we are training a model for
+    sentiment detection.
+    
+    The dataset has three sentiments:
+    positive, negative & neutral.
