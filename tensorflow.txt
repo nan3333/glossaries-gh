@@ -289,6 +289,11 @@ checkpoint
 training checkpoint
     https://www.tensorflow.org/guide/checkpoint
 
+    ewwlinks +/"^Make your model work on all frameworks" "https://huggingface.co/transformers/model_sharing.html"
+
+    It’s best to upload your model with both
+    PyTorch and TF checkpoints.
+
 Saving a TensorFlow model
     Typically means one of two things:
     - 1 Checkpoints, OR 

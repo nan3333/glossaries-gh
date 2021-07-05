@@ -10904,8 +10904,6 @@ dogmatic
     Inclined to lay down principles as
     incontrovertibly true.
 
-unhinged
-
 disabuse
 disabused
     Persuade (someone) that an idea or belief
@@ -10967,3 +10965,29 @@ pivotal
     development or success of something else.
     "Japan's pivotal role in the world
     economy"
+
+cursory
+    NLG: (of a glance or examination) quick
+    and hasty; not careful. "a cursory glance"
+
+noir
+noire
+    A genre of crime film or fiction
+    characterized by cynicism, fatalism, and
+    moral ambiguity.
+    "his film proved that a Brit could do noir
+    as darkly as any American" a film or novel
+    in the noir genre.
+
+    You use 'noir' when you are describing a
+    masculine noun, and 'noire' when you
+    describe a feminine noun.
+
+    The plural forms are 'noirs' for masculine
+    words, and 'noires' for the feminine
+    words. All forms are pronounced
+    identically.
+
+    "he says he's making a noir"
+
+    E.g. max payne.

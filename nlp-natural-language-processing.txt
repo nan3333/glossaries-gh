@@ -375,6 +375,27 @@ Whole Word Masking
     - May 31st, 2019
 
 Whole Word Masking Model
+    
+MultiNLI
+Multi-Genre NL Inference
+    [benchmark tasks]
+    [corpus]
+
+    https://cims.nyu.edu/~sbowman/multinli/
+
+    A crowd-sourced collection of 433k
+    sentence pairs annotated with textual
+    entailment information.
+    
+    The corpus is modeled on the SNLI corpus,
+    but differs in that covers a range of
+    genres of spoken and written text, and
+    supports a distinctive cross-genre
+    generalization evaluation.
+    
+    The corpus served as the basis for the
+    shared task of the RepEval 2017 Workshop
+    at EMNLP in Copenhagen.
 
 SuperGLUE
     [benchmark tasks]
@@ -3175,4 +3196,3 @@ feature extraction
 
     Return a tensor representation of the
     text.
-    
