@@ -1,10 +1,24 @@
 AppSync
+AWS AppSync
     https://sammart.in/post/2020-05-17-querying-appsync-with-python/
 
     A really easy way to quickly assemble a
     GraphQL API to interact with data from
     DynamoDB, Lambda, ElasticSearch, RDS, or
     other HTTP endpoints.
+
+    Enables you to use AWS Lambda to resolve
+    any GraphQL field.
+    
+    For example, a GraphQL query might send a
+    call to an Amazon RDS instance, and a
+    GraphQL mutation might write to a Amazon
+    Kinesis stream.
+    
+    In this section, we'll show you how to
+    write a Lambda function that performs
+    business logic based on the invocation of
+    a GraphQL field operation. 
 
 Amazon Elastic File System
 EFS
@@ -204,10 +218,23 @@ AWS CloudFormation
     This gives you a single source of truth
     for your AWS and third party resources.
 
+lambda cold start issue
+    A lambda is a little container of compute.
+
+    You can keep lambdas warm by putting them
+    on a cron and calling them every now and
+    then.
+
 Lambda
 AWS Lambda
     [#AWS]
     [Computing service]
+
+    A lambda is a little container of compute.
+
+    You can keep lambdas warm by putting them
+    on a cron and calling them every now and
+    then.
 
     An event-driven, serverless computing
     platform provided by Amazon as a part of
@@ -604,3 +631,85 @@ Amazon CloudSearch
     As your volume of data and traffic
     fluctuates, Amazon CloudSearch seamlessly
     scales to meet your needs.
+
+Service-oriented architecture
+    NLG: A style of software architecture in
+    which functionality is provided as
+    services to other components.
+
+CQRS
+    NLG:
+        Command Query Responsibility
+        Segregation is a pattern for
+        implementing distributed systems.
+        
+        It divides the application into two
+        logical parts: the command side and
+        the query side.
+        
+        The command side is responsible for
+        changing the state of the application,
+        while the query side is responsible
+        for reporting the state of the
+        application.
+
+AWS Outposts
+    A fully managed service that offers the
+    same AWS infrastructure, AWS services,
+    APIs, and tools to virtually any
+    datacenter, co-location space, or on-
+    premises facility for a truly consistent
+    hybrid experience.
+    
+    AWS Outposts is ideal for workloads that
+    require low latency access to on-premises
+    systems, local data processing, data
+    residency, and migration of applications
+    with local system interdependencies.
+
+Command Query Responsibility
+    NLG: A pattern that describes how a
+    command and a query can be separated in an
+    application.
+
+API Composition Pattern
+    [[egr:aws API Composition Pattern]]
+
+Lambda Resolver
+    [[egr:aws lambda resolver]]
+
+    https://docs.aws.amazon.com/appsync/latest/devguide/tutorial-lambda-resolvers.html
+
+Eventsourcing
+Decoupled Service Choreography
+    NLG:
+        A service choreography is a model of a
+        service that is used to describe the
+        capabilities of the service and the
+        interactions that are possible with
+        the service.
+        
+        A decoupled service choreography is a
+        service choreography where the service
+        and the consumer of the service are
+        not tightly coupled.
+
+SAGA
+    [Microservice Patterns in AWS]
+
+    https://www.shogan.co.uk/aws/saga-pattern-with-aws-cdk-lambda-and-step-functions/
+
+    A sequence of local transactions.
+
+    Intra-service orchestration using state
+    machines.
+
+    The saga pattern is useful when you have
+    transactions that require a bunch of steps
+    to complete successfully, with failure of
+    steps requiring associated rollback
+    processes to run.
+    
+    This post will cover the saga pattern with
+    aws-cdk, leveraging AWS Step Functions and
+    Lambda.

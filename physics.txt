@@ -166,7 +166,7 @@ r-Process
 s-Process
     Slow.
 
-    https://www.youtube.com/watch?v=KlBG_A4Djp4
+    [[https://www.youtube.com/watch?v=KlBG_A4Djp4][The s-Process - Sixty Symbols - YouTube]]
 
     This guys didn't explain it very well.
 

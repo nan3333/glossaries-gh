@@ -329,3 +329,12 @@ Saving a TensorFlow model
     TF Serving, TF Lite, TF.js, or programs in
     other programming languages (the C, C++,
     Java, Go, Rust, C# etc. TF APIs).
+
+TensorFlow Serving
+    A flexible, high-performance serving
+    system for ML models, designed for
+    production environments.
+
+    TF Serving makes it easy to deploy new
+    algorithms and experiments, while keeping
+    the same server architecture and APIs.

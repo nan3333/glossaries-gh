@@ -46,3 +46,22 @@ Accelerate
     to quickly configure and test your
     training environment then launch the
     scripts.
+
+streaming mode
+    When a dataset is in streaming mode, you
+    can iterate over it directly without
+    having to download the entire dataset.
+    
+    The data are downloaded progressively as
+    you iterate over the dataset.
+    
+    You can enable dataset streaming by
+    passing streaming=True in the
+    load_dataset() function to get an iterable
+    dataset.
+    
+    This is useful if you don’t have enough
+    space on your disk to download the
+    dataset, or if you don’t want to wait for
+    your dataset to be downloaded before using
+    it.

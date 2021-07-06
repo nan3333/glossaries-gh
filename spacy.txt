@@ -1,5 +1,12 @@
 https://github.com/explosion/spaCy/blob/master/spacy/glossary.py
 
+spaCy
+
+spacy-pretrain
+    Do your own language model pretraining.
+
+    Instead of using spacy-transfromers.
+
 pipeline
 processing pipeline
     When you call nlp on a text, spaCy first

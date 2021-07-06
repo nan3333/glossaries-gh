@@ -1,3 +1,13 @@
+locality-sensitive hashing
+    An algorithmic technique that hashes
+    similar input items into the same
+    "buckets" with high probability.
+
+    Since similar items end up in the same
+    buckets, this technique can be used for
+    data clustering and nearest neighbor
+    search.
+
 Fibonacci hashing
     Hash tables should not:
     - be prime number sized
