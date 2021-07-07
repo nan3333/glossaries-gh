@@ -2704,9 +2704,11 @@ automatic text annotation
 
 c4isr
 
+causal relation
 
 causal relation extraction
-
+    NLG: The process of locating causal
+    relations in a text.
 
 combinatory categorial grammar
 
@@ -2802,7 +2804,9 @@ emotion detection
 
 
 emotion detection from audio
-
+    NLG: The ability of a computer program to
+    recognize the emotions of a person by
+    analyzing the person's voice.
 
 entity classification
 
@@ -2847,7 +2851,9 @@ hypothesis generation
 
 
 inductive logic programming
-
+    NLG: A method of artificial intelligence
+    in which a computer program is written to
+    draw conclusions from a set of facts.
 
 inductive programming
 
@@ -2856,13 +2862,18 @@ intelligent agent
 
 
 intelligent software agent
-
+    NLG: Software that is able to learn from
+    interactions with users and then use that
+    information to make decisions or take
+    actions that improve its performance.
 
 intent analysis
-
+    NLG: A careful analysis of the meaning of
+    a text, especially a written one.
 
 intention extraction
-
+    NLG: Extracting the intention of a
+    sentence.
 
 iso 24617-2
 
@@ -3235,3 +3246,27 @@ FAISS
 
     https://research.fb.com/category/facebook-ai-research-fair/
     
+
+MRPC
+Microsoft Research Paraphrase Corpus
+    https://paperswithcode.com/dataset/mrpc/
+
+    Dataset provided in the GLUE banchmark
+
+COATIS
+    An automatic tool designed to locate
+    certain actions expressed in texts.
+    
+    Rules of contextual exploration, activated
+    by the presence of linguistic indicators
+    of causality in sentences, enable COATIS
+    to locate expressions that denote field
+    actions and that are linked by causal
+    relations.
+    
+    COATIS processes technical texts of any
+    domain, in the French language.
+    
+    It is therefore particularly suitable for
+    use in causal knowledge acquisition from
+    texts.
