@@ -126,3 +126,9 @@ zk-STARK
     additional feature: the proof can keep
     some of the inputs to the computation
     hidden.
+
+homomorphic encryption
+    NLG: Homomorphic encryption is the
+    property of some encryption schemes that
+    allow the addition and multiplication of
+    ciphertexts without decrypting them.

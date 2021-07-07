@@ -1,3 +1,7 @@
+cloudpickle
+    [library]
+
+
 trimesh
     [library]
 
