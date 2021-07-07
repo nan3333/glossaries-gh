@@ -11,11 +11,6 @@ likelihood
     parameter values that are most plausible
     given the observed data.
 
-log-likelihood
-    The natural logarithm of the likelihood.
-
-    https://www.statlect.com/glossary/log-likelihood
-
 return
 cumulative reward
     An agent's cumulative reward.

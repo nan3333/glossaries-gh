@@ -1,3 +1,21 @@
+log-likelihood
+    The natural logarithm of the likelihood.
+
+    https://www.statlect.com/glossary/log-likelihood
+
+    In turn, given a sample and a parametric
+    family of distributions (i.e., a set of
+    distributions indexed by a parameter) that
+    could have generated the sample, the
+    likelihood is a function that associates
+    to each parameter the probability (or
+    probability density) of observing the
+    given sample. 
+
+a parametric family of distributions
+    A set of distributions indexed by a
+    parameter.
+
 model validation
 statistical model validation
     The process by which model outputs are
