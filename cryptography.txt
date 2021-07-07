@@ -108,6 +108,16 @@ signed
 
     vim +/"itsdangerous" "$NOTES/ws/python/glossary.txt"
 
+zero-knowledge
+zero-knowledge proof
+zero-knowledge protocol
+    [#cryptography]
+
+    A method by which one party can prove to
+    another party that they know a value x,
+    without conveying any information apart
+    from the fact that they know the value x.
+
 Non-interactive zero-knowledge proof
 NIZK
 zk-SNARK

@@ -3270,3 +3270,12 @@ COATIS
     It is therefore particularly suitable for
     use in causal knowledge acquisition from
     texts.
+
+Char-rnn
+    The term "char-rnn" is short for
+    "character recurrent neural network", and
+    is effectively a recurrent neural network
+    trained to predict the next character
+    given a sequence of previous characters.
+    In this way, we can think of a char-rnn as
+    a classification model.

@@ -11007,3 +11007,7 @@ excise
     Cut out surgically.
     "the precision with which surgeons can
     excise brain tumours"
+
+rescind
+    Revoke, cancel, or repeal (a law, order,
+    or agreement).

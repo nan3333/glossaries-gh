@@ -1,3 +1,41 @@
+reader tag
+reader tag symbol
+    Default reader tags:
+    https://clojure.github.io/clojure/clojure.core-api.html#clojure.core/default-data-readers
+
+    ewwlinks +/"reader tags" "https://blog.davemartin.me/posts/debugging-in-clojure/"
+
+spyscope
+    [debug tool]
+
+    https://github.com/dgrnbrg/spyscope
+
+    A Clojure(Script) library designed to make
+    it easy to debug single- and multi-
+    threaded applications.
+
+    ewwlinks +/"^Spyscope" "https://blog.davemartin.me/posts/debugging-in-clojure/"
+
+Scope-capture
+    [debug tool]    
+    
+    For cases when you need to debug a piece
+    of code more thoroughly, the scope-capture
+    library is indispensable.
+
+    https://github.com/vvvvalvalval/scope-capture
+    
+    It allows you to capture the local
+    environment whenever a certain form is
+    evaluated, and then re-create this
+    environment in the REPL.
+    
+    This allows you to play around in the REPL
+    as if you’d stopped the program at the
+    point when the form was evaluated.
+
+    ewwlinks +/"^Scope-capture" "https://blog.davemartin.me/posts/debugging-in-clojure/"
+
 keyword
     Always maps to itself.
 
@@ -42,6 +80,8 @@ ring
 
 compojure
     [Clojure library]
+
+    Create REST APIs.
 
     A small routing library for Ring that
     allows web applications to be composed of
