@@ -1,4 +1,8 @@
 Delaware
+    [US State]
+
+    Capital: Dover
+
     A small Mid-Atlantic U.S. state, sits on a
     peninsula marked by dune-backed beaches
     bordering the Atlantic Ocean, Delaware

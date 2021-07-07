@@ -1,5 +1,7 @@
 huggingface
 🤗
+Hugging Face
+HF-NLP
     The AI community building the future.
 
     Build, train and deploy state of the art
