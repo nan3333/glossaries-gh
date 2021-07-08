@@ -156,6 +156,17 @@ SPARQL
     languages, for example to SQL and to
     XQuery.
 
+KG
+knowledge graph
+    A representation of a set of statements in
+    the form of a node- and edge-labeled
+    directed multigraph allowing multiple,
+    heterogeneous edges for the same nodes.
+    
+    A collection of definitional statements
+    specifying the meaning of the knowledge
+    graph's labels is called its schema.
+
 KOS
 knowledge organization system
 
@@ -232,3 +243,7 @@ RDF
 
 seed thesaurus
 seed thesaurai
+
+Suggested Upper Merged Ontology
+SUMO
+    [[calibre:Group Modelling for Responsive Environments]]

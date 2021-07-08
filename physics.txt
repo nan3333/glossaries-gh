@@ -1,5 +1,19 @@
 awesome-open https://github.com/SwapneelM/awesome-particle-physics-for-non-physicists
 
+spinor
+    [#geometry]
+    [#physics]
+    
+    Elements of a complex vector space that
+    can be associated with Euclidean space.
+    
+    Like geometric vectors and more general
+    tensors, spinors transform linearly when
+    the Euclidean space is subjected to a
+    slight rotation.
+
+    https://youtu.be/pWlk1gLkF2Y?t=535
+
 tesla turbine
     https://www.youtube.com/watch?v=AfCyzIbpLN4
 
