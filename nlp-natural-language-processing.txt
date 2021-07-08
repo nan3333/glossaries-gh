@@ -3,6 +3,51 @@ $NOTES/ws/linguistics/glossary.txt
 http://learnthesewordsfirst.com/about/what-is-a-multi-layer-dictionary.html
 https://github.com/explosion/spaCy/blob/master/spacy/glossary.py
 
+cloze word
+    Cloze words may be deleted from the text
+    in question either mechanically (every nth
+    word) or selectively, depending on exactly
+    what aspect it is intended to test for.
+
+cloze text
+    A portion of language with certain items,
+    words, or signs removed.
+
+cloze test
+cloze deletion test
+occlusion test
+    An exercise, test, or assessment
+    consisting of cloze text, where the
+    participant is asked to replace the
+    missing language item.
+    
+    Cloze tests require the ability to
+    understand context and vocabulary in order
+    to identify the correct language or part
+    of speech that belongs in the deleted
+    passages.
+    
+    This exercise is commonly administered for
+    the assessment of native and second
+    language learning and instruction.
+    
+    The word cloze is derived from closure in
+    Gestalt theory.
+    
+    The exercise was first described by W. L.
+    Taylor in 1953.
+
+    See "cloze word".
+    
+    The methodology is the subject of an
+    extensive academic literature;
+    nonetheless, teachers commonly devise ad
+    hoc tests.
+    
+    May be used with the spacing effect to
+    improve long-term retention of vocabulary,
+    facts, etc.
+
 soft gradient-based subword tokenization module
 GBST
     [[calibre:Charformer: Fast Character Transformers via Gradient-based Subword Tokenization]]
@@ -3271,11 +3316,32 @@ COATIS
     use in causal knowledge acquisition from
     texts.
 
-Char-rnn
-    The term "char-rnn" is short for
-    "character recurrent neural network", and
-    is effectively a recurrent neural network
-    trained to predict the next character
-    given a sequence of previous characters.
+char-rnn
+character recurrent neural network
+    Is effectively a recurrent NN trained to
+    predict the next character given a
+    sequence of previous characters.
+
     In this way, we can think of a char-rnn as
     a classification model.
+
+context analysis
+    Involves breaking down sentences into
+    n-grams and noun phrases to extract the
+    themes and facets within a collection of
+    unstructured text documents.
+    
+    Through this context, data analysts and
+    others can make better-informed decisions
+    and recommendations, whatever their goals.    
+
+content analysis
+    [Field of study]
+
+    The study of documents and communication
+    artifacts, which might be texts of various
+    formats, pictures, audio or video.
+    
+    Social scientists use content analysis to
+    examine patterns in communication in a
+    replicable and systematic manner.
