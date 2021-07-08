@@ -888,30 +888,38 @@ Spurious Dragon
 
 stablecoin
     An ERC-20 token with a value pegged to
-    another asset's value. There are
-    stablecoins backed by fiat currency like
-    dollars, precious metals like gold, and
-    other cryptocurrencies like Bitcoin.
+    another asset's value.
+    
+    There are stablecoins backed by fiat
+    currency like dollars, precious metals
+    like gold, and other cryptocurrencies like
+    Bitcoin.
 
 staking
     Depositing a quantity of ether (your
     stake) to become a validator and secure
-    the network. A validator checks
-    transactions and proposes blocks under a
-    proof-of-stake consensus model. Staking
-    gives you an economic incentive to act in
-    the best interests of the network. You'll
-    get rewards for carrying out your
+    the network.
+    
+    A validator checks transactions and
+    proposes blocks under a proof-of-stake
+    consensus model.
+    
+    Staking gives you an economic incentive to
+    act in the best interests of the network.
+    
+    You'll get rewards for carrying out your
     validator duties, but lose varying amounts
     of ETH if you don't.
 
 state channels
     A layer 2 solution where a channel is set
     up between participants, where they can
-    transact freely and cheaply. Only a
-    transaction to set up the channel and
-    close the channel is sent to mainnet. This
-    allows for very high transaction
+    transact freely and cheaply.
+    
+    Only a transaction to set up the channel
+    and close the channel is sent to mainnet.
+    
+    This allows for very high transaction
     throughput, but does rely on knowing
     number of participants up front and
     locking up of funds.
