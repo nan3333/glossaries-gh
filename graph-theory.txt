@@ -1,3 +1,18 @@
+multigraph
+    [#mathematics]
+    [#graph theory
+
+    A graph which is permitted to have
+    multiple edges (also called parallel
+    edges), that is, edges that have the same
+    end nodes.
+    
+    Thus two vertices may be connected by more
+    than one edge.
+    
+    When multiple edges connect two nodes,
+    these are different edges.
+
 tree
     An undirected graph in which any two
     vertices are connected by exactly one
