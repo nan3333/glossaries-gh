@@ -1,3 +1,29 @@
+Suggested Upper Merged Ontology
+SUMO
+    [[calibre:Group Modelling for Responsive Environments]]
+
+KIF
+Knowledge Interchange Format
+    http://logic.stanford.edu/kif/dpans.html
+    https://web.archive.org/web/20070212094221/http://www.ksl.stanford.edu/knowledge-sharing/kif/#manual
+
+    A programming language created in 1990.
+    
+    Knowledge Interchange Format (KIF) is a
+    computer language designed to enable
+    systems to share and re-use information
+    from knowledge-based systems.
+    
+    KIF is similar to frame languages such as
+    KL-One and LOOM but unlike such language
+    its primary role is not intended as a
+    framework for the expression or use of
+    knowledge but rather for the interchange
+    of knowledge between systems.
+    
+    The designers of KIF likened it to
+    PostScript.
+
 panoptic
     One universe, containing every possible
     'thing': quantifiers work properly.
@@ -243,7 +269,3 @@ RDF
 
 seed thesaurus
 seed thesaurai
-
-Suggested Upper Merged Ontology
-SUMO
-    [[calibre:Group Modelling for Responsive Environments]]
