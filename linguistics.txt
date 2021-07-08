@@ -1,3 +1,13 @@
+coreference
+co-reference
+    Sometimes written co-reference, occurs
+    when two or more expressions in a text
+    refer to the same person or thing; they
+    have the same referent, e.g. Bill said he
+    would come; the proper noun Bill and the
+    pronoun he refer to the same person,
+    namely to Bill.
+
 dialectic
 dialectics
 dialectical method
