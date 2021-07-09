@@ -11031,3 +11031,18 @@ dispassionate
     able to be rational and impartial.
     "she dealt with life's disasters in a
     calm, dispassionate way"
+
+recourse
+    A source of help in a difficult situation.
+    "surgery may be the only recourse"
+
+    The use of (someone or something) as a
+    source of help in a difficult situation.
+    "a means of solving disputes without
+    recourse to courts of law"
+
+    "was my only recourse"
+
+unequivocal
+    Leaving no doubt; unambiguous.
+    "an unequivocal answer"
