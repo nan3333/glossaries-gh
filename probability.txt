@@ -1,3 +1,39 @@
+statistical distribution
+distribution
+
+multimodal
+multimodal distribution
+    [#statistics]
+
+    See:
+    - unimodal
+    - bimodal
+
+unimodality
+unimodal
+unimodal distribution
+    [#statistics]
+
+    Means possessing a unique mode.
+    
+    More generally, unimodality means there is
+    only a single highest value, somehow
+    defined, of some mathematical object
+
+    (of a statistical distribution) having one
+    maximum.
+
+bimodal
+bimodal distribution
+    [#statistics]
+
+    A probability distribution with two
+    different modes, which may also be
+    referred to as a bimodal distribution.
+    
+    These appear as distinct peaks in the
+    probability density function,
+
 statistical parameter
 population parameter
     A quantity entering into the probability
