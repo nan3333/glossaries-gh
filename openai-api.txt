@@ -1002,6 +1002,7 @@ top p sampling
     See "Top P".
 
 Top P
+top-p
     [#OpenAI API]
     [API setting]
     [GPT-3 prompt setting]
