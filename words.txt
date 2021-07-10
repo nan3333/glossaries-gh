@@ -11082,3 +11082,13 @@ gall
 rancor
     An angry feeling of hatred or dislike for
     someone who has treated you unfairly.
+
+estranged
+    (of a person) no longer close or
+    affectionate to someone; alienated.
+    "Harriet felt more estranged from her
+    daughter than ever"
+
+    (of a wife or husband) no longer living
+    with their spouse.
+    "his estranged wife"
