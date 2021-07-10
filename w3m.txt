@@ -1,3 +1,15 @@
+RDF/XML
+    [Format]
+
+    A syntax, defined by the W3C, to express
+    an RDF graph as an XML document.
+    
+    RDF/XML is sometimes misleadingly called
+    simply RDF because it was introduced among
+    the other W3C specifications defining RDF
+    and it was historically the first W3C
+    standard RDF serialization format.
+
 SPARQL
     An RDF query language—that is, a semantic
     query language for databases—able to

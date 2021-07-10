@@ -1,3 +1,12 @@
+Wikidata
+    A collaboratively edited multilingual KG
+    hosted by the Wikimedia Foundation.
+    
+    It is a common source of open data that
+    Wikimedia projects such as Wikipedia, and
+    anyone else, can use under the CC0 public
+    domain license.
+
 Suggested Upper Merged Ontology
 SUMO
     [[calibre:Group Modelling for Responsive Environments]]
