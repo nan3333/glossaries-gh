@@ -7366,6 +7366,10 @@ bikeshed
     actual importance. 
 
 bikeshedding
+    A point when a meeting or discussion
+    ceases to focus on the primary topic at
+    hand, to focus on more trivial concepts.
+
     The process of arguing endlessly over
     details of some small and relatively
     unimportant thing.
@@ -11092,3 +11096,31 @@ estranged
     (of a wife or husband) no longer living
     with their spouse.
     "his estranged wife"
+
+unicum
+    A unique example or specimen.
+    "the castle is not a unicum, it fits into
+    the California tourist landscape with
+    perfect coherence"
+
+divication
+    To wander or stray from a course or
+    subject : diverge, digress.
+
+    "a divication"
+
+Sisyphus
+    In Greek mythology Sisyphus or Sisyphos
+    was the founder and king of Ephyra.
+    
+    He was punished for cheating death twice
+    by being forced to roll an immense boulder
+    up a hill only for it to roll down every
+    time it neared the top, repeating this
+    action for eternity.
+
+whittled
+    Carve (wood) into an object by repeatedly
+    cutting small slices from it.
+    "he was sitting at the tent door,
+    whittling a piece of wood with a knife"

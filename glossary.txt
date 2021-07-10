@@ -11488,11 +11488,6 @@ Natural law
     positive law of any given political order,
     society or nation-state.
 
-nucleus sampling
-    v +/"Nucleus sampling" "$MYGIT/mullikine/gpt-2/src/sample.py"
-
-    https://arxiv.org/pdf/1904.09751.pdf
-
 Neural Text Degeneration
 
 collatz conjecture
@@ -12998,3 +12993,11 @@ class warfare
     consequent to socio-economic competition
     among the social classes or between rich
     and poor.
+
+crib note
+    A brief reminder or item of information
+    written on a slip of paper or in a
+    concealable place such as on one's arm, as
+    an aid for a public speaker or for use by
+    a student or other person cheating during
+    an examination.
