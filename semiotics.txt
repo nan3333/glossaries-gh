@@ -81,8 +81,6 @@ semiosic translation
     semiosis as a determinant of all forms of
     translation across sign systems.
 
-semiosic
-
 semiotics
     The study of signs and symbols and their
     use or interpretation.
@@ -115,6 +113,34 @@ discursive
 
     "the attempt to transform utterances from
     one discursive context to another"
+
+sign
+    Anything that communicates a meaning, that
+    is not the sign itself, to the interpreter
+    of the sign.
+    
+    The meaning can be intentional such as a
+    word uttered with a specific meaning, or
+    unintentional, such as a symptom being a
+    sign of a particular medical condition.
+    
+    Signs can communicate through any of the
+    senses, visual, auditory, tactile,
+    olfactory, or taste.
+
+sign process
+semiosis
+    Any form of activity, conduct, or process
+    that involves signs, including the
+    production of meaning.
+
+    Describes a process that interprets signs
+    as referring to their objects, as
+    described in Charles Sanders Peirce's
+    theory of sign relations, or semiotics.
+
+semiosic
+    Relating to semiosis.
 
 semiosis of angels
     https://muse.jhu.edu/article/636617/pdf
@@ -173,8 +199,28 @@ explication
 
 sign-pole
 
+intersemiosis
 intersemioticity
+    Transmutation of verbal signs by nonverbal
+    sign systems.
+
+    Example:
+        Language and gesture combine to make
+        meaning by extending concepts
+        originally developed for
+        language–image relations.
 
 uttererin order
 
 intertextuality
+    The shaping of a text's meaning by another
+    text.
+    
+    It is the interconnection between similar
+    or related works of literature that
+    reflect and influence an audience's
+    interpretation of the text.
+    
+    Intertextuality is the relation between
+    texts that are inflicted by means of
+    quotations and allusion.
