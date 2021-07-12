@@ -1,3 +1,12 @@
+constraint logic programming
+    A form of constraint programming, in which
+    logic programming is extended to include
+    concepts from constraint satisfaction.
+    
+    A constraint logic program is a logic
+    program that contains constraints in the
+    body of clauses.
+
 declarative reading
 concluding reading
     [prolog reading method]

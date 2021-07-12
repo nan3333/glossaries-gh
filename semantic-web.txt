@@ -1,3 +1,13 @@
+Semantic Web stack
+    - RDF(S)
+    - OWL
+
+    Allow for a fluent representation of
+    various types of data and content: data
+    schema, taxonomies and vocabularies, all
+    sorts of metadata, reference and master
+    data.
+
 semantic web tower
     https://www.w3.org/RDF/Metalog/docs/sw-easy
 
