@@ -1,4 +1,5 @@
 egalitarian
+egalitarianism
     Believing in or based on the principle
     that all people are equal and deserve
     equal rights and opportunities.
@@ -10,7 +11,12 @@ egalitarian
     egalitarian"
 
 cancel culture
+call-out culture
+    A modern form of ostracism in which
+    someone is thrust out of social or
+    professional circles - whether it be
+    online, on social media, or in person.
 
-long-march
-
-left
+    The expression "cancel culture" has mostly
+    negative connotations and is commonly used
+    in debates on free speech and censorship.
