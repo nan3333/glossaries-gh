@@ -11134,3 +11134,20 @@ scenius
 
     It is the communal form of the concept of
     the genius.
+
+duplicitous
+    deceitful.
+    "a duplicitous philanderer"
+
+    (of a charge or plea) containing more than
+    one allegation.
+
+stipulate
+    Demand or specify (a requirement),
+    typically as part of an agreement.
+
+    "he stipulated certain conditions before
+    their marriage"
+
+stipulable
+    That can be stipulated.
