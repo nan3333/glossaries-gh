@@ -1,3 +1,14 @@
+builder
+builder pattern
+    [#multi-stage build]
+    [pattern]
+
+    Two files:
+    - Dockerfile.build
+    - Dockerfile
+
+    https://docs.docker.com/develop/develop-images/multistage-build/
+
 multi-stage build
 from .* as
     https://docs.docker.com/develop/develop-images/multistage-build/
