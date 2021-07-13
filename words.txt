@@ -5816,8 +5816,8 @@ postmodernism
     tendencies of this era.
 
 hyperreality
-    [semiotics]
-    [postmodernism]
+    [#semiotics]
+    [#postmodernism]
 
     An inability of consciousness to
     distinguish reality from a simulation of

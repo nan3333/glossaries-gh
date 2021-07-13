@@ -1,3 +1,18 @@
+nomography
+    https://kartsci.org/kocomu/computer-history/the-art-of-nomography/
+
+
+nomogram
+    [#nomography]
+    [mathematical tool]
+
+    A nomogram, also called a nomograph,
+    alignment chart, or abaque, is a graphical
+    calculating device, a two-dimensional
+    diagram designed to allow the approximate
+    graphical computation of a mathematical
+    function
+
 Diagonalization Proof
 Cantor's Diagonalization Proof
     https://youtu.be/HeQX2HjkcNo?t=381

@@ -8,6 +8,7 @@ builder pattern
     - Dockerfile
 
     https://docs.docker.com/develop/develop-images/multistage-build/
+    https://betterprogramming.pub/super-slim-docker-containers-fdaddc47e560
 
 multi-stage build
 from .* as
