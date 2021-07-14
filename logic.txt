@@ -1,3 +1,139 @@
+logic
+    Types
+    - epistemic,
+    - doxastic,
+    - temporal,
+    - deontic,
+    - modal,
+    - paraconsistent,
+    - default,
+    - defeasible,
+    - nonmonotonic
+
+epistemic
+epistemic modal logic
+    [type of logic]
+
+    A subfield of modal logic that is
+    concerned with reasoning about knowledge.
+
+doxastic
+    [type of logic]
+
+    A type of logic concerned with reasoning
+    about beliefs.
+    
+    The term doxastic derives from the Ancient
+    Greek δόξα, from which the English term
+    doxa is also borrowed.
+
+temporal
+    [type of logic]
+
+    Any system of rules and symbolism for
+    representing, and reasoning about,
+    propositions qualified in terms of time.
+
+    For example:
+    - "I am always hungry"
+    - "I will eventually be hungry"
+    - "I will be hungry until I eat something"
+
+deontic
+    [type of logic]
+
+    The field of philosophical logic that is
+    concerned with obligation, permission, and
+    related concepts.
+    
+    Alternatively, a deontic logic is a formal
+    system that attempts to capture the
+    essential logical features of these
+    concepts.
+
+modal
+    [type of logic]
+
+    A collection of formal systems originally
+    developed and still widely used to
+    represent statements about necessity and
+    possibility.
+    
+    The basic unary modal operators are most
+    often interpreted "□" for "Necessarily"
+    and "◇" for "Possibly".
+
+paraconsistent
+    [type of logic]
+
+    An attempt at a logical system to deal
+    with contradictions in a discriminating
+    way.
+    
+    Alternatively, paraconsistent logic is the
+    subfield of logic that is concerned with
+    studying and developing "inconsistency-
+    tolerant" systems of logic which reject
+    the principle of explosion.
+
+default
+    [type of logic]
+
+    A non-monotonic logic proposed by Raymond
+    Reiter to formalize reasoning with default
+    assumptions.
+    
+    Default logic can express facts like “by
+    default, something is true”; by contrast,
+    standard logic can only express that
+    something is true or that something is
+    false.
+
+defeasible
+    [type of logic]
+    
+    A non-monotonic logic proposed by Donald
+    Nute to formalize defeasible reasoning.
+    
+    In defeasible logic, there are three
+    different types of propositions:
+    
+    - Strict rules.
+      Specify that a fact is always a
+      consequence of another
+
+    - Defeasible rules.
+      Specify that a fact is typically a
+      consequence of another
+
+    - Undercutting defeaters.
+      specify exceptions to defeasible rules.
+
+    A priority ordering over the defeasible
+    rules and the defeaters can be given.
+    
+    During the process of deduction, the
+    strict rules are always applied, while a
+    defeasible rule can be applied only if no
+    defeater of a higher priority specifies
+    that it should not.
+
+nonmonotonic
+non-monotonic
+    [type of logic]
+
+    A formal logic whose conclusion relation
+    is not monotonic.
+    
+    In other words, non-monotonic logics are
+    devised to capture and represent
+    defeasible inferences (cf. defeasible
+    reasoning), i.e., a kind of inference in
+    which reasoners draw tentative
+    conclusions, enabling reasoners to retract
+    their conclusion(s) based on further
+    evidence.
+
 Lemma
     [#Mathematics]
     [#informal logic]
