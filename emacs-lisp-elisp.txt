@@ -120,3 +120,19 @@ posframe
 
 pcase
     http://newartisans.com/2016/01/pattern-matching-with-pcase/
+
+    (pcase value 
+      (`(1 2 (4 . 5) ,(pred stringp)) 
+        (message "It matched!")))
+
+    pred is a form belonging to pcase.
+    It allows you to make an assertion of the
+    value in that place.
+
+pcase-let
+    http://newartisans.com/2016/01/pattern-matching-with-pcase/
+
+    (pcase-let ((`(1 2 ,foo) value1) 
+                (`(3 4 ,bar) value2)) 
+      (message "value1 is a list of (1 2 %s); value2 ends with %s" 
+               foo bar)) 

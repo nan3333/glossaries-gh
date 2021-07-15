@@ -1,3 +1,21 @@
+cryptozoology
+    A pseudoscience and subculture that aims
+    to prove the existence of entities from
+    the folklore record, such as Bigfoot, the
+    Loch Ness Monster, Yeti, the chupacabra,
+    the Jersey Devil, or the Mokele-mbembe.
+    
+    Cryptozoologists refer to these entities
+    as cryptids, a term coined by the
+    subculture.
+
+cryptid
+    [#cryptozoology]
+
+    An animal whose existence or survival is
+    disputed or unsubstantiated, such as the
+    yeti.
+
 numerology
     The belief in the divine or mystical
     relationship between a number and one or

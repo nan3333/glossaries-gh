@@ -11156,3 +11156,13 @@ amalgamate
     Combine or unite to form one organization
     or structure.
     "he amalgamated his company with another"
+
+requisite
+    Made necessary by particular circumstances
+    or regulations.
+
+    "the application will not be processed
+    until the requisite fee is paid"
+
+    "perhaps you should take the requisite
+    time to..."
