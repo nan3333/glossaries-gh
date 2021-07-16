@@ -11184,3 +11184,16 @@ misappropriation
     funds/money/assets He was charged with
     forgery and misappropriation of union
     assets.
+
+instrumental
+    Serving as a crucial means, agent, or tool
+    was instrumental in organizing the strike.
+
+    Of, relating to, or done with an
+    instrument or tool.
+
+    Relating to, composed for, or performed on
+    a musical instrument.
+
+    Of, relating to, or being a grammatical
+    case or form expressing means or agency.
