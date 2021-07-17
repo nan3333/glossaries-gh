@@ -279,3 +279,10 @@ predicate
 
     Something which is affirmed or denied
     concerning an argument of a proposition.
+
+argumentum a fortiori
+    A form of argumentation that draws upon
+    existing confidence in a proposition to
+    argue in favor of a second proposition
+    that is held to be implicit in, and even
+    more certain than, the first.

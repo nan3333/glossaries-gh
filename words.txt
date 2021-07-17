@@ -11197,3 +11197,7 @@ instrumental
 
     Of, relating to, or being a grammatical
     case or form expressing means or agency.
+
+despotic
+    Of or typical of a despot; tyrannical.
+    "a despotic regime"
