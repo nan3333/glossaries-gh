@@ -1,4 +1,16 @@
-Neural engineering
+neuroprosthesis
+neuroprosthetics
+    A discipline related to neuroscience and
+    biomedical engineering concerned with
+    developing neural prostheses.
+    
+    They are sometimes contrasted with a
+    brain–computer interface, which connects
+    the brain to a computer rather than a
+    device meant to replace missing biological
+    functionality.
+
+neural engineering
     A discipline within biomedical engineering
     that uses engineering techniques to
     understand, repair, replace, or enhance

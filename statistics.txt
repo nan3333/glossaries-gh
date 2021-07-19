@@ -1,3 +1,14 @@
+ground truth
+    A term used in various fields to refer to
+    information that is known to be real or
+    true, provided by direct observation and
+    measurement (i.e. empirical evidence) as
+    opposed to information provided by
+    inference.
+
+    "the ground truth of the messages used to
+    train the algorithm"
+
 log-likelihood
     The natural logarithm of the likelihood.
 
