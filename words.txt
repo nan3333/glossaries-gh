@@ -11201,3 +11201,15 @@ instrumental
 despotic
     Of or typical of a despot; tyrannical.
     "a despotic regime"
+
+complacency
+    A feeling of smug or uncritical
+    satisfaction with oneself or one's
+    achievements.
+    "the figures are better, but there are no
+    grounds for complacency"
+
+acquiescent
+    Ready to accept something without protest,
+    or to do what someone else wants.
+    "his acquiescent mood"
