@@ -11213,3 +11213,8 @@ acquiescent
     Ready to accept something without protest,
     or to do what someone else wants.
     "his acquiescent mood"
+
+concupiscence
+    NLG: A strong desire for something,
+    typically something that is considered
+    immoral or sinful.
