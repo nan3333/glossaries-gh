@@ -1,3 +1,10 @@
+fan
+aficionado
+    A person who is very knowledgeable and
+    enthusiastic about an activity, subject,
+    or pastime.
+    "a crossword aficionado"
+
 meritocracy
     Meritocracy is a political system in which
     economic goods and/or political power are
@@ -11217,4 +11224,23 @@ acquiescent
 concupiscence
     NLG: A strong desire for something,
     typically something that is considered
-    immoral or sinful.
+
+reductive
+    Tending to present a subject or problem in
+    a simplified form, especially one viewed
+    as crude.
+
+    "such a conclusion by itself would be
+    reductive"
+
+transverse
+    Situated or extending across something.
+    "a transverse beam supports the dashboard"
+
+subjective
+    Based on or influenced by personal
+    feelings, tastes, or opinions.
+
+storyline
+    The plot of a novel, play, film, or other
+    narrative form.

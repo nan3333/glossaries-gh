@@ -1,3 +1,15 @@
+eisenhower matrix
+    A simple tool for considering the long-
+    term outcomes of your daily tasks and
+    focusing on what will make you most
+    effective, not just most productive.
+    
+    It helps you visualize all your tasks in a
+    matrix of urgent/important.
+    
+    Urgent & Unimportant tasks/projects to be
+    delegated to someone else.
+
 Jürgen Schmidhuber
     [computer scientist]
 
