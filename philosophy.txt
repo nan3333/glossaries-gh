@@ -1,3 +1,13 @@
+infinite regress
+    An infinite series of entities governed by
+    a recursive principle that determines how
+    each entity in the series depends on or is
+    produced by its predecessor.
+    
+    In the epistemic regress, for example, a
+    belief is justified because it is based on
+    another belief that is justified.
+
 René Girard
 René Noël Théophile Girard
     [French historian]
