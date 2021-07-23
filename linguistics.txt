@@ -1,3 +1,13 @@
+dialectic
+    The art of investigating or discussing the
+    truth of opinions.
+
+    Inquiry into metaphysical contradictions
+    and their solutions.
+
+    Relating to dialectic or dialectics;
+    dialectical.
+
 coreference
 co-reference
     Sometimes written co-reference, occurs
