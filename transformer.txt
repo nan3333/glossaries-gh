@@ -249,6 +249,8 @@ soft prompt
     incorporate signal from any number of
     labeled examples.
 
+    https://gaotianyu.xyz/prompting/
+
 prompt tuning
     [[calibre:The Power of Scale for Parameter-Efficient Prompt Tuning]]
 
