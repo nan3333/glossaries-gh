@@ -11244,3 +11244,9 @@ subjective
 storyline
     The plot of a novel, play, film, or other
     narrative form.
+
+vociferous
+    Expressing or characterized by vehement
+    opinions; loud and forceful.
+    "he was a vociferous opponent of the
+    takeover"
