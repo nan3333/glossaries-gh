@@ -10,3 +10,8 @@ Sigmund Freud
     Freud was born to Galician Jewish parents
     in the Moravian town of Freiberg, in the
     Austrian Empire.
+
+parapraxis
+freudian slip
+    A minor error in speech or action that
+    reveals an unconscious thought.
