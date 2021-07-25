@@ -1,3 +1,14 @@
+Lectionary
+    A book or listing that contains a
+    collection of scripture readings appointed
+    for Christian or Judaic worship on a given
+    day or occasion.
+    
+    There are sub-types such as a "gospel
+    lectionary" or evangeliary, and an
+    epistolary with the readings from the New
+    Testament Epistles.
+
 Tetragrammaton
 JHVH
 YHWH

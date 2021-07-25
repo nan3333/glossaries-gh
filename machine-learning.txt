@@ -1,3 +1,11 @@
+fitness function
+FF
+    Defined as a particular type of objective
+    function used to assess how close a
+    solution, created by defined combinations
+    of a creature, is to achieving the set
+    aims.
+
 cosine similarity
     A metric used to measure how similar the
     documents are irrespective of their size.
