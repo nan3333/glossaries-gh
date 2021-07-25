@@ -1,3 +1,25 @@
+no_packing
+use_packing
+    Defaults to use_packing.
+    
+    On classification tasks and tasks where
+    your dataset is small, you should set
+    no_packing.
+    
+    On all other tasks, we recommend setting
+    use_packing.
+    
+    When using packing, we pack as many
+    prompt-completion pairs as possible into
+    each training example.
+    
+    This greatly increases the speed of a
+    fine-tuning job.
+
+    y:context-stuffing
+
+    vim +/"context-stuffing" "$NOTES/ws/prompt-engineering/glossary.txt"
+
 <|endoftext|>
     The document separator that the model sees
     during training, so if a prompt is not
@@ -738,6 +760,15 @@ logprobs
     The api will always return the logprob of
     the sampled token, so there may be up to
     logprobs+1 elements in the response.
+
+class log probabilities
+    [#openai api]
+    [#finetuning]
+    [api setting]
+
+    You can specify logprobs=10 (for 10
+    classes) when using your model to get class
+    log probabilities.
 
 max tokens
 max_tokens
