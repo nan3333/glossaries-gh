@@ -2,3 +2,38 @@ albedo
     The proportion of the incident light or
     radiation that is reflected by a surface,
     typically that of a planet or moon.
+
+wavefront
+    A wave front is defined as a surface over
+    which the phase of the wave is constant.
+    
+    In a particular wave front, at a given
+    moment of time, all particles of the
+    medium are undergoing the same motion.
+    
+    Two types of wave fronts are particularly
+    important.
+    
+    They are plane wave fronts and spherical
+    wave fronts.
+
+phase
+out of phase
+    A definition of the position of a point in
+    time (instant) on a waveform cycle.
+
+    Phase can also be an expression of
+    relative displacement between or among
+    waves having the same frequency .
+
+    Phase is the same frequency, same cycle,
+    same wavelength, but are 2 or more wave
+    forms not exactly aligned together.
+    
+    "Phase is not a property of just one RF
+    signal but instead involves the
+    relationship between two or more signals
+    that share the same frequency.
+    
+    Below is an example of 2 wave forms 90
+    degree out of phase.

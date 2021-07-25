@@ -10,12 +10,12 @@ holography
     In principle, it is possible to make a
     hologram for any type of wave.
     
-    A hologram is made by superimposing a
-    second wavefront (normally called the
-    reference beam) on the wavefront of
-    interest, thereby generating an
-    interference pattern which is recorded on
-    a physical medium.
+hologram
+    Made by superimposing a second wavefront
+    (normally called the reference beam) on
+    the wavefront of interest, thereby
+    generating an interference pattern which
+    is recorded on a physical medium.
     
     When only the second wavefront illuminates
     the interference pattern, it is diffracted
