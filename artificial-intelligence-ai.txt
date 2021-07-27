@@ -306,3 +306,10 @@ Model
 visio-linguistic
     Example:
         "visio-linguistic models"
+
+extended mind hypothesis
+    NLG: The idea that our minds are not
+    confined to our brains, but rather that
+    they extend into the external world and
+    can be affected by it.
+    
