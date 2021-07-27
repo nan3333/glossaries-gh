@@ -70,15 +70,18 @@ holographic programming
     where the language models are trained on
     software.
 
-    The code being written, therefore, is
-    employing associations made between
-    elements of the code, how that code is
-    used and how it is described, to build
+    Holographic code, therefore, may employ
+    associations made between elements of the
+    original code, how that code is used and
+    how it is described, to build
     applications.
 
-    This lets you code within the hyperspace
-    of a language model to enable things like:
-    - reflection
+    Holographic programming lets you use the
+    latent space of a language model as a kind
+    of hyperspace to enable things like:
+    - bridge the usage of an application with
+      the application's code
+    - imaginary reflection
     - inference in place of computation
 
 literate programming
