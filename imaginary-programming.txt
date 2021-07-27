@@ -1,6 +1,10 @@
 imaginary programming
-    Programming with functions based on
-    language models.
+    To make an analogy, imaginary programming
+    is a type of programming much like
+    pure-functional, where the functions may
+    be 'contaminated', not by state but by
+    dependency on or contamination by a
+    language model.
 
 ordinary programming
     Programming with functions that do not
