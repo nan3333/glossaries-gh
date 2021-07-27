@@ -1,0 +1,17 @@
+imaginary programming
+    Programming with functions based on
+    language models.
+
+ordinary programming
+    Programming with functions that do not
+    have an imaginary dimension (they do not
+    take a language model as a parameter and
+    the result of ordinary code is not
+    polluted by a language model).
+
+holographic programming
+    [type of imaginary programming]
+
+    This is like imaginary programming but
+    where the language models are trained on
+    software.
