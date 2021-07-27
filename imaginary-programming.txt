@@ -1,11 +1,23 @@
 imaginary programming
 IP
+    A programming paradigm in which a computer
+    program's behaviour exists in relativity to
+    language models.
+
     To make an analogy, imaginary programming
-    is a type of programming much like
-    pure-functional, where what is deemed
-    'imaginary' is code that has been
-    'contaminated' by output from a language
-    and behaviour altered by it.
+    is a type of programming, where much like
+    pure-functional, code who's behaviour
+    depends on the output of a language model,
+    either pending or precomputed, stands
+    apart from that which has no such
+    association.
+
+    What is deemed 'imaginary' is code has or
+    will be be 'contaminated' by output from a
+    language and behaviour so altered by it.
+
+    What is deemed 'ordinary' is code which is
+    not 'imaginary'.
 
     A distinction is made between grounded and
     non-grounded imaginary programming.
@@ -13,6 +25,7 @@ IP
 grounded
 grounded imaginary programming
 non-grounded
+pure imaginary programming
     If an imaginary function has the language
     model as a parameter then it is considered
     'grounded'.
@@ -22,7 +35,7 @@ non-grounded
     used a language model as a parameter, but
     does not contain a reference to specific
     language model used then it is considered
-    'non-grounded'.
+    'non-grounded' or 'pure imaginary'.
 
     Non-grounded code is still code in a
     similar way to how pure functional code is
