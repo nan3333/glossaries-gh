@@ -18,13 +18,13 @@ non-grounded
 
     If an imaginary function relies on the
     output of functions that have in the past
-    used model as a parameter, but does not
-    contain a reference to specific language
-    model used then it is considered
+    used a language model as a parameter, but
+    does not contain a reference to specific
+    language model used then it is considered
     'non-grounded'.
 
     non-grounded code is still code in the way
-    that pure functional cade is code.
+    that pure functional code is code.
 
 ordinary programming
     Programming with functions that do not
