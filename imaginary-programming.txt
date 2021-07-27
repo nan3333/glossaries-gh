@@ -6,21 +6,25 @@ IP
 
     To make an analogy, imaginary programming
     is a type of programming, where much like
-    pure-functional, code who's behaviour
+    pure-functional, the code who's behaviour
     depends on the output of a language model,
     either pending or precomputed, stands
-    apart from that which has no such
+    apart from the part that has no such
     association.
 
-    What is deemed 'imaginary' is code has or
-    will be be 'contaminated' by output from a
-    language and behaviour so altered by it.
+    What is deemed 'imaginary' is code that
+    uses or is waiting on output from a
+    language and its behaviour is so altered
+    by it.
 
     What is deemed 'ordinary' is code which is
     not 'imaginary'.
 
     A distinction is made between grounded and
     non-grounded imaginary programming.
+    'Non-grounded imaginary programming' may
+    also be called 'pure imaginary
+    programming'.
 
 grounded
 grounded imaginary programming
