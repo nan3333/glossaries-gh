@@ -14,8 +14,8 @@ IP
 
     What is deemed 'imaginary' is code that
     uses or is waiting on output from a
-    language and its behaviour is so altered
-    by it.
+    language model and its behaviour is so
+    altered by it.
 
     What is deemed 'ordinary' is code which is
     not 'imaginary'.
