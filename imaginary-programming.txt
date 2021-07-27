@@ -1,4 +1,5 @@
 imaginary programming
+IP
     To make an analogy, imaginary programming
     is a type of programming much like
     pure-functional, where what is deemed
@@ -23,8 +24,9 @@ non-grounded
     language model used then it is considered
     'non-grounded'.
 
-    non-grounded code is still code in the way
-    that pure functional code is code.
+    Non-grounded code is still code in a
+    similar way to how pure functional code is
+    considered code.
 
 ordinary programming
     Programming with functions that do not
@@ -50,3 +52,9 @@ holographic programming
     of a language model to enable things like:
     - reflection
     - inference in place of computation
+
+literate programming
+    NLG: A programming paradigm that
+    emphasizes the importance of the reading
+    and writing of code over the importance of
+    the design of the code.
