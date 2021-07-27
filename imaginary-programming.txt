@@ -19,3 +19,14 @@ holographic programming
     This is like imaginary programming but
     where the language models are trained on
     software.
+
+    The code being written, therefore, is
+    employing associations made between
+    elements of the code, how that code is
+    used and how it is described, to build
+    applications.
+
+    This lets you code within the hyperspace
+    of a language model to enable things like:
+    - reflection
+    - inference in place of computation
