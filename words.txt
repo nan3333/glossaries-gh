@@ -11250,3 +11250,10 @@ vociferous
     opinions; loud and forceful.
     "he was a vociferous opponent of the
     takeover"
+
+boisterous
+    Noisy, energetic, and cheerful.
+    "a group of boisterous lads"
+
+    (of weather or water) wild or stormy.
+    "the boisterous wind was lulled"

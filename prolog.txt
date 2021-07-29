@@ -1,3 +1,20 @@
+help.
+    [query]
+
+    Show help.
+
+    x -sh swipl -e "?-" -s help. -c m -i
+
+pwd.
+    [query]
+
+    See your active directory.
+
+cd('/home/shane').
+    [query]
+
+    Set your active directory.
+
 constraint logic programming
     A form of constraint programming, in which
     logic programming is extended to include
