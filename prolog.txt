@@ -5,6 +5,11 @@ help.
 
     x -sh swipl -e "?-" -s help. -c m -i
 
+halt.
+    [query]
+
+    Exit swipl.
+
 pwd.
     [query]
 
@@ -75,9 +80,18 @@ clause
 fact
     State what is always true.
 
+program
+    Consists of:
+    - theorems
+    - axioms
+
 rule
+theorem
     State what is true under certain
     conditions. 
+
+axiom
+assertion
 
 condition
 
