@@ -1,3 +1,136 @@
+sampling temperature
+temperature
+    [#OpenAI API]
+    [API setting]
+    [GPT-3 prompt setting]
+    [GPT hyperparameter]
+    [#GPT]
+
+    0.9 recommended value.
+    min value: 0
+    max value: 1
+
+    0: deterministic, (not random)
+    1: creative, max random
+
+    https://towardsdatascience.com/how-to-sample-from-language-models-682bceb97277
+
+    openai api engines.generate -h | vs +/"-t TEMPERATURE"
+
+    Controls token randomness.
+
+    Higher values means the model will take
+    more risks.
+    
+    Try 0.9 for more creative applications,
+    and 0 (argmax sampling) for ones with a
+    well-defined answer.
+    
+    A lower setting results in less random
+    completions a higher setting is less
+    deterministic and repetitive.
+    
+    Lower settings are generally better for
+    classification tasks and higher settings
+    for more open-ended responses.
+
+    Float value controlling randomness in
+    boltzmann distribution.
+    
+    Lower temperature results in less random
+    completions.
+    
+    As the temperature approaches zero, the
+    model will become deterministic and
+    repetitive.
+    
+    Higher temperature results in more random
+    completions.
+
+    How much creative liberty the model has.
+
+    The lower the value, the less creative
+    liberty it has.
+
+    Controls the randomness of the completion.
+    
+    Setting it to a high value ensures that a
+    completely different response is returned
+    even if a prompt is reused.
+    
+    If an idempotent response is desired
+    instead, set this to zero.
+
+nucleus sampling
+top p sampling
+    Compute the cumulative distribution and
+    cut off as soon as the CDF exceeds P.
+    
+    Example:
+        In a broad distribution, it may take
+        the top 100 tokens to exceed top_p =
+        .9.
+        
+        In a narrow distribution, we may
+        already exceed top_p = .9.
+    
+    Still avoid sampling egregiously wrong
+    tokens, but preserve variety when the
+    highest scoring tokens have low
+    confidence.
+
+    A method of determining which tokens to
+    use that looks at the combined probability
+    of groups of tokens.
+
+    See "Top P".
+
+    v +/"Nucleus sampling" "$MYGIT/mullikine/gpt-2/src/sample.py"
+
+    https://arxiv.org/pdf/1904.09751.pdf
+
+Top P
+top-p
+    [#OpenAI API]
+    [API setting]
+    [GPT-3 prompt setting]
+    [GPT hyperparameter]
+    [#GPT]
+
+    Floating point value.
+
+    Max value: 1
+    Recommended value: 1
+    Min value: 0
+    
+    https://towardsdatascience.com/how-to-sample-from-language-models-682bceb97277
+
+    Diversity via nucleus sampling.
+
+    Cuts off tokens below a certain
+    probability threshold.
+
+    We generally recommend keeping it set to
+    around 1.
+
+    Similar to temperature, this is an API
+    setting that controls the diversity of
+    tokens considered using nucleus sampling.
+    
+    A lower setting results in less random
+    completions a higher setting is less
+    deterministic and repetitive.
+    
+    Lower settings are generally better for
+    classification tasks and higher settings
+    for more open-ended responses.
+
+    Controls diversity via nucleus sampling:
+    1.5 means half of all likelihood-weighted
+    options are considered.
+
+    See "nucleus sampling".
+
 fine-tune checkpoint
     ewwlinks +/"fine-tune checkpoint" "https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english"
 
