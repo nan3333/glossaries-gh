@@ -11257,3 +11257,16 @@ boisterous
 
     (of weather or water) wild or stormy.
     "the boisterous wind was lulled"
+
+abscond
+    Leave hurriedly and secretly, typically to
+    escape from custody or avoid arrest.
+    "the barman absconded with a week's takings"
+
+    (of a person on bail) fail to surrender
+    oneself for custody at the appointed time.
+    "charges of absconding while on bail"
+
+    (of a colony of honeybees, especially
+    Africanized ones) entirely abandon a hive
+    or nest.
