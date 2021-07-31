@@ -11270,3 +11270,7 @@ abscond
     (of a colony of honeybees, especially
     Africanized ones) entirely abandon a hive
     or nest.
+
+intuit
+    Understand or work out by instinct.
+    "I intuited his real identity"

@@ -72,8 +72,32 @@ evm
     Its purpose is to allow isolated, fine-
     grained debugging of EVM opcodes
 
-    evm --code 60ff60ff --debug run
+        evm --code 60ff60ff --debug run
 
+EVM
+Ethereum VM
+Ethereum Virtual Machine
+    In the Ethereum universe, there is a
+    single, canonical computer (called the
+    Ethereum VM, or EVM) whose state everyone
+    on the Ethereum network agrees on.
+    
+    Everyone who participates in the Ethereum
+    network (every Ethereum node) keeps a copy
+    of the state of this computer.
+    
+    Additionally, any participant can
+    broadcast a request for this computer to
+    perform arbitrary computation.
+    
+    Whenever such a request is broadcast,
+    other participants on the network verify,
+    validate, and carry out (“execute”) the
+    computation.
+    
+    This causes a state change in the EVM,
+    which is committed and propagated
+    throughout the entire network.
 
 gethrpctest
     [cli tool]
@@ -189,6 +213,9 @@ token
     Essentially, Ethereum tokens are smart
     contracts that make use of the Ethereum
     blockchain.
+
+    A token can be created as a smart contract
+    in Ethereum.
 
 web3
     https://ethereum.org/en/developers/docs/web2-vs-web3/
@@ -1243,3 +1270,39 @@ web3.js
     Ethereum
 
     https://github.com/ethereum/web3.js
+
+GHOST
+GHOST protocol
+Greedy Heaviest Observed Subtree
+    http://www.cs.huji.ac.il/~avivz/pubs/13/btcscalabilityfull.pdf
+
+    The Ethereum client P2P protocol is a
+    fairly standard cryptocurrency protocol,
+    and can just as easily be used for any
+    other cryptocurrency; the only
+    modification is the introduction of the
+    GHOST protocol first introduced by Yonatan
+    Sompolinsky and Aviv Zohar.
+
+    The motivation for and implementation of
+    GHOST will be described in more detail
+    below.
+    
+    The Ethereum client will be entirely
+    reactive; it will not do anything by
+    itself (except for the networking daemon
+    maintaining connections) unless provoked.
+    
+    However, the client will also be more
+    powerful; unlike bitcoind, which only
+    stores a limited amount of data about the
+    blockchain, the Ethereum client will also
+    act as a fully functional backend for a
+    block explorer.
+
+Mist
+    https://github.com/ethereum/mist/releases
+
+    A browser to browse dApps hosted in cloud.
+    
+    It can be used as a wallet manage as well.

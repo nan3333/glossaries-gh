@@ -1,3 +1,18 @@
+confabulation
+    [psychology]
+
+    A memory error defined as the production
+    of fabricated, distorted, or
+    misinterpreted memories about oneself or
+    the world.
+    
+    People who confabulate present incorrect
+    memories ranging from "subtle alterations
+    to bizarre fabrications", and are
+    generally very confident about their
+    recollections, despite contradictory
+    evidence.
+
 cognitive bias
     A systematic pattern of deviation from
     norm or rationality in judgment.
