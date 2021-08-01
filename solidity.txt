@@ -1,0 +1,22 @@
+contract
+
+require
+
+pure
+
+event
+
+address
+
+abstract contract
+abstract
+
+mapping
+
+view
+
+override
+
+msg
+
+emit

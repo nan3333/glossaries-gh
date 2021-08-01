@@ -9,3 +9,9 @@ subtractive architecture
 
     Example:
         petra
+
+finials
+    NLG: A finial is an element marking the
+    top of a tower, spire, or turret and
+    forming a decorative or functional
+    conclusion.

@@ -11274,3 +11274,8 @@ abscond
 intuit
     Understand or work out by instinct.
     "I intuited his real identity"
+
+copacetic
+    In excellent order.
+    "he said to tell you everything is
+    copacetic"
