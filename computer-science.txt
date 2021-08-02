@@ -100,6 +100,9 @@ halting problem
     will finish running, or continue to run
     forever.
 
+    Halting problem in reverse:
+    https://www.youtube.com/watch?v=er_lLvkklsk
+
 c
     Ultimately, C is a competing style more
     than it is a competing language.
