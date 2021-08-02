@@ -1,3 +1,14 @@
+affidavit
+    A written, signed and witnessed statement
+    which will be used as evidence in court.
+
+    An affidavit must include your full name,
+    occupation and address. 
+
+    It must be signed in front of the person
+    who will take your oath or witness your
+    affirmation.
+
 legislate
     Make or enact laws.
 
