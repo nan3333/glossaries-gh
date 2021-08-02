@@ -8637,13 +8637,6 @@ B foot
     It's a foot joint and can be substituted
     out.
 
-Halting Problem
-    The problem of determining, from a
-    description of an arbitrary computer
-    program and an input, whether the program
-    will finish running (i.e., halt) or
-    continue to run forever.
-
 Turing complete
 computationally universal
     Can simulate any Turing machine.
@@ -10580,15 +10573,6 @@ Germanic Futhark
 
     And why were the letters ordered in such a
     way.
-
-halting problem
-    [computability theory]
-
-    The problem of determining, from a
-    description of an arbitrary computer
-    program and an input, whether the program
-    will finish running, or continue to run
-    forever.
 
 PCFG
 probabilistic context free grammar
@@ -13041,3 +13025,22 @@ Cottage Industries
 
     Historically, it was also known as the
     workshop system and the domestic system.
+
+mentalism
+sanism
+    Discrimination and oppression against a
+    mental trait or condition a person has, or
+    is judged to have.
+    
+    This discrimination may or may not be
+    characterized in terms of mental disorder
+    or cognitive impairment.
+    
+    The discrimination is based on numerous
+    factors such as stereotypes about
+    neurodivergence, for example autism,
+    learning disorders, ADHD, bipolar,
+    schizophrenia, and personality disorders,
+    specific behavioral phenomena such as
+    stuttering and tics, or intellectual
+    disability.

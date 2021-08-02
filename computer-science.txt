@@ -88,9 +88,17 @@ program analysis
     - program correctness.
 
 halting problem
+    [#computability theory]
+
     The primary obstacle preventing the
     bridging of expressiveness and
     performance.
+
+    The problem of determining, from a
+    description of an arbitrary computer
+    program and an input, whether the program
+    will finish running, or continue to run
+    forever.
 
 c
     Ultimately, C is a competing style more
