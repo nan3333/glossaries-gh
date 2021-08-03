@@ -11280,6 +11280,8 @@ copacetic
     "he said to tell you everything is
     copacetic"
 
+    "lecally copacetic"
+
 flummoxed
     NLG: Confused or perplexed, usually
     because of a difficult or unexpected
