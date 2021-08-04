@@ -1,5 +1,16 @@
 https://github.com/mullikine/weightagnostic.github.io/blob/master/draft.md
 
+Domain randomization
+    A systematic approach to data generation
+    process that aims to enhance
+    generalization of the ML algorithms to new
+    environments.
+    
+    Domain randomization is an approach where
+    one tries to find a representation that
+    generalizes across different environments,
+    called domains.
+
 Boltzmann machine
 stochastic Hopfield network with hidden units
     [stochastic RNN]

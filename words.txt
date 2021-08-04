@@ -11286,3 +11286,11 @@ flummoxed
     NLG: Confused or perplexed, usually
     because of a difficult or unexpected
     problem.
+
+vivisection
+    The practice of performing operations on
+    live animals for the purpose of
+    experimentation or scientific research
+    (used only by opponents of such work).
+
+    "the abolition of vivisection"

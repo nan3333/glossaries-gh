@@ -3,6 +3,33 @@ $NOTES/ws/linguistics/glossary.txt
 http://learnthesewordsfirst.com/about/what-is-a-multi-layer-dictionary.html
 https://github.com/explosion/spaCy/blob/master/spacy/glossary.py
 
+fully supervised learning
+    [[calibre:Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing]]
+
+Standard Language Model
+SLM
+    Objectives:
+    - training the model to optimize the
+      probability P (x) of text from a
+      training corpus (Radford et al., 2019).
+
+    In these cases, the text is generally
+    predicted in an autoregressive fashion,
+    predicting the tokens in the sequence one
+    at a time.
+
+    This is usually done from left to right
+    (as detailed below), but can be done in
+    other orders as well.
+
+corrupted text reconstruction
+CTR
+    [[calibre:Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing]]
+
+full text reconstruction
+FTR
+    [[calibre:Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing]]
+
 cloze word
     Cloze words may be deleted from the text
     in question either mechanically (every nth
