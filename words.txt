@@ -11294,3 +11294,14 @@ vivisection
     (used only by opponents of such work).
 
     "the abolition of vivisection"
+
+riposte
+    A quick, clever reply to an insult or
+    criticism.
+
+    A quick return thrust in fencing.
+
+    Make a quick, clever reply to an insult or
+    criticism.
+    "‘You've got a strange sense of honour,’
+    Grant riposted"
