@@ -1,4 +1,8 @@
 nonce
+    NLG: A nonce is a number that is used only
+    once in a cryptographic communication.
+
+    Or generally:
     NLG: A word or phrase used only once in a
     text.
 
