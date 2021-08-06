@@ -1074,6 +1074,23 @@ state channels
     number of participants up front and
     locking up of funds.
 
+payment channel
+    [state channel]
+
+    In fact, state channels are just a more
+    general application of the same underlying
+    technique.
+    
+    In a payment channel, we track the state
+    of payments between parties.
+    
+    In a state channel, we track the state of
+    any arbitrary program between parties —
+    which could include payments.
+
+
+    https://medium.com/celer-network/statechannel-c6fad40780fa#:~:text=In%20fact%2C%20state%20channels%20are,parties%20%E2%80%94%20which%20could%20include%20payments.
+
 szabo
     A denomination of ether. 1 szabo = 1012
     wei, 106 szabo = 1 ether.
