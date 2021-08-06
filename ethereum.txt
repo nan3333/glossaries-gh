@@ -1,3 +1,7 @@
+nonce
+    NLG: A word or phrase used only once in a
+    text.
+
 geth
     [cli tool]
 
