@@ -11280,3 +11280,11 @@ riposte
     criticism.
     "‘You've got a strange sense of honour,’
     Grant riposted"
+
+contravention
+    An action which offends against a law,
+    treaty, or other ruling.
+
+    "the publishing of misleading
+    advertisements was a contravention of the
+    Act"

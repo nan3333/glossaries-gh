@@ -1,0 +1,5 @@
+PlanLogic
+    Strictly speaking PrologCYC is a subset of
+    LOGICMOO.
+
+LOGICMOO
