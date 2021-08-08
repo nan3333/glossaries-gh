@@ -1,3 +1,15 @@
+modality
+    [#natural language]
+    [#linguistics]
+    [#philosophy]
+
+    The phenomenon whereby language is used to
+    discuss possible situations.
+    
+    For instance, a modal expression may
+    convey that something is likely,
+    desirable, or permissible.
+
 dialectic
     The art of investigating or discussing the
     truth of opinions.
