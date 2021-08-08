@@ -11288,3 +11288,8 @@ contravention
     "the publishing of misleading
     advertisements was a contravention of the
     Act"
+
+sematic
+    Serving as a warning of danger —used of
+    conspicuous colors of a poisonous or
+    noxious animal.

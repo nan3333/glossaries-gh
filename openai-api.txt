@@ -1127,7 +1127,8 @@ openai snapshots
     - list
     - create
 
-Top k sampling
+top k sampling
+top-k truncated sampling
     Sorting by probability and zero-ing out
     the probabilities for anything below the
     kth token.

@@ -284,3 +284,7 @@ convention
     photograph.
 
     Convention is the social dimension of signs.
+
+Indexicality
+    NLG: A sign that indicates a specific
+    referent at a particular time and place.
