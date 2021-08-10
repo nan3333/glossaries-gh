@@ -1,9 +1,73 @@
+holography
+hologram
+    A technique that enables a wavefront to be
+    recorded and later re-constructed.
+    
+    Holography is best known as a method of
+    generating three-dimensional images, but
+    it also has a wide range of other
+    applications.
+    
+    In principle, it is possible to make a
+    hologram for any type of wave.
+    
+    A hologram is made by superimposing a
+    second wavefront (normally called the
+    reference beam) on the wavefront of
+    interest, thereby generating an
+    interference pattern which is recorded on
+    a physical medium.
+    
+    When only the second wavefront illuminates
+    the interference pattern, it is diffracted
+    to recreate the original wavefront.
+    
+    Holograms can also be computer-generated
+    by modelling the two wavefronts and adding
+    them together digitally.
+    
+    The resulting digital image is then
+    printed onto a suitable mask or film and
+    illuminated by a suitable source to
+    reconstruct the wavefront of interest.
+
+    Holography is a photographic technique
+    that records the light scattered from an
+    object, and then presents it in a way that
+    appears three-dimensional.
+    
+    Holograms pop up in movies such as "Star
+    Wars" and "Iron Man," but the technology
+    has not quite caught up to movie magic —
+    yet.
+
 albedo
     The proportion of the incident light or
     radiation that is reflected by a surface,
     typically that of a planet or moon.
 
 wavefront
+    https://en.wikipedia.org/wiki/Wavefront
+
+    In physics, the wavefront of a time-
+    varying field is the set (locus) of all
+    points where the wave has the same phase
+    of the sinusoid.
+    
+    The term is generally meaningful only for
+    fields that, at each point, vary
+    sinusoidally in time with a single
+    temporal frequency (otherwise the phase is
+    not well defined).
+    
+    Wavefronts usually move with time.
+    
+    For waves propagating in an unidimensional
+    medium, the wavefronts are usually single
+    points; they are curves in a two
+    dimensional medium, and surfaces in a
+    three-dimensional one.
+
     A wave front is defined as a surface over
     which the phase of the wave is constant.
     
