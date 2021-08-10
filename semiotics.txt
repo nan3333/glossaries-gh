@@ -13,7 +13,7 @@ Denotation
     
     Denotation is sometimes contrasted to
     connotation, which includes associated
-    meanings
+    meanings.
 
     In logic, linguistics and semiotics, the
     denotation of a word or phrase is a part
