@@ -444,9 +444,6 @@ lobotomize
 indictment
     A criminal accusation that a person has committed a crime.
 
-salient
-    outstanding, striking
-
 profusely
     abundantly, copiously, profusely, extravagantly
 
