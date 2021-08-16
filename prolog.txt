@@ -150,4 +150,14 @@ member
     [predicate]
 
     Fundamental Prolog tool for manipulating
-    lists.   
+    lists.
+
+->
+    :Condition -> :Action
+
+    If -> Then; _Else :- If, !, Then.
+
+    X == Y -> write(X).
+
+    If X equals Y then write X to the
+    terminal.
