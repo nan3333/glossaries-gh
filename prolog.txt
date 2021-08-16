@@ -1,3 +1,20 @@
+foreign predicate
+
+term
+    https://www.metalevel.at/prolog/data
+
+    Each term is either:
+    - a variable,
+    - an atomic term or
+    - a compound term.
+
+constraint logic programming
+    https://youtu.be/G_eYTctGZw8?t=1394
+
+    A form of constraint programming, in which
+    logic programming is extended to include
+    concepts from constraint satisfaction.
+
 help.
     [query]
 
