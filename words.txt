@@ -11307,3 +11307,11 @@ appendix
     It comes from the Latin gerundive
     addendum, plural addenda, "that which is
     to be added," from addere
+
+corrigendum
+erratum
+    A correction of a published text.
+    
+    As a general rule, publishers issue an
+    erratum for a production error and a
+    corrigendum for an author's error.
