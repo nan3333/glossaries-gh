@@ -1,3 +1,15 @@
+organisation
+    For users who belong to multiple
+    organizations, you can pass a header to
+    specify which organization is used for an
+    API request. Usage from these API requests
+    will count against the specified
+    organization's subscription quota.
+
+        curl https://api.openai.com/v1/engines \
+          -H 'Authorization: Bearer YOUR_API_KEY' \
+          -H 'OpenAI-Organization: YOUR_ORG_ID'
+
 no_packing
 use_packing
     Defaults to use_packing.
