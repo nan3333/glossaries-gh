@@ -1,3 +1,12 @@
+A radiation-hardened quine
+    A quine that can have any single character
+    removed and still produces the original
+    program with no missing character.
+    
+    Of necessity, such quines are much more
+    convoluted than ordinary quines, as is
+    seen by the following example in Ruby:
+
 multiquine
 biquine
     https://semiosis.github.io/posts/the-codex-quine/
