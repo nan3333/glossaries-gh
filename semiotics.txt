@@ -66,6 +66,16 @@ physiosemiosis
     life, a role for which Deely coined the
     term physiosemiosis.
 
+anthroposemiosis
+    The human use of signs.
+
+indexical
+    Relating to or denoting a word or
+    expression whose meaning is dependent on
+    the context in which it is used (such as
+    here, you, me, that one there, or next
+    Tuesday).
+
 pyramid of anthroposemiosis
     Poles:
     - Pole of the stipulable sign.

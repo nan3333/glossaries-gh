@@ -696,10 +696,6 @@ moniker
     this limits our ability of writing nice
     grammar rules.
 
-vindictive
-    Having or showing a strong or unreasoning
-    desire for revenge.
-
 go-between
     mediator
 
@@ -11315,3 +11311,12 @@ erratum
     As a general rule, publishers issue an
     erratum for a production error and a
     corrigendum for an author's error.
+
+defrock
+    To deprive of the right to exercise the
+    functions of office.
+
+    "a defrocked priest"
+
+    To remove from a position of honor or
+    privilege.
