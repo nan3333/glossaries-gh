@@ -69,13 +69,6 @@ physiosemiosis
 anthroposemiosis
     The human use of signs.
 
-indexical
-    Relating to or denoting a word or
-    expression whose meaning is dependent on
-    the context in which it is used (such as
-    here, you, me, that one there, or next
-    Tuesday).
-
 pyramid of anthroposemiosis
     Poles:
     - Pole of the stipulable sign.
@@ -85,7 +78,7 @@ pyramid of anthroposemiosis
     - Pole of the object experienced
 
     Circumferal axes:
-    - Identical axis
+    - Indexical axis
     - Perlocutionary axis
     - Supposed conventional axis
     - Conventional axis
@@ -293,8 +286,28 @@ convention
     We need to learn how to understand a
     photograph.
 
-    Convention is the social dimension of signs.
+    Convention is the social dimension of
+    signs.
 
-Indexicality
+indexical
+    Relating to or denoting a word or
+    expression whose meaning is dependent on
+    the context in which it is used (such as
+    here, you, me, that one there, or next
+    Tuesday).
+
+indexicality
+    [semiotics]
+    [inguistics]
+    [nthropology]
+    [philosophy of language]
+
+    The phenomenon of a sign pointing to some
+    object in the context in which it occurs.
+
+    A sign that signifies indexically is
+    called an index or, in philosophy, an
+    indexical.
+
     NLG: A sign that indicates a specific
     referent at a particular time and place.
