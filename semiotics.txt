@@ -92,6 +92,9 @@ pyramid of anthroposemiosis
     - Supposed experiential axis
 
 translation semiotics
+    NLG: The use of translation to make an
+    image or text understandable in another
+    language.
 
 semiosic translation
     https://www.degruyter.com/document/doi/10.1515/sem-2016-0227/html
@@ -259,6 +262,8 @@ intersemioticity
         language–image relations.
 
 uttererin order
+    NLG: The order of signs in a semiotic
+    system.
 
 intertextuality
     The shaping of a text's meaning by another
@@ -311,3 +316,16 @@ indexicality
 
     NLG: A sign that indicates a specific
     referent at a particular time and place.
+
+perlocutionary
+    A perlocutionary act is the effect of an
+    utterance on an interlocutor.
+
+    Examples of perlocutionary acts include
+    persuading, convincing, scaring,
+    enlightening, inspiring, or otherwise
+    affecting the interlocutor.
+
+interlocutor
+    A person who takes part in a dialogue or
+    conversation.

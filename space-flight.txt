@@ -1,3 +1,12 @@
+Kármán line
+    Represents both the attempt to define a
+    boundary between Earth's atmosphere and
+    outer space, and offers a specific
+    definition set by the Fédération
+    aéronautique internationale, an
+    international record-keeping body for
+    aeronautics
+
 moon base alpha
 
 low Earth orbit
