@@ -1,0 +1,59 @@
+OpenCyc ontology
+    A very useful formalization of
+    foundational aspects of knowledge
+    representation.
+    
+    Concepts from the OpenCyc ontology have
+    found their way into other KRR systems,
+    for example, the SUMO upper ontology was
+    inspired by Cyc.
+    
+    An understanding of this ontology is
+    useful for anyone who wants to understand
+    knowledge representation more deeply, and
+    because systems based on it are out in the
+    field, it is relatively easy to experiment
+    with.
+    
+    Northwestern's NextKB, for example, which
+    is used in the CogSketch sketch
+    understanding system and the Case Mapper
+    analogy tool, incorporates the OpenCyc
+    ontology
+
+onology
+    There are three basic concepts you need to
+    understand to get started:
+    - Collections
+    - Predicates
+    - Microtheories
+
+    $DUMP$NOTES/ws/opencyc/IntroOpenCycOnt.txt
+
+collections
+    Provide an engineering approximation to
+    concepts.
+    
+    There are structural relationships that
+    provide inheritance relationships between
+    concepts, and a rich vocabulary of them to
+    begin with
+
+predicates
+    Provide relations and functions to make
+    statements with.
+    
+    There are structural relationships that
+    specify inheritance and type information
+    that supports quick constraint checking,
+    and a rich vocabulary to draw upon
+
+microtheories
+    Provide a notion of context, enabling a KB
+    to embody multiple mutually incompatible
+    perspectives, alternate hypotheses, and
+    fictional worlds, as well as support fine-
+    grained control over reasoning.
+    
+    All of the knowledge in the OpenCyc
+    ontology is so contextualized.

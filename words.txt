@@ -11320,3 +11320,9 @@ defrock
 
     To remove from a position of honor or
     privilege.
+
+commensurate
+    Corresponding in size or degree; in
+    proportion.
+    "salary will be commensurate with age and
+    experience"
