@@ -1,3 +1,41 @@
+philosophy
+    Intentionality is the power of minds and
+    mental states to be about, to represent,
+    or to stand for, things, properties and
+    states of affairs.
+    
+    To say of an individual’s mental states
+    that they have intentionality is to say
+    that they are mental representations or
+    that they have contents.
+    
+    Furthermore, to the extent that a speaker
+    utters words from some NL or draws
+    pictures or symbols from a formal language
+    for the purpose of conveying to others the
+    contents of her mental states, these
+    artifacts used by a speaker too have
+    contents or intentionality.
+    
+    ‘Intentionality’ is a philosopher’s word:
+    ever since it was introduced into
+    philosophy by Franz Brentano in the last
+    quarter of the nineteenth century, it has
+    been used to refer to the puzzles of
+    representation, all of which lie at the
+    interface between the philosophy of mind
+    and the philosophy of language.
+    
+    A picture of a dog, a proper name (e.g.,
+    ‘Fido’), the common noun ‘dog’ or the
+    concept expressed by the word can mean,
+    represent, or stand for, one or several
+    hairy barking creatures.
+    
+    A complete thought, a full sentence or a
+    picture can stand for or describe a state
+    of affairs
+
 supertask
     A countably infinite sequence of
     operations that occur sequentially within
