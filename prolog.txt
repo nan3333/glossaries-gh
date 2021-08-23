@@ -205,9 +205,6 @@ member
 
     A list, denoting the empty list.
     
-
-principal functor
-    
 clean
     When representing data with Prolog terms,
     ask yourself the following question:     
