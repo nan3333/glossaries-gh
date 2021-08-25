@@ -1,5 +1,21 @@
 awesome-open https://github.com/SwapneelM/awesome-particle-physics-for-non-physicists
 
+decoherence
+environmental entanglement
+    Branches the state into separate
+    components.
+
+phasor
+phase vector
+    [#physics and engineering]
+    [complex number]
+    [portmanteau of phase vector]
+
+    A complex number representing a sinusoidal
+    function whose amplitude, angular
+    frequency, and initial phase are
+    time-invariant.
+
 spinor
     [#geometry]
     [#physics]
