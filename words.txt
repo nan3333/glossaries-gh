@@ -11395,3 +11395,16 @@ exonerate
     penalty cases, especially where new
     evidence is put forth after the execution
     has taken place
+
+psychosomatic
+    Relating to the interaction of mind and
+    body.
+    "hypnosis involves powerful but
+    little-understood psychosomatic
+    interactions"
+
+pejorative
+pejoratively
+    Expressing contempt or disapproval.
+    "permissiveness is used almost universally
+    as a pejorative term"

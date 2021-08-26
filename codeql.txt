@@ -1,6 +1,24 @@
-QL pack
+CodeQL pack
+    Created with the CodeQL CLI and are used
+    to create, depend on, publish, and run
+    CodeQL queries and libraries.
+
+QL packs
+    Used to organize the files used in CodeQL
+    analysis. They contain queries, library
+    files, query suites, and important
+    metadata.
+
     Contains important metadata that tells the
     CodeQL CLI how to process the query files.
+
+Query reference file
+    Text file that defines the location of one
+    query to test.
+
+SARIF output
+    CodeQL supports SARIF as an output format
+    for sharing static analysis results.
 
 .bqrs
 binary query result set
