@@ -16,9 +16,13 @@ Query reference file
     Text file that defines the location of one
     query to test.
 
-SARIF output
-    CodeQL supports SARIF as an output format
-    for sharing static analysis results.
+Static analysis results interchange format
+SARIF
+    [file type]
+
+    An output format used for sharing static
+    analysis results. For more information,
+    see “SARIF output.”
 
 .bqrs
 binary query result set
@@ -142,14 +146,6 @@ QL database schema
     The exact details of the .qlo format may
     change without warning between CLI
     releases.
-
-Static analysis results interchange format
-SARIF
-    [file type]
-
-    An output format used for sharing static
-    analysis results. For more information,
-    see “SARIF output.”
 
 source reference
     A mechanism that allows the retrieval of
