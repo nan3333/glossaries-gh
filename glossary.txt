@@ -13026,6 +13026,12 @@ Cottage Industries
     Historically, it was also known as the
     workshop system and the domestic system.
 
+neurodiversity
+    Broadly defined as an approach to learning
+    and disability that suggests diverse
+    neurological conditions appear as a result
+    of normal variations in the human genome.
+
 mentalism
 sanism
     Discrimination and oppression against a
@@ -13055,3 +13061,13 @@ Golden Rule
     It can be considered an ethic of
     reciprocity in some religions, although
     different religions treat it differently
+
+morgue
+mortuary
+    A place used for the storage of human
+    corpses awaiting identification or removal
+    for autopsy or respectful burial,
+    cremation or other method of disposal.
+    
+    In modern times, corpses have customarily
+    been refrigerated to delay decomposition
