@@ -1,3 +1,16 @@
+retrieval-induced forgetting
+    Occurs when recalling certain memories
+    causes other related information to be
+    forgotten.
+    
+    So repeatedly calling forth some memories
+    might lead other memories to become less
+    accessible.
+    
+    Traumatic or unwanted memories, for
+    example, might be forgotten by repeated
+    retrieval of more positive ones
+
 repression
     The psychological attempt to direct one's
     own desires and impulses toward
@@ -210,3 +223,9 @@ attribution
     
     Models to explain this process are called
     attribution theory.
+
+charade
+    An absurd pretence intended to create a
+    pleasant or respectable appearance.
+    "talk of unity was nothing more than a
+    charade"
