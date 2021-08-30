@@ -11441,3 +11441,13 @@ neurodiversity
     It was coined in 1998 by sociologist Judy
     Singer, who helped popularize the concept
     along with journalist Harvey Blume
+
+nadir
+    The lowest point in the fortunes of a
+    person or organization.
+
+secession
+    The withdrawal of a group from a larger
+    entity, especially a political entity, but
+    also from any organization, union or
+    military alliance
