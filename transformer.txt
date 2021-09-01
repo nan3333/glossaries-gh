@@ -1,5 +1,31 @@
 https://huggingface.co/transformers/examples.html
 
+key
+value
+query
+    [#attention]
+
+    https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+
+    The key/value/query concepts come from
+    retrieval systems.
+    
+    For example, when you type a query to
+    search for some video on Youtube, the
+    search engine will map your query against
+    a set of keys (video title, description,
+    etc.) associated with candidate videos in
+    the database, then present you the best
+    matched videos (values).
+
+attention
+    [operation]
+    [mechanism]
+
+    Turns out can be thought of as a retrieval
+    process as well, so the key/value/query
+    concepts also apply here.
+
 Jax
     JAX is Autograd and XLA, brought together
     for high-performance machine learning
