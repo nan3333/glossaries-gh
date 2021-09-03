@@ -2522,8 +2522,14 @@ Masked language modeling
     has to predict the original text.
 
 multimodal
+multimodality
     A task that combines texts with another
-    kind of inputs (for instance images).
+    kind of inputs (images, for instance).
+
+multimodal creativity
+    - DALL-E
+    - VQGAN
+    - CLIP, and more
 
 NLG
 Natural language generation

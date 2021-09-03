@@ -1,3 +1,25 @@
+imaginarily
+    [#english]
+
+    Having existence only in the imagination;
+    unreal.
+
+complex programming
+    A complex terminal has braided imaginary
+    programming with real programming.
+
+    The word complex is suitable because it
+    describes this braiding along with the
+    mathematical connotations of complex
+    numbers.
+
+    We could further extend this terminology
+    to include complex programming in the
+    realm of imaginary programming to describe
+    a programming style that combines both
+    real programming with imaginary
+    programming.
+
 imaginary programming
 IP
     A programming paradigm in which a computer
