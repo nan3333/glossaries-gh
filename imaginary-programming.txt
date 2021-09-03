@@ -1,3 +1,11 @@
+evaluator
+    Not every interpreter is an evaluator.
+
+interpreter
+    [evaluator]
+
+    https://youtu.be/OyfBQmvr2Hc?t=1843
+
 imaginarily
     [#english]
 
