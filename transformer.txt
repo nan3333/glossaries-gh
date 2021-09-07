@@ -1,6 +1,7 @@
 https://huggingface.co/transformers/examples.html
 
 ∞-former
+Infty-Former
 infinite memory transformer
     Extends the vanilla transformer with an
     unbounded long-term memory.
