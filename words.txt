@@ -11530,3 +11530,9 @@ regress
 inscrutability
     Incapable of being investigated, analyzed,
     or scrutinized; impenetrable.
+
+phubbing
+    A term coined as part of a linguistic
+    experiment by Macquarie Dictionary to
+    describe the habit of snubbing someone in
+    favour of a mobile phone

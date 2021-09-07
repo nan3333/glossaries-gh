@@ -1,5 +1,16 @@
 https://huggingface.co/transformers/examples.html
 
+∞-former
+infinite memory transformer
+    Extends the vanilla transformer with an
+    unbounded long-term memory.
+
+continuous-space attention mechanism
+sticky memories
+    It is able to model arbitrarily long
+    contexts and maintain "sticky memories"
+    while keeping a fixed computation budget.
+
 key
 value
 query
