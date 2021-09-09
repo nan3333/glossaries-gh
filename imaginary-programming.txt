@@ -1,3 +1,16 @@
+chimeric
+chimerism
+    NLG: Program that is not in any way
+    written in a language known to the
+    programmer
+    
+    chimerism is exhibited in other parts of
+    GPT generations. For example, generated
+    URLs. Generated URLs are usually not
+    correct due to chimerism. It would be
+    interesting to generate imaginary websites
+    using chimeric URLs.
+
 evaluator
     Not every interpreter is an evaluator.
 

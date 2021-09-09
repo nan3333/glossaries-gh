@@ -11569,3 +11569,10 @@ through the looking glass
 
     NLG: Going through the looking glass is
     like entering a mirror world.
+
+duplicitous
+    Deceitful.
+    "a duplicitous philanderer"
+
+    (of a charge or plea) containing more than
+    one allegation.
