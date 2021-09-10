@@ -1,3 +1,11 @@
+secondness
+brute secondness
+    A fundamental category in Peircean
+    philosophy comprising actual facts and
+    expressive of necessity, force, and
+    determination — compare firstness,
+    thirdness.
+
 philosophy
     Intentionality is the power of minds and
     mental states to be about, to represent,

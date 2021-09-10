@@ -2970,3 +2970,37 @@ total function
     Safe version of head function which will
     work for all possible inputs without
     throwing an exception.
+
+applicative expression
+    NLG: A function is called an applicative
+    expression if it is either a constant or a
+    function of exactly one argument
+
+    NLG: An expression that is syntactically
+    valid Haskell code, but the fixity or
+    syntax of which is not valid Haskell.
+    
+    For example, `1 + (2 * 3)` would be an
+    applicative expression
+
+type-level programming
+    ewwlinks +/"^Type-level programming" "https://rebeccaskinner.net/posts/2021-08-25-introduction-to-type-level-programming.html"
+
+    NLG: "Type-level programming" is a
+    programming paradigm in which the types of
+    data are used to guide and inform the
+    design of programs.
+
+newtype wrapper
+    https://hackage.haskell.org/package/newtype-zoo
+
+    ewwlinks +/"^The simplest way to define" "https://rebeccaskinner.net/posts/2021-08-25-introduction-to-type-level-programming.html"
+
+    NLG: A datatype that wraps an existing
+    Haskell datatype, such that it is defined
+    with a constructor that ensures that the
+    datatype is in fact new.
+
+    NLG: Haskell's newtype wrapper allows you
+    to generate new datatypes with type safety
+    enforced.
