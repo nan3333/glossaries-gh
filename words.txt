@@ -11576,3 +11576,10 @@ duplicitous
 
     (of a charge or plea) containing more than
     one allegation.
+
+Hyperpartisan
+    Sharply polarized by political parties in
+    fierce disagreement with each other.
+
+    Extremely partisan; extremely
+    biased in favor of a political party.

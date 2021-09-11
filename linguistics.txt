@@ -1,3 +1,9 @@
+synchronic
+    Concerned with something, especially a
+    language, as it exists at one point in
+    time.
+    "synchronic linguistics"
+
 modality
     [#natural language]
     [#linguistics]

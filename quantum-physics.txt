@@ -1,3 +1,10 @@
+Quantum indeterminacy
+    The apparent necessary incompleteness in
+    the description of a physical system, that
+    has become one of the characteristics of
+    the standard description of quantum
+    physics.
+
 Quantum Atmosphere
     https://www.quantamagazine.org/quantum-atmospheres-may-reveal-secrets-of-matter-20180925/
 
