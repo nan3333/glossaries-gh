@@ -5,6 +5,25 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+value constructor
+tag
+    data RGB
+      = MkRGB Int Int Int
+    {-
+          ^    ^   ^   ^
+          |    |   |   |
+          |    |   |   +- This is the blue component
+          |    |   |
+          |    |   +----- This is the green component
+          |    |
+          |    +--------- This is the red component
+          |
+          +------------- This is called the value constructor, or "tag"
+    -}
+
+magenta :: RGB
+magenta = MkRGB 255 0 255
+
 return
     [Function in Haskell]
 
