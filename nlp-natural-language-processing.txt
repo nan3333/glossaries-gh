@@ -94,9 +94,32 @@ Charformer
     A deep Transformer model that integrates
     GBST and operates on the byte level.
 
+keyword extraction
+    The automatic identification of terms that
+    best describe the subject of a document.
+
+Automatic Keyphrase Extraction
+
+keyphrase
+    Keyphrases are short, descriptive, and
+    few, which allows the reader to quickly
+    know what the document is about before
+    actually reading it.
+
 extractive keyphrase system
+    - using extractive keyphrases
+
+    NLG: Extraction of information from a
+    document or a set of documents where terms
+    or phrases are used as tags to find the
+    information which is relevant to the
+    particular search.
+
+    Mainly used for information extraction and
+    named entity recognition.
 
 abstractive keyphrase system
+    - using abstractive keyphrases
 
 subword
     Something in-between a word and a
@@ -2748,10 +2771,26 @@ argument mining
     the aid of computer programs.
 
 argumentation
+    NLG: Argumentation is a logical process
+    that forms arguments as a means
+    ofsupporting, rebutting, or qualifying
+    statements made.
 
+    NLG: A process of logical reasoning used
+    to test or establish facts and to disprove
+    the facts that are the opposite of those
+    mentioned.
+
+    NLG: The process of expressing arguments
+    in formal logic.
 
 attack planning
+    NLG: The analysis and construction of all
+    possible ways in which a threat actor
+    could strike their target.
 
+    NLG: Attack planning is an important
+    aspect of any cyber security engagement.
 
 author identification
 authorship identification
@@ -2765,16 +2804,23 @@ author name disambiguation
     "John Smith".
 
 author recognition
-
+    NLG: The ability to or the attempt to
+    determine the author, or the process of
+    determining the author, of a text.
 
 automated complexity analysis
     https://arxiv.org/abs/1102.3129
-
 
 automated theorem proving
 
 
 automatic subject classification
+    NLG: Automatic subject classification in
+    the context of nlp is a process in which a
+    computer program automatically classifies
+    a subject or a topic of a document.
+
+    https://www.emerald.com/insight/content/doi/10.1108/00220410610666501/full/html
 
 
 automatic text annotation
@@ -3050,9 +3096,6 @@ prolog machine translation
 
 
 prolog translation memory
-
-
-psychoanalysis
 
 
 puccini planner

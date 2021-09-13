@@ -1,3 +1,10 @@
+adversarial planner
+    NLG: An adversarial planner is an
+    artificial intelligence-based agent that
+    is looking for a specific move to beat a
+    human, opponent, adversary, competitor, or
+    competitor's strategy.
+
 eisenhower matrix
     A simple tool for considering the long-
     term outcomes of your daily tasks and
