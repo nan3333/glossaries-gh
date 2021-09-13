@@ -1,3 +1,29 @@
+hapax legomenon
+hapax
+hapaxes
+    A word or an expression that occurs only
+    once within a context: either in the
+    written record of an entire language, in
+    the works of an author, or in a single
+    text.
+
+    Literally, it means "being said once".
+
+dis legomenon
+    [hapax legomenon]
+
+    Triple occurrences.
+
+tris legomenon
+    [hapax legomenon]
+
+    Triple occurrences.
+
+tetrakis legomenon
+    [hapax legomenon]
+
+    Quadruple occurrences.
+
 synchronic
     Concerned with something, especially a
     language, as it exists at one point in
