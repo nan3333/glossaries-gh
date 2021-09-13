@@ -11601,3 +11601,20 @@ assenting
 
     "A simple example of showing acceptance is
     assenting to receive a gift from someone"
+
+lampshade
+    A word used for situations in storytelling
+    where the concerns, criticisms and
+    arguments of the audience are answered in
+    the text itself to assuage any disbelief
+    and therefore frustration a reader or
+    viewer might possess.
+
+    "You don't get out of being called that
+    just because you lampshaded it."
+
+assuage
+    Make (an unpleasant feeling) less intense.
+
+    "the letter assuaged the fears of most
+    members"
