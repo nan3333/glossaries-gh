@@ -17,7 +17,7 @@ Vulgate
     the Clementine Vulgate; the Vulgate is
     still presently used in the Latin Church.
 
-Lectionary
+lectionary
     A book or listing that contains a
     collection of scripture readings appointed
     for Christian or Judaic worship on a given
