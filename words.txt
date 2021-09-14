@@ -11577,3 +11577,9 @@ assuage
 
     "the letter assuaged the fears of most
     members"
+
+addled
+    Unable to think clearly; confused.
+
+    "this might just be my addled brain
+    playing tricks"

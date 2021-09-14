@@ -1,3 +1,15 @@
+turbulence
+turbulent flow
+    [fluid dynamics]
+
+    Fluid motion characterized by chaotic
+    changes in pressure and flow velocity.
+    
+    It is in contrast to a laminar flow, which
+    occurs when a fluid flows in parallel
+    layers, with no disruption between those
+    layers.
+
 Navier-Stokes equations
     [fluid mechanics]
 
