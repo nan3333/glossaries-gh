@@ -11583,3 +11583,13 @@ addled
 
     "this might just be my addled brain
     playing tricks"
+
+imposition
+    The action or process of imposing
+    something or of being imposed.
+    "the imposition of martial law"
+
+    A thing that is imposed, in particular an
+    unfair or unwelcome demand or burden.
+    "I'd like to see you, if that wouldn't be
+    too much of an imposition"
