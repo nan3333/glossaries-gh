@@ -1,0 +1,10 @@
+liturgy
+    The customary public worship performed by
+    a religious group.
+    
+    As a religious phenomenon, liturgy
+    represents a communal response to and
+    participation in the sacred through
+    activities reflecting praise,
+    thanksgiving, remembrance, supplication or
+    repentance.
