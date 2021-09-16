@@ -1,3 +1,14 @@
+phatic expression
+phatic communication
+    [#linguistics]
+
+    A phatic expression is communication which
+    serves a social function, such as social
+    pleasantries that don't seek or offer
+    information of intrinsic value but can
+    signal willingness to observe conventional
+    local expectations for politeness.
+
 hapax legomenon
 hapax
 hapaxes
