@@ -1,0 +1,14 @@
+homology
+homolog
+    Similarity due to shared ancestry between
+    a pair of structures or genes in different
+    taxa.
+
+analog
+    A person or thing seen as comparable to
+    another.
+    "an interior analogue of the exterior
+    world"
+
+    "Analogs are everywhere. Homologs are much
+    harder to find."
