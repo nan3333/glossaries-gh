@@ -11647,7 +11647,6 @@ reprobate
     lovable reprobate than a spirit of
     corruption"
 
-
 absolution
     Formal release from guilt, obligation, or
     punishment.
@@ -11658,3 +11657,12 @@ forbearance
     tolerance.
     "his unfailing courtesy and forbearance
     under great provocation"
+
+reprove
+    Reprimand (someone).
+    "he was reproved for obscenity"
+
+émigré
+    A person who has emigrated, often with a
+    connotation of political or social
+    self-exile. 
