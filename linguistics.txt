@@ -1,3 +1,13 @@
+biolinguistics
+    The study of biology and the evolution of
+    language.
+    
+    It is highly interdisciplinary as it is
+    related to various fields such as biology,
+    linguistics, psychology, anthropology,
+    mathematics, and neurolinguistics to
+    explain the formation of language.
+
 phatic expression
 phatic communication
     [#linguistics]
