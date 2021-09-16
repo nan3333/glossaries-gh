@@ -1,3 +1,14 @@
+polysemy
+polysemic
+    The capacity for a word or phrase to have
+    multiple related meanings.
+    
+    Polysemy is thus distinct from homonymy—or
+    homophony—which is an accidental
+    similarity between two or more words;
+    while homonymy is a mere linguistic
+    coincidence, polysemy is not.
+
 biolinguistics
     The study of biology and the evolution of
     language.
