@@ -11702,3 +11702,17 @@ bleary
     (of the eyes) looking or feeling dull and
     unfocused from sleep or tiredness.
     "Boris opened a bleary eye"
+
+hairy
+    Alarming and difficult.
+    "we drove up yet another hairy mountain
+    road"
+
+gnarly
+    Difficult, dangerous, or challenging.
+    "he'd taken a fall during a particularly
+    gnarly practice session"
+
+parlous
+    Full of danger or uncertainty; precarious.
+    "the parlous state of the economy"
