@@ -1083,3 +1083,14 @@ Faraday shield
     slowly varying magnetic fields, such as
     the Earth's magnetic field (a compass will
     still work inside).
+
+Foucault pendulum
+Foucault's pendulum
+    A simple device named after French
+    physicist Léon Foucault and conceived as
+    an experiment to demonstrate the Earth's
+    rotation.
+    
+    The pendulum was introduced in 1851 and
+    was the first experiment to give simple,
+    direct evidence of the Earth's rotation
