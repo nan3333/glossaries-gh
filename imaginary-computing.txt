@@ -1,3 +1,9 @@
+imaginary internet
+imaginary web
+    An imaginary world-wide-web is an
+    analog of the World-Wide-Web imagined by a
+    language model.
+
 prompting
     The act of stoking a LM to perform a
     generation.
