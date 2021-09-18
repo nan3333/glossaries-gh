@@ -11728,3 +11728,11 @@ uncertainty
     Uncertainty arises in partially observable
     or stochastic environments, as well as due
     to ignorance, indolence, or both.
+
+fervently
+    Very enthusiastically or passionately.
+
+    "he fervently believes he's doing the
+    right thing"
+    "a fervent desire to change society"
+    "a fervent admirer"
