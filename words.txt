@@ -11716,3 +11716,15 @@ gnarly
 parlous
     Full of danger or uncertainty; precarious.
     "the parlous state of the economy"
+
+uncertainty
+    Epistemic situations involving imperfect
+    or unknown information.
+    
+    It applies to predictions of future
+    events, to physical measurements that are
+    already made, or to the unknown.
+    
+    Uncertainty arises in partially observable
+    or stochastic environments, as well as due
+    to ignorance, indolence, or both.
