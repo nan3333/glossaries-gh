@@ -11800,22 +11800,24 @@ commiserate
 importunities
     Persistence, especially to the point of
     annoyance.
+
     "you urged me on with untiring importunity"
 
-    "She had found an adorer, and had apparently
-    succumbed to his importunities."
+    "She had found an adorer, and had
+    apparently succumbed to his
+    importunities."
 
     "Why had Plowden, by the way, been so keen
     about relieving her from her father's
     importunities?"
 
-    "She did not know how to defend herself from
-    their importunities, insolence and
+    "She did not know how to defend herself
+    from their importunities, insolence and
     exigencies."
 
     "Puttest thou the reverend man to use
-    ungracious language to free himself from the
-    importunities of a Jewess?"
+    ungracious language to free himself from
+    the importunities of a Jewess?"
 
     "And I would sit in the darkness unable to
     keep my mind off him by reason of his
@@ -11827,5 +11829,21 @@ importunities
     "She endeavored to escape his godship's
     importunities by flight."
 
-    "Sick of her importunities, these words will
-    goad me to fury."
+    "Sick of her importunities, these words
+    will goad me to fury."
+
+persecution
+    Hostility and ill-treatment, especially
+    because of race or political or religious
+    beliefs; oppression.
+    "her family fled religious persecution"
+
+    Persistent annoyance or harassment.
+    "his persecution at the hands of other
+    students"
+
+exigency
+    An urgent need or demand.
+    "women worked long hours when the
+    exigencies of the family economy demanded
+    it"
