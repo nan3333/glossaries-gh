@@ -68,3 +68,6 @@ Technical Committee
     Can propose emergency referenda, together
     with the council, for fast-tracked voting
     and implementation.
+
+substrate
+    https://www.substrate.io/
