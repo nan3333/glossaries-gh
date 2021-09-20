@@ -20,3 +20,33 @@ Bridges
     Allow parachains and parathreads to
     connect and communicate with external
     networks like Ethereum and Bitcoin.
+
+Nominators
+    [Consensus Role]
+
+    Secure the Relay Chain by selecting
+    trustworty validators and staking dots.
+
+Validators
+    [Consensus Role]
+
+    Secure the relay chain by staking dots,
+    validating proofs from collators and
+    participating in consensus with other
+    validators.
+
+Collators
+    [Consensus Role]
+
+    Maintain shards by collecting shard
+    transactions from users and producing
+    proofs for validator.
+
+Fishermen
+    [Consensus Role]
+
+    Monitor the network and report bad
+    behavior to validators.
+
+    Collators and any parachain full node can
+    perform the fisherman role.
