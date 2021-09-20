@@ -13065,3 +13065,9 @@ Edaphology
     influences humankind's use of land for
     plant growth as well as people's overall
     use of the land.
+
+Apartheid
+    A system of institutionalised racial
+    segregation that existed in South Africa
+    and South West Africa from 1948 until the
+    early 1990s.

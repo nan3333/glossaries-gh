@@ -11871,3 +11871,40 @@ Pedology
 parricide
     The killing of a parent or other near
     relative.
+
+pejorative 
+slur 
+    A word or grammatical form expressing a
+    negative or a disrespectful connotation, a
+    low opinion, or a lack of respect toward
+    someone or something.
+    
+    It is also used to express criticism,
+    hostility, or disregard.
+
+prerogative
+    An exclusive right bestowed by a
+    government or state and invested in an
+    individual or group, the content of which
+    is separate from the body of rights
+    enjoyed under the general law.
+    
+    It was a common facet of feudal law.
+
+qualm
+    An uneasy feeling of doubt, worry, or
+    fear, especially about one's own conduct;
+    a misgiving.
+    "military regimes generally have no qualms
+    about controlling the press"
+
+abscond
+    Leave hurriedly and secretly, typically to
+    escape from custody or avoid arrest.
+    "the barman absconded with a week's
+    takings"
+
+salacious
+    Having or conveying undue or inappropriate
+    interest in sexual matters.
+    "salacious stories"
