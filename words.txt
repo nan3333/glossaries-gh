@@ -11914,6 +11914,15 @@ iniquity
     "a den of iniquity"
 
 vacillating
+vacillate
     Wavering between different opinions or
     actions; irresolute.
     "he was accused of vacillating leadership"
+
+    "a vacillate person"
+    
+    "to waver in mind, will, or feeling :
+    hesitate in choice of opinions or
+    courses."
+
+    "to sway through lack of equilibrium."
