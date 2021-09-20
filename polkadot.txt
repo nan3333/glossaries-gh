@@ -50,3 +50,21 @@ Fishermen
 
     Collators and any parachain full node can
     perform the fisherman role.
+
+Council Members
+    [Governance Role]
+
+    Elected to represent passive stakeholders
+    in two primary governance roles: proposing
+    referenda and vetoing dangerous or
+    malicious referenda.
+
+Technical Committee
+    [Governance Role]
+
+    Composed of teams actively building
+    Polkadot.
+    
+    Can propose emergency referenda, together
+    with the council, for fast-tracked voting
+    and implementation.
