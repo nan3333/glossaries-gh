@@ -11975,3 +11975,8 @@ snark
     elusive or impossible to achieve).
     "pinning down the middle classes is like
     the hunting of the snark"
+
+misconstrue
+    Interpret (a person's words or actions)
+    wrongly.
+    "my advice was deliberately misconstrued"
