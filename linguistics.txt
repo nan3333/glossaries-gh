@@ -918,3 +918,23 @@ inflectional morphology
 
     NLG: The study of how words change their
     form to express different meanings.
+
+Two-dimensionalism
+    An approach to semantics in analytic
+    philosophy.
+    
+    It is a theory of how to determine the
+    sense and reference of a word and the
+    truth-value of a sentence.
+    
+    It is intended to resolve the puzzle: How
+    is it possible to discover empirically
+    that a necessary truth is true? Two-
+    dimensionalism provides an analysis of the
+    semantics of words and sentences that
+    makes sense of this possibility.
+    
+    The theory was first developed by Robert
+    Stalnaker, but it has been advocated by
+    numerous philosophers since, including
+    David Chalmers.
