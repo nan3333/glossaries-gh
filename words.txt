@@ -11843,6 +11843,7 @@ persecution
     students"
 
 exigency
+exigencies
     An urgent need or demand.
     "women worked long hours when the
     exigencies of the family economy demanded
@@ -11926,3 +11927,51 @@ vacillate
     courses."
 
     "to sway through lack of equilibrium."
+
+longsuffering
+    Patient and persevering in the face of
+    trial or provocation.
+    
+    Enduring something (such as delay or
+    trouble) calmly; enduring patiently;
+    tolerant; enduring.
+
+discord
+    Disagreement between people.
+    "a prosperous family who showed no signs
+    of discord"
+
+    Lack of harmony between notes sounding
+    together.
+    "the music faded in discord"
+
+influencer
+    NLG: A person who has the power to
+    influence. Example: "When it comes to
+    food, my mother is the main influencer in
+    my life."
+
+incongruencies
+    The state of being incongruous, or lacking
+    congruence.
+    
+    An instance or point of disagreement; a
+    dissimilarity; a discrepancy; an
+    inconsistency.
+
+calamity
+    An event causing great and often sudden
+    damage or distress; a disaster.
+    "emergency measures may be necessary in
+    order to avert a calamity"
+
+snark
+    An attitude or expression of mocking
+    irreverence and sarcasm.
+
+snark
+    An imaginary animal (used typically with
+    reference to a task or goal that is
+    elusive or impossible to achieve).
+    "pinning down the middle classes is like
+    the hunting of the snark"

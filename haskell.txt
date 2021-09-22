@@ -5,6 +5,35 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+package
+    [#cabal]
+
+    Has:
+    - A name and version
+    - 0 or 1 libraries
+    - 0 or more executables
+    - A cabal file (or, as mentioned above, an
+      hpack package.yaml that generates a
+      cabal file)
+    - And a bunch more
+
+Stack
+    [build tool]
+
+    Works on top of the Cabal build system.
+
+project
+    [#stack]
+
+    Has:
+    - A resolver, which tells it about a
+      snapshot (more on this later)
+    - Extra dependencies on top of the
+      snapshot
+    - 0 or more local Cabal packages
+    - Flag and GHC options configurations
+    - And a bunch more Stack configuration
+
 value constructor
 tag
     data RGB
