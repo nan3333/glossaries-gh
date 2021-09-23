@@ -11980,3 +11980,13 @@ misconstrue
     Interpret (a person's words or actions)
     wrongly.
     "my advice was deliberately misconstrued"
+
+schism
+    A division between people, usually
+    belonging to an organization, movement, or
+    religious denomination.
+    
+    The word is most frequently applied to a
+    split in what had previously been a single
+    religious body, such as the Great
+    East–West Schism or the Western Schism.
