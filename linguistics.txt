@@ -1,3 +1,14 @@
+thematic
+    Having or relating to subjects or a
+    particular subject.
+    "the book is organized into nine thematic
+    chapters"
+
+    Relating to or denoting the theme of a
+    sentence.
+    "some languages use special affixes to
+    mark thematic and non-thematic elements"
+
 Sapir-Whorf hypothesis
     Holds that our thoughts are shaped by our
     native language, and that speakers of
