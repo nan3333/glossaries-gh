@@ -960,3 +960,32 @@ Two-dimensionalism
     Stalnaker, but it has been advocated by
     numerous philosophers since, including
     David Chalmers.
+
+participle
+    [linguistics]
+
+    A nonfinite verb form that has some of the
+    characteristics and functions of both
+    verbs and adjectives.
+    
+    More narrowly, participle has been defined
+    as "a word derived from a verb and used as
+    an adjective, as in a laughing face".
+
+past participle
+    For regular verbs, adding -ed to the base
+    form creates the past participle.
+
+    For example, the past participle of cook
+    is cooked.
+
+    Past participles formed from irregular
+    verbs may have endings like -en, -t, -d,
+    and -n.
+
+    Examples:
+    - swollen,
+    - burnt,
+    - fazed
+    - hoped, and
+    - broken.

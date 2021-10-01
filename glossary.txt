@@ -13118,3 +13118,10 @@ midriff
     "she wore a top that showed her midriff"
 
     The diaphragm.
+
+echo chamber
+    In discussions of news media, an echo
+    chamber refers to situations in which
+    beliefs are amplified or reinforced by
+    communication and repetition inside a
+    closed system and insulated from rebuttal.
