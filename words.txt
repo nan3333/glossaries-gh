@@ -12182,3 +12182,59 @@ throes
 behest
     A person's orders or command.
     "they had assembled at his behest"
+
+acrimony
+acrimonious
+    NLG: Something with acid; sour; bitter;
+    sharp; nasty; corrosive; wounding.
+
+    NLG: A sharp or caustic remark or comment.
+
+    "acrimony and division"
+
+presage
+    Be a sign or warning of (an imminent
+    event, typically an unwelcome one).
+
+    "the heavy clouds above the moorland
+    presaged snow"
+
+misanthrope
+    A person who dislikes humankind and avoids
+    human society.
+    "Scrooge wasn't the mean-spirited
+    misanthrope most of us believe him to be"
+
+perspicacity
+perspicaciousness
+    The quality of having a ready insight into
+    things; shrewdness.
+    "the perspicacity of her remarks"
+
+    Perspicacity is a penetrating discernment
+    —a clarity of vision or intellect which
+    provides a deep understanding and insight.
+    
+    It takes the concept of wisdom deeper in
+    the sense that it denotes a keenness of
+    sense and intelligence applied to insight.
+    
+    It has been described as a deeper level of
+    internalization.
+
+simulacrum
+    A representation or imitation of a person
+    or thing.
+    
+    The word was first recorded in the English
+    language in the late 16th century, used to
+    describe a representation, such as a
+    statue or a painting, especially of a god.
+
+    An image or representation of someone or
+    something.
+    "a small-scale simulacrum of a skyscraper"
+
+    An unsatisfactory imitation or substitute.
+    "a bland simulacrum of American soul
+    music"
