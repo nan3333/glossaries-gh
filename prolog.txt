@@ -1,3 +1,11 @@
+structure
+    An object that is made up of many other
+    objects or components.
+
+    Structures are going to allow us to add
+    context about what an object is to avoid
+    confusion.
+
 Contextual Logic Programming
 CxLP
     http://ceur-ws.org/Vol-287/paper_10.pdf

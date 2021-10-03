@@ -12199,7 +12199,13 @@ presage
     "the heavy clouds above the moorland
     presaged snow"
 
+misanthropy
+    The general hatred, dislike, distrust or
+    contempt of the human species, human
+    behavior or human nature.
+    
 misanthrope
+misanthropist
     A person who dislikes humankind and avoids
     human society.
     "Scrooge wasn't the mean-spirited
@@ -12238,3 +12244,72 @@ simulacrum
     An unsatisfactory imitation or substitute.
     "a bland simulacrum of American soul
     music"
+
+indemnify
+    Compensate (someone) for harm or loss.
+    "each of the parties shall indemnify me
+    for all reasonable costs of defending such
+    actions and proceedings"
+
+lacunae
+    An unfilled space; a gap.
+    "the journal has filled a lacuna in Middle
+    Eastern studies"
+
+    A cavity or depression, especially in
+    bone.
+    
+    "We provide an overview of the various
+    formats and domains of the current
+    resources, highlighting the current
+    lacunae for future work."
+
+antagonistic
+    Showing or feeling active opposition or
+    hostility towards someone or something.
+    "an antagonistic group of bystanders"
+
+consign
+consignment
+    Involves selling one's personal goods
+    through a third-party vendor such as a
+    consignment store or online thrift store.
+    
+    The owner of the goods pays the third-
+    party a portion of the sale for
+    facilitating the sale.
+    
+    Consignors maintain the rights to their
+    property until the item is sold or
+    abandoned.
+
+    Consignment is when a shop sells goods for
+    an owner.
+    
+    The owner keeps ownership of his item
+    until it sells, if it sells.
+    
+    As the owner, you'd pay a small fee to the
+    shop as compensation for them selling your
+    item.
+    
+    For example, you consign a children's
+    bicycle for $20.
+
+condone
+    Accept (behaviour that is considered
+    morally wrong or offensive).
+    "the college cannot condone any behaviour
+    that involves illicit drugs"
+
+    Approve or sanction (something),
+    especially with reluctance.
+    "those arrested were released and the
+    exhibition was officially condoned a few
+    weeks later"
+
+rescinded
+    Revoke, cancel, or repeal (a law, order,
+    or agreement).
+
+    "00 status rescinded"
