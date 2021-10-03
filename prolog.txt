@@ -1,3 +1,67 @@
+cut
+    The cut, in Prolog, is a goal, written as
+    !, which always succeeds, but cannot be
+    backtracked.
+    
+    It is best used to prevent unwanted
+    backtracking, including the finding of
+    extra solutions by Prolog and to avoid
+    unnecessary computations.
+    
+    The cut should be used sparingly.
+
+Green cut
+    [cut]
+
+    A use of a cut which only improves
+    efficiency is referred to as a green cut.
+    
+    Green cuts are used to make programs more
+    efficient without changing program output.
+    
+    For example:
+     gamble(X) :- gotmoney(X),!.
+     gamble(X) :- gotcredit(X), \+ gotmoney(X).
+
+    This is called a green cut operator.
+    
+    The ! tells the interpreter to stop
+    looking for alternatives; however, if
+    gotmoney(X) fails it will check the second
+    rule.
+    
+    Although checking for gotmoney(X) in the
+    second rule may appear redundant since
+    Prolog's appearance is dependent on
+    gotmoney(X) failing before, otherwise the
+    second rule would not be evaluated in the
+    first place.
+    
+    Adding \+ gotmoney(X) guarantees that the
+    second rule will always work, even if the
+    first rule is removed by accident or
+    changed, or moved after the second one.
+
+Red cut
+    [cut]
+
+    A cut that is not a green cut is referred
+    to as a red cut, for example:
+     gamble(X) :- gotmoney(X),!.
+     gamble(X) :- gotcredit(X).
+
+    Proper placement of the cut operator and
+    the order of the rules is required to
+    determine their logical meaning.
+    
+    If for any reason the first rule is
+    removed (e.g.
+    
+    by a cut-and-paste accident) or moved
+    after the second one, the second rule will
+    be broken, i.e., it will not guarantee the
+    rule \+ gotmoney(X).
+
 structure
     An object that is made up of many other
     objects or components.
