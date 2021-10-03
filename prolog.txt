@@ -10,6 +10,9 @@ cut
     
     The cut should be used sparingly.
 
+    https://www.youtube.com/watch?v=SykxWpFwMGs
+    47:45
+
 Green cut
     [cut]
 
