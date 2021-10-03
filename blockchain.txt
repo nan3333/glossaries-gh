@@ -1,3 +1,65 @@
+Decentralized autonomous organization
+DAO
+decentralized autonomous corporation
+    An organization represented by rules
+    encoded as a computer program that is
+    transparent, controlled by the
+    organization members and not influenced by
+    a central government.
+
+    Can you imagine a way of organizing with
+    other people around the world, without
+    knowing each other and establishing your
+    own rules, and making your own decisions
+    autonomously all encoded on a Blockchain?
+    Well, DAOs are making this real.
+
+    A DAO’s financial transactions and rules
+    are recorded on a blockchain.
+    
+    This eliminates the need to involve a
+    third party in a financial transaction,
+    simplifying those transactions through
+    smart contracts.
+    
+    The firmness of a DAO is a smart contract.
+    
+    The smart contract represents the rules of
+    the organization and holds the
+    Organization’s storage.
+    
+    No one can edit the rules without people
+    noticing, because DAOs are transparent and
+    public.
+    
+    Up to today we are used to companies
+    backed by legal status, a DAO may
+    perfectly function without it as it can be
+    structured as a general partnership.
+
+    In comparison to traditional companies,
+    DAOs have a democratized organization.
+    
+    All the members of a DAO need to vote for
+    any changes to be implemented, instead of
+    implemented changes by a sole party
+    (depending on the company’s structure).
+    
+    The funding of DAOs is mainly based on
+    crowdfunding that issues tokens.
+    
+    The governance of DAOs is based on
+    community, while traditional companies’
+    governance is mostly based on executives,
+    Board of Directors, activist investors.
+    etc.
+    
+    DAOs’ operations are fully transparent and
+    global, meanwhile, traditional companies’
+    operations are private, only the
+    organization know what is happening, and
+    they are not always global.
+
 double-spending
     The risk that a digital currency can be
     spent twice.
