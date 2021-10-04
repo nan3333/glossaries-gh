@@ -6,6 +6,41 @@ https://github.com/explosion/spaCy/blob/master/spacy/glossary.py
 fully supervised learning
     [[calibre:Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing]]
 
+LAMBADA
+    [dataset]
+
+    Word prediction requiring a broad
+    discourse context.
+
+    https://huggingface.co/EleutherAI/gpt-j-6B#evaluation-results
+
+Acc
+Accuracy
+
+
+PPL
+Perplexity
+    [#NLP]
+
+    A way of evaluating LMs.
+    
+    A LM is a probability distribution over
+    entire sentences or texts.
+    
+    It is often possible to achieve lower
+    perplexity on more specialized corpora, as
+    they are more predictable.
+
+metrics
+    Examples:
+    - PRED SCORE is the cumulated log
+      likelihood of the generated sequence
+    - PRED AVG SCORE is the log likelihood per
+      generated word
+    - PRED PPL is the perplexity of the
+      model’s own predictions (exp(-PRED AVG
+      SCORE))
+
 Standard Language Model
 SLM
     Objectives:
