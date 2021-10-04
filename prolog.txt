@@ -1,3 +1,18 @@
+quoted text
+string
+    Prolog defines two forms of quoted text.
+    
+    Traditionally, single quoted text is
+    mapped to atoms while double quoted text
+    is mapped to a list of character codes
+    (integers) or characters (atoms of length
+    1).
+
+    Example:
+    - 'Shane'
+    - "Shane"
+      - This is mapped to [S,h,a,n,e]
+
 listing
     List matching clauses. What is either a
     plain specification or a list of
