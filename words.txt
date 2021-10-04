@@ -12339,3 +12339,16 @@ impiety
     Impiety cannot be associated with a cult,
     as it implies a larger belief system was
     disrespected.
+
+dissertation
+thesis
+    A document submitted in support of
+    candidature for an academic degree or
+    professional qualification presenting the
+    author's research and findings.
+
+wary
+    Feeling or showing caution about possible
+    dangers or problems.
+    "dogs which have been mistreated often
+    remain very wary of strangers"
