@@ -1,3 +1,8 @@
+listing
+    List matching clauses. What is either a
+    plain specification or a list of
+    specifications.
+
 cut
     The cut, in Prolog, is a goal, written as
     !, which always succeeds, but cannot be
@@ -185,6 +190,9 @@ procedural reading
     engine.
 
 clause
+    A unit of information in a Prolog program
+    ending with a full stop (".").
+
     Either:
     - fact
     - rule
