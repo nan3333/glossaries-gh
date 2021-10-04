@@ -12352,3 +12352,20 @@ wary
     dangers or problems.
     "dogs which have been mistreated often
     remain very wary of strangers"
+
+lambast
+    Criticize (someone or something) harshly.
+    "they lambasted the report as a gross
+    distortion of the truth"
+
+prodestation
+    The act of protesting or affirming.
+
+    A solemn or earnest declaration or
+    affirmation.
+
+    Formal expression or declaration of
+    objection, dissent, or disapproval;
+    protest.
+
+    "For all your prodestations of friendship"
