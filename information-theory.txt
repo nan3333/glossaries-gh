@@ -1,3 +1,9 @@
+entropy
+entropy of a random variable
+    The average level of "information",
+    "surprise", or "uncertainty" inherent in
+    the variable's possible outcomes.
+
 Data
     Raw, unorganized facts that need to be
     processed.
@@ -48,6 +54,7 @@ variable subset selection
 
     egr variable selection machine learning
 
+information gain
 mutual information
 MI
     ...of two random variables.
@@ -102,6 +109,11 @@ Kullback-Leibler Divergence
 KL Divergence
 KL-Divergence
 relative entropy
+    https://www.youtube.com/watch?v=pH9xkCK4ATc
+
+    A diff of probability distributions (or
+    neural networks).
+
     The amount by which the cross-entropy
     exceeds the entropy.
 

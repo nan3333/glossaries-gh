@@ -1,6 +1,13 @@
+transcendental function
+    An analytic function that does not satisfy
+    a polynomial equation, in contrast to an
+    algebraic function.
+
+algebraic function
+    In contrast to an transcendental function.
+
 nomography
     https://kartsci.org/kocomu/computer-history/the-art-of-nomography/
-
 
 nomogram
     [#nomography]

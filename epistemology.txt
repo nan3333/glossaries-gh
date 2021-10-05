@@ -1,6 +1,6 @@
 reflexivity
-    [epistemology]
-    [sociology of knowledge]
+    [#epistemology]
+    [#sociology of knowledge]
 
     Refers to circular relationships between
     cause and effect, especially as embedded
@@ -16,11 +16,6 @@ reflexivity
     we do with this knowledge.
 
 epistemology
-    The theory of knowledge, especially with
-    regard to its methods, validity, and
-    scope, and the distinction between
-    justified belief and opinion.
-
     The branch of philosophy concerned with
     knowledge.
     
@@ -28,6 +23,16 @@ epistemology
     and scope of knowledge, epistemic
     justification, the rationality of belief,
     and various related issues.
+    
+    Epistemology is considered a major
+    subfield of philosophy, along with other
+    major subfields such as ethics, logic, and
+    metaphysics.
+
+    The theory of knowledge, especially with
+    regard to its methods, validity, and
+    scope, and the distinction between
+    justified belief and opinion.
 
 Commonsense Reasoning
 
