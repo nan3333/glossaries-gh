@@ -31,6 +31,8 @@ Perplexity
     perplexity on more specialized corpora, as
     they are more predictable.
 
+    https://towardsdatascience.com/perplexity-in-language-models-87a196019a94
+
 metrics
     Examples:
     - PRED SCORE is the cumulated log

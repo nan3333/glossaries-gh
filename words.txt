@@ -12369,3 +12369,10 @@ prodestation
     protest.
 
     "For all your prodestations of friendship"
+
+bureaucracy
+    Excessively complicated administrative
+    procedure.
+
+    "the unnecessary bureaucracy in local
+    government"
