@@ -25,6 +25,16 @@ imaginary reflection
     holographic representation via a language
     model.
 
+internal imaginary reflection
+    This is reflection but where the program
+    consults a LM for information on its own
+    source.
+
+external imaginary reflection
+    This is reflection but where the program
+    consults a LM for information on the way
+    the program is used in the real world.
+
 holographic representation
     The embedding of the way software is used
     within a language model that has been
