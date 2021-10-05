@@ -12376,3 +12376,15 @@ bureaucracy
 
     "the unnecessary bureaucracy in local
     government"
+
+defection
+    The desertion of one's country or cause in
+    favour of an opposing one.
+    "the very public defections of four
+    writers from the publishing house"
+
+prognosticator
+    A person who foretells or prophesies a
+    future event.
+    "there are many prognosticators predicting
+    the worst"
