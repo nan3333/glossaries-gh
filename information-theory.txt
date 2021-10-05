@@ -1,3 +1,9 @@
+reality
+Θ
+
+estimate
+ω
+
 entropy
 entropy of a random variable
     The average level of "information",
@@ -110,6 +116,9 @@ KL Divergence
 KL-Divergence
 relative entropy
     https://www.youtube.com/watch?v=pH9xkCK4ATc
+
+    For a perfect model emulating reality, the
+    KL divergence would give precisely 0.
 
     A diff of probability distributions (or
     neural networks).
