@@ -433,28 +433,32 @@ awhile
     for a short time.
 
 lobotomize
-    perform a lobotomy on.
-    "her brother had developed a schizophrenic illness and had been
-    lobotomized"
+    Perform a lobotomy on.
 
-    make (someone) less able to function mentally or emotionally.
-    "couples we knew who had been lobotomized by the birth of their
-    children"
+    "her brother had developed a schizophrenic
+    illness and had been lobotomized"
 
-indictment
-    A criminal accusation that a person has committed a crime.
+    Make (someone) less able to function
+    mentally or emotionally.
+
+    "couples we knew who had been lobotomized
+    by the birth of their children"
 
 profusely
-    abundantly, copiously, profusely, extravagantly
+    abundantly, copiously, profusely,
+    extravagantly
 
-Pedantry
-    Excessive concern with minor details and rules.
+pedantry
+    Excessive concern with minor details and
+    rules.
 
 libation
-    A drink poured out as an offering to a deity.
+    A drink poured out as an offering to a
+    deity.
 
 sensualist
-    A person devoted to physical, especially sexual, pleasure.
+    A person devoted to physical, especially
+    sexual, pleasure.
 
 azimuth
     direction from an observer
@@ -500,12 +504,14 @@ prerogative
     common facet of feudal law.
 
 punitive
-    disciplinary, corrective, correctional, retributive.
+    Disciplinary, corrective, correctional,
+    retributive.
 
-    punitive measures.
+    "punitive measures"
 
-    inflicting or intended as punishment.
-    "he called for punitive measures against the Eastern bloc"
+    Inflicting or intended as punishment.
+    "he called for punitive measures against
+    the Eastern bloc"
 
 congruency
     Try not to be incongruent
@@ -532,7 +538,8 @@ fatalistic
     and therefore inevitable.
 
 incorporeal
-    discorporate, unembodied, bodiless, unbodied, disembodied, spiritual
+    discorporate, unembodied, bodiless,
+    unbodied, disembodied, spiritual
 
 concede
 conceded
@@ -584,16 +591,19 @@ ablative case
     sentences or the instrument or manner or
     place of the action described by the verb)
 
-    The ablative case is found in ancient languages such as Latin and
-    Sanskrit, as well as modern languages like Turkish and Hungarian.
+    The ablative case is found in ancient
+    languages such as Latin and Sanskrit, as
+    well as modern languages like Turkish and
+    Hungarian.
 
 lascivious
     sexy
 
 rapport
-    A close and harmonious relationship in which the people or groups
-    concerned understand each other's feelings or ideas and communicate
-    well.
+    A close and harmonious relationship in
+    which the people or groups concerned
+    understand each other's feelings or ideas
+    and communicate well.
 
 sporadic
 
@@ -12405,3 +12415,7 @@ rapscallion
 
 slubberdegullion
     A dirty rascal : scoundrel, wretch.
+
+indictment
+    A criminal accusation that a person has
+    committed a crime.

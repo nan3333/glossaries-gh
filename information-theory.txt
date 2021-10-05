@@ -1,3 +1,6 @@
+binary log
+log(2)
+
 reality
 Θ
 
@@ -115,7 +118,11 @@ Kullback-Leibler Divergence
 KL Divergence
 KL-Divergence
 relative entropy
+    This is a great intro:
     https://www.youtube.com/watch?v=pH9xkCK4ATc
+
+    A more thorough explanation:
+    https://youtu.be/ErfnhcEV1O8?t=479
 
     For a perfect model emulating reality, the
     KL divergence would give precisely 0.
