@@ -1,3 +1,22 @@
+covariance
+contravariance
+covariance vs contravariance
+    [#computer science]
+
+    https://en.wikipedia.org/wiki/Covariance_and_contravariance_(computer_science)
+
+variance
+    [#computer science]
+
+    Refers to how subtyping between more
+    complex types relates to subtyping between
+    their components.
+    
+    For example, how should a list of Cats
+    relate to a list of Animals? Or how should
+    a function that returns Cat relate to a
+    function that returns Animal?
+
 universally unique identifier
 UUID
     A 128-bit number used to identify
