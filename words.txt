@@ -12430,3 +12430,15 @@ concordance
 deist
     A person who believes in God but not in
     traditional religions.
+
+automatize
+    Make automatic or habitual.
+    "the practice of reading helps to
+    automatize the reading process"
+
+    Convert (a process or facility) to be
+    operated by largely automatic equipment;
+    automate.
+    "the program automatizes most part of the
+    main procedure, keeping user intervention
+    at a minimum level"
