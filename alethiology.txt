@@ -2,3 +2,123 @@ alethiology
     Means the study of truth, but can more
     accurately be translated as the study of
     the nature of truth.
+
+major theories of truth
+    - substantive
+      - consensus
+
+substantive
+    Having a firm basis in reality and so
+    important, meaningful, or considerable.
+    "there is no substantive evidence for the
+    efficacy of these drugs"
+
+    Having a separate and independent
+    existence.
+
+correspondence
+correspondence theories of truth
+    Emphasize that true beliefs and true
+    statements correspond to the actual state
+    of affairs.
+    
+    This type of theory stresses a
+    relationship between thoughts or
+    statements on one hand, and things or
+    objects on the other.
+    
+    It is a traditional model tracing its
+    origins to ancient Greek philosophers such
+    as Socrates, Plato, and Aristotle.
+    
+    This class of theories holds that the
+    truth or the falsity of a representation
+    is determined in principle entirely by how
+    it relates to "things" by whether it
+    accurately describes those "things".
+
+coherence
+coherence theory of truth
+    For coherence theories in general, truth
+    requires a proper fit of elements within a
+    whole system.
+    
+    Very often, though, coherence is taken to
+    imply something more than simple logical
+    consistency; often there is a demand that
+    the propositions in a coherent system lend
+    mutual inferential support to each other.
+    
+    So, for example, the completeness and
+    comprehensiveness of the underlying set of
+    concepts is a critical factor in judging
+    the validity and usefulness of a coherent
+    system.
+    
+    A pervasive tenet of coherence theories is
+    the idea that truth is primarily a
+    property of whole systems of propositions,
+    and can be ascribed to individual
+    propositions only according to their
+    coherence with the whole.
+    
+    Among the assortment of perspectives
+    commonly regarded as coherence theory,
+    theorists differ on the question of
+    whether coherence entails many possible
+    true systems of thought or only a single
+    absolute system.
+    
+    Some variants of coherence theory are
+    claimed to describe the essential and
+    intrinsic properties of formal systems in
+    logic and mathematics.
+
+pragmatic
+pragmatic theory of truth
+    The three most influential forms of the
+    pragmatic theory of truth were introduced
+    around the turn of the 20th century by
+    Charles Sanders Peirce, William James, and
+    John Dewey.
+    
+    Although there are wide differences in
+    viewpoint among these and other proponents
+    of pragmatic theory, they hold in common
+    that truth is verified and confirmed by
+    the results of putting one's concepts into
+    practice.
+    
+    Peirce defines truth as follows: "Truth is
+    that concordance of an abstract statement
+    with the ideal limit towards which endless
+    investigation would tend to bring
+    scientific belief, which concordance the
+    abstract statement may possess by virtue
+    of the confession of its inaccuracy and
+    one-sidedness, and this confession is an
+    essential ingredient of truth."
+
+consensus
+consensus theory of truth
+    Consensus theory holds that truth is
+    whatever is agreed upon, or in some
+    versions, might come to be agreed upon, by
+    some specified group.
+    
+    Such a group might include all human
+    beings, or a subset thereof consisting of
+    more than one person.
+    
+    Among the current advocates of consensus
+    theory as a useful accounting of the
+    concept of "truth" is the philosopher
+    Jürgen Habermas.
+    
+    Habermas maintains that truth is what
+    would be agreed upon in an ideal speech
+    situation.
+    
+    Among the current strong critics of
+    consensus theory is the philosopher
+    Nicholas Rescher.

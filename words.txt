@@ -12419,3 +12419,13 @@ slubberdegullion
 indictment
     A criminal accusation that a person has
     committed a crime.
+
+concordance
+    Agreement or consistency.
+    "the concordance between the teams'
+    research results"
+
+    An alphabetical list of the principal
+    words used in a book or body of work,
+    listing every instance of each word with
+    its immediate context.
