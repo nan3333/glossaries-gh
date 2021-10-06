@@ -1,5 +1,7 @@
 covariance
 contravariance
+covariant
+contravariant
 covariance vs contravariance
     [#computer science]
 
@@ -16,6 +18,17 @@ variance
     relate to a list of Animals? Or how should
     a function that returns Cat relate to a
     function that returns Animal?
+
+contravariant
+contravariance
+    On the other hand, "function from Animal
+    to String" is a subtype of "function from
+    Cat to String" because the function type
+    constructor is contravariant in the
+    parameter type.
+    
+    Here the subtyping relation of the simple
+    types is reversed for the complex types.
 
 universally unique identifier
 UUID
