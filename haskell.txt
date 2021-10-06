@@ -17,6 +17,21 @@ package
       cabal file)
     - And a bunch more
 
+cabal-install vs stack
+    https://stackoverflow.com/questions/30913145/what-is-the-difference-between-cabal-and-stack
+
+    cabal-install and stack are frontends to
+    Cabal.
+    
+    Both tools make it possible to build
+    Haskell projects whose sets of
+    dependencies might conflict with each
+    other within the confines of a single
+    system.
+    
+    The key difference between them lies in
+    how they address this goal.
+
 Stack
     [build tool]
 
@@ -2174,7 +2189,8 @@ lambda
     what comes directly after the \ are the input parameters.
 
 String
-   type is a type alias to [Char]
+[Char]
+   String just a type alias for [Char]
 
    vim +/"type String = \[Char\]" "$(hoogle String | tf txt)"
 
@@ -2303,6 +2319,19 @@ foldl
 
 foldr
     https://youtu.be/24XK4LPoCXc?t=89
+
+fold
+unfold
+    https://kseo.github.io/posts/2016-12-12-unfold-and-fold.html
+
+    Every functional programmer loves fold.
+    fold is universal and expressive. But fold
+    has a secret twin brother named unfold
+    which undoes what fold does.
+
+    unfoldr builds a list from a seed value
+    while foldr reduces a list to a summary
+    value.
 
 <*>
 Applicative operator
@@ -2875,8 +2904,23 @@ hie.yaml
     https://www.reddit.com/r/haskell/comments/hcu5sf/mystified_by_hieyaml/
 
 >>=
+>>
 bind
     One of the operators of Monad.
+
+    (>>) and (>>=) are both bind variants.
+
+    Explanation of (>>):
+        https://youtu.be/_Gk_lwhJMzk?t=278
+
+    infixl 1  >>, >>=
+    class  Monad m  where
+        (>>=)            :: m a -> (a -> m b) -> m b
+        (>>)             :: m a -> m b -> m b
+        return           :: a -> m a
+        fail             :: String -> m a
+
+        m >> k           =  m >>= \_ -> k
 
 MINIMAL
     The MINIMAL comment here means that

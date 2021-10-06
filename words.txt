@@ -12426,3 +12426,7 @@ concordance
     words used in a book or body of work,
     listing every instance of each word with
     its immediate context.
+
+deist
+    A person who believes in God but not in
+    traditional religions.
