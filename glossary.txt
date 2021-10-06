@@ -6684,43 +6684,6 @@ Microcode
     instruction set architecture of the
     computer.
 
-Perplexity
-    A measure of the quality of a language
-    model.
-
-    vimlinks +/"Evaluating language models: perplexity" "http://frnsys.com/ai_notes/machine_learning/natural_language_processing.html"
-
-    http://www.exploredatabase.com/2020/04/evaluation-of-language-model-using-perplexity.html
-    A way to measure the quality of a LM
-    independent of any application.
-
-    Measures how well a probability model
-    predicts the test data.
-
-    The model that assigns a higher
-    probability to the test data is the better
-    model.
-        A good model will assign a high
-        probability to a real sentence.
-
-        For example, let us assume that we
-        estimate the probability of a test data
-        using a bi-gram model and a tri-gram
-        model.
-
-        The better model among these is the one
-        that has a tighter fit to the test data,
-        or predicts the details of the test data
-        better.
-
-    Lower the perplexity, higher the
-    probability.
-
-    An intrinsic evaluation metric (a metric
-    that evaluates the given model independent
-    of any application such as tagging, speech
-    recognition etc.).
-
 ambiguity
     One of the greatest challenges to NLP:
     Example:

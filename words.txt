@@ -3334,9 +3334,6 @@ admonition
 reprimand
     A formal expression of disapproval.
 
-neologism
-    A newly coined word or expression.
-
 excerpt
     A short extract from a film, broadcast, or
     piece of music or writing.

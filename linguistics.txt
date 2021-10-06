@@ -1,3 +1,15 @@
+neologism
+    A newly coined word or expression.
+
+    A neologism is a relatively recent or
+    isolated term, word, or phrase that may be
+    in the process of entering common use, but
+    that has not yet been fully accepted into
+    mainstream language.
+    
+    Neologisms are often driven by changes in
+    culture and technology.
+
 thematic
     Having or relating to subjects or a
     particular subject.
