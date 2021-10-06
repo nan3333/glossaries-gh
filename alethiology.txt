@@ -89,15 +89,40 @@ pragmatic theory of truth
     the results of putting one's concepts into
     practice.
     
-    Peirce defines truth as follows: "Truth is
-    that concordance of an abstract statement
-    with the ideal limit towards which endless
-    investigation would tend to bring
-    scientific belief, which concordance the
-    abstract statement may possess by virtue
-    of the confession of its inaccuracy and
-    one-sidedness, and this confession is an
-    essential ingredient of truth."
+    Peirce defines truth as follows:
+        Truth is that concordance of an
+        abstract statement with the ideal
+        limit towards which endless
+        investigation would tend to bring
+        scientific belief, which concordance
+        the abstract statement may possess by
+        virtue of the confession of its
+        inaccuracy and one-sidedness, and this
+        confession is an essential ingredient
+        of truth.
+
+constructivist
+social constructivism
+    Holds that truth is constructed by social
+    processes, is historically and culturally
+    specific, and that it is in part shaped
+    through the power struggles within a
+    community.
+    
+    Constructivism views all of our knowledge
+    as "constructed," because it does not
+    reflect any external "transcendent"
+    realities (as a pure correspondence theory
+    might hold).
+    
+    Rather, perceptions of truth are viewed as
+    contingent on convention, human
+    perception, and social experience.
+    
+    It is believed by constructivists that
+    representations of physical and biological
+    reality, including race, sexuality, and
+    gender, are socially constructed.
 
 consensus
 consensus theory of truth
