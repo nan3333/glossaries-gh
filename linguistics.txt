@@ -1,3 +1,84 @@
+types of force
+    [#Speech Act Theory]
+
+    - locutionary act
+    - illocutionary act
+    - perlocutionary act
+
+locution
+    What was said and meant.
+
+illocution
+    What was done.
+
+perlocution
+    What happened as a result.
+
+locutionary act
+    [#linguistics]
+    [#philosophy of language]
+    [#speech-act theory]
+
+    [type of force]
+
+    The performance of an utterance, and is
+    one of the types of force, in addition to
+    illocutionary act and perlocutionary act,
+    typically cited in Speech Act Theory.
+
+illocutionary act
+    [#linguistics]
+    [#philosophy of language]
+    [#speech-act theory]
+
+    [type of force]
+
+    In speech-act theory, the term
+    illocutionary act refers to the use of a
+    sentence to express an attitude with a
+    certain function or "force," called an
+    illocutionary force, which differs from
+    locutionary acts in that they carry a
+    certain urgency and appeal to the meaning
+    and direction of the speaker.
+
+    The concept of illocutionary acts was
+    introduced into linguistics by the
+    philosopher J. L. Austin in his
+    investigation of the various aspects of
+    speech acts.
+    
+    In his framework, locution is what was
+    said and meant, illocution is what was
+    done, and perlocution is what happened as
+    a result.
+
+perlocutionary act
+    [#linguistics]
+    [#philosophy of language]
+    [#speech-act theory]
+
+    [type of force]
+
+    The effect of an utterance on an
+    interlocutor.
+    
+    Examples of perlocutionary acts include
+    persuading, convincing, scaring,
+    enlightening, inspiring, or otherwise
+    affecting the interlocutor.
+
+transitive verb
+    A verb that accepts one or more objects.
+    
+    This contrasts with intransitive verbs,
+    which do not have objects.
+    
+    Transitivity is traditionally thought a
+    global property of a clause, by which
+    activity is transferred from an agent to a
+    patient.
+
 neologism
     A newly coined word or expression.
 
