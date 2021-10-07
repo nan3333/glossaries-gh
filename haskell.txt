@@ -5,6 +5,28 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+catamorphism
+    [#category theory]
+
+    A general abstraction that enables you to
+    handle multiple values, for example in
+    order to reduce them to a single value.
+    
+    The concept of catamorphism denotes the
+    unique homomorphism from an initial
+    algebra into some other algebra.
+
+    [#functional programming]
+    
+    Catamorphisms provide generalizations of
+    folds of lists to arbitrary algebraic data
+    types, which can be described as initial
+    algebras.
+
+    https://youtu.be/LXx-dOmjxg0
+
+anamorphism
+
 ascription
 type ascription
     > :t (+)
@@ -2709,6 +2731,11 @@ universal quantification
 universally quantified
 
 forall
+    IORef :: forall t. t
+
+    Can be any type
+
+forall
     In standard Haskell 98/2010 type variables
     in a type expression are all assumed to be
     universally quantified.
@@ -2852,11 +2879,6 @@ forever
 
         print =<< nextInt
         nextInt >>= print
-
-forall
-    IORef :: forall t. t
-
-    Can be any type
 
 type-declarative search
 
