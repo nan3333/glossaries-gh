@@ -12442,3 +12442,11 @@ automatize
     "the program automatizes most part of the
     main procedure, keeping user intervention
     at a minimum level"
+
+posterity
+    All future generations of people.
+    "the victims' names are recorded for
+    posterity"j
+
+    NLG: The offspring of a living thing in
+    successive generations.
