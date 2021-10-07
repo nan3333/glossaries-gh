@@ -12450,3 +12450,27 @@ posterity
 
     NLG: The offspring of a living thing in
     successive generations.
+
+sojourn
+    A temporary stay.
+    "her sojourn in Rome"
+
+    Stay somewhere temporarily.
+    "she had sojourned once in Egypt"
+
+    "sojourn's end"
+
+draconian
+    NLG: Very severe because of severity and
+    inflexibility.
+
+bespoke
+    The word bespoke has evolved from a verb
+    meaning 'to speak for something', to its
+    contemporary usage as an adjective.
+    
+    Originally, the adjective bespoke
+    described tailor-made suits and shoes.
+    
+    Later, it described anything commissioned
+    to a particular specification.
