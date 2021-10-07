@@ -13,6 +13,9 @@ entropy of a random variable
     "surprise", or "uncertainty" inherent in
     the variable's possible outcomes.
 
+    The uncertainty associated with a
+    probability distribution.
+
 Data
     Raw, unorganized facts that need to be
     processed.

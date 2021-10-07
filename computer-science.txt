@@ -1,3 +1,44 @@
+Church encoding
+    A means of representing data and operators
+    in the lambda calculus.
+    
+    The Church numerals are a representation
+    of the natural numbers using lambda
+    notation.
+    
+    The method is named for Alonzo Church, who
+    first encoded data in the lambda calculus
+    this way.
+
+Parigot encoding
+    https://homepage.divms.uiowa.edu/~astump/talks/colloq-10-24-2014.pdf
+
+Scott encoding
+    A way to represent (recursive) data types
+    in the lambda calculus.
+    
+    Church encoding performs a similar
+    function.
+    
+    The data and operators form a mathematical
+    structure which is embedded in the lambda
+    calculus.
+    
+    Whereas Church encoding starts with
+    representations of the basic data types,
+    and builds up from it, Scott encoding
+    starts from the simplest method to compose
+    algebraic data types.
+    
+Mogensen–Scott encoding
+    Extends and slightly modifies Scott
+    encoding by applying the encoding to
+    Metaprogramming.
+    
+    This encoding allows the representation of
+    lambda calculus terms, as data, to be
+    operated on by a meta program.
+
 covariance
 contravariance
 covariant
