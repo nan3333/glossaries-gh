@@ -1,5 +1,23 @@
 awesome-open https://github.com/SwapneelM/awesome-particle-physics-for-non-physicists
 
+entropy
+    The disorder of a system.
+
+chaos
+    Means that the behaviour of system (no
+    randomness) is not predictable.
+    
+    This is the common feature with random
+    system (a nose), but the rest of body is
+    different.
+    
+    Deterministic chaos is a mathematical
+    concept while randomness is essentially a
+    philosophical one.
+
+randomness
+
+
 photon sieve
     A device for focusing light using
     diffraction and interference.
