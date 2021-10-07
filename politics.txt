@@ -20,3 +20,10 @@ call-out culture
     The expression "cancel culture" has mostly
     negative connotations and is commonly used
     in debates on free speech and censorship.
+
+filibuster
+    A political procedure where one or more
+    members of parliament or congress debate
+    over a proposed piece of legislation so as
+    to delay or entirely prevent a decision
+    being made on the proposal.
