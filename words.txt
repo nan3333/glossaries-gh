@@ -12508,3 +12508,27 @@ political gaffe
         sufficiently far from the conventional
         wisdom to make said candidate
         vulnerable to attack.
+
+ascription
+    Ascription, in sociology, is a way to
+    acquire status, along with achievement or
+    chance.
+    
+    In philosophy, it is related to belief
+    ascription.
+    
+    It is also a concept in linguistics, refer
+    to Predicate.
+
+    The attribution of something to a cause.
+    "the ascription of effect to cause"
+
+    The attribution of a text, quotation, or
+    work of art to a particular person or
+    period.
+    "her ascription of the text to Boccaccio"
+
+    The action of regarding a quality as
+    belonging to someone or something.
+    "the ascription of special personal
+    qualities to political leaders"

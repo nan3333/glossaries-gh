@@ -5,6 +5,23 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+ascription
+type ascription
+    > :t (+)
+    (+) :: Num a => a -> a -> a
+
+    You can read the type for (+) as saying
+    "(+) takes two Ints or two Floats or two
+    Doubles or two values of any other numeric
+    type and returns another number of the
+    same type as the arguments". Haskell
+    automatically infers the specific types
+    based on how the expressions are used. But
+    we can also explicitly tell Haskell which
+    types we want using type ascription.
+
+    > :t (4 :: Int) + (5 :: Int)
+
 operator section syntax
 section of an infix operator
     [#haskell]
