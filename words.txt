@@ -12491,12 +12491,12 @@ political gaffe
     An error in speech made by a politician.
     
     According to Barack Obama it is:
-
-    Used by the press to describe any
-    maladroit phrase by a candidate that
-    reveals ignorance, carelessness, fuzzy
-    thinking, insensitivity, malice,
-    boorishness, falsehood, or hypocrisy – or
-    is simply deemed to veer sufficiently far
-    from the conventional wisdom to make said
-    candidate vulnerable to attack.
+        Used by the press to describe any
+        maladroit phrase by a candidate that
+        reveals ignorance, carelessness, fuzzy
+        thinking, insensitivity, malice,
+        boorishness, falsehood, or hypocrisy –
+        or is simply deemed to veer
+        sufficiently far from the conventional
+        wisdom to make said candidate
+        vulnerable to attack.
