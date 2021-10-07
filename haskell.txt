@@ -5,6 +5,13 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+diverge
+divergence
+    [#mathematics]
+
+    (of a series) increase indefinitely as
+    more of its terms are added.
+
 catamorphism
     [#category theory]
 
@@ -76,9 +83,6 @@ existential types
 
     Existential types are a way of turning
     this off.
-
-template Haskell
-    [#haskell]
 
 generics
     [#haskell]
