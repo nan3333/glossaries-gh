@@ -12480,6 +12480,14 @@ maladroit
     "both men are unhappy about the maladroit
     way the matter has been handled"
 
+boorishness
+    The manner of a rude or insensitive
+    person. rudeness, discourtesy - a manner
+    that is rude and insulting.
+
+    Inelegance by virtue of being an uncouth
+    boor.
+
 gaffe
     An unintentional act or remark causing
     embarrassment to its originator; a
