@@ -5,6 +5,235 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+existential types
+    [#haskell]
+
+    ifl existential type haskell
+
+    Normally when creating a new type using
+    type, newtype, data, etc., every type
+    variable that appears on the right-hand
+    side must also appear on the left-hand
+    side.
+
+    Existential types are a way of turning
+    this off.
+
+template Haskell
+    [#haskell]
+
+generics
+    [#haskell]
+
+type applications
+    [#haskell]
+
+TypeInType
+    [#haskell]
+    [WIP language extension]
+
+    Modern type-level programming.
+
+    Covers a wealth of features, all with the
+    aim of creating a dependently typed
+    Haskell.
+
+language extensions
+    [#haskell]
+
+    cd $MYGIT/facebook/duckling/Duckling/; grep -HnR "# LANGUAGE" . | scrape "LANGUAGE [^ ]+" | uniqnosort
+    sed -n "s/.*LANGUAGE \(.*\)/\1\n    [haskell language extension]\n/ip"
+
+PostfixOperators
+    [haskell language extension]
+
+    ewwlinks +/"PostfixOperators" "https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/basic-syntax-extensions"
+
+    Normally, when you write, for example:
+
+        (4 !)
+
+    it expands into:
+
+        \x -> 4 ! x
+
+    or, equivalently:
+
+        \x -> (!) 4 x
+
+    PostfixOperators instead expands this left section into:
+
+        (!) 4
+
+Data.Typeable and Data.Data
+    ewwlinks +/"Typeable and Data in Haskell" "https://chrisdone.com/posts/data-typeable/"
+
+    Rather mysterious.
+
+    Starting out as a Haskell newbie you see
+    them once in a while and wonder what use
+    they are.
+
+    Their Haddock pages are pretty opaque and
+    scary in places.
+
+    Here's a quick rundown I thought I'd write
+    to get people up to speed nice and quick
+    so that they can start using it.
+
+    It's really rather beautiful as a way to
+    do generic programming in Haskell.
+
+    The general approach is that you don't
+    know what data types are being given to
+    you, but you want to work upon them almost
+    as if you did.
+
+    The technique is simple when broken down.
+
+DeriveDataTypeable
+    [haskell language extension]
+
+    Now you can derive instances of both
+    Data.Typeable and Data.Data:
+
+        data X = X
+          deriving (Data,Typeable)
+
+    Now we can start doing generic operations
+    upon X.
+
+MultiParamTypeClasses
+    [haskell language extension]
+
+DeriveAnyClass
+    [haskell language extension]
+
+DeriveGeneric
+    [haskell language extension]
+
+NoRebindableSyntax
+    [haskell language extension]
+
+TypeFamilies
+    [haskell language extension]
+
+OverloadedStrings
+    [haskell language extension]
+
+GADTs
+    [haskell language extension]
+
+LambdaCase
+    [haskell language extension]
+
+tuple constructor
+    [#haskell]
+
+    Example:
+
+        (,,,,) 1 "hello" 6.5 (Just ()) [5, 5, 6, 7]
+
+
+    See:
+        vim +/"TupleSections" "$HOME/notes/glossary.txt"
+
+TupleSections
+    [haskell language extension]
+
+    ewwlinks +/"TupleSections" "https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/basic-syntax-extensions"
+
+    Allows you to:
+    - omit values from the tuple syntax,
+      unifying the standard tuple sugar with
+      the tuple constructor syntax to form one
+      generalized syntax for tuples.
+
+    Normally, tuples are constructed with the
+    standard tuple sugar, which looks like
+    this:
+
+        (1, "hello", 6.5, Just (), [5, 5, 6, 7])
+
+    This could be considered shorthand for the
+    following explicit tuple constructor use:
+
+        (,,,,) 1 "hello" 6.5 (Just ()) [5, 5, 6, 7]
+
+    However, the explicit tuple constructor
+    (,,,,) could just as easily be considered
+    section sugar for tuples, expanding to:
+
+        \v w x y z -> (v, w, x, y, z)
+
+    Looking at it this way allows us to ask,
+    “Why can’t we partially section a tuple?
+    After all, (+) is valid, (,) is valid, and
+    (1 +) is valid, but (1,) is not valid. The
+    TupleSections extension fixes this
+    oversight.
+
+    With TupleSections you can now write, for
+    example:
+
+        (1, "hello",, Just (),)
+
+    and have it mean the same as
+
+        \x y -> (1, "hello", x, Just (), y)
+
+NamedFieldPuns
+    [haskell language extension]
+
+    ewwlinks +/"Record puns are enabled by the flag -XNamedFieldPuns." "https://downloads.haskell.org/~ghc/7.6.2/docs/html/users_guide/syntax-extns.html"
+
+    When using records, it is common to write
+    a pattern that binds a variable with the
+    same name as a record field, such as:
+
+        data C = C {a :: Int}
+        f (C {a = a}) = a
+
+    Record punning permits the variable name
+    to be elided, so one can simply write
+
+        f (C {a}) = a
+
+RecordWildCards
+    [haskell language extension]
+
+AllowAmbiguousTypes
+    [haskell language extension]
+
+ExistentialQuantification
+    [haskell language extension]
+
+FlexibleContexts
+    [haskell language extension]
+
+FlexibleInstances
+    [haskell language extension]
+
+RankNTypes
+    [haskell language extension]
+
+ScopedTypeVariables
+    [haskell language extension]
+
+StandaloneDeriving
+    [haskell language extension]
+
+TypeOperators
+    [haskell language extension]
+
+BangPatterns
+    [haskell language extension]
+
+Math
+    Purely functional.
+
+    vimlinks +/"Mathematics is a purely functional language. " "http://matt.might.net/articles/discrete-math-and-code/"
+
 package
     [#cabal]
 
