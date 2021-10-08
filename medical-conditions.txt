@@ -1,4 +1,12 @@
 Alopecia areata
+    NLG: Alopecia areata is a condition that
+    causes patches of hair to fall out all
+    over the scalp and sometimes over other
+    parts of the body. The hair usually grows
+    back within a few months but sometimes it
+    can take years. The process of loss and
+    regrowth of hair is called anagen
+    effluvium.
 
 Aspiration pneumonia
     A type of lung infection that is due to a
