@@ -12575,3 +12575,21 @@ contrarian
     current practice.
     "the comment came more from a contrarian
     disposition than moral conviction"
+
+tributary
+    A person or state that pays tribute to
+    another state or ruler.
+    "tributaries of the Ottoman Empire"
+
+tributary
+affluent
+    A stream or river that flows into a larger
+    stream or main stem river or a lake.
+    
+    A tributary does not flow directly into a
+    sea or ocean.
+    
+    Tributaries and the main stem river drain
+    the surrounding drainage basin of its
+    surface water and groundwater, leading the
+    water out into an ocean.
