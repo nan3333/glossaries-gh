@@ -12563,3 +12563,15 @@ disintermediation
 
     NLG: The process of removing
     intermediaries from an activity.
+
+contrarian
+    A person who opposes or rejects popular
+    opinion, especially in stock exchange
+    dealing.
+    "it has become fashionable to be a
+    stock-market contrarian"
+
+    Opposing or rejecting popular opinion or
+    current practice.
+    "the comment came more from a contrarian
+    disposition than moral conviction"
