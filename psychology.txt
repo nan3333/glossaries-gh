@@ -279,3 +279,11 @@ charade
     pleasant or respectable appearance.
     "talk of unity was nothing more than a
     charade"
+
+cognitive biases
+    NLG: (Psychology) A judgmental error
+    characterized by deviations from standards
+    of rationality or good judgment, often
+    caused by information-processing
+    shortcuts which tend to simplify and save
+    cognitive effort.

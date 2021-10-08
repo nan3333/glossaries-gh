@@ -12532,3 +12532,34 @@ ascription
     belonging to someone or something.
     "the ascription of special personal
     qualities to political leaders"
+
+trilemma
+quadlemma
+    A trilemma is a difficult choice from
+    three options, each of which is (or
+    appears) unacceptable or unfavourable.
+    
+    There are two logically equivalent ways in
+    which to express a trilemma: it can be
+    expressed as a choice among three
+    unfavourable options, one of which must be
+    chosen, or as a choice among three
+    favourable options, only two of which are
+    possible at the same time.
+
+serendipity
+    The occurrence and development of events
+    by chance in a happy or beneficial way.
+
+    NLG: The phenomenon of making fortunate
+    discoveries by accident.
+
+disintermediation
+    Reduction in the use of intermediaries
+    between producers and consumers, for
+    example by investing directly in the
+    securities market rather than through a
+    bank.
+
+    NLG: The process of removing
+    intermediaries from an activity.
