@@ -1,3 +1,9 @@
+Boyer–Moore majority vote algorithm
+
+
+Bellman–Ford algorithm
+
+
 Knuth-Morris-Pratt string-searching algorithm
 or KMP algorithm
     Searches for occurrences of a "word" W
