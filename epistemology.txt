@@ -1,3 +1,21 @@
+deflationary theory of truth
+    [#theories of truth]
+
+    A deflationary theory of truth is one of a
+    family of theories that all have in common
+    the claim that assertions of predicate
+    truth of a statement do not attribute a
+    property called "truth" to such a
+    statement.
+
+verity
+    A true principle or belief, especially one
+    of fundamental importance.
+    "the eternal verities"
+
+    Truth.
+    "irrefutable, objective verity"
+
 reflexivity
     [#epistemology]
     [#sociology of knowledge]
