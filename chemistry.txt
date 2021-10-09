@@ -1,5 +1,11 @@
 http://www.colby.edu/chemistry/OChem/STEREOCHEM/definitions.html
 
+substituent
+    An atom or group of atoms taking the place
+    of another atom or group or occupying a
+    specified position in a molecule.
+    "displacement of alkyl substituents"
+
 Anisotropy
     The property of a material which allows it
     to change or assume different properties

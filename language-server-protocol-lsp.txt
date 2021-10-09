@@ -1,5 +1,13 @@
 https://github.com/eclipse/lsp4j/blob/master/documentation/jsonrpc.md
 
+diagnostics
+    This is the linter/flycheck.
+
+    Parser:
+        j:lsp-ui-flycheck-list--update
+
+    (etv (pps (lsp-diagnostics)))
+
 features:
     https://microsoft.github.io/language-server-protocol/specification.html#initialize
 

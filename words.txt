@@ -12593,3 +12593,9 @@ affluent
     the surrounding drainage basin of its
     surface water and groundwater, leading the
     water out into an ocean.
+
+substituent
+    An atom or group of atoms taking the place
+    of another atom or group or occupying a
+    specified position in a molecule.
+    "displacement of alkyl substituents"
