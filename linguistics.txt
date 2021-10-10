@@ -1,3 +1,13 @@
+epithet
+    A byname, or a descriptive term,
+    accompanying or occurring in place of a
+    name and having entered common usage.
+    
+    It has various shades of meaning when
+    applied to seemingly real or fictitious
+    people, divinities, objects, and binomial
+    nomenclature.
+
 pleonasm
     The use of more words than are necessary
     to convey meaning (e.g. see with one's
