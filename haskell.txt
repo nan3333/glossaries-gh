@@ -3387,3 +3387,7 @@ newtype wrapper
     NLG: Haskell's newtype wrapper allows you
     to generate new datatypes with type safety
     enforced.
+
+ST monad
+    The monadic ST type provides support for
+    strict state threads.
