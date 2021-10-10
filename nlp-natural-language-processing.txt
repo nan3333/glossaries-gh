@@ -18,6 +18,32 @@ LAMBADA
 
     https://huggingface.co/EleutherAI/gpt-j-6B#evaluation-results
 
+LamDA
+    [#Google]
+
+    https://blog.google/technology/ai/lamda/
+
+    Like many recent LMs, including BERT and
+    GPT-3, it’s built on Transformer.
+
+    Unlike most other LMs, LaMDA was trained
+    on dialogue.
+    
+    During its training, it picked up on
+    several of the nuances that distinguish
+    open-ended conversation from other forms
+    of language.
+    
+    One of those nuances is sensibleness.
+    
+    Basically: Does the response to a given
+    conversational context make sense? For
+    instance, if someone says: “I just started
+    taking guitar lessons.” You might expect
+    another person to respond with something
+    like: “How exciting! My mom has a vintage
+    Martin that she loves to play.”
+
 Acc
 Accuracy
 

@@ -1,3 +1,13 @@
+circumlocution
+    A phrase that circles around a specific
+    idea with multiple words rather than
+    directly evoking it with fewer and apter
+    words.
+    
+    It is sometimes necessary in
+    communication, but it can also be
+    undesirable.
+
 epithet
     A byname, or a descriptive term,
     accompanying or occurring in place of a

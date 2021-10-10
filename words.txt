@@ -12605,3 +12605,8 @@ polysyllabic
     Using or characterized by words of many
     syllables.
     "polysyllabic jargon"
+
+seer
+soothsayer
+    A person supposed to be able to foresee
+    the future.
