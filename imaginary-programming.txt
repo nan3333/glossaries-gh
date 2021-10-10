@@ -41,12 +41,41 @@ object of the mind
     Some such objects are abstractions,
     literary concepts, or fictional scenarios.
 
+figment
+    A thing that someone believes to be real
+    but that exists only in their imagination.
+    "it really was Ross and not a figment of
+    her overheated imagination"
+
 estimate
 ω
     [#probability theory]
     [#KL divergence]
 
 sense
+    [#linguistics]
+
+    A way in which an expression or a
+    situation can be interpreted; a meaning.
+    "it is not clear which sense of the word
+    ‘characters’ is intended in this passage"
+
+    [#mathematics]
+
+    A property (e.g. direction of motion)
+    distinguishing a pair of objects,
+    quantities, effects, etc. which differ
+    only in that each is the reverse of the
+    other.
+
+    "the cord does not become straight, but
+    forms a length of helix in the opposite
+    sense"
+
+truth sense
+sense
+    [#imaginary computing]
+
     What constitutes as untrue when using a
     language model as a basis for truth?
 
