@@ -12599,3 +12599,9 @@ substituent
     of another atom or group or occupying a
     specified position in a molecule.
     "displacement of alkyl substituents"
+
+polysyllabic
+    (of a word) having more than one syllable.
+    Using or characterized by words of many
+    syllables.
+    "polysyllabic jargon"
