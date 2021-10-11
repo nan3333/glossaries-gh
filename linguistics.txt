@@ -1,3 +1,17 @@
+diachrony
+synchrony
+    Synchrony and diachrony are two different
+    and complementary viewpoints in linguistic
+    analysis.
+    
+    A synchronic approach considers a language
+    at a moment in time without taking its
+    history into account.
+    
+    Synchronic linguistics aims at describing
+    a language at a specific point of time,
+    usually the present.
+
 circumlocution
     A phrase that circles around a specific
     idea with multiple words rather than
