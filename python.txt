@@ -1,3 +1,69 @@
+True
+False
+None
+Ellipsis
+NotImplemented
+    [builtin constant]
+
+    https://sadh.life/post/builtins/#constants
+
+    Ellipsis
+        Represented in two forms:
+        - Ellipsis
+        - ...
+
+        It mostly exists to support type
+        annotations, and for some very fancy
+        slicing support.
+
+    True
+    False
+        Actually function as 1 and 0.
+
+    NotImplemented
+        Used inside a class’ operator
+        definitions, when you want to tell
+        Python that a certain operator isn’t
+        defined for this class.
+
+builtin constants
+    There’s exactly 5 constants: 
+
+    - True,
+    - False,
+    - None,
+    - Ellipsis, and
+    - NotImplemented.
+
+nonlocal scope
+enclosing scope
+    https://sadh.life/post/builtins/#enclosing-scope
+
+    Refers to the scope of the classes or
+    functions inside which the current
+    function/class lives.
+
+nonlocal
+    [keyword]
+
+    https://sadh.life/post/builtins/#enclosing-scope
+
+    Tell the interpreter that you don’t mean
+    to define a new variable in the local
+    scope, but you want to modify the one in
+    the enclosing scope.
+
+builtin scope
+    https://sadh.life/post/builtins/#builtin-scope
+
+    It’s the scope where essentially all of
+    Python’s top level functions are defined,
+    such as len, range and print.
+    
+    When a variable is not found in the local,
+    enclosing or global scope, Python looks
+    for it in the builtins.
+
 cloudpickle
     [library]
 
@@ -437,6 +503,8 @@ __index__()
 
 builtin functions
     https://docs.python.org/3/library/functions.html
+
+    python -c "import shanepy as spy; print(dir(__builtins__))"
 
     abs() delattr() hash() memoryview()
     set() all() dict() help() min()
