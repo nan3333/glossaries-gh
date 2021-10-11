@@ -12646,3 +12646,11 @@ rodomontade
     character in Italian Renaissance epic
     poems Orlando innamorato and its sequel
     Orlando furioso.
+
+conspicuous
+    Clearly visible.
+    "he was very thin, with a conspicuous
+    Adam's apple"
+
+    Attracting notice or attention.
+    "he showed conspicuous bravery"
