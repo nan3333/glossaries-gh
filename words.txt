@@ -12610,3 +12610,13 @@ seer
 soothsayer
     A person supposed to be able to foresee
     the future.
+
+contempt
+    A pattern of attitudes and behaviour,
+    often towards an individual or group, but
+    sometimes towards an ideology, which has
+    the characteristics of disgust and anger.
+    
+    The word originated in 1393 in Old French
+    contempt, contemps, from the Latin word
+    contemptus meaning "scorn".
