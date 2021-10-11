@@ -1,22 +1,26 @@
-Mesopotamia
-    [historical region]
+Geography
+    Branches:
+    - Physical
+    - Human
+    - Integrated
+    - Geomatics
+    - Regional
 
-    A historical region of Western Asia
-    situated within the Tigris–Euphrates river
-    system, in the northern part of the
-    Fertile Crescent, in modern days roughly
-    corresponding to most of Iraq, Kuwait, the
-    eastern parts of Syria, Southeastern
-    Turkey, and regions along the
-    Turkish–Syrian and Iran–Iraq borders.
-
-Mesoamerica
-    [historical region]
-
-    A historical region and cultural area in
-    North America.
+Geomatics
+    Concerned with the application of
+    computers to the traditional spatial
+    techniques used in cartography and
+    topography.
     
-    It extends from approximately central
-    Mexico through Belize, Guatemala, El
-    Salvador, Honduras, Nicaragua, and
-    northern Costa Rica.
+    Geomatics emerged from the quantitative
+    revolution in geography in the mid-1950s.
+    
+    Today, geomatics methods include spatial
+    analysis, geographic information systems
+    (GIS), remote sensing, and global
+    positioning systems (GPS).
+    
+    Geomatics has led to a revitalization of
+    some geography departments, especially in
+    Northern America where the subject had a
+    declining status during the 1950s.
