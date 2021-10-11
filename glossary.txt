@@ -6901,41 +6901,6 @@ F-algebra
     data structures used in programming, such
     as lists and trees.
 
-catamorphism
-    [#category theory]
-
-    Deconstructs a data structure with an
-    F-algebra for its underlying functor.
-
-    A catamorphism for some F-algebra (X,f) is
-    denoted (| f |)F.
-
-    When the functor F can be determined
-    unambiguously, it is usually written (|φ|)
-    or cata φ.
-
-    Due to this choice of notation, a
-    catamorphism is sometimes called a banana
-    and the (|.|) notation is sometimes
-    referred to as banana brackets.
-
-    Examples:
-        $MYGIT/acmeism/RosettaCodeData/Task/Catamorphism/C++/catamorphism.cpp
-
-    The unique homomorphism from an initial
-    algebra into some other algebra.
-
-    In FP, catamorphisms provide
-    generalizations of folds of lists to
-    arbitrary algebraic data types, which can
-    be described as initial algebras.
-
-    The dual concept is that of anamorphism
-    that generalize unfolds.
-
-    A hylomorphism is the composition of an
-    anamorphism followed by a catamorphism.
-
 contract
     [#racket]
 

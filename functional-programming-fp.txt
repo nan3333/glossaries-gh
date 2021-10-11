@@ -92,23 +92,6 @@ tail recursion
     Examples:
     - foldl is tail recursive. 
 
-catamorphism
-    [#category theory]
-
-    The concept of catamorphism denotes the
-    unique homomorphism from an initial
-    algebra into some other algebra.
-
-catamorphism
-    [#fp]
-
-    $MYGIT/acmeism/RosettaCodeData/Task/Catamorphism
-
-    Catamorphisms provide generalizations of
-    folds of lists to arbitrary algebraic data
-    types, which can be described as initial
-    algebras.
-
 transducer
     Not just a clojure and haskell thing.
 

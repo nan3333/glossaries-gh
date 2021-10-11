@@ -32,7 +32,64 @@ catamorphism
 
     https://youtu.be/LXx-dOmjxg0
 
+    [#category theory]
+
+    The concept of catamorphism denotes the
+    unique homomorphism from an initial
+    algebra into some other algebra.
+
+    $MYGIT/acmeism/RosettaCodeData/Task/Catamorphism
+
+    Catamorphisms provide generalizations of
+    folds of lists to arbitrary algebraic data
+    types, which can be described as initial
+    algebras.
+
+    [#category theory]
+
+    Deconstructs a data structure with an
+    F-algebra for its underlying functor.
+
+    A catamorphism for some F-algebra (X,f) is
+    denoted (| f |)F.
+
+    When the functor F can be determined
+    unambiguously, it is usually written (|φ|)
+    or cata φ.
+
+    Due to this choice of notation, a
+    catamorphism is sometimes called a banana
+    and the (|.|) notation is sometimes
+    referred to as banana brackets.
+
+    Examples:
+        $MYGIT/acmeism/RosettaCodeData/Task/Catamorphism/C++/catamorphism.cpp
+
+    The unique homomorphism from an initial
+    algebra into some other algebra.
+
+    In FP, catamorphisms provide
+    generalizations of folds of lists to
+    arbitrary algebraic data types, which can
+    be described as initial algebras.
+
+    The dual concept is that of anamorphism
+    that generalize unfolds.
+
+    A hylomorphism is the composition of an
+    anamorphism followed by a catamorphism.
+
 anamorphism
+    A function that generates a sequence by
+    repeated application of the function to
+    its previous result.
+    
+    You begin with some value A and apply a
+    function f to it to get B.
+    
+    Then you apply f to B to get C, and so on
+    until some terminating condition is
+    reached. 
 
 ascription
 type ascription
@@ -2224,6 +2281,8 @@ Get implemetation of function in haskell
 forM_
     mapM_ map lambda to list.
     Your every day map.
+
+    The _ indicates ignore results.
 
     hsdoc forM_
 
