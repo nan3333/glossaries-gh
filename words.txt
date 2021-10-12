@@ -12669,3 +12669,9 @@ Jingoism
     peaceful relations, in efforts to
     safeguard what it perceives as its
     national interests.
+
+imprudent
+    Not showing care for the consequences of
+    an action; rash.
+    "it would be imprudent to leave her winter
+    coat behind"
