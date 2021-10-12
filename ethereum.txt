@@ -1,3 +1,17 @@
+optimism
+optimistic ethereum
+    https://www.optimism.io/
+    
+    The Ethereum you know and love, at lower
+    cost and lightning speed.
+
+arbitrum
+    Building Arbitrum for Secure Ethereum
+    Dapps.
+
+    Experience economical efficiency of the
+    blockchain without limits.
+
 nonce
     NLG: A nonce is a number that is used only
     once in a cryptographic communication.
@@ -1331,3 +1345,6 @@ Mist
     A browser to browse dApps hosted in cloud.
     
     It can be used as a wallet manage as well.
+
+Ganache
+    Alocal in-memory blockchain.

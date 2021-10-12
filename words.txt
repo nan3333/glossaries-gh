@@ -12704,3 +12704,13 @@ bequeath
     to someone else.
     "he ditched the unpopular policies
     bequeathed to him"
+
+rectification
+    The action of putting something right.
+    "rectification of common errors in letter
+    writing"
+
+    The conversion of an alternating current
+    to a direct current.
+    "the inward rectification of
+    single-channel currents"
