@@ -12684,3 +12684,23 @@ vain
 
     Producing no result; useless.
     "a vain attempt to tidy up the room"
+
+vuldex
+
+normalcy
+normality
+    The condition of being normal; the state
+    of being usual, typical, or expected.
+    "the office gradually returned to a
+    semblance of normality"
+
+bequeath
+    Leave (property) to a person or other
+    beneficiary by a will.
+    "he bequeathed his art collection to the
+    town"
+
+    Pass (something) on or leave (something)
+    to someone else.
+    "he ditched the unpopular policies
+    bequeathed to him"
