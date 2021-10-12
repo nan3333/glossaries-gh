@@ -12675,3 +12675,12 @@ imprudent
     an action; rash.
     "it would be imprudent to leave her winter
     coat behind"
+
+vain
+    Having or showing an excessively high
+    opinion of one's appearance, abilities, or
+    worth.
+    "their flattery made him vain"
+
+    Producing no result; useless.
+    "a vain attempt to tidy up the room"
