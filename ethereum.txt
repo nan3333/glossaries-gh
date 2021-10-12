@@ -1348,3 +1348,6 @@ Mist
 
 Ganache
     Alocal in-memory blockchain.
+
+truffle
+    Project template generator for ethereum.
