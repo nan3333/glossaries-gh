@@ -866,6 +866,21 @@ Binding
         x.
         
 Syntax Object
+    https://beautifulracket.com/explainer/syntax-objects.html
+    
+    Macros are functions that take one syntax
+    object as input and return another syntax
+    object.
+    
+    These syntax objects contain literal code,
+    packaged with metadata like lexical
+    context and source location.
+    
+    + To get around the limited interface,
+    macros can read and write arbitrary syntax
+    properties to pass extra metadata or
+    arguments to other macros.
+    
     Its internal components can be extracted.
 
     Detailed information on the extracted
