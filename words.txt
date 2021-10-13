@@ -12685,7 +12685,10 @@ vain
     Producing no result; useless.
     "a vain attempt to tidy up the room"
 
-vuldex
+jocund
+    Having the quality of being jolly and
+    lively; happy.
+    "he was in a jocund mood"
 
 normalcy
 normality
@@ -12714,3 +12717,24 @@ rectification
     to a direct current.
     "the inward rectification of
     single-channel currents"
+
+moniker
+    A distinctive or identifying name or
+    title.
+    "a nickname, a moniker"
+
+    A word or phrase that is used to refer to
+    something or someone, especially when
+    there is no standard form of reference.
+
+factoid
+    An item of unreliable information that is
+    reported and repeated so often that it
+    becomes accepted as fact.
+    "he addresses the facts and factoids which
+    have buttressed the film's legend"
+
+    A factoid is either an invented or assumed
+    statement presented as a fact, or a true
+    but brief or trivial item of news or
+    information.

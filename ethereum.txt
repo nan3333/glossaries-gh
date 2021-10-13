@@ -1351,3 +1351,20 @@ Ganache
 
 truffle
     Project template generator for ethereum.
+
+    https://www.trufflesuite.com/tutorial
+
+pet-shop
+    A truffle box.
+
+    https://www.trufflesuite.com/boxes/pet-shop
+
+migration
+    Whenever we deploy smart contracts to the
+    blockchain, we are updating the
+    blockchain's state, and therefore need a
+    migration.
+
+    ewwlinks +/"migrations directory" "https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial/"
+
+    $MYGIT/mullikine/semiosis-dapp/migrations

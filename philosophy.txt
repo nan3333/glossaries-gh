@@ -319,3 +319,11 @@ David Chalmers
     Science at New York University, as well as
     co-director of NYU's Center for Mind,
     Brain and Consciousness.
+
+intelligibility
+    What can be comprehended by the human mind
+    in contrast to sense perception.
+    
+    The intelligible method is thought
+    thinking itself, or the human mind
+    reflecting on itself.
