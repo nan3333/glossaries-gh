@@ -1,3 +1,30 @@
+subpoena
+witness summons
+    A writ issued by a government agency, most
+    often a court, to compel testimony by a
+    witness or production of evidence under a
+    penalty for failure.
+
+writ
+    A formal written order issued by a body
+    with administrative or judicial
+    jurisdiction; in modern usage, this body
+    is generally a court.
+    
+    Warrants, prerogative writs, and subpoenas
+    are common types of writ, but many forms
+    exist and have existed.
+
+warrant
+    An order that serves as a specific type of
+    authorization, that is, a writ issued by a
+    competent officer, usually a judge or
+    magistrate, that permits an otherwise
+    illegal act that would violate individual
+    rights and affords the person executing
+    the writ protection from damages if the
+    act is performed.
+
 affidavit
     A written, signed and witnessed statement
     which will be used as evidence in court.
