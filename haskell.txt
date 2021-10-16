@@ -5,6 +5,22 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+non-deterministic computation
+    The kind of computation that, instead of
+    producing a single result, might produce
+    many.
+
+    https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell/13-the-list-monad
+
+    A computation returning a non-
+    deterministic result of type a is not a
+    pure function, but it can be made into one
+    by transforming its result type from a to
+    a list of a.
+    
+    In essence, we create a function that
+    returns all possible results at once.
+
 monadic function
     Functions that return a monadic type are
     called monadic functions.
