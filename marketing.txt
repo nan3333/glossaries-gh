@@ -1,3 +1,13 @@
+rebate
+    A rebate is a form of buying discount and
+    is an amount paid by way of reduction,
+    return, or refund that is paid
+    retrospectively.
+    
+    It is a type of sales promotion that
+    marketers use primarily as incentives or
+    supplements to product sales.
+
 Mimic Pro
     https://www.stukent.com/mimic-pro-simulation/
 

@@ -1,3 +1,31 @@
+reducing function
+reduce function
+reducer
+    (fn [result input]
+        ...)
+
+    A reducing function is a function you can
+    use as the first argument of reduce.
+    
+    A reducing function takes an accumulated
+    result and an input and returns a new
+    result.
+    
+    conj is an example of a reducing function.
+    
+    It takes a collection (the result we’ve
+    accumulated so far) and an item (the
+    input) and adds the item into the
+    collection (the new result).
+    
+    Here’s an example of using conj:
+
+    (conj [1 2] 3)
+    ;;          ^ input
+    ;;    ^^^^^ accumulated result
+    ;;=> [1 2 3]
+    ;;   ^^^^^^^ new result
+
 reader tag
 reader tag symbol
     Default reader tags:
@@ -405,6 +433,13 @@ ns
 
 transducer
     https://stackoverflow.com/q/26317325
+
+    In essence, a transducer is a function
+    that takes a reducing function (like conj)
+    and turns it into a new, more awesome
+    reducing function. Let’s give it a try.
+    Let’s make a transducer called
+    inc-transducer:
 
     Transducers are recipes of what to do with
     a sequence of data without knowledge of

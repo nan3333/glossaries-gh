@@ -5,6 +5,34 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+monadic function
+    Functions that return a monadic type are
+    called monadic functions.
+
+    Each monad provides a mechanism for
+    composing such monadic functions.
+    
+    As we have seen, the do notation
+    simplifies the syntax of composing
+    multiple monadic functions.
+
+interface
+interface class
+    They provide functionality to your
+    classes.
+
+    Any Type class that wants to check the
+    equality of an expression should be a part
+    of the EQ Type Class.
+
+    Examples
+    - Ord
+    - EQ
+
+    Any Type class that wants to be used by
+    ">", "<", "<=", ">=", "compare" should be
+    a part of the Ord Type Class.
+
 diverge
 divergence
     [#mathematics]

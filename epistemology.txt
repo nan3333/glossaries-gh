@@ -40,6 +40,16 @@ reflexivity
     and believe then reflexivity is about what
     we do with this knowledge.
 
+epistemic theories of truth
+    [#philosophy]
+    [#epistemology]
+
+    Attempts to analyze the notion of truth in
+    terms of epistemic notions such as
+    knowledge, belief, acceptance,
+    verification, justification, and
+    perspective.
+
 epistemology
     The branch of philosophy concerned with
     knowledge.

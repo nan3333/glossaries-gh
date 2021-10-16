@@ -12738,3 +12738,31 @@ factoid
     statement presented as a fact, or a true
     but brief or trivial item of news or
     information.
+
+pejorative 
+slug
+    A word or grammatical form expressing a
+    negative or a disrespectful connotation, a
+    low opinion, or a lack of respect toward
+    someone or something.
+
+    It is also used to express criticism,
+    hostility, or disregard.
+
+    "use a pejorative"
+
+pertinent
+    Relevant or applicable to a particular
+    matter; apposite.
+    "she asked me a lot of very pertinent
+    questions"
+
+foible
+    A minor weakness or eccentricity in
+    someone's character.
+    "they have to tolerate each other's little
+    foibles"
+
+    [fencing]
+    The part of a sword blade from the middle
+    to the point.
