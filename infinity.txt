@@ -1,5 +1,5 @@
 transfinite
-transfinite numbers
+transfinite number
     [#mathematics]
 
     Numbers that are "infinite" in the sense
@@ -8,11 +8,7 @@ transfinite numbers
     infinite.
     
     These include the transfinite cardinals,
-    which are cardinal numbers used to
-    quantify the size of infinite sets, and
-    the transfinite ordinals, which are
-    ordinal numbers used to provide an
-    ordering of infinite sets.
+    and the transfinite ordinals.
     
     The term transfinite was coined by Georg
     Cantor in 1895, who wished to avoid some
@@ -26,3 +22,15 @@ transfinite numbers
     
     Nevertheless, the term "transfinite" also
     remains in use.
+
+transfinite cardinal
+    [transfinite number]
+
+    Cardinal numbers used to quantify the size
+    of infinite sets
+
+transfinite ordinal
+    [transfinite number]
+
+    Ordinal numbers used to provide an
+    ordering of infinite sets.
