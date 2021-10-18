@@ -5,6 +5,52 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+Continuation Passing Style
+CPS
+    Continuation passing style is a
+    transformation from a normal function and
+    a call stack to a direction to send the
+    result to the “continuation” without
+    returning.
+    
+    This means the functions context can be
+    cleaned up.
+    
+    Delimited continuations are a slight
+    variation, where instead of an unbounded
+    “rest of the program”, the continuation
+    has an end point and a value.
+    
+    It’s essentially a function, and can be
+    handled as such.
+    
+    There is a purely mechanical method for
+    converting all of the lambda calculus
+    transforms into CPS form, and this can be
+    profitable for compilers based on lambda,
+    or related logics, like system F.
+
+continuation monad
+    CPS is tedious, though.
+    
+    Having to explicitly add a continuation to
+    everything is complicated.
+    
+    However, there’s also a typeclass, or
+    concept, that allows you to convert
+    regular functions into continuation
+    passing style, automatically.
+    
+    It’s then rather straightforward to
+    involve concerns like where work is being
+    run for something that wraps up the entire
+    work.
+    
+    Even being able to switch back and forth
+    between contexts.
+    
+    That’s the continuation monad.
+
 non-deterministic computation
     The kind of computation that, instead of
     producing a single result, might produce
