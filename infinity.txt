@@ -29,11 +29,22 @@ transfinite cardinal
     Cardinal numbers used to quantify the size
     of infinite sets
 
+    א₀ (Aleph-null)
+        The first transfinite cardinal number. 
+
+    א	A+	05D0	1488	HEBREW LETTER ALEF
+    ₀	0s	2080	8320	SUBSCRIPT ZERO
+
 transfinite ordinal
     [transfinite number]
 
     Ordinal numbers used to provide an
     ordering of infinite sets.
+
+    ω (omega)
+        The lowest transfinite ordinal number.
+
+    ω	w*	03C9	0969	GREEK SMALL LETTER OMEGA
 
 cardinal
     1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13,
