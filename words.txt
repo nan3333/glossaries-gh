@@ -12776,6 +12776,8 @@ bravado
     The quality or state of being foolhardy.
 
 petrichor
+    https://www.acs.org/content/dam/acsorg/education/students/highschool/chemistryclubs/infographics/petrichor-the-smell-of-rain.pdf
+
     The term coined by Australian scientists
     in 1964 to describe the unique, earthy
     smell associated with rain.
@@ -12791,3 +12793,15 @@ petrichor
     When it rains, these compounds are
     released into the air to add to the earthy
     smell of petrichor.
+
+geosmin
+    https://www.acs.org/content/dam/acsorg/education/students/highschool/chemistryclubs/infographics/petrichor-the-smell-of-rain.pdf
+
+    Actinomycetes, a type of bacteria found in
+    soil, secrete a compound called geosmin,
+    which is released from soil into the air
+    by raindrops.
+    
+    Geosmin in the air can be detected by the
+    human nose at less than 5 parts per
+    trillion.
