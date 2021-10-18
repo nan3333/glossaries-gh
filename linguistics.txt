@@ -1,3 +1,14 @@
+penult
+    A linguistics term for the second to last
+    syllable of a word.
+    
+    It is an abbreviation of penultimate,
+    which describes the next-to-last item in a
+    series.
+    
+    The penult follows the antepenult and
+    precedes the ultima.
+
 diachrony
 synchrony
     Synchrony and diachrony are two different
