@@ -12774,3 +12774,20 @@ bravado
     b : a pretense of bravery.
 
     The quality or state of being foolhardy.
+
+petrichor
+    The term coined by Australian scientists
+    in 1964 to describe the unique, earthy
+    smell associated with rain.
+    
+    It is caused by the water from the rain,
+    along with certain compounds like ozone,
+    geosmin, and plant oils.
+
+    During dry weather, plants produce
+    compounds that accumulate in between rocks
+    and in soil.
+    
+    When it rains, these compounds are
+    released into the air to add to the earthy
+    smell of petrichor.
