@@ -1,0 +1,4 @@
+I want to be creating org-mode documents, but automatically generating parts
+of it.
+
+This would work similarly to the way you write bash scripts.
