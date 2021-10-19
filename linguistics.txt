@@ -1,3 +1,14 @@
+portmanteau
+portmanteau word
+    A blend of words in which parts of
+    multiple words are combined into a new
+    word, as in smog, coined by blending smoke
+    and fog, or motel, from motor and hotel.
+    
+    In linguistics, a portmanteau is a single
+    morph that is analyzed as representing two
+    underlying morphemes.
+
 penult
     A linguistics term for the second to last
     syllable of a word.
