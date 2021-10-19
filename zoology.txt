@@ -1,3 +1,18 @@
+anabiosis
+cryptobiosis
+    A temporary state of suspended animation
+    or greatly reduced metabolism.
+
+    A metabolic state of life entered by an
+    organism in response to adverse
+    environmental conditions such as
+    desiccation, freezing, and oxygen
+    deficiency.
+    
+    In the cryptobiotic state, all measurable
+    metabolic processes stop, preventing
+    reproduction, development, and repair.
+
 rhesus macaque
 Macaca mulatta
 rhesus monkey
