@@ -12810,3 +12810,8 @@ disingenuous
     Not candid or sincere, typically by
     pretending that one knows less about
     something than one really does.
+
+quixotic
+    Extremely idealistic; unrealistic and
+    impractical.
+    "a vast and perhaps quixotic project"
