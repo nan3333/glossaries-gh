@@ -12805,3 +12805,8 @@ geosmin
     Geosmin in the air can be detected by the
     human nose at less than 5 parts per
     trillion.
+
+disingenuous
+    Not candid or sincere, typically by
+    pretending that one knows less about
+    something than one really does.
