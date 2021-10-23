@@ -1775,6 +1775,11 @@ un-normalized log-probability
 
     logits are un-normalized log-probabilities
 
+    The unit of measurement for the log-odds
+    scale is called a logit, from logistic
+    unit, hence the alternative names (logit
+    regression/logistic regression)..
+
 batch
 
 re-identification
