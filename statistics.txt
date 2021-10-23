@@ -361,11 +361,92 @@ Naive Bayes
 paraphrasing
 
 Bayes Theorm
+    Can be read a little bit like, for example:
+
+        Someone is told that the probability
+        of them having a disease is equal to
+        𝑥, but they are convinced that
+        assessment of them is wrong, so they
+        start questioning the assumptions.
+
+        What other risk factors are there? For
+        example, the estimation may be based
+        partly on an assumption about the risk
+        of exposure via air, but we also know
+        that exposure via air may not be the
+        only way to contract the disease.
+
+        Let's call exposure via air the prior
+        and when we take it as certainty
+        during a thought experiment, lets call
+        it an assumption.
+
+        Are they really sure that they have
+        been exposed, and how does exposure
+        relate to their risk? What can we
+        learn more about how risk of exposure
+        relates to risk of the person having
+        the disease, so that we can better
+        understand the dynamics of it?
+
+        P(H)
+            Exposure aside, they're less
+            likely to have the disease if it's
+            a rare disease. But by the same
+            logic, if it's a common problem,
+            then they're more likely to have
+            it. Obvious. We were not satisfied
+            that the original diagnosis was
+            more accurate that this basic
+            estimation, so we investigate in
+            terms of exposure.
+
+        1/P(e)
+            By contrast, when exposure is
+            generally rare, when it is
+            discovered it is a bigger deal.
+            When rare, upon determining that
+            exposure has taken place the
+            chances of having the disease
+            become higher.
+
+            If exposure is an ordinary event,
+            then it's actually less likely
+            that the person has contracted the
+            disease when it is discovered they
+            have been exposed.
+
+        P(e|H)
+            Lastly, getting statistics about
+            people who actually have the
+            disease -- this is the gold.
+            What is the chance that a person
+            that has the disease was exposed
+            to it in the way we have assumed
+            (via air)? This data is hard to
+            find, but if we have this data, we
+            can recalculate the original
+            diagnosis.
+
+            It's not certain that all people
+            that have the disease were
+            exposed to it in the way that was
+            assumed, which is why we brought
+            exposure though air under the
+            microscope. Perhaps they
+            contracted it without exposure.
+    
+        Relate this to LM generation and beam
+        search.
+
     $DUMP$HOME/notes2018/ws/bayesian-statistics/1*YTWinOBUgmStxkbUJZ1vNw.png
 
              P(e|H).P(H)
     P(H|e) = -----------
                 P(e)
+
+    H = hypothesis
+    e = evidence/assumption
 
     - Likelihood: P(e|H)
       How probable is the evidence given that

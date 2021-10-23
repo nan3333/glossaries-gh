@@ -12815,3 +12815,19 @@ quixotic
     Extremely idealistic; unrealistic and
     impractical.
     "a vast and perhaps quixotic project"
+
+operationalization
+operationalize
+    [#research design]
+
+    A process of defining the measurement of a
+    phenomenon that is not directly
+    measurable, though its existence is
+    inferred by other phenomena.
+
+wheedle
+    Use flattery or coaxing in order to
+    persuade someone to do something or give
+    one something.
+    "she wheedled her way on to the guest
+    list"

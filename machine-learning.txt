@@ -1,3 +1,26 @@
+argmax
+    An operation that finds the argument that
+    gives the maximum value from a target
+    function.
+    
+    Argmax is most commonly used in ML for
+    finding the class with the largest
+    predicted probability.
+    
+    Argmax can be implemented manually,
+    although the argmax() NumPy function is
+    preferred in practice.
+
+              argmax_y P(y|x)
+
+              This means:
+                   Find the highest
+                   probability English
+                   sentence y, given french
+                   sentence x.
+
+              https://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture08-nmt.pdf
+
 fitness function
 FF
     Defined as a particular type of objective
