@@ -372,9 +372,19 @@ Bayes Theorm
         What other risk factors are there? For
         example, the estimation may be based
         partly on an assumption about the risk
-        of exposure via air, but we also know
-        that exposure via air may not be the
-        only way to contract the disease.
+        of exposure via air, and we want to
+        formulate the risk in terms of
+        exposure then recalculate the risk.
+
+        We also know that exposure via air may
+        not be the only way to contract the
+        disease (there is an inherent
+        probability of contracting it P(H))
+        and that it is merely a risk factor,
+        and so if in the case we have
+        definitely been exposed, it still only
+        influences the ultimate chances of
+        having the disease.
 
         Let's call exposure via air the prior
         and when we take it as certainty
@@ -395,26 +405,31 @@ Bayes Theorm
             a rare disease. But by the same
             logic, if it's a common problem,
             then they're more likely to have
-            it. Obvious. We were not satisfied
-            that the original diagnosis was
-            more accurate that this basic
-            estimation, so we investigate in
-            terms of exposure.
+            it. That much is obvious and no
+            more satisfying than our original
+            diagnosis. We want to investigate
+            in terms of exposure.
 
         1/P(e)
             By contrast, when exposure is
-            generally rare, when it is
-            discovered it is a bigger deal.
-            When rare, upon determining that
-            exposure has taken place the
+            generally rare, then when it is
+            discovered it becomes a bigger
+            deal. When rare, upon determining
+            that exposure has taken place the
             chances of having the disease
             become higher.
 
             If exposure is an ordinary event,
             then it's actually less likely
             that the person has contracted the
-            disease when it is discovered they
-            have been exposed.
+            disease in a situation where it's
+            determined that they have been
+            exposed.
+
+            If it's really common, then it
+            doesn't influence the rest of the
+            equation much -- that's the
+            takeaway.
 
         P(e|H)
             Lastly, getting statistics about
@@ -428,6 +443,18 @@ Bayes Theorm
             can recalculate the original
             diagnosis.
 
+            But on the other hand, since this
+            information is gold we can
+            actually calculate it if we solve
+            for X, if we take the other
+            variables to be accurate.
+
+            Being able to invert the
+            probability of X given Y to be the
+            probability of Y given X is
+            actually the point of the Bayes
+            formula.
+
             It's not certain that all people
             that have the disease were
             exposed to it in the way that was
@@ -436,16 +463,13 @@ Bayes Theorm
             microscope. Perhaps they
             contracted it without exposure.
     
-        Relate this to LM generation and beam
-        search.
-
     $DUMP$HOME/notes2018/ws/bayesian-statistics/1*YTWinOBUgmStxkbUJZ1vNw.png
 
              P(e|H).P(H)
     P(H|e) = -----------
                 P(e)
 
-    H = hypothesis
+    H = hypothesis - https://opennmt.net/OpenNMT/translation/beam_search/
     e = evidence/assumption
 
     - Likelihood: P(e|H)
@@ -474,6 +498,9 @@ Bayes Theorm
     | P(∙) | Domain knowledge             |
     | A    | Unknown variables (unknowns) |
     | B    | Observed values (knowns)     |
+
+    Relate this to LM generation and beam
+    search.
 
 Naive Bayes
     [classifier]
