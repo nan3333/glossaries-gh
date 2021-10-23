@@ -1,0 +1,16 @@
+whitespace
+    This is why GPT-3 cares so much if you end
+    your prompt with a space.
+    
+    When generating most common words, GPT-3
+    generates the leading space as part of the
+    word.
+    
+    So when there is a space without a word,
+    that is a completely different token.
+    
+    This typically only occurs in odd
+    contexts, leading GPT-3 to generate poor
+    quality completions.
+
+    https://aidungeon.medium.com/controlling-gpt-3-with-logit-bias-55866d593292
