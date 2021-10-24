@@ -1,3 +1,17 @@
+minimax
+    https://youtu.be/l-hh51ncgDI?t=152
+
+static evaluation
+    Estimate how good the position is for one
+    side (agent/adversary) without making any
+    more moves.
+    
+    https://youtu.be/l-hh51ncgDI?t=42
+
+    e.g.
+        In chess, add up your pieces and
+        subtract the enemy's pieces.
+
 adversarial planner
     NLG: An adversarial planner is an
     artificial intelligence-based agent that

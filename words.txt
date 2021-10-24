@@ -12833,3 +12833,9 @@ wheedle
     one something.
     "she wheedled her way on to the guest
     list"
+
+cognizant
+    Having knowledge or awareness.
+    "statesmen must be cognizant of the
+    political boundaries within which they
+    work"
