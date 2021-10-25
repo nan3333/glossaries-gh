@@ -12816,6 +12816,7 @@ disingenuous
 quixotic
     Extremely idealistic; unrealistic and
     impractical.
+
     "a vast and perhaps quixotic project"
 
 operationalization
