@@ -1,8 +1,0 @@
-* [#A] Continue to add things to my prompts database
-$NOTES/ws/prompt-engineering/prompts.tsv
-
-** Digest this
-http://gptprompts.wikidot.com/
-
-** TODO Get better at =gpt3-prompts= and adding structure to them
-https://github.com/wgryc/gpt3-prompts

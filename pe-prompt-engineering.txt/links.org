@@ -1,1 +1,0 @@
-$MYGIT/martonlanga/gpt3-prompts/README.md

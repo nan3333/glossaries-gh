@@ -1,7 +1,0 @@
-* davinci-instruct
-GPT-3 Instruct (in particular, davinci-instruct ) lets you give specific
-instructions, like "Only respond in correct SQL syntax", that guides GPT-3's
-responses.
-
-If you're interested in trying it out, you can sign up for the waitlist for the
-GPT-3 API here. 
