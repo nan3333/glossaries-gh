@@ -12838,3 +12838,8 @@ parterre
     substrate, consisting of plant beds,
     typically in symmetrical patterns, which
     are separated and connected by paths.
+
+generalissimo
+    The commander of a combined military force
+    consisting of army, navy, and air force
+    units.
