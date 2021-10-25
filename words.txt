@@ -12836,6 +12836,14 @@ wheedle
 
 cognizant
     Having knowledge or awareness.
+
     "statesmen must be cognizant of the
     political boundaries within which they
     work"
+
+obsolescence
+    The state of being which occurs when an
+    object, service, or practice is no longer
+    maintained, required, or degraded even
+    though it may still be in good working
+    order.
