@@ -12848,3 +12848,15 @@ obsolescence
     maintained, required, or degraded even
     though it may still be in good working
     order.
+
+behove
+behoove
+    It is a duty or responsibility for someone
+    to do something.
+    "it behoves the House to assure itself
+    that there is no conceivable alternative"
+
+    It is appropriate or suitable; it befits.
+    "it ill behoves Opposition Members to
+    decry the sale of arms to friendly
+    countries"
