@@ -719,15 +719,29 @@ Echo
     prompt and the response sent back from the
     API if set to “True”.
 
-Frequency Penalty
+presence penalty
+    Defaults to 0
+    Number between -2.0 and 2.0.
+
+    Positive values penalize new tokens based
+    on whether they appear in the text so far,
+    increasing the model's likelihood to talk
+    about new topics.
+
+frequency penalty
     [#OpenAI API]
     [API setting]
 
     Floating point value.
 
-    Default value: 0
-    min value: 0
-    max value: 1
+    Default value: 0.0
+    min value: -2.0
+    max value: 2.0
+
+    Positive values penalize new tokens based
+    on their existing frequency in the text so
+    far, decreasing the model's likelihood to
+    repeat the same line verbatim.
 
     If your completion is filled with lots of
     repetition you can increase this setting
