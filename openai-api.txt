@@ -981,6 +981,18 @@ temperature
     0: deterministic, (not random)
     1: creative, max random
 
+    At 0, randomness is removed by boosting
+    the most likely token to 100%.
+    
+    Values greater than 0 have the effect of
+    boosting the next most probable tokens.
+    
+    The exact effect a particular value will
+    have is hard to reason about, but the
+    greater the value, the less likely a more-
+    probable token will be boosted relative to
+    a less-probable token.
+
     https://towardsdatascience.com/how-to-sample-from-language-models-682bceb97277
 
     openai api engines.generate -h | vs +/"-t TEMPERATURE"
@@ -1070,6 +1082,19 @@ top-p
     Max value: 1
     Recommended value: 1
     Min value: 0
+
+    Representing a decimal fraction.
+    
+    The effect of the value is similar to
+    Temperature but it is easier to reason
+    about the effect a particular value will
+    have.
+    
+    The top N tokens with a cumulative
+    probability greater than the value
+    specified are boosted, with all other
+    tokens suppressed e.g. a value of 0 will
+    select only the top token.
     
     https://towardsdatascience.com/how-to-sample-from-language-models-682bceb97277
 
