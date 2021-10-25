@@ -1,3 +1,12 @@
+reflexivity
+    [#epistemology]
+    [#sociology of knowledge]
+    [social theory]
+
+    Refers to circular relationships between
+    cause and effect, especially as embedded
+    in human belief structures.
+
 skepticism
 scepticism
     Generally a questioning attitude or doubt
