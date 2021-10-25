@@ -3329,6 +3329,13 @@ virtual agent
 
 virtual agents
 
+cataphora
+    The use of an expression that depends upon
+    a postcedent expression.
+
+    In contrast to:
+    - anaphora
+
 anaphora
     The use of an expression whose
     interpretation depends upon another
@@ -3337,11 +3344,9 @@ anaphora
     
     In a narrower sense, anaphora is the use
     of an expression that depends specifically
-    upon an antecedent expression and thus is
-    contrasted with cataphora, which is the
-    use of an expression that depends upon a
-    postcedent expression.
+    upon an antecedent expression.
     
+anaphor
     The anaphoric (referring) term is called
     an anaphor.
     

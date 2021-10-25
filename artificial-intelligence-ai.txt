@@ -1,3 +1,35 @@
+Winograd schema challenge
+Winograd schema
+    Designed to be an improvement on the
+    Turing test, it is a multiple-choice test
+    that employs questions of a very specific
+    structure: they are instances of what are
+    called Winograd schemas.
+
+    Weaknesses of the Turing test:
+        The performance of Eugene Goostman
+        exhibited some of the Turing test's
+        problems.
+        
+        Levesque identifies several major
+        issues, summarized as follows:
+    
+        - Deception:
+          The machine is forced to construct a
+          false identity, which is not part of
+          intelligence.
+
+        - Conversation:
+          A lot of interaction may qualify as
+          "legitimate conversation"—jokes,
+          clever asides, points of
+          order—without requiring intelligent
+          reasoning.
+
+        - Evaluation:
+          Humans make mistakes and judges
+          often would disagree on the results.
+
 minimax
     https://youtu.be/l-hh51ncgDI?t=152
 
@@ -333,4 +365,3 @@ extended mind hypothesis
     confined to our brains, but rather that
     they extend into the external world and
     can be affected by it.
-    
