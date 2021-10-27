@@ -1,3 +1,11 @@
+filled prompt
+    A prompt where input is filled with any
+    answer.
+
+answered prompt
+    A prompt where input is filled with a
+    true answer.
+
 prompt augmentation
 demonstration learning
     Provides a few additional answered prompts

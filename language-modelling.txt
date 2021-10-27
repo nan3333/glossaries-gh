@@ -1,3 +1,21 @@
+pruning
+    [model optimization technique]
+
+    Remove model parameters that have little
+    or no impact on the predicted outcome.
+
+fusion
+    [model optimization technique]
+
+    Merge model layers (say, convolution and
+    activation).
+
+quantization
+    [model optimization technique]
+
+    Storing model parameters in smaller values
+    (say, 8 bits instead of 32 bits).
+
 whitespace
     This is why GPT-3 cares so much if you end
     your prompt with a space.

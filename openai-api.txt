@@ -723,6 +723,8 @@ presence penalty
     Defaults to 0
     Number between -2.0 and 2.0.
 
+    https://blog.scottlogic.com/2021/09/01/a-primer-on-the-openai-api-2.html
+
     Positive values penalize new tokens based
     on whether they appear in the text so far,
     increasing the model's likelihood to talk

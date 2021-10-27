@@ -1,3 +1,11 @@
+eschatology
+    A part of theology concerned with the
+    final events of history, or the ultimate
+    destiny of humanity.
+    
+    This concept is commonly referred to as
+    "the end of the world" or "end times".
+
 charismata
 chirism
 spiritual gift  

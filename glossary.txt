@@ -12843,3 +12843,12 @@ generalissimo
     The commander of a combined military force
     consisting of army, navy, and air force
     units.
+
+op-ed
+    Short for "opposite the editorial page" or
+    as a backronym the "opinions and
+    editorials page", is a written prose piece
+    typically published by a newspaper or
+    magazine which expresses the opinion of an
+    author usually not affiliated with the
+    publication's editorial board.

@@ -12860,3 +12860,8 @@ behoove
     "it ill behoves Opposition Members to
     decry the sale of arms to friendly
     countries"
+
+obviating
+    NLG: "Obviating in the context of english"
+    refers to the process of removing or
+    eliminating something.
