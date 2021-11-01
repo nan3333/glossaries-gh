@@ -12865,3 +12865,36 @@ obviating
     NLG: "Obviating in the context of english"
     refers to the process of removing or
     eliminating something.
+
+disfranchisement
+disenfranchisement
+voter disqualification
+    The restriction of suffrage of a person or
+    group of people, or a practice that has
+    the effect of preventing a person
+    exercising the right to vote.
+
+preponderance
+    the quality or fact of being greater in
+    number, quantity, or importance.
+
+    "the preponderance of women among older
+    people"
+
+    "the vast preponderance of..."
+
+unconscionable
+    A doctrine in contract law that describes
+    terms that are so extremely unjust, or
+    overwhelmingly one-sided in favor of the
+    party who has the superior bargaining
+    power, that they are contrary to good
+    conscience.
+
+    Not right or reasonable.
+    "the unconscionable conduct of his son"
+
+    Unreasonably excessive.
+    "shareholders have had to wait an
+    unconscionable time for the facts to be
+    established"

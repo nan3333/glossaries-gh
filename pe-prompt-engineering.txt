@@ -1,3 +1,11 @@
+penalty includes prompt
+    [parameter]
+
+    Flag deciding whether presence penalty or
+    frequency penalty are applied to the
+    prompt and completion (True) or only the
+    completion (False).
+
 filled prompt
     A prompt where input is filled with any
     answer.
