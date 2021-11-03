@@ -12898,3 +12898,7 @@ unconscionable
     "shareholders have had to wait an
     unconscionable time for the facts to be
     established"
+
+paracosm
+    A phenomenon where a detailed, imaginary
+    world is created in one's mind.
