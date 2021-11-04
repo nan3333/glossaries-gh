@@ -12902,3 +12902,26 @@ unconscionable
 paracosm
     A phenomenon where a detailed, imaginary
     world is created in one's mind.
+
+demagogue
+rabble-rouser
+
+    (from Greek δημαγωγός, a popular leader, a
+    leader of a mob, from δῆμος, people,
+    populace, the commons + ἀγωγός leading,
+    leader)
+
+    A political leader in a democracy who
+    gains popularity by arousing the common
+    people against elites, especially through
+    oratory that whips up the passions of
+    crowds, appealing to emotion by
+    scapegoating out-groups, exaggerating
+    dangers to stoke fears, lying for
+    emotional effect, or other rhetoric that
+    tends to drown out reasoned deliberation
+    and encourage fanatical popularity.
+    
+    Demagogues overturn established norms of
+    political conduct, or promise or threaten
+    to do so
