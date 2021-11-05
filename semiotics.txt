@@ -97,6 +97,22 @@ sign
     senses, visual, auditory, tactile,
     olfactory, or taste.
 
+    The outcome/meaning gained.
+
+    e.g. If proposed with a diamond
+    (signifier) because of wealth and romance
+    (signified).
+
+signifier
+    e.g. A word, image or other media such as
+    'Diamond'.
+
+signified
+    A concept that is associated with the
+    signifier.
+
+    e.g. wealth, romance, class.
+
 interpretant
     The effect of a sign on someone who reads
     or comprehends it.
