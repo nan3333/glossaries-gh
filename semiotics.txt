@@ -1,3 +1,37 @@
+Encyclopedia of Semiotics
+    https://www.oxfordreference.com/view/10.1093/acref/9780195120905.001.0001/acref-9780195120905?btog=chap&hide=true&page=13&pageSize=20&skipEditions=true&sort=titlesort&source=%2F10.1093%2Facref%2F9780195120905.001.0001%2Facref-9780195120905
+
+internal reality
+    Bounded within:
+    - external reality
+
+    Contains:
+    - concepts
+
+external reality
+    Contains:
+    - things
+    - signs
+
+signs
+    Identify concepts within internal reality.
+
+concepts
+    Represent things or model them within
+    internal reality.
+
+trichotomy
+    [#english]
+
+    A division into three categories.
+
+    "the pragmatics–semantics–syntax
+    trichotomy"
+
+reference
+
+sense
+
 phenomenology
     The philosophical study of the structures
     of experience and consciousness.
@@ -63,10 +97,25 @@ semeiotic
     their particular approaches to the
     subject.
 
+icon
+    [representamen]
+
+index
+    [representamen]
+
+symbol
+    [representamen]
+
 representamen
 sign
+
     Something which stands to somebody for
     something in some respect or capacity. 
+    
+    Types:
+    - icon
+    - index
+    - symbol
 
     Beginning very roughly, the three main
     ways of being a sign can be described as
@@ -427,3 +476,7 @@ perlocutionary
 interlocutor
     A person who takes part in a dialogue or
     conversation.
+
+connotative
+    Having the power of implying or suggesting
+    something in addition to what is explicit.
