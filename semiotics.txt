@@ -1,5 +1,6 @@
 sign process
 semiosis
+semeiosis
     Any form of activity, conduct, or process
     that involves signs, including the
     production of meaning.
@@ -31,8 +32,6 @@ semeiotic
     less often used by other writers to denote
     their particular approaches to the
     subject.
-
-semeiosis
 
 representamen
 sign
