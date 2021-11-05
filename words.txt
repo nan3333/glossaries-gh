@@ -12928,5 +12928,5 @@ rabble-rouser
 
 trichotomy
     A division into three categories.
-    "the pragmatics–semantics–syntax
+    "the pragmatics-semantics-syntax
     trichotomy"

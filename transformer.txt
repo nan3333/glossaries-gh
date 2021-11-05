@@ -1,5 +1,13 @@
 https://huggingface.co/transformers/examples.html
 
+Hourglass
+    A hierarchical Transformer LM.
+
+    Hourglass improves upon the Transformer
+    baseline given the same amount of
+    computation and can yield the same results
+    as Transform- ers more efficiently.
+
 ∞-former
 Infty-Former
 infinite memory transformer

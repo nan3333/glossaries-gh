@@ -1,3 +1,17 @@
+interlocutor
+    [#linguistics]
+    [#discourse analysis]
+
+    A person involved in a conversation or
+    dialogue.
+    
+    Two or more people speaking to one another
+    are each other's interlocutors.
+    
+    The terms conversation partner, hearer, or
+    addressee are oftentimes used
+    interchangeably with interlocutor.
+
 metapragmatics
     The study of how the effects and
     conditions of language use themselves
@@ -94,13 +108,42 @@ types of force
     - perlocutionary act
 
 locution
-    What was said and meant.
+    What was said.
+
+    i.e. someone tries to say X in French.
+
+    The words of X is what the locutionary act
+    was -- the utterance itself.
+
+    It would still be locution if there were
+    no hearer.
 
 illocution
-    What was done.
+    The aim of a speaker in making an
+    utterance as opposed to the meaning of the
+    terms used.
+
+    i.e. The recipient was Italian so the
+    words meant Y to them, not X.
+
+    Illocution was still X, although it may
+    have come across as Y.
+
+    There must be a hearer or the hope of a
+    hearer for there to be illocutionary
+    force, as the aim is to evoke something
+    from someone somewhere.
 
 perlocution
     What happened as a result.
+
+    i.e. Y sounded like a command of sorts
+    when interpreted in Italian, and so the
+    recipient responded as if the speaker said
+    Y instead of X.
+
+    Even just the interpretation could be
+    considered the Y.
 
 locutionary act
     [#linguistics]
