@@ -114,6 +114,7 @@ signified
     e.g. wealth, romance, class.
 
 interpretant
+interpretance
     The effect of a sign on someone who reads
     or comprehends it.
     
