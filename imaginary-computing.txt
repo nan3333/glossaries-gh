@@ -61,6 +61,7 @@ imagination
     results of prompting.
 
 imaginary reality
+paracosm
     The distinction between this and virtual
     reality is that virtual reality isn't
     really concerned so much with Neural
@@ -82,11 +83,49 @@ imaginary reality
     interpreted by another mind / Neural
     Network, in real time.
 
+    Types:
+    - pure imaginary reality
+    - impure imaginary reality
+
 pure imaginary reality
+first imaginary reality
+daydreaming
     This is one's personal introspective
     experience of their own imagination.
 
 impure imaginary reality
+second imaginary reality
+third imaginary reality
     This is one's experience of another's
     imagination, whether that be another
     biological mind or a Neural Network.
+
+phenomenology
+    The philosophical study of the structures
+    of experience and consciousness.
+
+    As a philosophical movement it was founded
+    in the early years of the 20th century by
+    Edmund Husserl and was later expanded upon
+    by a circle of his followers at the
+    universities of Göttingen and Munich in
+    Germany.
+
+firstness
+    [#phenomenology]
+
+    Something that exists in itself.
+
+secondness
+    [#phenomenology]
+
+    Must be related to something else.
+
+thirdness
+    [#phenomenology]
+
+    Requires a more complex relationship than
+    secondness, either a relation between
+    three things, or a relation between
+    relations, or perhaps both at the same
+    time.

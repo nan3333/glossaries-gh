@@ -12930,3 +12930,13 @@ trichotomy
     A division into three categories.
     "the pragmatics-semantics-syntax
     trichotomy"
+
+dilapidation
+    A term meaning a destructive event to a
+    building, but more particularly used in
+    the plural in English law for the waste
+    committed by the incumbent of an
+    ecclesiastical living the disrepair for
+    which a tenant is usually liable when he
+    has agreed to give up his premises in good
+    repair.

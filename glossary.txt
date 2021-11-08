@@ -12852,3 +12852,10 @@ op-ed
     magazine which expresses the opinion of an
     author usually not affiliated with the
     publication's editorial board.
+
+vested interest
+    A personal reason for involvement in an
+    undertaking or situation, especially an
+    expectation of financial or other gain.
+    "banks have a vested interest in the
+    growth of their customers"
