@@ -1,4 +1,55 @@
+langue and parole
+    Saussure observes that in speaking a
+    language there are two distinct parts that
+    are used:
+    - the physiological vocal apparatus that
+      produces the sound (parole), and
+    - the psychological faculties that produce
+      the concept (langue).
+
+langue
+    The psychological faculties that produce
+    the concept.
+
+parole
+    The physiological vocal apparatus that
+    produces the sound.
+
 binary oppositions
+    The syntagmatic is the horizontal axis of
+    combination and the paradigmatic is the
+    vertical axis of selection.
+
+syntagmatic
+syntagmatic axis
+syntagmatic axis of language
+    The cat plays with a ball comprises words
+    that make sense owing to the selective
+    combination of signifiers.
+    
+    The process of arranging the subject (the
+    cat) followed by the verb (plays), the
+    preposition (with) and finally the
+    predicate noun (ball) is what Saussure
+    calls the syntagmatic axis of language.
+
+    https://youtu.be/bbQjhWTXp-w?t=542
+
+paradigmatic
+paradigmatic axis
+syntagmatic axis of language
+    Works by offering a selection of
+    alternatives to the signifiers in a
+    sentence.
+    
+    For instance, in the above example a part
+    may be substituted so that the new
+    sentence reads: The cat plays with a
+    mouse.
+    
+    Such substitution has the potential to
+    completely alter the meaning of a
+    sentence.
 
 syntagm
     https://youtu.be/aaRxu1-Z6NY?t=307
@@ -14,24 +65,12 @@ syntagm
         sense because of the way the signs are
         ordered
 
-syntagmatic
-syntagmatic axis
-syntagmatic axis of language
-    The syntagmatic is the horizontal axis of
-    combination and the paradigmatic is the
-    vertical axis of selection.
-    
-    The cat plays with a ball comprises words
-    that make sense owing to the selective
-    combination of signifiers.
-    
-    The process of arranging the subject (the
-    cat) followed by the verb (plays), the
-    preposition (with) and finally the
-    predicate noun (ball) is what Saussure
-    calls the syntagmatic axis of language.
+association
+    Words related to a word (through meaning,
+    letter composition, sound, etc.)
 
-    https://youtu.be/bbQjhWTXp-w?t=542
+    Unlike in syntagms, order does not matter
+    in associations.
 
 Encyclopedia of Semiotics
     https://www.oxfordreference.com/view/10.1093/acref/9780195120905.001.0001/acref-9780195120905?btog=chap&hide=true&page=13&pageSize=20&skipEditions=true&sort=titlesort&source=%2F10.1093%2Facref%2F9780195120905.001.0001%2Facref-9780195120905
@@ -141,9 +180,12 @@ index
 symbol
     [representamen]
 
+word
+linguistic sign
+    Unites a concept and sound-image.
+
 representamen
 sign
-
     Something which stands to somebody for
     something in some respect or capacity. 
     
