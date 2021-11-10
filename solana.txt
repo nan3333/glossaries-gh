@@ -1,3 +1,9 @@
+default signer
+    Error: Dynamic program error: No default
+    signer found, run:
+    "solana-keygen new -o /home/shane/.config/solana/id.json"
+    to create a new one
+
 faucet
 
 sendTransaction
