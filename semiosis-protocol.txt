@@ -14,7 +14,7 @@ SP
     By slowing the growth of large LMs and
     protecting input data to prompt functions,
     local communities and individuals are
-    protect from coercion.
+    protected from coercion.
 
     Communities are free to use their own
     languages, whilst still being able to
