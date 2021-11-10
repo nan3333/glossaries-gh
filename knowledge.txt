@@ -1,3 +1,19 @@
+zettelkasten
+    A german word which translates to 'note
+    box'.
+    
+    A 'zettel' is a slip or note of paper.
+    
+    Information we wish to keep gets written
+    on a Zettel.
+    
+    A classic form of a Zettel is a sticky
+    note, an index card, or piece of notepad
+    paper for writing down your thoughts.
+    
+    The word 'kasten' literally translates to
+    box.
+
 Organizational memory
 OM
 institutional memory

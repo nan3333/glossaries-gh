@@ -1,3 +1,32 @@
+polysemy
+    lexical ambiguity.
+
+    The ambiguity of an individual word or
+    phrase that can be used (in different
+    contexts) to express two or more different
+    meanings.
+
+hypernym
+superordinate word
+superordinate
+    A word that is more generic than a given
+    word.
+
+collocation
+    [corpus linguistics]
+
+    The habitual juxtaposition of a particular
+    word with another word or words with a
+    frequency greater than chance.
+
+    Examples:
+    - strong tea
+    - heavy drinker
+
+bigram
+    A pair of consecutive written units such
+    as letters, syllables, or words.
+
 interlocutor
     [#linguistics]
     [#discourse analysis]
