@@ -1,3 +1,57 @@
+bricoleur
+    The initiator of the bricolage.
+
+    Someone who tinkers, by actually using
+    tools not for their designed purpose but
+    only as seems fit.
+    
+    Furthermore, the bricoleur always includes
+    parts of his/her self when facing the
+    choice of what material to call up for
+    modification, reinterpretation and
+    adjustment to his/her way of thinking.
+
+bricolage
+    Represents the process of creation by
+    using materials that are not necessarily
+    best-adapted to the task in hand.
+    
+    Constitutes an eclectic dialogue among
+    available materials, thus suggesting
+    adaptive courses of action, whereby the
+    bricoleur might even modify his/her
+    initial aim.
+    
+    With respect to semiotics, bricolage is
+    the process of interpreting symbols and
+    signs using available cultural aspects.
+    
+    If the required aspects are not available,
+    people adjust or modify existing ones.
+    
+    In order to construct new arrangements,
+    the bricoleur works with signs, by
+    adopting existing signifieds as signifiers
+    and by choosing from limited
+    possibilities.
+    
+    In the context of interpretation, semantic
+    nihilism cannot exist if the
+    bricoleur/interpreter properly adopts and
+    accepts the role of creating new,
+    individually-understood and individually-
+    initiated meanings of one or more signs.
+
+hermeneutics
+    The theory and practice of interpretation,
+    where interpretation involves an
+    understanding that can be justified.
+    
+    It describes both a body of historically
+    divers methodologies for interpreting
+    texts, objects, and concepts, and a theory
+    of understanding.
+
 langue and parole
     Saussure observes that in speaking a
     language there are two distinct parts that
