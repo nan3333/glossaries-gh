@@ -12911,3 +12911,7 @@ dilapidation
     which a tenant is usually liable when he
     has agreed to give up his premises in good
     repair.
+
+irascible
+    Having or showing a tendency to be easily
+    angered.
