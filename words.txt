@@ -12937,3 +12937,9 @@ Design company
     Company, responsible for the creation,
     design, and construction of Disney theme
     parks and attractions worldwide.
+
+traipsing
+traipse
+    Walk about casually or needlessly.
+    "there's people traipsing in and out all
+    the time"

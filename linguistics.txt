@@ -1,3 +1,11 @@
+apostrophe
+    An exclamatory passage in a speech or poem
+    addressed to a person (typically one who
+    is dead or absent) or thing (typically one
+    that is personified).
+
+    It's a little bit like a soliloquy.
+
 polysemy
     lexical ambiguity.
 

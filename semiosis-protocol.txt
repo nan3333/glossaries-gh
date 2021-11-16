@@ -46,6 +46,7 @@ snft
     - sign function
     - price function
     - reward function
+    - example/demo of utility?
 
 gas
     Earn it by:
