@@ -1,3 +1,16 @@
+Self-supervised learning
+    A method of ML.
+    
+    It learns from unlabeled sample data.
+    
+    It can be regarded as an intermediate form
+    between supervised and unsupervised
+    learning.
+    
+    It is based on an ANN.
+    
+    The NN learns in two steps.
+
 creativity
 imagination
     The converse of memory.
