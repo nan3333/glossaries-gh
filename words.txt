@@ -12966,3 +12966,10 @@ garble
     way.
     "the connection was awful and kept
     garbling his voice"
+
+nonchalant
+    (of a person or manner) feeling or
+    appearing casually calm and relaxed; not
+    displaying anxiety, interest, or
+    enthusiasm.
+    "she gave a nonchalant shrug"
