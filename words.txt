@@ -12973,3 +12973,8 @@ nonchalant
     displaying anxiety, interest, or
     enthusiasm.
     "she gave a nonchalant shrug"
+
+curtail
+    Reduce in extent or quantity; impose a
+    restriction on.
+    "civil liberties were further curtailed"
