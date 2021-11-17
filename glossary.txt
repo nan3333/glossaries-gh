@@ -12859,3 +12859,9 @@ vested interest
     expectation of financial or other gain.
     "banks have a vested interest in the
     growth of their customers"
+
+kick the tyres
+    Inform oneself about the quality of a
+    product, service, etc. before buying.
+    "borrowers should be sure to kick the
+    tyres on that offer before signing up"
