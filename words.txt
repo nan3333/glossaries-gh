@@ -12959,3 +12959,10 @@ adduced
     To mention or provide (something, such as
     a fact or example) as evidence or proof to
     support an argument.
+
+garble
+    Reproduce (a message, sound, or
+    transmission) in a confused and distorted
+    way.
+    "the connection was awful and kept
+    garbling his voice"
