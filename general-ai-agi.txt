@@ -1,3 +1,15 @@
+Psi-theory
+    Developed by Dietrich Dörner at the
+    University of Bamberg, is a systemic
+    psychological theory covering human action
+    regulation, intention selection and
+    emotion.
+    
+    It models the human mind as an information
+    processing agent, controlled by a set of
+    basic physiological, social and cognitive
+    drives.
+
 Neural Algorithmic Reasoning
 NAR
     https://venturebeat.com/2021/09/10/deepmind-aims-to-marry-deep-learning-and-classic-algorithms/

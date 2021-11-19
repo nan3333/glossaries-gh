@@ -12978,3 +12978,9 @@ curtail
     Reduce in extent or quantity; impose a
     restriction on.
     "civil liberties were further curtailed"
+
+supervening
+    Occurring as an interruption or change to
+    an existing situation.
+    "any plan is liable to be disrupted by
+    supervening events"
