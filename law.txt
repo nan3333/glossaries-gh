@@ -104,6 +104,16 @@ indemnity
     what they would otherwise be liable for or
     entitled to under a normal damage claim.
 
+inquest
+    A judicial inquiry in common law
+    jurisdictions, particularly one held to
+    determine the cause of a person's death.
+    
+    Conducted by a judge, jury, or government
+    official, an inquest may or may not
+    require an autopsy carried out by a
+    coroner or medical examiner.
+
 indicted
 indict
     Formally accuse/d of or charge with a
@@ -111,8 +121,13 @@ indict
 
 vindictated
 vindicate
-acquit
 absolve
     Clear (someone) of blame or suspicion.
     "hospital staff were vindicated by the
-    inquest verdict"
+    inquest verdict".
+
+acquit
+acquittal
+acquitted
+    Free (someone) from a criminal charge by a
+    verdict of not guilty.

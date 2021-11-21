@@ -2774,10 +2774,6 @@ droll
     Curious or unusual in a way that provokes
     dry amusement.
 
-acquitted
-    Free (someone) from a criminal charge by a
-    verdict of not guilty.
-
 parodic
     Being or resembling a parody.
 
@@ -12984,3 +12980,16 @@ supervening
     an existing situation.
     "any plan is liable to be disrupted by
     supervening events"
+
+depredations
+    An act of attacking or plundering.
+    "protecting grain from the depredations of
+    rats and mice"
+
+parochial
+    Relating to a Church parish.
+    "the parochial church council"
+
+    Having a limited or narrow outlook or
+    scope.
+    "parochial attitudes"

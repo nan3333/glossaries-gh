@@ -1,5 +1,29 @@
 awesome-open https://github.com/SwapneelM/awesome-particle-physics-for-non-physicists
 
+Pauli exclusion principle
+    An atom’s electrons are arranged in energy
+    shells.
+    
+    Like concertgoers in an arena, each
+    electron occupies a single chair and
+    cannot drop to a lower tier if all its
+    chairs are occupied.
+    
+    This fundamental property of atomic
+    physics is known as the Pauli exclusion
+    principle, and it explains the shell
+    structure of atoms, the diversity of the
+    periodic table of elements, and the
+    stability of the material universe.
+    
+    Now, MIT physicists have observed the
+    Pauli exclusion principle, or Pauli
+    blocking, in a completely new way: They’ve
+    found that the effect can suppress how a
+    cloud of atoms scatters light.
+
+    https://news.mit.edu/2021/atoms-ultracold-scatter-light-1118
+
 entropy
     The disorder of a system.
 
