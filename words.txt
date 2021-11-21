@@ -12993,3 +12993,7 @@ parochial
     Having a limited or narrow outlook or
     scope.
     "parochial attitudes"
+
+asynchrony
+    The quality or state of being asynchronous
+    : absence or lack of concurrence in time.
