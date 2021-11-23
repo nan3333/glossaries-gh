@@ -12997,3 +12997,20 @@ parochial
 asynchrony
     The quality or state of being asynchronous
     : absence or lack of concurrence in time.
+
+disreputable
+    Not considered to be respectable in
+    character or appearance.
+    "he was heavy, grubby, and vaguely
+    disreputable"
+
+
+implacably
+
+
+solipsism
+    The view or theory that the self is all
+    that can be known to exist.
+
+    The quality of being self-centred or
+    selfish.
