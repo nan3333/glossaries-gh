@@ -12992,9 +12992,9 @@ disreputable
     "he was heavy, grubby, and vaguely
     disreputable"
 
-
 implacably
-
+    Unable to be appeased or placated.
+    "he was an implacable enemy of Ted's"
 
 solipsism
     The view or theory that the self is all
@@ -13002,3 +13002,10 @@ solipsism
 
     The quality of being self-centred or
     selfish.
+
+scruple
+    A sense of right and wrong that keeps a
+    person from doing something bad.
+
+    A feeling of guilt from doing something
+    bad.
