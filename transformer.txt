@@ -1,5 +1,18 @@
 https://huggingface.co/transformers/examples.html
 
+one-hot encoding
+    Each word from the vocabulary is
+    represented as a unique binary vector with
+    only one nonzero entry.
+
+    Not so great at representing words.
+
+    Terrible for n-grams.
+
+    Each vector has a size of the vocabulary
+    (or even bigger in case of n-grams) which
+    makes modeling difficult.
+
 Hourglass
     A hierarchical Transformer LM.
 
@@ -322,3 +335,7 @@ C4
     https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html
 
     https://www.tensorflow.org/datasets/catalog/c4
+
+sequence transduction
+    Converting one sequence of symbols to
+    another.

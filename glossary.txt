@@ -1593,19 +1593,6 @@ convex compact set
 
     https://youtu.be/c4pgWd8V8HU?t=117
 
-one-hot encoding
-    Each word from the vocabulary is
-    represented as a unique binary vector with
-    only one nonzero entry.
-
-    Not so great at representing words.
-
-    Terrible for n-grams.
-
-    Each vector has a size of the vocabulary
-    (or even bigger in case of n-grams) which
-    makes modeling difficult.
-
 Quantum fluctuation
 Vacuum state fluctuation
 Vacuum fluctuation

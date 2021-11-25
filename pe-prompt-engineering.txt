@@ -1,3 +1,7 @@
+self-diagnosis
+self-debiasing
+    [[calibre:Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP]]
+
 penalty includes prompt
     [parameter]
 
