@@ -12882,3 +12882,16 @@ parlor game
     - Six Degrees of Kevin Bacon
     - Twenty questions[6]
     - Wink murder
+
+pantone
+    All colors.
+
+    In 1963, Pantone (meaning “all colors”,
+    combining pan and tone) developed the
+    first color matching system.
+    
+    Thanks to this system, graphic designers
+    can see exactly what “yellow” would look
+    like on paper and provide the printer with
+    the Pantone number to make sure that they
+    got what they wanted.
