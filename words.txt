@@ -13026,3 +13026,13 @@ erudite
     learning.
 
     "even for the most erudite reader"
+
+largesse
+    Generosity in bestowing money or gifts
+    upon others.
+
+bestow
+    Confer or present (an honour, right, or
+    gift).
+    "the office was bestowed on him by the
+    monarch of this realm"
