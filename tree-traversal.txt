@@ -1,6 +1,6 @@
-Inorder
-Preorder
-Postorder
+inorder
+preorder
+postorder
     [tree traversal algorithm]
 
          __1__
