@@ -13051,3 +13051,16 @@ reductionism
 lambaste
 lambasted
     Criticize (someone or something) harshly.
+
+gentrification
+    The process whereby the character of a
+    poor urban area is changed by wealthier
+    people moving in, improving housing, and
+    attracting new businesses, often
+    displacing current inhabitants in the
+    process.
+    "an area undergoing rapid gentrification"
+
+    The process of making someone or something
+    more refined, polite, or respectable.
+    "football has undergone gentrification"
