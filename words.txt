@@ -13064,3 +13064,18 @@ gentrification
     The process of making someone or something
     more refined, polite, or respectable.
     "football has undergone gentrification"
+
+elucidate
+    Make (something) clear; explain.
+
+    "elucidate risk factors"
+
+efficacious
+    (of something inanimate or abstract)
+    successful in producing a desired or
+    intended result; effective.
+    "this treatment was efficacious in some
+    cases"
+
+dynamical
+    "dynamical degrees of freedom"
