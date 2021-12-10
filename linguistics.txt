@@ -33,6 +33,18 @@ polysemy
     contexts) to express two or more different
     meanings.
 
+    Characterized as the phenomenon whereby a
+    single word form is associated with two or
+    several related senses.
+    
+    It is distinguished from monosemy.
+
+monosemy
+    Where one word form is associated with a
+    single meaning, and homonymy, where a
+    single word form is associated with two or
+    several unrelated meanings.       
+
 hypernym
 superordinate word
 superordinate

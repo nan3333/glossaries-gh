@@ -82,15 +82,22 @@ bindings/node/index.js
     This is the file that Node.js initially
     loads when using your language.
 
+bindings
+    The directory with bindings of your
+    language for different languages.
+
 bindings/node/binding.cc
+binding.cc
     This file wraps your language in a
     JavaScript object when used in Node.js.
 
 bindings/rust/lib.rs
+lib.rs
     This file wraps your language in a Rust
     crate when used in Rust.
 
 bindings/rust/build.rs
+build.rs
     This file wraps the building process for
     the Rust crate.
 
@@ -145,6 +152,7 @@ a node's range
                   (int_literal [1, 9] - [1, 10]))))))
 
 Symbols (the $ object)
+$
     [#grammar dsl]
     [function to define a rule]
 
@@ -153,6 +161,8 @@ Symbols (the $ object)
     conventionally called $. The syntax
     $.identifier is how you refer to another
     grammar symbol within a rule.
+
+    sp +/"\$.special_form," "$HOME/source/git/Wilfred/tree-sitter-elisp/grammar.js"
 
 String and Regex literals
     [#grammar dsl]
@@ -170,6 +180,7 @@ String and Regex literals
     expressions in your grammar.
 
 Sequences : seq(rule1, rule2, ...)
+seq
     [#grammar dsl]
     [function to define a rule]
 
@@ -180,6 +191,7 @@ Sequences : seq(rule1, rule2, ...)
     EBNF notation.
 
 Alternatives : choice(rule1, rule2, ...)
+choice
     [#grammar dsl]
     [function to define a rule]
 
@@ -190,6 +202,7 @@ Alternatives : choice(rule1, rule2, ...)
     notation.
 
 Repetitions : repeat(rule)
+repeat
     [#grammar dsl]
     [function to define a rule]
 
@@ -199,6 +212,7 @@ Repetitions : repeat(rule)
     syntax in EBNF notation.
 
 Repetitions : repeat1(rule)
+repeat1
     [#grammar dsl]
     [function to define a rule]
 
@@ -209,6 +223,7 @@ Repetitions : repeat1(rule)
     it is very commonly used.
 
 Options : optional(rule)
+optional
     [#grammar dsl]
     [function to define a rule]
 
@@ -218,6 +233,7 @@ Options : optional(rule)
     syntax in EBNF notation.
 
 Precedence : prec(number, rule)
+prec
     [#grammar dsl]
     [function to define a rule]
 
@@ -235,6 +251,7 @@ Precedence : prec(number, rule)
     directives in Yacc grammars.
 
 Left Associativity : prec.left([number], rule)
+prec.left
     [#grammar dsl]
     [function to define a rule]
 
@@ -251,6 +268,7 @@ Left Associativity : prec.left([number], rule)
     directives in Yacc grammars.
 
 Right Associativity : prec.right([number], rule)
+prec.right
     [#grammar dsl]
     [function to define a rule]
 
@@ -259,6 +277,7 @@ Right Associativity : prec.right([number], rule)
     rule that ends later.
 
 Dynamic Precedence : prec.dynamic(number, rule)
+prec.dynamic
     [#grammar dsl]
     [function to define a rule]
 
@@ -277,6 +296,7 @@ Dynamic Precedence : prec.dynamic(number, rule)
     precedence directives in Bison grammars.
 
 Tokens : token(rule)
+token
     [#grammar dsl]
     [function to define a rule]
 
@@ -294,6 +314,7 @@ Tokens : token(rule)
     treat it as a single token.
 
 Immediate Tokens : token.immediate(rule)
+token.immediate
     [#grammar dsl]
     [function to define a rule]
 
@@ -303,6 +324,7 @@ Immediate Tokens : token.immediate(rule)
     will only match if there is no whitespace.
 
 Aliases : alias(rule, name)
+alias
     [#grammar dsl]
     [function to define a rule]
 
@@ -318,6 +340,7 @@ Aliases : alias(rule, name)
     string.
 
 Field Names : field(name, rule)
+field
     [#grammar dsl]
     [function to define a rule]
 
@@ -326,3 +349,33 @@ Field Names : field(name, rule)
     In the resulting syntax tree, you can then
     use that field name to access specific
     children.
+
+extras
+an array of tokens that may appear anywhere in the language.
+ This is often used for whitespace and comments. The default value of
+ extras is to accept whitespace. To control whitespace explicitly,
+ specify extras: $ => [] in your grammar.
+inline
+an array of rule names that should be automatically removed
+ from the grammar by replacing all of their usages with a copy of their
+ definition. This is useful for rules that are used in multiple places
+ but for which you don’t want to create syntax tree nodes at runtime.
+conflicts
+an array of arrays of rule names. Each inner array
+ represents a set of rules that’s involved in an LR(1) conflict that is
+ intended to exist in the grammar. When these conflicts occur at
+ runtime, Tree-sitter will use the GLR algorithm to explore all of the
+ possible interpretations. If multiple parses end up succeeding,
+ Tree-sitter will pick the subtree whose corresponding rule has the
+ highest total dynamic precedence.
+externals
+an array of token names which can be returned by an
+ external scanner. External scanners allow you to write custom C code
+ which runs during the lexing process in order to handle lexical rules
+ (e.g. Python’s indentation tokens) that cannot be described by regular
+ expressions.
+word
+the name of a token that will match keywords for the purpose of
+ the keyword extraction optimization.
+supertypes an array of hidden rule names which should be considered to
+ be ‘supertypes’ in the generated node types file.
