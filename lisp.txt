@@ -31,3 +31,14 @@ dotted pair notation
     `(1 2)
     is written as:
     '(1 . (2))
+
+elisp
+emacs lisp
+    A lisp-2 with user-defined macros. A
+    simple parser cannot detect if e.g.
+
+    `(foo (let ...))`
+
+    a function call with a `let` expression
+    argument, or a macro call where `let`
+    means something else.
