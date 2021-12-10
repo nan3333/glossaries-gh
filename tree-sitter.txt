@@ -1,3 +1,9 @@
+prepare_grammar
+ Once a grammar has been parsed, it must be transformed in several ways before it can be
+ used to generate a parser. Each transformation is implemented by a separate file in the
+ prepare_grammar directory, and the transformations are ultimately composed together in
+ prepare_grammar/mod.rs.
+
 languages
 TSLanguage
 
@@ -351,31 +357,51 @@ field
     children.
 
 extras
-an array of tokens that may appear anywhere in the language.
- This is often used for whitespace and comments. The default value of
- extras is to accept whitespace. To control whitespace explicitly,
- specify extras: $ => [] in your grammar.
+    An array of tokens that may appear
+    anywhere in the language.  This is often
+    used for whitespace and comments. The
+    default value of extras is to accept
+    whitespace. To control whitespace
+    explicitly, specify extras: $ => [] in
+    your grammar.
+
 inline
-an array of rule names that should be automatically removed
- from the grammar by replacing all of their usages with a copy of their
- definition. This is useful for rules that are used in multiple places
- but for which you don’t want to create syntax tree nodes at runtime.
+    An array of rule names that should be
+    automatically removed from the grammar by
+    replacing all of their usages with a copy
+    of their definition. This is useful for
+    rules that are used in multiple places but
+    for which you don’t want to create syntax
+    tree nodes at runtime.
+
 conflicts
-an array of arrays of rule names. Each inner array
- represents a set of rules that’s involved in an LR(1) conflict that is
- intended to exist in the grammar. When these conflicts occur at
- runtime, Tree-sitter will use the GLR algorithm to explore all of the
- possible interpretations. If multiple parses end up succeeding,
- Tree-sitter will pick the subtree whose corresponding rule has the
- highest total dynamic precedence.
+    An array of arrays of rule names. Each
+    inner array represents a set of rules
+    that’s involved in an LR(1) conflict that
+    is intended to exist in the grammar. When
+    these conflicts occur at runtime,
+    Tree-sitter will use the GLR algorithm to
+    explore all of the possible
+    interpretations. If multiple parses end up
+    succeeding, Tree-sitter will pick the
+    subtree whose corresponding rule has the
+    highest total dynamic precedence.
+
 externals
-an array of token names which can be returned by an
- external scanner. External scanners allow you to write custom C code
- which runs during the lexing process in order to handle lexical rules
- (e.g. Python’s indentation tokens) that cannot be described by regular
- expressions.
+    An array of token names which can be
+    returned by an external scanner. External
+    scanners allow you to write custom C code
+    which runs during the lexing process in
+    order to handle lexical rules (e.g.
+    Python’s indentation tokens) that cannot
+    be described by regular expressions.
+
 word
-the name of a token that will match keywords for the purpose of
- the keyword extraction optimization.
-supertypes an array of hidden rule names which should be considered to
- be ‘supertypes’ in the generated node types file.
+    The name of a token that will match
+    keywords for the purpose of the keyword
+    extraction optimization.
+
+supertypes
+    An array of hidden rule names which should
+    be considered to be ‘supertypes’ in the
+    generated node types file.  .
