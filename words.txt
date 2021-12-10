@@ -13079,3 +13079,5 @@ efficacious
 
 dynamical
     "dynamical degrees of freedom"
+
+pavilion
