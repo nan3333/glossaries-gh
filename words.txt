@@ -13081,3 +13081,12 @@ dynamical
     "dynamical degrees of freedom"
 
 pavilion
+
+
+proselytism
+    The act or fact of religious conversion.
+    
+    It has come to be seen as a form of
+    involuntary forced conversion through
+    bribery, coercion, or violence, as such,
+    proselytism is illegal in some countries.
