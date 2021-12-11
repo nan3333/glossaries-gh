@@ -26,7 +26,7 @@ apostrophe
     It's a little bit like a soliloquy.
 
 polysemy
-    lexical ambiguity.
+    Lexical ambiguity.
 
     The ambiguity of an individual word or
     phrase that can be used (in different
@@ -44,6 +44,18 @@ monosemy
     single meaning, and homonymy, where a
     single word form is associated with two or
     several unrelated meanings.       
+
+homosemy
+
+meronyms
+    A term which denotes part of something but
+    which is used to refer to the whole of it,
+    e.g. faces when used to mean people in I
+    see several familiar faces present.
+
+Coordinate Terms (sisters)
+    A term which shares a hypernym with
+    another.
 
 hypernym
 superordinate word

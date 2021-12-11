@@ -1,11 +1,21 @@
+todo add these
+    \s
+        sp +/"extras:" "$HOME/var/smulliga/source/git/Wilfred/tree-sitter-elisp/grammar.js"
+    
+    \f
+
+Multi-language Documents
+
 prepare_grammar
- Once a grammar has been parsed, it must be
- transformed in several ways before it can be
- used to generate a parser. Each
- transformation is implemented by a separate
- file in the prepare_grammar directory, and
- the transformations are ultimately composed
- together in prepare_grammar/mod.rs.
+    Once a grammar has been parsed, it must be
+    transformed in several ways before it can
+    be used to generate a parser.
+    
+    Each transformation is implemented by a
+    separate file in the prepare_grammar
+    directory, and the transformations are
+    ultimately composed together in
+    prepare_grammar/mod.rs.
 
 languages
 TSLanguage
@@ -21,6 +31,11 @@ TSTree
 
 syntax nodes
 TSNode
+    Tree-sitter provides a DOM-style interface
+    for inspecting syntax trees.  A syntax
+    node’s type is a string that indicates
+    which grammar rule the node represents.
+
     Syntax nodes store their position in the
     source code both in terms of raw bytes and
     row/column coordinates:
@@ -35,6 +50,53 @@ TSNode
 
         TSPoint ts_node_start_point(TSNode);
         TSPoint ts_node_end_point(TSNode);
+
+TSInput
+    [struct]
+
+    The TSInput structure lets you to provide
+    your own function for reading a chunk of
+    text at a given byte offset and row/column
+    position. The function can return text
+    encoded in either UTF8 or UTF16.  This
+    interface allows you to efficiently parse
+    text that is stored in your own data
+    structure.
+
+TSInputEdit
+    See "ts_tree_edit".
+
+        typedef struct {
+          uint32_t start_byte;
+          uint32_t old_end_byte;
+          uint32_t new_end_byte;
+          TSPoint start_point;
+          TSPoint old_end_point;
+          TSPoint new_end_point;
+        } TSInputEdit;
+
+        void ts_tree_edit(TSTree *, const TSInputEdit *);
+
+TSInputEncoding
+    typedef struct {
+      void *payload;
+      const char *(*read)(
+        void *payload,
+        uint32_t byte_offset,
+        TSPoint position,
+        uint32_t *bytes_read
+      );
+      TSInputEncoding encoding;
+    } TSInput;
+
+TSPoint
+    typedef struct {
+      uint32_t row;
+      uint32_t column;
+    } TSPoint;
+
+    TSPoint ts_node_start_point(TSNode);
+    TSPoint ts_node_end_point(TSNode);
 
 concrete syntax trees
     Tree-sitter produces concrete syntax trees
@@ -56,6 +118,29 @@ abstract syntax tree
     Tree-sitter’s trees support these use
     cases by making a distinction between
     named and anonymous nodes.
+
+named node
+
+anonymous node
+
+field
+
+Field Name
+Node Field Name
+    To make syntax nodes easier to analyze,
+    many grammars assign unique field names to
+    particular child nodes. The next page
+    explains how to do this on your own
+    grammars. If a syntax node has fields, you
+    can access its children using their field
+    name.
+
+Field ID
+TSFieldId
+    Fields also have numeric ids that you can
+    use, if you want to avoid repeated string
+    comparisons. You can convert between
+    strings and ids using the TSLanguage.
 
 grammar rule
     Consider a grammar rule like this:
@@ -185,7 +270,7 @@ $
     $.identifier is how you refer to another
     grammar symbol within a rule.
 
-    sp +/"\$.special_form," "$HOME/source/git/Wilfred/tree-sitter-elisp/grammar.js"
+        sp +/"\$.special_form," "$HOME/source/git/Wilfred/tree-sitter-elisp/grammar.js"
 
 String and Regex literals
     [#grammar dsl]
@@ -363,7 +448,7 @@ alias
     string.
 
 Field Names : field(name, rule)
-field
+field(
     [#grammar dsl]
     [function to define a rule]
 
@@ -421,4 +506,77 @@ word
 supertypes
     An array of hidden rule names which should
     be considered to be ‘supertypes’ in the
-    generated node types file.  .
+    generated node types file.
+
+ts_parser_new
+    ewwlinks +/"ts_parser_new" "https://tree-sitter.github.io/tree-sitter/using-parsers"
+
+ts_node_type
+
+ts_node_child_count
+
+ts_tree_delete
+
+ts_parser_delete
+
+ts_parser_parse_string
+
+ts_parser_parse
+
+ts_node_start_byte
+
+ts_node_end_byte
+
+ts_node_start_point
+
+ts_node_end_point
+
+ts_tree_root_node
+
+ts_language_field_count
+
+ts_language_field_name_for_id
+
+ts_language_field_id_for_name
+
+ts_node_child_by_field_id
+
+ts_node_child_by_field_name
+
+ts_node_named_child
+
+ts_node_named_child_count
+
+ts_node_next_named_sibling
+
+ts_node_prev_named_sibling
+
+ts_node_is_named
+
+ts_node_next_sibling
+
+ts_node_prev_sibling
+
+ts_node_parent
+
+ts_node_child
+
+ts_tree_edit
+    In applications like text editors, you
+    often need to re-parse a file after its
+    source code has changed. Tree-sitter is
+    designed to support this use case
+    efficiently. There are two steps required.
+    First, you must edit the syntax tree,
+    which adjusts the ranges of its nodes so
+    that they stay in sync with the code.
+
+ts_node_edit
+    When you edit a syntax tree, the positions
+    of its nodes will change. If you have
+    stored any TSNode instances outside of the
+    TSTree, you must update their positions
+    separately, using the same TSInput value,
+    in order to update their cached positions.
+
+        void ts_node_edit(TSNode *, const TSInputEdit *);

@@ -770,16 +770,6 @@ pedantic
 
 chorale
 
-meronyms
-    A term which denotes part of something but
-    which is used to refer to the whole of it,
-    e.g. faces when used to mean people in I
-    see several familiar faces present.
-
-Coordinate Terms (sisters)
-    A term which shares a hypernym with
-    another.
-
 euphemism
     A mild or indirect word or expression
     substituted for one considered to be too
@@ -13082,7 +13072,6 @@ dynamical
 
 pavilion
 
-
 proselytism
     The act or fact of religious conversion.
     
@@ -13090,3 +13079,7 @@ proselytism
     involuntary forced conversion through
     bribery, coercion, or violence, as such,
     proselytism is illegal in some countries.
+
+shingled
+    "My hair is shingled, and the longest
+    strands are about nine inches long."
