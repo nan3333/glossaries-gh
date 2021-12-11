@@ -1,7 +1,12 @@
 prepare_grammar
- Once a grammar has been parsed, it must be transformed in several ways before it can be
- used to generate a parser. Each transformation is implemented by a separate file in the
- prepare_grammar directory, and the transformations are ultimately composed together in
+ Once a grammar has been parsed, it must be
+ transformed in several ways before it can be
+ used to generate a parser.
+
+ Each transformation is implemented by a
+ separate file in the prepare_grammar
+ directory, and the transformations are
+ ultimately composed together in
  prepare_grammar/mod.rs.
 
 languages
