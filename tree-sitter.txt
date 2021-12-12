@@ -1,6 +1,6 @@
 todo add these
     \s
-        sp +/"extras:" "$HOME/var/smulliga/source/git/Wilfred/tree-sitter-elisp/grammar.js"
+        sp +/"extras:" "$MYGIT/Wilfred/tree-sitter-elisp/grammar.js"
     
     \f
 
