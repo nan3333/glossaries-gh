@@ -12,6 +12,8 @@ RETRO
     transformers with retrieval and still
     achieve good performance.
 
+    [[calibre:Improving language models by retrieving from trillions of tokens]]
+
 one-hot encoding
     Each word from the vocabulary is
     represented as a unique binary vector with
