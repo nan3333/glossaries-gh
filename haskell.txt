@@ -5,7 +5,24 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+type constructor
+ vs
+data constructor
+    Maybe is a type constructor and Nothing
+    and Just are data constructors.
+    You can construct a data value by applying
+    the Just data constructor to a value: 
+
+        country = Just "China"
+
+    In the same way, you can construct a type
+    by applying the Maybe type constructor to
+    a type: 
+
+        lookupAge :: DB -> String -> Maybe Int
+
 concrete
+concrete type
 concrete data type
     Can be introduced with the data construct
     (without parameters), or by specializing a
