@@ -4116,26 +4116,6 @@ cohomology
     A method of assigning richer algebraic
     invariants to a space than homology.
 
-abelian group
-commutative group
-    [a type of group]
-
-    A groups that obeys the axiom of
-    commutativity.
-
-    Applying the group operation to two group
-    elements results in the same thing no
-    matter the order in which they are
-    written.
-
-cochain complex
-    Similar to a chain complex, except that
-    its homomorphisms follow a different
-    convention.
-
-    The homology of a cochain complex is
-    called its cohomology.
-
 realism
     The universe exists independent of the
     mind of the observer.

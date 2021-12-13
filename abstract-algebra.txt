@@ -174,8 +174,18 @@ Group
        contains an element B=A^(-1) such that
        AA^(-1)=A^(-1)A=I.
 
-Abelian group
+abelian group
+commutative group
+    [a type of group]
     [Group-like structure]
+
+    A groups that obeys the axiom of
+    commutativity.
+
+    Applying the group operation to two group
+    elements results in the same thing no
+    matter the order in which they are
+    written.
 
     A Group where the operation is also
     commutative.
@@ -904,3 +914,11 @@ Left and right
     left- and right-distributive. We call
     something an identity if it is both a left
     and right identity.
+
+cochain complex
+    Similar to a chain complex, except that
+    its homomorphisms follow a different
+    convention.
+
+    The homology of a cochain complex is
+    called its cohomology.
