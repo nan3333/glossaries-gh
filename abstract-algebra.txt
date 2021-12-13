@@ -179,7 +179,7 @@ commutative group
     [a type of group]
     [Group-like structure]
 
-    A groups that obeys the axiom of
+    A group that obeys the axiom of
     commutativity.
 
     Applying the group operation to two group
@@ -717,15 +717,15 @@ Complement
     You may have learned about complements in
     geometry or with sets: two angles are
     complementary when they add up to 90
-    degrees; and two subsets of a set S –
-    let’s call the subsets A and B – are
-    complements when A ∪ B = S and A ∩ B = ∅
+    degrees; and two subsets of a set S -
+    let's call the subsets A and B - are
+    complements when A ∪ B = S and A ∩ B = ∅
     (where ∪ is for union and ∩ is for
     intersection). Simply put, a complement is
     what you combine with something to make it
-    “whole”. In a complemented lattice, every
+    "whole". In a complemented lattice, every
     element a has a complement b satisfying
-    a ∨ b = 1 and a ∧ b = 0 where 1 and 0 are
+    a ∨ b = 1 and a ∧ b = 0 where 1 and 0 are
     the greatest and least elements of the
     set, respectively. Complements need not be
     unique, except in distributive lattices.
