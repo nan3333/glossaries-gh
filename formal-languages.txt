@@ -871,6 +871,10 @@ associative
     valid rule of replacement for expressions
     in logical proofs.
 
+    Examples:
+    - addition and multiplication of real
+      numbers are associative operations.
+
 left-associative
     [type of associativity]
 

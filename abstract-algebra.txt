@@ -922,3 +922,9 @@ cochain complex
 
     The homology of a cochain complex is
     called its cohomology.
+
+involution
+    A function that equals its inverse, so
+    applying it to itself give the identity;
+    that is, if f(A) = B and f(B) = A then
+    f(f(A))=A.
