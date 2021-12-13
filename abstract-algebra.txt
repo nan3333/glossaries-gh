@@ -104,10 +104,10 @@ Magma
 
     A set with a (closed) binary operation.
 
-    (A, *)
+    (A, *)
 
     Structure:
-    * : A × A → A
+    * : A × A → A
 
 Semigroup
     [Group-like structure]
@@ -115,28 +115,28 @@ Semigroup
     A Magma where the operation is
     associative.
 
-    (A, *)
+    (A, *)
 
     Structure:
-    * : A × A → A
+    * : A × A → A
 
     Laws:
-    ∀x, y, z ∈ A; x * (y * z) = (x * y) * z
+    ∀x, y, z ∈ A; x * (y * z) = (x * y) * z
 
 Monoid
     [Group-like structure]
 
     A Semigroup with an identity element.
 
-    (A, *,u)
+    (A, *,u)
 
     Structure:
-    * : A × A → A
-    u : A
+    * : A × A → A
+    u : A
 
     Laws:
-    (A, *) is a Semigroup
-    ∀x ∈ A; x * u = u * x = x
+    (A, *) is a Semigroup
+    ∀x ∈ A; x * u = u * x = x
 
 Group
     [Group-like structure]
@@ -144,16 +144,16 @@ Group
     A Monoid that has inverses relative to the
     operation.
 
-    (A, *,u, ′)
+    (A, *,u, ′)
 
     Structure:
-    * : A × A → A
-    u : A
-    ′ : A → A
+    * : A × A → A
+    u : A
+    ′ : A → A
 
     Laws:
-    (A, *,u) is a Monoid
-    ∀x ∈ A; x * x′ = x′ * x = u
+    (A, *,u) is a Monoid
+    ∀x ∈ A; x * x′ = x′ * x = u
 
     Laws:
     1. Closure:
@@ -185,7 +185,7 @@ Abelian group
     are commutative.
 
     Laws:
-    ∀x, y ∈ A; x * y = y * x
+    ∀x, y ∈ A; x * y = y * x
 
     This is in addition to the laws for
     Semigroup, Monoid, or Group (whichever
@@ -213,7 +213,7 @@ Idempotent group
     operation is idempotent.
 
     Laws:
-    ∀x ∈ A; x * x = x
+    ∀x ∈ A; x * x = x
 
 Ring-like Structures
     Examples:
@@ -237,37 +237,37 @@ Quasiring
     - the additive identity is a
       multiplicative annihilator.
 
-    (A, +,⋅,0, 1)
+    (A, +,⋅,0, 1)
 
     Structure:
-    + : A × A → A
-    ⋅ : A × A → A
-    0 : A
-    1 : A
+    + : A × A → A
+    ⋅ : A × A → A
+    0 : A
+    1 : A
 
     Laws:
-    (A, +,0) is a Monoid
-    (A, ⋅,1) is a Monoid
-    ∀x ∈ A; 0 ⋅ x = x ⋅ 0 = 0
-    ∀x, y, z ∈ A; x ⋅ (y + z) = x ⋅ y + x ⋅ z
-    ∀x, y, z ∈ A; (x + y) ⋅ z = x ⋅ z + y ⋅ z
+    (A, +,0) is a Monoid
+    (A, ⋅,1) is a Monoid
+    ∀x ∈ A; 0 ⋅ x = x ⋅ 0 = 0
+    ∀x, y, z ∈ A; x ⋅ (y + z) = x ⋅ y + x ⋅ z
+    ∀x, y, z ∈ A; (x + y) ⋅ z = x ⋅ z + y ⋅ z
 
 Nearring
     [Ring-like structure]
 
     A Quasiring with additive inverses.
 
-    (A, +,⋅,0, 1,  − )
+    (A, +,⋅,0, 1,  − )
 
     Structure:
-    + : A × A → A
-    ⋅ : A × A → A
-    0 : A
-    1 : A
-     −  : A → A
+    + : A × A → A
+    ⋅ : A × A → A
+    0 : A
+    1 : A
+     −  : A → A
 
     Laws:
-    (A, +,0,  − ) is a Group
+    (A, +,0,  − ) is a Group
 
 Semiring
     [Ring-like structure]
@@ -278,10 +278,10 @@ Semiring
     hence also sometimes called a rig, i.e., a
     Ring without negatives.
 
-    Quasiring (A, +,⋅,0, 1)
+    Quasiring (A, +,⋅,0, 1)
 
     Laws:
-    (A, +,0) is abelian
+    (A, +,0) is abelian
 
 Rng
     [Ring-like structure]
@@ -305,10 +305,10 @@ Ring
     operation is distributive over the Group
     operation.
 
-    Nearring (A, +,⋅,0, 1,  − )
+    Nearring (A, +,⋅,0, 1,  − )
 
     Laws:
-    (A, +,0,  − ) is an Abelian group
+    (A, +,0,  − ) is an Abelian group
 
     Rings, semirings, and the lot can also be
     commutative rings, commutative semirings,
@@ -321,23 +321,23 @@ Division algebra
 
     A Ring with multiplicative inverses.
 
-    (A, +,⋅,0, 1, −,′)
+    (A, +,⋅,0, 1, −,′)
 
     Structure:
-    + : A × A → A
-    ⋅ : A × A → A
-    0 : A
-    1 : A
-    − : A → A
-    ′ : A \ {0} → A \ {0}
+    + : A × A → A
+    ⋅ : A × A → A
+    0 : A
+    1 : A
+    − : A → A
+    ′ : A \ {0} → A \ {0}
 
     The notation A \ {0}, sometimes
     alternatively given as A − {0}, means
     “everything in A except 0.”
 
     Laws:
-    (A, +,⋅,0, 1,  − ) is a Ring
-    (A \ {0}, 1, ′) is a Group
+    (A, +,⋅,0, 1,  − ) is a Ring
+    (A \ {0}, 1, ′) is a Group
 
 Field
     [Ring-like structure]
@@ -345,10 +345,10 @@ Field
     A Division algebra with commutative
     multiplication.
 
-    Division algebra (A, +,⋅,0, 1, −,′)
+    Division algebra (A, +,⋅,0, 1, −,′)
 
     Laws:
-    (A, +,⋅,0, 1) is commutative
+    (A, +,⋅,0, 1) is commutative
 
 Lattice-like Structures
     Examples:
@@ -391,19 +391,19 @@ Lattice
     of semirings, absorption laws in the case
     of lattices).
 
-    (A, ∨, ∧ )
+    (A, ∨, ∧ )
 
     Structure:
 
-     ∨  : A × A → A
-     ∧  : A × A → A
+     ∨  : A × A → A
+     ∧  : A × A → A
 
     Laws:
 
-    (A,  ∨ ) is an idempotent abelian Semigroup
-    (A,  ∧ ) is an idempotent abelian Semigroup
-    ∀x, y ∈ A; x ∨ (x ∧ y) = x
-    ∀x, y ∈ A; x ∧ (x ∨ y) = x
+    (A,  ∨ ) is an idempotent abelian Semigroup
+    (A,  ∧ ) is an idempotent abelian Semigroup
+    ∀x, y ∈ A; x ∨ (x ∧ y) = x
+    ∀x, y ∈ A; x ∧ (x ∨ y) = x
 
     The last pair of laws is called
     absorption.
@@ -469,18 +469,18 @@ Bounded lattice
     A Lattice whose Semigroup structures are
     monoids.
 
-    (A, ∨,∧,0, 1)
+    (A, ∨,∧,0, 1)
 
     Structure:
-    ∨ : A × A → A
-    ∧ : A × A → A
-    0 : A
-    1 : A
+    ∨ : A × A → A
+    ∧ : A × A → A
+    0 : A
+    1 : A
 
     Laws:
-    (A, ∨, ∧ ) is a Lattice
-    (A, ∨,0) is a Monoid
-    (A, ∧,1) is a Monoid
+    (A, ∨, ∧ ) is a Lattice
+    (A, ∨,0) is a Monoid
+    (A, ∧,1) is a Monoid
 
 Complemented lattice
     [Lattice-like structure]
@@ -488,19 +488,19 @@ Complemented lattice
     A Bounded lattice where each element has a
     complement.
 
-    (A, ∨,∧,0, 1, ′)
+    (A, ∨,∧,0, 1, ′)
 
     Structure:
-    ∨ : A × A → A
-    ∧ : A × A → A
-    0 : A
-    1 : A
-    ′ : A → A
+    ∨ : A × A → A
+    ∧ : A × A → A
+    0 : A
+    1 : A
+    ′ : A → A
 
     Laws:
-    (A, ∨,∧,0, 1) is a Bounded lattice
-    ∀x ∈ A; x ∨ x′ = 1
-    ∀x ∈ A; x ∧ x′ = 0
+    (A, ∨,∧,0, 1) is a Bounded lattice
+    ∀x ∈ A; x ∨ x′ = 1
+    ∀x ∈ A; x ∧ x′ = 0
 
     Nota bene:
     
@@ -519,12 +519,12 @@ Distributive lattice
     A Lattice where the operations distribute
     over each other.
 
-    Lattice (A, ∨, ∧ )
+    Lattice (A, ∨, ∧ )
 
     Laws:
 
-    ∀x, y, z ∈ A; x ∧ (y ∨ z) = (x ∧ y) ∨ (x ∧ z)
-    ∀x, y, z ∈ A; x ∨ (y ∧ z) = (x ∨ y) ∧ (x ∨ z)
+    ∀x, y, z ∈ A; x ∧ (y ∨ z) = (x ∧ y) ∨ (x ∧ z)
+    ∀x, y, z ∈ A; x ∨ (y ∧ z) = (x ∨ y) ∧ (x ∨ z)
 
     Strictly speaking, the second law can be
     derived from the first law and the Lattice
@@ -542,32 +542,32 @@ Heyting algebra
     A bounded, Distributive lattice with an
     implication operation.
 
-    (A, ∨,∧,0, 1,  ⇒ )
+    (A, ∨,∧,0, 1,  ⇒ )
 
     Structure:
-    ∨ : A × A → A
-    ∧ : A × A → A
-    0 : A
-    1 : A
-    ⇒ : A × A → A
+    ∨ : A × A → A
+    ∧ : A × A → A
+    0 : A
+    1 : A
+    ⇒ : A × A → A
 
     Laws:
-    (A, ∨,∧,0, 1) is a bounded, Distributive lattice.
-    ∀x ∈ A; x ⇒ x = 1
-    ∀x, y ∈ A; x ∧ (x ⇒ y) = x ∧ y
-    ∀x, y ∈ A; y ∧ (x ⇒ y) = y
-    ∀x, y, z ∈ A; x ⇒ (y ∧ z) = (x ⇒ y) ∧ (x ⇒ z)
+    (A, ∨,∧,0, 1) is a bounded, Distributive lattice.
+    ∀x ∈ A; x ⇒ x = 1
+    ∀x, y ∈ A; x ∧ (x ⇒ y) = x ∧ y
+    ∀x, y ∈ A; y ∧ (x ⇒ y) = y
+    ∀x, y, z ∈ A; x ⇒ (y ∧ z) = (x ⇒ y) ∧ (x ⇒ z)
 
 Boolean algebra
     [Lattice-like structure]
 
     A complemented Heyting algebra.
 
-    Complemented lattice (A, ∨,∧,0, 1, ′)
+    Complemented lattice (A, ∨,∧,0, 1, ′)
 
     Laws:
-    (A, ∨,∧,0, 1,  ⇒ ) is a Heyting algebra
-    where  ⇒  : A × A → A by x ⇒ y = x′ ∨ y.
+    (A, ∨,∧,0, 1,  ⇒ ) is a Heyting algebra
+    where  ⇒  : A × A → A by x ⇒ y = x′ ∨ y.
 
 topological group
     [Group]
