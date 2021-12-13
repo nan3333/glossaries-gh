@@ -16,3 +16,13 @@ monad
 
     Neither philosophical sense will help you
     understand the role of monads in Haskell.
+
+monad
+    [#category theory]
+
+    An endofunctor, together with two natural
+    transformations required to fulfill
+    certain coherence conditions.
+
+endofunctor
+    A functor mapping a category to itself.
