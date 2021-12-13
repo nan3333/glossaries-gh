@@ -607,6 +607,12 @@ applicative functor
     functors with tensorial strength in
     category theory.
 
+    Applicatives extend functors in that they
+    allow us to wrap functions, rather than
+    basic values.
+
+    So you can have a Just (+1).
+
     tidbits.
     - <*>
       app, apply, spaceship
