@@ -1,0 +1,18 @@
+monad
+    [#ancient Greek philosophy]
+
+    Almost everything.
+
+    Neither philosophical sense will help you
+    understand the role of monads in Haskell.
+
+monad
+    [#philosopher Leibniz]
+
+    Almost nothing.
+
+    An irreducible particle of perceptual
+    reality.
+
+    Neither philosophical sense will help you
+    understand the role of monads in Haskell.
