@@ -343,7 +343,6 @@ tuple constructor
 
         (,,,,) 1 "hello" 6.5 (Just ()) [5, 5, 6, 7]
 
-
     See:
         vim +/"TupleSections" "$HOME/notes/glossary.txt"
 
@@ -598,8 +597,15 @@ value constructor
         ghci> :t Circle
         Circle :: Float -> Float -> Float -> Shape
 
-Applicative
+applicative
+applicative functor
     [Type class]
+
+    An intermediate structure between functors
+    and monads. Applicative functors are the
+    programming equivalent of lax monoidal
+    functors with tensorial strength in
+    category theory.
 
     tidbits.
     - <*>
@@ -613,6 +619,69 @@ Applicative
       See note under "pure".
 
     - Interchange
+
+    Applicative, the class for applicative
+    functors.
+
+    Like monads, applicative functors are
+    functors with extra laws and operations.
+
+    Applicative is a widely used class
+    with a wealth of applications. It enables
+    the eponymous applicative style, a
+    convenient way of structuring functorial
+    computations, and also provides means to
+    express a number of important patterns.
+
+    vim +/"instance Applicative ErrorOr where" "$MYGIT/google/haskell-trainings/haskell_102/codelab/Game.hs"
+
+    http://www.staff.city.ac.uk/~ross/papers/Applicative.html
+
+    Example (of an applicative functor)
+        replicateM :: Applicative m => Int -> m a -> m [a]
+        base Control.Monad
+        replicateM n act performs the action n times, gathering the results.
+
+    #haskell
+        00:38 < libertyprime> im looking at the hackage documentation for replicateM. it seems the 4.7 version was easier to understand. why would monad have been changed to
+                              applicative? what are the benefits?
+        00:38 < libertyprime> http://hackage.haskell.org/package/base-4.7.0.0/docs/src/Control-Monad.html#replicateM
+        00:38 < libertyprime> http://hackage.haskell.org/package/base-4.12.0.0/docs/src/Control.Monad.html#replicateM
+        00:38 < ski> (in Twelf you're write the same thing, except prefixing the first clause with `sum/zero : ', and the second clause with `sum/succ : '. data type
+                     definitions and predicate definitions are the same thing, in Twelf)
+        00:38 < Ariakenom> I suppose sleep :: DiffTime -> IO () would be most correct
+        00:39 < dminuoso> libertyprime: It admits more instances.
+        00:39 < ski> of course, you don't get any automatic proof search with such a data type, in Haskell
+        00:39 < dminuoso> libertyprime: There are some things that are Applicative but not Monad. The reason you had a Monad constraint was because it came before Applicative
+                          was a thing.
+        00:40 < dminuoso> libertyprime: Since the introduction of Applicative a lot of code could be relaxed from requiring Monad to Applicative.
+        00:56 < dminuoso> libertyprime: https://gitlab.haskell.org/ghc/ghc/issues/10168 this is the ticket
+        00:57 < libertyprime> mawesome. thanks guys
+        00:57 < dminuoso> libertyprime: It also describes the reason why the implication is different. :)
+        00:57 < dminuoso> *implementation
+
+    Example
+        ewwlinks +/"sequence :: (Applicative f) => \[f a\] -> f \[a\]" "http://derekwyatt.org/2012/01/25/haskell-sequence-over-functions-explained/"
+
+<*>
+splat
+applicative
+applicative function
+applicative operator
+    [operator]
+
+    https://youtu.be/CNOff5LPKQI?t=103
+
+    The applicative operation.
+
+    This is the thing that applicative does.
+
+    readsubs +/"splat" "[[https://www.youtube.com/watch?v=SMj-n2f7wYY][Adam McCullough - Monad Transformers for the Easily Confused - C 2018 - YouTube]]"
+
+    Unlike like how functors have the function
+    named "fmap" which does the same thing as
+    the infix <$>, applicatives don't have a
+    name for the applicative operator <*>. 
 
 interchange
     [#applicative]
@@ -653,19 +722,6 @@ pure
     When implementing pure for an instance of
     Applicative, implement the simplest case.
         https://youtu.be/CNOff5LPKQI?t=825
-
-<*>
-splat
-applicative
-    [operator]
-
-    https://youtu.be/CNOff5LPKQI?t=103
-
-    The applicative operation.
-
-    This is the thing that applicative does.
-
-    readsubs +/"splat" "[[https://www.youtube.com/watch?v=SMj-n2f7wYY][Adam McCullough - Monad Transformers for the Easily Confused - C 2018 - YouTube]]"
 
 bitwise (flags)
     and
@@ -1199,28 +1255,6 @@ Tokenizer
 
     Now this looks like a generic type.
 
-Applicative
-applicative functor
-    [type class]
-
-    Applicative, the class for applicative
-    functors.
-
-    Like monads, applicative functors are
-    functors with extra laws and operations.
-
-    An intermediate class between Functor and
-    Monad.
-
-    Applicative is a widely used class
-    with a wealth of applications. It enables
-    the eponymous applicative style, a
-    convenient way of structuring functorial
-    computations, and also provides means to
-    express a number of important patterns.
-
-    vim +/"instance Applicative ErrorOr where" "$MYGIT/google/haskell-trainings/haskell_102/codelab/Game.hs"
-
 GHC's Generics mechanism
 GHC.Generics
     Support for datatype-generic programming
@@ -1504,36 +1538,6 @@ null
     for structures that are similar to cons-
     lists, because there is no general way to
     do better.
-
-Applicative
-Applicative functor
-    http://www.staff.city.ac.uk/~ross/papers/Applicative.html
-
-    Example (of an applicative functor)
-        replicateM :: Applicative m => Int -> m a -> m [a]
-        base Control.Monad
-        replicateM n act performs the action n times, gathering the results.
-
-    #haskell
-        00:38 < libertyprime> im looking at the hackage documentation for replicateM. it seems the 4.7 version was easier to understand. why would monad have been changed to
-                              applicative? what are the benefits?
-        00:38 < libertyprime> http://hackage.haskell.org/package/base-4.7.0.0/docs/src/Control-Monad.html#replicateM
-        00:38 < libertyprime> http://hackage.haskell.org/package/base-4.12.0.0/docs/src/Control.Monad.html#replicateM
-        00:38 < ski> (in Twelf you're write the same thing, except prefixing the first clause with `sum/zero : ', and the second clause with `sum/succ : '. data type
-                     definitions and predicate definitions are the same thing, in Twelf)
-        00:38 < Ariakenom> I suppose sleep :: DiffTime -> IO () would be most correct
-        00:39 < dminuoso> libertyprime: It admits more instances.
-        00:39 < ski> of course, you don't get any automatic proof search with such a data type, in Haskell
-        00:39 < dminuoso> libertyprime: There are some things that are Applicative but not Monad. The reason you had a Monad constraint was because it came before Applicative
-                          was a thing.
-        00:40 < dminuoso> libertyprime: Since the introduction of Applicative a lot of code could be relaxed from requiring Monad to Applicative.
-        00:56 < dminuoso> libertyprime: https://gitlab.haskell.org/ghc/ghc/issues/10168 this is the ticket
-        00:57 < libertyprime> mawesome. thanks guys
-        00:57 < dminuoso> libertyprime: It also describes the reason why the implication is different. :)
-        00:57 < dminuoso> *implementation
-
-    Example
-        ewwlinks +/"sequence :: (Applicative f) => \[f a\] -> f \[a\]" "http://derekwyatt.org/2012/01/25/haskell-sequence-over-functions-explained/"
 
 replicateM
     I've seen replicateM shown as having both of these types.
@@ -2772,9 +2776,6 @@ unfold
     unfoldr builds a list from a seed value
     while foldr reduces a list to a summary
     value.
-
-<*>
-Applicative operator
 
 Control.Applicative
     A structure intermediate between a functor
