@@ -3439,7 +3439,14 @@ hie.yaml
 >>=
 >>
 bind
-    One of the operators of Monad.
+    The >>= function is known as "bind"
+    because it binds the value in a monad
+    container to the first argument of a
+    function.
+
+    One of the operators of Monad; Another is
+    'return', which is rather simple, it just
+    containerizes a value.
 
     (>>) and (>>=) are both bind variants.
 
