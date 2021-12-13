@@ -5,6 +5,9 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+state
+    Violates referential transparency.
+
 Haskell Kernel
     Haskell has adopted many of the convenient
     syntactic structures that have become
@@ -57,6 +60,18 @@ concrete data type
     For example, Maybe Integer , Bool ,
     [(String,String)] and Tree String are
     concrete data types.
+
+Polymorphic type
+    Like containers that are capable of
+    holding values of many different types. So
+    Maybe Int can be thought of as a Maybe
+    container holding an Int value (or
+    Nothing) and Maybe String would be a Maybe
+    container holding a String value (or
+    Nothing). In Haskell, we can also make the
+    type of the container polymorphic, so we
+    could write "m a" to represent a container
+    of some type holding a value of some type! 
 
 Continuation Passing Style
 CPS
@@ -1159,8 +1174,26 @@ stack vs cabal
     http://www.scs.stanford.edu/16wi-cs240h/labs/stack.html
 
 monad
-    Used for getting imperative behaviour out
-    of functional programs.
+    The standard Monad class definition in
+    Haskell looks something like this: 
+    
+    class Monad m where
+        (>>=)  :: m a -> (a -> m b) -> m b
+        return :: a -> m a
+
+    return takes a value and embeds it in the monad.
+
+        return :: a -> m a
+    
+    bind is a function that combines a monad
+    instance m a with a computation that
+    produces another monad instance m b from
+    a's to produce a new monad instance m b
+
+        (>>=) :: m a -> (a -> m b) -> m b
+
+    A monad is used for getting imperative
+    behaviour out of functional programs.
 
     Operations that have side effets i.e.
     - IO
