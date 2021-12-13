@@ -13116,3 +13116,11 @@ virility
     
     In this last sense, virility is to men as
     fertility is to women.
+
+psychotropic
+psychoactive
+    Relating to or denoting drugs that affect
+    a person's mental state.
+    "a psychotropic drug"
+
+    A psychotropic drug.
