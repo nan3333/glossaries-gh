@@ -12861,7 +12861,6 @@ paracosm
 
 demagogue
 rabble-rouser
-
     (from Greek δημαγωγός, a popular leader, a
     leader of a mob, from δῆμος, people,
     populace, the commons + ἀγωγός leading,
@@ -13124,3 +13123,10 @@ psychoactive
     "a psychotropic drug"
 
     A psychotropic drug.
+
+segue
+    A smooth transition from one topic or
+    section to the next.
+    
+    The term is derived from Italian segue,
+    which literally means "follows".

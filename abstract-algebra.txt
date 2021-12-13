@@ -280,6 +280,7 @@ Nearring
     (A, +,0,  − ) is a Group
 
 Semiring
+rig
     [Ring-like structure]
 
     A Quasiring with commutative addition.
@@ -293,12 +294,19 @@ Semiring
     Laws:
     (A, +,0) is abelian
 
-Rng
+    The term rig is also used
+    occasionally - this originated as a joke,
+    suggesting that rigs are rings without
+    negative elements.
+
+rng
     [Ring-like structure]
 
     A Ring without identities.
 
-    If we may speak frankly, the rig and Rng
+    A Ring without a multiplicative identity.
+
+    If we may speak frankly, the rig and rng
     nomenclatures are abominations.
     
     Nevertheless, you may see them sometimes,
