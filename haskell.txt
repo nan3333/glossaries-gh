@@ -5,6 +5,17 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+concrete
+concrete data type
+    Can be introduced with the data construct
+    (without parameters), or by specializing a
+    Parametrized data type to a specific
+    situation.
+    
+    For example, Maybe Integer , Bool ,
+    [(String,String)] and Tree String are
+    concrete data types.
+
 Continuation Passing Style
 CPS
     Continuation passing style is a
