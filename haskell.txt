@@ -28,6 +28,8 @@ Haskell Kernel
     guidelines for implementors of the
     language. 
 
+    ewwlinks +/"The Haskell Kernel" "https://www.haskell.org/onlinereport/haskell2010/haskellch1.html#x6-110001.2"
+
 type constructor
  vs
 data constructor
