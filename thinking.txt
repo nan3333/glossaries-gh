@@ -1,3 +1,13 @@
+infinite regress
+    https://academic.oup.com/mind/article/LIX/236/433/986238
+
+    As well as asking, ‘What is the answer to
+    this new form of the question’, one may
+    ask, ‘Is this new question a worthy one to
+    investigate?’ This latter question we
+    investigate without further ado, thereby
+    cutting short an infinite regress.
+
 Issue trees
     Basically maps of problems.
     
