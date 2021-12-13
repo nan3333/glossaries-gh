@@ -5,6 +5,29 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+Haskell Kernel
+    Haskell has adopted many of the convenient
+    syntactic structures that have become
+    popular in functional programming. In this
+    Report, the meaning of such syntactic
+    sugar is given by translation into simpler
+    constructs. If these translations are
+    applied exhaustively, the result is a
+    program written in a small subset of
+    Haskell that we call the Haskell kernel. 
+
+    Although the kernel is not formally
+    specified, it is essentially a slightly
+    sugared variant of the lambda calculus
+    with a straightforward denotational
+    semantics. The translation of each
+    syntactic structure into the kernel is
+    given as the syntax is introduced. This
+    modular design facilitates reasoning about
+    Haskell programs and provides useful
+    guidelines for implementors of the
+    language. 
+
 type constructor
  vs
 data constructor
