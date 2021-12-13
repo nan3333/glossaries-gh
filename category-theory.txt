@@ -13,6 +13,20 @@ Category theory
     called objects, and whose labelled
     directed edges are called arrows.
 
+    The algebraic theory of the "types" and
+    "functions" you find in any typed formal
+    languauge.
+
+    Officially, category theory calls the
+    types "objects" and functions "morphisms"
+    so as to avoid treading on the
+    set-theoretic toes of the traditionalists,
+    but increasingly I see category theorists
+    throwing such caution to the wind and
+    using the more intuitive terms:
+    - "type" and
+    - "function"
+
 coherence condition
     [#category theory]
 

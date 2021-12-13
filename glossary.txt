@@ -4130,21 +4130,6 @@ general relativity
     Extends special relativity to include
     gravity and its effects on spacetime.
 
-Category theory
-    The algebraic theory of the "types" and
-    "functions" you find in any typed formal
-    languauge.
-
-    Officially, category theory calls the
-    types "objects" and functions "morphisms"
-    so as to avoid treading on the
-    set-theoretic toes of the traditionalists,
-    but increasingly I see category theorists
-    throwing such caution to the wind and
-    using the more intuitive terms:
-    - "type" and
-    - "function"
-
 bisociation
 bisociative
     The simultaneous mental association of an
