@@ -612,3 +612,295 @@ invertible function
     other set, and each element of the other
     set is paired with exactly one element of
     the first set.
+
+Absorption
+    See lattices.
+
+Annihilator
+    We have to include this term because it is
+    such a metal thing to call zeroes.
+    
+    Annihilation is a property of some
+    structures, such that there is an element
+    of a set that always annihilates the other
+    input to a binary operation, sort of the
+    opposite of an identity element (see
+    below).
+    
+    If (S, *) is a set S with a binary
+    operation * on it, the annihilator, or
+    zero element, is an element z such that
+    for all a in S, z * a = a * z = z.
+    
+    In the monoid of integer multiplication,
+    the annihilator is zero, while in the
+    monoid of set intersection, the
+    annihilator is the empty set; notice that
+    the monoids of integer addition and set
+    union do not have annihilators.
+
+Associativity
+    Associativity may be familiar from
+    elementary arithmetic, even if the name
+    isn’t. For example, you may recall that 2*
+    (3 * 4) and (2 * 3) * 4 always evaluate to
+    the same result, even though you simplify
+    the parts in parentheses first so the
+    parentheses change the order in which you
+    evaluate the expression. When the result
+    never depends on the order of
+    simplification, we say that a binary
+    operation is associative. More formally,
+    an operation * on a set S is associative
+    when for all x, y, and z in S, x * (y * z)
+    = (x * y) * z.
+
+Binary operation
+    A binary operation * on a set S is a
+    function * : (S, S) -> S. Notice that *
+    maps (S, S) back into S. Because of an
+    historical quirk, this fact is sometimes
+    called closure (see below). In Haskell,
+    that looks like a type signature such as a
+    -> a -> a because Haskell is curried by
+    default. All functions in Haskell are …
+    actually unary functions, taking one input
+    and returning one result (which may itself
+    be a function). The final parameter of a
+    Haskell type signature is the return type;
+    all others are input types.
+
+Closed
+    By definition, a binary operation over a
+    set implies that the operation is closed,
+    that is, for all a, b, in set S, the
+    result of the binary operation a * b is
+    also an element in S. This coincides
+    exactly with the definition of a function
+    (S, S) -> S (see above). Also, sometimes
+    called the property of closure. While this
+    is definitionally a property of binary
+    operations and, thus, not independently
+    important, we mention it here because it
+    comes up in the Haskell literature. 
+
+Commutativity
+    Commutativity is not the same as
+    associativity, although most commutative
+    operations are also associative. The
+    commutative property of some binary
+    operations holds that changing the order
+    of the inputs does not affect the result.
+    More formally, an operation * on a set S
+    is commutative when for all x and y in S,
+    x * y = y * x.
+
+Complement
+    You may have learned about complements in
+    geometry or with sets: two angles are
+    complementary when they add up to 90
+    degrees; and two subsets of a set S –
+    let’s call the subsets A and B – are
+    complements when A ∪ B = S and A ∩ B = ∅
+    (where ∪ is for union and ∩ is for
+    intersection). Simply put, a complement is
+    what you combine with something to make it
+    “whole”. In a complemented lattice, every
+    element a has a complement b satisfying
+    a ∨ b = 1 and a ∧ b = 0 where 1 and 0 are
+    the greatest and least elements of the
+    set, respectively. Complements need not be
+    unique, except in distributive lattices.
+
+Distributivity
+    The distributive property in arithmetic
+    states that multiplication distributes
+    over addition such that 2 * (1 + 3) = (2 *
+    1) + (2 * 3). Some algebraic structures
+    generalize this with their own
+    distributive law.  Suppose we have a set S
+    with two binary operations, <> and ><. We
+    say >< distributes over <> when
+
+        * for all x, y, and z in S,
+        * x >< (y <> z) = (x >< y) <> (y >< z) (left distributive) and
+        * (y <> z) >< x = (y >< x) <> (z >< x) (right distributive).
+
+    Note that if * is commutative and left distributive, it follows that it is also
+    right distributive (and therefore distributive).
+
+Dual
+    This principle can also be somewhat tricky
+    to understand, and discussions of what it
+    means tend to get into the mathematical
+    weeds quickly.  Roughly, for our purposes
+    (but perhaps not all purposes) it’s a
+    “mirror-like” relationship between
+    operations such that one “reflects” the
+    other. Somewhat more formally, it means
+    that there is a mapping between A and B
+    that involutes, so f(A) = B and f(B) = A.
+    Understanding duality is important because
+    if you prove things in f(A), you can prove
+    things about B, and if you prove things
+    about f(B), then you can prove them about
+    A. So, A and B are related but it’s a bit
+    more complicated than a standard function
+    mapping. An involution is a function that
+    equals its inverse, so applying it to
+    itself give the identity; that is, if f(A)
+    = B and f(B) = A then f(f(A))=A. Some
+    examples:
+
+    In Haskell
+        Sum types and product types are dual
+        (as are products and coproducts in
+        category theory). You can demonstrate
+        this by implementing f :: (a, b) ->
+        (Either (a -> c) (b -> c) -> c)
+        (mapping a product type to a sum) and
+        f' :: (Either a b) -> ((a -> c, b ->
+        c) -> c) (mapping a sum type to a
+        product) and trying it out.
+
+    In classical logic
+        Universal (“for all x in A…”) and
+        existential quantification (“there
+        exists an x in A…”) are dual because
+        ∃x : ¬P(x) and ¬∀x : P(x) are
+        equivalent for all predicates P : if
+        there exists an x for which P does not
+        hold, then it is not the case that P
+        holds for all x (but the converse does
+        not hold constructively).
+
+Idempotence
+    The idempotence we care about for our
+    algebraic structures is a property of some
+    binary operations under which applying the
+    operation multiple times doesn’t change
+    the result after the first application.
+    However, it can be a bit tricky to
+    understand, so let’s consider idempotence
+    with regard to unary functions to get a
+    sense of the meaning first. Consider a
+    device where there are separate buttons
+    for turning the device on and off; pushing
+    the on button doesn’t turn it “more on”,
+    so the on button is idempotent (and so is
+    the off button). Similarly, taking the
+    absolute value of integers is an
+    idempotent unary function; you can keep
+    taking the absolute value of a number and
+    after the first time, the answer won’t
+    change.
+
+    We say an element of a set is idempotent
+    with respect to some operation * if x
+    * x = x. We say an operation is idempotent
+    * if every element in the set is
+    idempotent with respect to the operation.
+    Both the annihilator and identity
+    elements, if present in a given structure,
+    are idempotent elements. For the natural
+    numbers under multiplication, both 1 and 0
+    are idempotent; for the naturals under
+    addition, only 0 is. Hence neither
+    addition nor multiplication of the natural
+    numbers is itself idempotent. Furthermore,
+    the set operations of union and
+    intersection are both idempotent
+    operations.
+
+Identity
+    An identity element is an element of a set
+    that is neutral with respect to some
+    binary operation on that set; that is, it
+    leaves any other element of that set
+    unchanged when combined with it. An
+    identity value is unique with respect to
+    the given set and operation. More
+    formally, for a set S with a binary
+    operation * on it, x is the identity value
+    when x * a = a * x = a for all a in S. In
+    Haskell, mempty is a return-type
+    polymorphic identity value for monoids and
+    empty is the same but for Alternatives,
+    but identity values are also often called
+    one and zero on analogy with the
+    identities for addition and
+    multiplication, respectively. Often, the
+    identity called “zero” will also be an
+    annihilator for the dual operation, e.g.,
+    the empty set or empty list (identity of
+    concatenation, annihilator of zip), False,
+    and the like are in their respective
+    structures.
+
+Invertibility
+    This is also familiar to many of us from
+    basic arithmetic, even if the name is not.
+    Zero can serve as an identity element for
+    addition of integers or of the natural
+    (“counting”) numbers assuming we include
+    zero in those. The set of integers
+    includes numbers that we can add to each
+    other to get back to zero, e.g., (-3) + 3
+    = 0; there aren’t any such natural numbers
+    because the set of natural numbers does
+    not include negatives. This property of
+    the integers under addition is
+    invertibility. Given a binary operation *
+    on S with identity e, an element b in S is
+    said to be an inverse of an element a in S
+    if a * b = e = b * a, in which case a (as
+    well as b, simply by the symmetry in the
+    definition) is said to be invertible in S
+    relative to *. If every element of S is
+    invertible in S relative to *, then we say
+    S has inverses relative to *.
+
+Unit
+    The idea of being a unit is related to
+    invertibility. A unit is an element of a
+    ring structure that is its own inverse.
+    The number 1 is its own multiplicative
+    inverse, as is (-1) because (-1) * (-1) =
+    1. In Haskell, there is a type called
+    “unit”, written () (an empty tuple, if you
+    will); while types in Haskell do not form
+    a ring, the unit type plays the same role
+    in the semiring of types as the number 1
+    plays in the semiring of natural numbers
+    (the zero is represented by the Void type,
+    which has no values).
+
+Left and right
+    You may sometimes hear about left or right
+    associativity or identity. For example,
+    exponentiation is only right-associative.
+    That is, in a chain of such operations,
+    they group for evaluation purposes from
+    the right.
+
+        λ> 2^3^2 
+        512 
+        -- is the same as 
+        λ> 2^(3^2) 
+        512 
+        -- but not 
+        λ> (2^3)^2 
+        64 
+
+    This is more of a convention than a
+    property of the function, though, and it
+    is often preferable to use parentheses to
+    make associativity explicit when it is
+    one-sided (i.e., when something is right
+    associative but not associative). We call
+    something associative when it is both
+    left- and right-associative. We call
+    something distributive when it is both
+    left- and right-distributive. We call
+    something an identity if it is both a left
+    and right identity.
