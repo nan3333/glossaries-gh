@@ -38,3 +38,16 @@ coherence condition
     
     Typically the elementary morphisms are
     part of the data of the category.
+
+endofunctor
+    A functor from one category back to the
+    same category.
+    
+    It maps objects of the category to objects
+    of the same category.
+    
+    The simplest example is the identity
+    functor which maps every object inside a
+    category back to itself; more interesting
+    examples map objects to other objects in
+    the same category.
