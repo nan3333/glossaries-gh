@@ -601,3 +601,14 @@ amenable group
     carrying a kind of averaging operation on
     bounded functions that is invariant under
     translation by Group elements.
+
+bijection
+bijective function
+one-to-one correspondence
+invertible function
+    A function between the elements of two
+    sets, where each element of one set is
+    paired with exactly one element of the
+    other set, and each element of the other
+    set is paired with exactly one element of
+    the first set.
