@@ -25,4 +25,6 @@ monad
     certain coherence conditions.
 
 endofunctor
+    [#category theory]
+
     A functor mapping a category to itself.
