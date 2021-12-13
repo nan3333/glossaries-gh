@@ -1,3 +1,36 @@
+function machine metaphor
+    We can view a function as something that
+    can take an object (as long as the object
+    is in its domain) and turn it into (or map
+    it to) a different object. We can imagine
+    it is some machine that does this
+    transformation.
+
+codomain
+set of destination of a function
+codomain of a function
+    The set of its possible outputs. In the
+    function machine metaphor, the codomain is
+    the set of objects that might possible
+    come out of the machine. For example, when
+    we use the function notation f:R→R, we
+    mean that f is a function from the real
+    numbers to the real numbers.
+
+    The set into which all of the output of
+    the function is constrained to fall. It is
+    the set Y in the notation f: X → Y. The
+    term range is sometimes ambiguously used
+    to refer to either the codomain or image
+    of a function.
+
+identity morphism
+    A unique morphism corresponding to each
+    object of a category, which has its domain
+    equal to its codomain, and which composed
+    with any morphism (with which it is
+    composable) gives that same morphism.
+
 isomorphic
 isomorphism
     [retaining structure bijective]
@@ -25,7 +58,6 @@ binomial distribution
     individual trial; typically,
     - success
     - failure
-
 
 homomorphism
     Like an isomorphism but instead is when

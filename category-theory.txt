@@ -1,3 +1,11 @@
+morphism
+    A structure-preserving map from one
+    mathematical structure to another one of
+    the same type.
+    
+    The notion of morphism recurs in much of
+    contemporary mathematics.
+
 Category theory
     Formalizes mathematical structure and its
     concepts in terms of a labeled directed
@@ -31,3 +39,36 @@ endofunctor
     category back to itself; more interesting
     examples map objects to other objects in
     the same category.
+
+elementary morphism
+    https://www.cs.princeton.edu/courses/archive/spr00/cs598b/lectures/polygonsimilarity/tsld018.htm
+
+category
+    Any collection of objects that can relate
+    to each other via morphisms in sensible
+    ways, like composition and associativity.
+    
+    As Barry Mazur once remarked, this is a
+    "template" for all of mathematics:
+    depending on what you feed into the
+    template, you'll recover one of the
+    mathematical realms.
+    
+    So the collection of sets with functions
+    forms a category, as does the collection
+    of groups with group homomorphisms, and
+    topological spaces with continuous
+    functions.
+    
+    In addition to these, here are some other
+    categories you're probably familiar with:
+
+    | category name | its objects                   | its morphisms              |
+    |---------------+-------------------------------+----------------------------|
+    | set           | sets                          | functions                  |
+    | group         | groups                        | group homomorphisms        |
+    | top           | topological spaces            | continuous functions       |
+    | vect_K        | vector spaces over a field, k | linear transformations     |
+    | meas          | measurable spaces             | measurable functions       |
+    | poset         | partially ordered sets        | order-preserving functions |
+    | man           | smooth manifolds              | smooth maps                |
