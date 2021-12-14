@@ -1,3 +1,15 @@
+abstract
+concrete
+    [#metaphysics]
+
+    The distinction between abstract and
+    concrete refers to a divide between two
+    types of entities.
+    
+    Many philosophers hold that this
+    difference has fundamental metaphysical
+    significance.
+
 noetic
     Relating to mental activity or the
     intellect.
