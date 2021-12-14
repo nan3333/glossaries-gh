@@ -3243,7 +3243,9 @@ forever
 
         forever :: Applicative f => f a -> f b Source #
 
+reverse binder function
 =<<
+(=<<) 
     (=<<) :: Monad m => (a -> m b) -> m a -> m b
     base Prelude
     Same as >>=, but with the arguments interchanged.
@@ -3252,6 +3254,22 @@ forever
 
         print =<< nextInt
         nextInt >>= print
+
+    The prelude also defines a binding function that takes it arguments in the opposite order to
+    the standard binding function. Since the standard binding function is called ">>=", the
+    reverse binding function is called "=<<". It is useful in circumstances where the binding
+    operator is used as a higher-order term and it is more convenient to have the arguments in the
+    reversed order. Its definition is simply: 
+    
+        (=<<) :: Monad m => (a -> m b) -> m a -> m b
+        f =<< x = x >>= f
+
+    >>= vs =<<
+
+        Prelude> :t (>>=)
+        (>>=) :: Monad m => m a -> (a -> m b) -> m b
+        Prelude> :t (=<<)
+        (=<<) :: Monad m => (a -> m b) -> m a -> m b
 
 type-declarative search
 
