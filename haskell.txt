@@ -8,6 +8,48 @@ lyah sequence
 state
     Violates referential transparency.
 
+static typing
+statically typed
+    Haskell is statically typed.
+
+    Typing
+        “When types are checked”
+
+    Static
+        Types checked before run-time
+    Dynamic
+        Types checked on the fly, during
+        execution
+
+Haskell
+    [language]
+
+    A polymorphic lambda calculus with lazy
+    evaluation plus algebraic data types and
+    type classes.
+
+    This happens to be just the right
+    combination of features to allow us to
+    write clean, maintainable code that also
+    runs fast.
+
+    ewwlinks +/"Standard Haskell: Ergonomics + Performance" "https://serokell.io/blog/why-dependent-haskell"
+
+    Attributes:
+    - polymorphism type: parametric
+
+    A distinct construct exists to represent
+    side effects, orthogonal to the type of
+    functions.
+
+    why?
+    - reasoning about code
+    - purity
+      flows from laziness
+    - strong static typing
+
+    ewwlinks +/"Runtime Correctness" "https://github.com/github/semantic/blob/master/docs/why-haskell.md"
+
 Haskell Kernel
     Haskell has adopted many of the convenient
     syntactic structures that have become
@@ -17,7 +59,7 @@ Haskell Kernel
     constructs. If these translations are
     applied exhaustively, the result is a
     program written in a small subset of
-    Haskell that we call the Haskell kernel. 
+    Haskell that we call the Haskell kernel.
 
     Although the kernel is not formally
     specified, it is essentially a slightly
@@ -29,7 +71,7 @@ Haskell Kernel
     modular design facilitates reasoning about
     Haskell programs and provides useful
     guidelines for implementors of the
-    language. 
+    language.
 
     ewwlinks +/"The Haskell Kernel" "https://www.haskell.org/onlinereport/haskell2010/haskellch1.html#x6-110001.2"
 
@@ -39,13 +81,13 @@ data constructor
     Maybe is a type constructor and Nothing
     and Just are data constructors.
     You can construct a data value by applying
-    the Just data constructor to a value: 
+    the Just data constructor to a value:
 
         country = Just "China"
 
     In the same way, you can construct a type
     by applying the Maybe type constructor to
-    a type: 
+    a type:
 
         lookupAge :: DB -> String -> Maybe Int
 
@@ -56,7 +98,7 @@ concrete data type
     (without parameters), or by specializing a
     Parametrized data type to a specific
     situation.
-    
+
     For example, Maybe Integer , Bool ,
     [(String,String)] and Tree String are
     concrete data types.
@@ -71,7 +113,7 @@ Polymorphic type
     Nothing). In Haskell, we can also make the
     type of the container polymorphic, so we
     could write "m a" to represent a container
-    of some type holding a value of some type! 
+    of some type holding a value of some type!
 
 Continuation Passing Style
 CPS
@@ -80,18 +122,18 @@ CPS
     a call stack to a direction to send the
     result to the “continuation” without
     returning.
-    
+
     This means the functions context can be
     cleaned up.
-    
+
     Delimited continuations are a slight
     variation, where instead of an unbounded
     “rest of the program”, the continuation
     has an end point and a value.
-    
+
     It’s essentially a function, and can be
     handled as such.
-    
+
     There is a purely mechanical method for
     converting all of the lambda calculus
     transforms into CPS form, and this can be
@@ -100,23 +142,23 @@ CPS
 
 continuation monad
     CPS is tedious, though.
-    
+
     Having to explicitly add a continuation to
     everything is complicated.
-    
+
     However, there’s also a typeclass, or
     concept, that allows you to convert
     regular functions into continuation
     passing style, automatically.
-    
+
     It’s then rather straightforward to
     involve concerns like where work is being
     run for something that wraps up the entire
     work.
-    
+
     Even being able to switch back and forth
     between contexts.
-    
+
     That’s the continuation monad.
 
 non-deterministic computation
@@ -131,7 +173,7 @@ non-deterministic computation
     pure function, but it can be made into one
     by transforming its result type from a to
     a list of a.
-    
+
     In essence, we create a function that
     returns all possible results at once.
 
@@ -141,10 +183,28 @@ monadic function
 
     Each monad provides a mechanism for
     composing such monadic functions.
-    
+
     As we have seen, the do notation
     simplifies the syntax of composing
     multiple monadic functions.
+
+one-way monads
+    Many monads are one-way i.e. you can't get
+    values back out of the monad. But y ou may
+    implment functions for your monad that do
+    this. An example is the IO monad.
+
+    Allow values to enter the monad through
+    the return function (and sometimes the
+    fail function) and they allow computations
+    to be performed within the monad using the
+    bind functions >>= and >>, but they do not
+    allow values back out of the monad.
+
+    However, List and Maybe, do allow values
+    out of the monad. So it is possible to
+    write functions which use these monads
+    internally but return non-monadic values.
 
 interface
 interface class
@@ -176,13 +236,13 @@ catamorphism
     A general abstraction that enables you to
     handle multiple values, for example in
     order to reduce them to a single value.
-    
+
     The concept of catamorphism denotes the
     unique homomorphism from an initial
     algebra into some other algebra.
 
     [#functional programming]
-    
+
     Catamorphisms provide generalizations of
     folds of lists to arbitrary algebraic data
     types, which can be described as initial
@@ -241,13 +301,13 @@ anamorphism
     A function that generates a sequence by
     repeated application of the function to
     its previous result.
-    
+
     You begin with some value A and apply a
     function f to it to get B.
-    
+
     Then you apply f to B to get C, and so on
     until some terminating condition is
-    reached. 
+    reached.
 
 ascription
 type ascription
@@ -527,13 +587,13 @@ cabal-install vs stack
 
     cabal-install and stack are frontends to
     Cabal.
-    
+
     Both tools make it possible to build
     Haskell projects whose sets of
     dependencies might conflict with each
     other within the confines of a single
     system.
-    
+
     The key difference between them lies in
     how they address this goal.
 
@@ -575,6 +635,11 @@ magenta = MkRGB 255 0 255
 
 return
     [Function in Haskell]
+
+    fathersMaternalGrandmother :: Sheep -> Maybe Sheep
+    fathersMaternalGrandmother s = (return s) >>= father >>= mother >>= mother
+
+    Return turns the sheep into a Maybe sheep.
 
     Has little to do with the return keyword
     in imperative programming languages.
@@ -755,7 +820,7 @@ applicative operator
     Unlike like how functors have the function
     named "fmap" which does the same thing as
     the infix <$>, applicatives don't have a
-    name for the applicative operator <*>. 
+    name for the applicative operator <*>.
 
 interchange
     [#applicative]
@@ -1174,9 +1239,20 @@ stack vs cabal
     http://www.scs.stanford.edu/16wi-cs240h/labs/stack.html
 
 monad
+monad functor
+    [type class]
+
+    Like applicative functors, monads are
+    functors with extra laws and operations.
+
+    - >>=
+      bind
+
+    vim +/"instance Monad ErrorOr where" "$MYGIT/google/haskell-trainings/haskell_102/codelab/Game.hs"
+
     The standard Monad class definition in
-    Haskell looks something like this: 
-    
+    Haskell looks something like this:
+
     class Monad m where
         (>>=)  :: m a -> (a -> m b) -> m b
         return :: a -> m a
@@ -1184,13 +1260,20 @@ monad
     return takes a value and embeds it in the monad.
 
         return :: a -> m a
-    
+
     bind is a function that combines a monad
     instance m a with a computation that
     produces another monad instance m b from
     a's to produce a new monad instance m b
 
         (>>=) :: m a -> (a -> m b) -> m b
+
+    A monad is a type constructor, a function
+    called return, and a combinator function
+    called bind or >>=. These three elements
+    work together to encapsulate a strategy
+    for combining computations to produce more
+    complex computations.
 
     A monad is used for getting imperative
     behaviour out of functional programs.
@@ -1227,6 +1310,41 @@ monad
     Monads are not composable.
 
     See "monad transformer".
+
+The three fundamental laws of monads
+    The concept of a monad comes from a branch
+    of mathematics called category theory.
+    While it is not necessary to know category
+    theory to create and use monads, we do
+    need to obey a small bit of mathematical
+    formalism. To create a monad, it is not
+    enough just to declare a Haskell instance
+    of the Monad class with the correct type
+    signatures. To be a proper monad, the
+    return and >>= functions must work
+    together according to three laws:
+
+        1 (return x) >>= f ==== f x
+        2 m >>= return ==== m
+        3 (m >>= f) >>= g ==== m >>= (\x -> f x >>= g)
+
+    The first law requires that return is a
+    left-identity with respect to >>=. The
+    second law requires that return is a
+    right-identity with respect to >>=. The
+    third law is a kind of associativity law
+    for >>=. Obeying the three laws ensures
+    that the semantics of the do-notation
+    using the monad will be consistent.
+
+    Any type constructor with return and bind
+    operators that satisfy the three monad
+    laws is a monad. In Haskell, the compiler
+    does not check that the laws hold for
+    every instance of the Monad class. It is
+    up to the programmer to ensure that any
+    Monad instance they create satisfies the
+    monad laws.
 
 monad transformer
     https://wiki.haskell.org/Monad_Transformers_Explained
@@ -1316,18 +1434,6 @@ Functor
     element inside the box.
 
     vim +/"instance Functor ErrorOr where" "$MYGIT/google/haskell-trainings/haskell_102/codelab/Game.hs"
-
-Monad
-monad functor
-    [type class]
-
-    Like applicative functors, monads are
-    functors with extra laws and operations.
-
-    - >>=
-      bind
-
-    vim +/"instance Monad ErrorOr where" "$MYGIT/google/haskell-trainings/haskell_102/codelab/Game.hs"
 
 Tokenizer
     token :: String -> [String]
@@ -1563,6 +1669,7 @@ Case expressions
                               (x:_) -> x
 
 sequence
+sequence_
     ewwlinks +/"sequence \[(> 4), (< 10), odd\] 7" "http://derekwyatt.org/2012/01/25/haskell-sequence-over-functions-explained/"
 
     sequence :: (Traversable t, Monad m) => t (m a) -> m (t a)
@@ -1611,6 +1718,26 @@ sequence
         4
         5
         [(),(),(),(),()]
+
+    The sequence function takes a list of
+    monadic computations, executes each one in
+    turn and returns a list of the results.
+    If any of the computations fail, then the
+    whole function fails: 
+
+        sequence :: Monad m => [m a] -> m [a]
+        sequence = foldr mcons (return [])
+                     where mcons p q = p >>= \x -> q >>= \y -> return (x:y)
+
+    The sequence_ function (notice the
+    underscore) has the same behavior as
+    sequence but does not return a list of
+    results.  It is useful when only the
+    side-effects of the monadic computations
+    are important. 
+
+        sequence_ :: Monad m => [m a] -> m ()
+        sequence_ = foldr (>>) (return ())
 
 non-deterministic
     ewwlinks +/"Before looking at the source" "http://sleepomeno.github.io/blog/2014/06/25/Explaining-the-Magic/"
@@ -3367,23 +3494,23 @@ has type operator
 
 NamedFieldPuns
     https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#record-puns
-    
+
     When using records, it is common to write
     a pattern that binds a variable with the
     same name as a record field, such as:
-    
+
         data C = C {a :: Int}
         f (C {a = a}) = a
 
     Record punning permits the variable name
     to be elided, so one can simply write
-    
+
         f (C {a}) = a
 
     to mean the same pattern as above. That
     is, in a record pattern, the pattern a
     expands into the pattern a = a for the
-    same name a.    
+    same name a.
 
 lambda calculus
 λ calculus
@@ -3391,11 +3518,11 @@ lambda calculus
     expressing computation based on function
     abstraction and application using variable
     binding and substitution.
-    
+
     It is a universal model of computation
     that can be used to simulate any Turing
     machine.
-    
+
     It was introduced by the mathematician
     Alonzo Church in the 1930s as part of his
     research into the foundations of
@@ -3574,7 +3701,7 @@ else
 
     doubleSmallNumber x = if x > 100
                             then x
-                            else x*2 
+                            else x*2
 
 Constraint
     ewwlinks +/"The following things" "https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/constraint_kind.html"
@@ -3611,7 +3738,7 @@ applicative expression
     NLG: An expression that is syntactically
     valid Haskell code, but the fixity or
     syntax of which is not valid Haskell.
-    
+
     For example, `1 + (2 * 3)` would be an
     applicative expression
 
@@ -3640,3 +3767,45 @@ newtype wrapper
 ST monad
     The monadic ST type provides support for
     strict state threads.
+
+====
+    Identity.
+
+    See "The three fundamental laws of monads".
+
+MonadPlus
+zero
+plus
+mzero
+mplus
+    Beyond the three monad laws, some monads
+    obey additional laws. These monads have a
+    special value mzero and an operator mplus
+    that obey four additional laws:
+
+        1 mzero >>= f == mzero
+        2 m >>= (\x -> mzero) == mzero
+        3 mzero `mplus` m == m
+        4 m `mplus` mzero == m
+
+    It is easy to remember the laws for mzero
+    and mplus if you associate mzero with 0,
+    mplus with +, and >>= with × in ordinary
+    arithmetic.
+
+    Monads which have a zero and a plus can be
+    declared as instances of the MonadPlus
+    class in Haskell:
+
+        class (Monad m) => MonadPlus m where
+            mzero :: m a
+            mplus :: m a -> m a -> m a
+
+    Continuing to use the Maybe monad as an
+    example, we see that the Maybe monad is an
+    instance of MonadPlus:
+
+        instance MonadPlus Maybe where
+            mzero             = Nothing
+            Nothing `mplus` x = x
+            x `mplus` _       = x

@@ -4,7 +4,7 @@ rhizome
     Developed by Gilles Deleuze and Félix
     Guattari in their Capitalism and
     Schizophrenia (1972–1980) project.
-    
+
     It is what Deleuze calls an "image of
     thought", based on the botanical rhizome,
     that apprehends multiplicities.
@@ -1396,7 +1396,7 @@ Posterior
 Kakorrhaphiophobia
     An abnormal, persistent, irrational fear
     of failure.
-    
+
     In clinical cases, it's debilitating: the
     fear of even the most subtle failure or
     defeat is so intense that it restricts a
@@ -3675,7 +3675,7 @@ provenance
 
     The chronology of the ownership, custody
     or location of a historical object.
-    
+
     Originally mostly used in relation to
     works of art but is now used in similar
     senses in a wide range of fields,
@@ -3683,7 +3683,7 @@ provenance
     archives, manuscripts, printed books, the
     circular economy, and science and
     computing.
-    
+
     The primary purpose of tracing the
     provenance of an object or entity is
     normally to provide contextual and
@@ -3692,7 +3692,7 @@ provenance
     as far as practicable, its later history,
     especially the sequences of its formal
     ownership, custody and places of storage.
-    
+
     The practice has a particular value in
     helping authenticate objects.
 
@@ -3788,13 +3788,13 @@ slewing
     [mechanics]
     The rotation of an object around an axis,
     usually the z axis.
-    
+
     An example is a radar scanning 360 degrees
     by slewing around the z axis.
-    
+
     This is also common terminology in
     astronomy.
-    
+
     The process of rotating a telescope to
     observe a different region of the sky is
     referred to as slewing.
@@ -6458,7 +6458,7 @@ extradition
     person accused or convicted of committing
     a crime in another jurisdiction, over to
     their law enforcement.
-    
+
     It is a cooperative law enforcement
     process between the two jurisdictions and
     depends on the arrangements made between
@@ -6510,7 +6510,7 @@ marionette
     A puppet controlled from above using wires
     or strings depending on regional
     variations.
-    
+
     A marionette's puppeteer is called a
     marionettist.
 
@@ -6609,7 +6609,7 @@ collateral
 
 mishap
     An unlucky accident.
-    
+
     "although there were a few minor mishaps,
     none of the pancakes stuck to the ceiling"
 
@@ -6690,7 +6690,7 @@ of unsound mind
     "this may give an unbalanced impression of
 
     the competition"
-    
+
     (of a person) emotionally or mentally
     disturbed.
 
@@ -6699,7 +6699,7 @@ of unsound mind
 
 rectify
     Put right; correct.
-    
+
     convert (alternating current) to direct
     current.
 
@@ -6725,7 +6725,7 @@ self-referential
     Occurs in natural or formal languages when
     a sentence, idea or formula refers to
     itself.
-    
+
     The reference may be expressed either
     directly—through some intermediate
     sentence or formula—or by means of some
@@ -6733,25 +6733,25 @@ self-referential
 
     A statement that refers to itself or its
     own referent.
-    
+
     The most famous example of a self-
     referential sentence is the liar sentence:
-    
+
     “This sentence is not true.”
 
     Self-reference is often used in a broader
     context as well.
-    
+
     For instance, a picture could be
     considered self-referential if it contains
     a copy of itself (see the animated image
     above); and a piece of literature could be
     considered self-referential if it includes
     a reference to the work itself.
-    
+
     In philosophy, self-reference is primarily
     studied in the context of language.
-    
+
     Self-reference within language is not only
     a subject of philosophy, but also a field
     of individual interest in mathematics and
@@ -6880,7 +6880,7 @@ sycophant
     someone important in order to gain
     advantage.
 
-    An insincere flatterer. 
+    An insincere flatterer.
 
     Used to refer to someone practicing
     sycophancy.
@@ -6947,16 +6947,16 @@ provisional
 dissimulate
 dissimulation
     The act of faking your true feelings.
-    
+
     Your dissimulation of happiness might fool
     strangers but your close friends can tell
     it's all an act.
-    
+
     The word dissimulation implies that the
     wool is being pulled over someone's eyes,
     or they're being fooled or tricked by
     someone's deceit.
-    
+
     Conceal or disguise (one's thoughts,
     feelings, or character).
 
@@ -7031,10 +7031,10 @@ in broad strokes
     [idiom]
 
     Major features or key points; outline.
-    
+
     (idiomatic, especially of a narrative or
     artistic work)
-    
+
     Developments, movements, or descriptions
     presented in a bold or sweeping manner,
     without intricacy, adornment, or subtlety.
@@ -7128,7 +7128,7 @@ cur
     Used to describe a mongrel dog,
     particularly of aggressive or unfriendly
     nature.
-    
+
     The term is believed to be derived from
     the Old Norse kurra, meaning 'to grumble
     or growl'.
@@ -7168,7 +7168,7 @@ subtle
 bower
     A pleasant shady place under trees or
     climbing plants in a garden or wood.
-    
+
     shade or enclose (a place or person).
     "trees here and there bowered the
     cottages"
@@ -7211,19 +7211,19 @@ continuity
     people, plot, objects, and places seen by
     the reader or viewer over some period of
     time.
-    
+
     It is relevant to several media.
-    
+
     Continuity is particularly a concern in
     the production of film and television due
     to the difficulty of rectifying an error
     in continuity after shooting has wrapped
     up.
-    
+
     It also applies to other art forms,
     including novels, comics, and video games,
     though usually on a smaller scale.
-    
+
     It also applies to fiction used by
     persons, corporations, and governments in
     the public eye.
@@ -7262,7 +7262,7 @@ pernicious
 bikeshed
     A topic that is attracting debate ad
     nauseam, out of all proportion to its
-    actual importance. 
+    actual importance.
 
 bikeshedding
     A point when a meeting or discussion
@@ -7344,7 +7344,7 @@ escapade
 
 chastised
     Rebuke or reprimand severely.
-    
+
 scathing
     Witheringly scornful; severely critical.
 
@@ -7409,7 +7409,7 @@ prosaic
     Having or using the style or diction of
     prose as opposed to poetry; lacking
     imaginativeness or originality.
-    
+
     "prosaic language can't convey the
     experience"
 
@@ -7422,15 +7422,15 @@ ilk
 
 tapestry
     A picture woven into cloth.
-    
+
     It's a decorative rug you hang on the
     wall, with detailed images or designs on
     it.
-    
+
     Some tapestries, like the famous Unicorn
     Tapestries, tell stories with their
     pictures.
-    
+
     Weaving an image into cloth is a brilliant
     idea — it makes art accessible and
     portable.
@@ -7456,7 +7456,7 @@ sympatico
 simpatico
     Getting along and having mutual
     understanding with another.
-    
+
     A teacher who is caring and understanding
     of her students' needs may be described as
     sympatico.
@@ -7466,7 +7466,7 @@ eschatology
     concerned with the final events of
     history, or the ultimate destiny of
     humanity.
-    
+
     This concept is commonly referred to as
     the "end of the world" or "end times".
 
@@ -7487,7 +7487,7 @@ gilt
     A decorative technique for applying a very
     thin coating of gold to solid surfaces
     such as metal, wood, porcelain, or stone.
-    
+
     A gilded object is also described as
     "gilt".
 
@@ -7495,7 +7495,7 @@ no quarter
     Generally used during military conflict to
     imply combatants would not be taken
     prisoner, but killed.
-    
+
     Take no prisoners was a similar phrase
     also generally used.
 
@@ -7516,13 +7516,13 @@ deresolution
     A term used to describe someone or
     something disappearing or dissolving,
     essentially resulting in deletion.
-    
+
     It is a program's equivalent of death or
     the destruction of a building or vehicle.
 
 minstrel
     A medieval European entertainer.
-    
+
     Originally describing any type of
     entertainer such as a musician, juggler,
     acrobat, singer or fool, the term later,
@@ -7533,7 +7533,7 @@ minstrel
 trying times
     Times of trouble, struggle, or
     unhappiness.
-    
+
     I've had my share of trying times over the
     years, but they helped shape me into the
     person I am today.
@@ -7609,7 +7609,7 @@ shew
 plaintiff
     The party who initiates a lawsuit before a
     court.
-    
+
     By doing so, the plaintiff seeks a legal
     remedy; if this search is successful, the
     court will issue judgment in favor of the
@@ -7619,11 +7619,11 @@ plaintiff
 chiching
     Celebratory remarks when you've made a
     deal or money.
-    
+
     A win win situation when the outcome
     benefits each of two often opposing
     groups.
-    
+
     The sound of a cash register drawer
     opening to collect money for a sale.
 
@@ -7657,7 +7657,7 @@ Celluloid
     A class of materials produced by mixing
     nitrocellulose and camphor, often with
     added dyes and other agents.
-    
+
     Once much more common, celluloid's common
     contemporary uses are table tennis balls,
     musical instruments, combs, office
@@ -7703,7 +7703,7 @@ Apparent retrograde motion
     direction opposite to that of other bodies
     within its system, as observed from a
     particular vantage point.
-    
+
     Direct motion or prograde motion is motion
     in the same direction as other bodies.
 
@@ -7713,11 +7713,11 @@ Detritus
     Dead particulate organic material, as
     distinguished from dissolved organic
     material.
-    
+
     Detritus typically includes the bodies or
     fragments of bodies of dead organisms, and
     fecal material.
-    
+
     Detritus typically hosts communities of
     microorganisms that colonize and decompose
     it.
@@ -7742,7 +7742,7 @@ adjudication vs arbitration
     Arbitration is a procedure in which both
     sides agree to let an impartial third
     party, the arbitrator, decide the case.
-    
+
     In adjudication, the decision is the
     responsibility of a third party
     adjudicator selected by the parties to the
@@ -7790,7 +7790,7 @@ externality
     An externality is a cost or benefit caused
     by a producer that is not financially
     incurred or received by that producer.
-    
+
     An externality can be both positive or
     negative and can stem from either the
     production or consumption of a good or
@@ -7801,11 +7801,11 @@ externality
 fraudulence
     The action or quality of cheating, lying,
     or deceiving someone.
-    
+
     The fraudulence of an election might
     trigger a recount, or even an entirely new
     election.
-    
+
     Fraudulence is telling lies or hoaxing
     people in some way.
 
@@ -7833,7 +7833,7 @@ Vestigiality
     structures or attributes that have lost
     some or all of the ancestral function in a
     given species.
-    
+
     Assessment of the vestigiality must
     generally rely on comparison with
     homologous features in related species.
@@ -7848,7 +7848,7 @@ obstreperous
 solipsism
     The philosophical idea that only one's
     mind is sure to exist.
-    
+
     As an epistemological position, solipsism
     holds that knowledge of anything outside
     one's own mind is unsure; the external
@@ -7976,11 +7976,11 @@ unfettered
 aphelion
     The point in the orbit of an object where
     it is farthest from the Sun.
-    
+
     The point in orbit where an object is
     nearest to the sun is called the
     perihelion.
-    
+
     The word aphelion derives from the Greek
     words, apo meaning away, off, apart and
     Helios.
@@ -7989,7 +7989,7 @@ Apsis
     Denotes either of the two extreme points
     in the orbit of a planetary body about its
     primary body.
-    
+
     The plural term, "apsides," usually
     implies both apsis points; apsides can
     also refer to the distance of the extreme
@@ -8063,7 +8063,7 @@ barycentre
     The center of mass of two or more bodies
     that orbit one another and is the point
     about which the bodies orbit.
-    
+
     It is an important concept in fields such
     as astronomy and astrophysics.
 
@@ -8213,7 +8213,7 @@ tarnishes
     magnesium, neodymium and other similar
     metals as their outermost layer undergoes
     a chemical reaction.
-    
+
     Tarnish does not always result from the
     sole effects of oxygen in the air.
 
@@ -8224,7 +8224,7 @@ Insha'Allah
 In sha Allah
     An Arabic language expression meaning "if
     God wills" or "God willing".
-    
+
     The term is mentioned in the Quran and
     Muslims are commanded to use it when
     speaking on future events, so it is also
@@ -8272,7 +8272,7 @@ doublethink
     accept two mutually contradictory beliefs
     as correct, often in contravention to
     one's own memories or sense of reality.
-    
+
     Doublethink is related to, but differs
     from, hypocrisy.
 
@@ -8297,11 +8297,11 @@ doublethink
     then, once again, to become unconscious of
     the act of hypnosis you had just
     performed.
-    
+
     Even to understand the
     word—doublethink—involved the use of
     doublethink.”
-    
+
     Four examples of doublethink used
     throughout 1984 include the slogans:
     - War is Peace,
@@ -8314,12 +8314,12 @@ Memory hole
 
     A small chute leading to a large
     incinerator.
-    
+
     Anything that needed to be wiped from the
     public record (embarrassing documents,
     photographs, transcripts) would be sent
     into the memory hole.
-    
+
     As a clerk in the Records Department of
     the Ministry of Truth, Winston Smith often
     has to throw things into the memory hole
@@ -8334,7 +8334,7 @@ Newspeak
     limited vocabulary used in Oceania,
     according or Orwell, “to diminish the
     range of thought.”
-    
+
     For example, in newspeak, the term
     plusgood had replaced words better and
     great.
@@ -8347,7 +8347,7 @@ Thinkpol
     the detection, prosecution, and
     elimination of unspoken beliefs and doubts
     that contradict the Party.
-    
+
     They use audio-visual surveillance via the
     telescreens and offender profiling to
     monitor the populace.
@@ -8400,7 +8400,7 @@ hewn
     rounded natural form into lumber with more
     or less flat surfaces using primarily an
     axe.
-    
+
     It is an ancient method, and before the
     advent of the industrial-era type of
     sawmills, it was a standard way of
@@ -8417,7 +8417,7 @@ mulligan
     A second chance to perform an action,
     usually after the first chance went wrong
     through bad luck or a blunder.
-    
+
     Its best-known meaning is in golf, whereby
     a player is informally allowed to replay a
     stroke, even though this is against the
@@ -8430,10 +8430,10 @@ do one's bidding
 isotropic
     Uniformity in all orientations; it is
     derived from the Greek isos and tropos.
-    
+
     Precise definitions depend on the subject
     area.
-    
+
     Exceptions, or inequalities, are
     frequently indicated by the prefix an,
     hence anisotropy
@@ -8448,9 +8448,9 @@ rain check
 
         I was planning to ask you in for a
         brandy, but if you want to take a rain
-        check, that's fine. 
+        check, that's fine.
 
-        Can I take a rain check on that? 
+        Can I take a rain check on that?
 
     2. COUNTABLE NOUN
         A rain check is a free ticket that is
@@ -8468,9 +8468,9 @@ beguile
 disinformation
     False or misleading information that is
     spread deliberately to deceive.
-    
+
     This is a subset of misinformation.
-    
+
     The English word disinformation is a loan
     translation of the Russian
     dezinformatsiya, derived from the title of
@@ -8489,7 +8489,7 @@ polysemy
     multiple meanings, usually related by
     contiguity of meaning within a semantic
     field.
-    
+
     Polysemy is thus distinct from homonymy—or
     homophony—which is an accidental
     similarity between two words; while
@@ -8505,7 +8505,7 @@ sycophant
 
     Used to refer to someone practicing
     sycophancy.
-    
+
     The word has its origin in the legal
     system of Classical Athens.
 
@@ -8584,7 +8584,7 @@ elided
 
     An elision or deletion is the omission of
     one or more sounds in a word or phrase.
-    
+
     The word elision is frequently used in
     linguistic description of living
     languages, and deletion is often used in
@@ -8645,21 +8645,21 @@ succession
 
 negentropy
     Neverse entropy.
-    
+
     It means things becoming more in order.
-    
+
     By 'order' is meant organisation,
     structure and function: the opposite of
     randomness or chaos.
-    
+
     One example of negentropy is a star system
     such as the Solar System.
-    
+
     Another example is life.
 
     "Negentropy" (with a hard g) is the export
     of entropy from system A to system B in
-    order to keep system A in order. 
+    order to keep system A in order.
 
 autotelic
     An autotelic is someone or something that
@@ -8749,11 +8749,11 @@ uncollateralized
 collateralization
     The use of a valuable asset to secure a
     loan.
-    
+
     If the borrower defaults on the loan, the
     lender may seize the asset and sell it to
     offset the loss.
-    
+
     Collateralization of assets gives lenders
     a sufficient level of reassurance against
     default risk.
@@ -8819,7 +8819,7 @@ credulity
     ability to believe that a statement is
     true, especially on minimal or uncertain
     evidence.
-    
+
     Credulity is not necessarily a belief in
     something that may be false: the subject
     of the belief may even be correct, but a
@@ -8832,10 +8832,10 @@ keeping mum
 mum
     Mum is an adjective that means keeping
     quiet.
-    
+
     It can also be used by itself to mean Be
     quiet!
-    
+
     This sense of mum is especially used in
     the expressions keep mum and mum's the
     word.
@@ -8849,7 +8849,7 @@ cretinous
     difficulties as a result of congenital
     thyroid deficiency.
 
-    "cretinous world of crypto traders" 
+    "cretinous world of crypto traders"
 
 coaxing
     Persistent gentle persuasion.
@@ -8897,11 +8897,11 @@ collocation
     A collocation is a series of words or
     terms that co-occur more often than would
     be expected by chance.
-    
+
     [phraseology]
 
     A sub-type of phraseme.
-    
+
     An example of a phraseological
     collocation, as propounded by Michael
     Halliday, is the expression strong tea.
@@ -8930,11 +8930,11 @@ broadside
     battery of cannon on one side of a
     warship; or their coordinated fire in
     naval warfare.
-    
+
     From the 16th century until the early
     decades of the steamship, vessels had rows
     of guns set in each side of the hull.
-    
+
     Firing all guns on one side of the ship
     became known as a "broadside".
 
@@ -9044,13 +9044,13 @@ puritanism
     the Massachusetts Puritans decided to
     punish adultery with death (though the
     death penalty was rare).
-    
+
     They banned fancy clothing, living with
     Indians and smoking in public.
-    
+
     Missing Sunday services would land you in
     the stocks.
-    
+
     Celebrating Christmas would cost you five
     shillings.
 
@@ -9062,7 +9062,7 @@ puritan
 
 appropriation
     An act or instance of appropriating
-    something. 
+    something.
 
     Something that has been appropriated
     specifically : money set aside by formal
@@ -9106,7 +9106,7 @@ eschewed
 athazagoraphobia
     The fear of forgetting, being forgotten or
     ignored.
-    
+
 factuality
     The quality of being actual or factual:
     actuality, fact, factualness, reality,
@@ -9212,14 +9212,14 @@ supple
 supernumerary
     Present in excess of the normal or
     requisite number.
-    
+
     A supernumerary person or thing.
 
 antipathy
     Antipathy is a voluntary or involuntary
     dislike for something or somebody, the
     opposite of sympathy.
-    
+
     While antipathy may be induced by
     experience, it sometimes exists without a
     rational cause-and-effect explanation
@@ -9238,7 +9238,7 @@ interrogative clause
     An interrogative clause is a clause whose
     form is typically associated with
     question-like meanings.
-    
+
     For instance, the English sentence "Is
     Hannah sick?" has interrogative syntax
     which distinguishes it from its
@@ -9257,35 +9257,35 @@ phantasm
 aleatory
     Depending on the throw of a dice or on
     chance; random.
-    
+
     Relating to luck and especially to bad
     luck.
 
 honorific
     (of an office, title or position)
-    
+
     [A title] given as a mark of respect, but
     having few or no duties.
 
 recapitulate
 recapitulating
     Summarize and state again the main points.
-    
+
     "He began to recapitulate his argument
     with care"
 
 pretext
     A pretext is an excuse to do something or
     say something that is not accurate.
-    
+
     Pretexts may be based on a half-truth or
     developed in the context of a misleading
     fabrication.
-    
+
     Pretexts have been used to conceal the
     true purpose or rationale behind actions
     and words.
-    
+
 apotheosis
     The highest point in the development of
     something; a culmination or climax.
@@ -9303,14 +9303,14 @@ cisgender
     A cisgender person is someone whose gender
     identity matches their sex assigned at
     birth.
-    
+
     For example, someone who identifies as a
     woman and was identified as female at
     birth is a cisgender woman.
-    
+
     The word cisgender is the antonym of
     transgender.
-    
+
     Related terms include cissexism and
     cisnormativity
 
@@ -9320,7 +9320,7 @@ cishet
 
     It could also mean both cisgender and
     heteroromantic.
-    
+
     In other words, a cishet person identifies
     as the gender they were assigned at birth,
     and they're attracted to people of the
@@ -9330,7 +9330,7 @@ inveterate
     Having a particular habit, activity, or
     interest that is long-established and
     unlikely to change.
-    
+
     "an inveterate gambler"
 
     synonyms:
@@ -9339,7 +9339,7 @@ inveterate
         long-established, congenital,
         ineradicable, incurable, irredeemable
         Inveterate
-    
+
     Firmly established by long persistence
     the inveterate tendency to overlook the
     obvious.
@@ -9352,9 +9352,9 @@ discursive
     Moving from topic to topic without order :
     rambling gave a discursive lecture
     discursive prose.
-    
+
     Proceeding coherently from topic to topic.
-    
+
     In philosophy:
         Marked by a method of resolving
         complex expressions into simpler or
@@ -9376,7 +9376,7 @@ triaging
     The process of determining the priority of
     patients' treatments by the severity of
     their condition or likelihood of recovery
-    with and without treatment. 
+    with and without treatment.
 
 snow
     Mislead or charm (someone) with elaborate
@@ -9402,7 +9402,7 @@ invigilate
 
 alacrity
     Brisk and cheerful readiness.
-    
+
     'she accepted the invitation with
     alacrity' synonyms: eagerness,
     willingness, readiness, enthusiasm,
@@ -9422,7 +9422,7 @@ scrutinizing
 dissuaded
     dissuade /dswed/ verb persuade (someone)
     not to take a particular course of action.
-    
+
     'his friends tried to dissuade him from
     flying' synonyms: discourage, deter,
     prevent, disincline, turn aside, divert,
@@ -9490,7 +9490,7 @@ bristliness
     flare at friend as easily as foe. He is
     uncompromising and persistent; patient in
     both."
-    
+
     Richard Stallman has an often extreme
     bristliness about him and an intense
     propensity for confrontation, which can
@@ -9586,7 +9586,7 @@ regale
 
 amnesty
     Grant an official pardon to.
-    
+
     An official pardon for people who have
     been convicted of political offenses.
 
@@ -9613,7 +9613,7 @@ stipulate
 recess
     A brief period for relaxation between work
     periods The students play ball at recess.
-    
+
     A secret or hidden place.
 
 consign
@@ -10041,7 +10041,7 @@ sojourner
 pronunciation
     The way in which a word or a language is
     spoken.
-    
+
     This may refer to generally agreed-upon
     sequences of sounds used in speaking a
     given word or language in a specific
@@ -10064,12 +10064,12 @@ reparation
 reparations
     A theological concept closely connected
     with those of atonement and satisfaction.
-    
+
     In ascetical theology, reparation is the
     making of amends for insults given to God
     through sin, either one's own or
     another's.
-    
+
     The response of man is to be reparation
     through adoration, prayer, and sacrifice.
 
@@ -10188,7 +10188,7 @@ interstitial
     An advertisement that appears while a
     chosen website or page is downloading.
 
-empiricism 
+empiricism
     [#philosophy]
 
     A theory that states that knowledge comes
@@ -10280,11 +10280,11 @@ paraphrase
 credence
     When something is given credence, it is
     made more believable.
-    
+
     But it can also be used like this: Mary
     talked a lot about the poltergeist in her
     house.
-    
+
     To most, her story had little credence,
     but I like a good ghost story, and so,
     decided to believe.
@@ -10483,15 +10483,15 @@ dasein
     "presence" (German: da "there"; sein "to
     be"), and is often translated into English
     with the word "existence".
-    
+
     It is a fundamental concept in the
     existential philosophy of Martin
     Heidegger.
-    
+
     Heidegger uses the expression Dasein to
     refer to the experience of being that is
     peculiar to human beings.
-    
+
     Thus it is a form of being that is aware
     of and must confront such issues as
     personhood, mortality and the dilemma or
@@ -10503,10 +10503,10 @@ milieu
     A general, overarching attribute that
     gives context to a physical location or
     set of occurrences.
-    
+
     Essentially, it describes the type of
     environment in which things happen.
-    
+
     A milieu is made up of people, emotions,
     attitudes, and physical objects - really,
     anything that is significant to a setting.n
@@ -10656,7 +10656,7 @@ mandate
     In politics, a mandate is the authority
     granted by a constituency to act as its
     representative.
-    
+
     The concept of a government having a
     legitimate mandate to govern via the fair
     winning of a democratic election is a
@@ -10833,7 +10833,7 @@ attrition
     company, following a period in which a
     number of people retire or resign, and are
     not replaced.
-    
+
     A reduction in staff due to attrition is
     often called a hiring freeze and is seen
     as a less disruptive way to trim the
@@ -10844,7 +10844,7 @@ exoneration
     reversed, either through demonstration of
     innocence, a flaw in the conviction, or
     otherwise.
-    
+
     Attempts to exonerate convicts are
     particularly controversial in death
     penalty cases, especially where new
@@ -10904,7 +10904,7 @@ dual-use technology
     "dual-use" refers to technology that can
     be used for both peaceful and military
     aims.
-    
+
     More generally speaking, dual-use can also
     refer to any technology which can satisfy
     more than one goal at any given time.
@@ -10938,7 +10938,7 @@ astroturfing
     message or organization to make it appear
     as though it originates from and is
     supported by grassroots participants.
-    
+
     It is a practice intended to give the
     statements or organizations credibility by
     withholding information about the source's
@@ -11011,7 +11011,7 @@ divication
 Sisyphus
     In Greek mythology Sisyphus or Sisyphos
     was the founder and king of Ephyra.
-    
+
     He was punished for cheating death twice
     by being forced to roll an immense boulder
     up a hill only for it to roll down every
@@ -11071,7 +11071,7 @@ misappropriation
     likeness, or identity without that
     person's permission, resulting in harm to
     that person.
-    
+
     Another use of the word refers to
     intentional and illegal use of property or
     funds; it can particularly refer to when
@@ -11223,7 +11223,7 @@ appendix
     In general, is an addition required to be
     made to a document by its author
     subsequent to its printing or publication.
-    
+
     It comes from the Latin gerundive
     addendum, plural addenda, "that which is
     to be added," from addere
@@ -11231,7 +11231,7 @@ appendix
 corrigendum
 erratum
     A correction of a published text.
-    
+
     As a general rule, publishers issue an
     erratum for a production error and a
     corrigendum for an author's error.
@@ -11254,7 +11254,7 @@ commensurate
 convalescence
     The gradual recovery of health and
     strength after illness or injury.
-    
+
     It refers to the later stage of an
     infectious disease or illness when the
     patient recovers and returns to previous
@@ -11264,16 +11264,16 @@ convalescence
 credulity
     A tendency to believe in things too easily
     and without evidence.
-    
+
     If a swindler is trying to sell you fake
     medicine, then he is "preying on your
     credulity." This noun is associated with
     being naïve, gullible or innocent.
-    
+
     It shouldn’t be confused with credibility,
     which means “believability,” although it
     is often misused in this way.
-    
+
     You might hear someone say, “the
     farfetched plot of that movie strained
     credulity,” but what he or she really
@@ -11291,7 +11291,7 @@ epithet
     A byname, or a descriptive term,
     accompanying or occurring in place of a
     name and having entered common usage.
-    
+
     It has various shades of meaning when
     applied to seemingly real or fictitious
     people, divinities, objects, and binomial
@@ -11309,7 +11309,7 @@ exonerate
     reversed, either through demonstration of
     innocence, a flaw in the conviction, or
     otherwise.
-    
+
     Attempts to exonerate convicts are
     particularly controversial in death
     penalty cases, especially where new
@@ -11333,7 +11333,7 @@ recrudescence
     The revival of material or behavior that
     had previously been stabilized, settled,
     or diminished.
-    
+
     In medicine, it is usually defined as the
     recurrence of symptoms after a period of
     remission or quiescence, in which sense it
@@ -11342,12 +11342,12 @@ recrudescence
 unanimity
     Agreement by all people in a given
     situation.
-    
+
     Groups may consider unanimous decisions as
     a sign of e.g. social, political or
     procedural agreement, solidarity, and
     unity.
-    
+
     Unanimity may be assumed explicitly after
     a unanimous vote or implicitly by a lack
     of objections
@@ -11357,7 +11357,7 @@ neurodiversity
     sociability, learning, attention, mood and
     other mental functions in a non-
     pathological sense.
-    
+
     It was coined in 1998 by sociologist Judy
     Singer, who helped popularize the concept
     along with journalist Harvey Blume
@@ -11410,7 +11410,7 @@ seeding
     or other tournament who is given a
     preliminary ranking for the purposes of
     the draw.
-    
+
     Players/teams are "planted" into the
     bracket in a manner that is typically
     intended so that the best do not meet
@@ -11442,7 +11442,7 @@ regress
     Legal terms referring respectively to
     entering, leaving, and returning to a
     property or country.
-    
+
     The term also refers to the rights of a
     person to do so as regards a specific
     property
@@ -11477,7 +11477,7 @@ exactitude
 through the looking glass
     NLG: To look at the world as if through a
     mirror facing the back of the world.
-    
+
     In other words, to look at the world as if
     it were a mirror.
 
@@ -11503,15 +11503,15 @@ Hyperpartisan
 
     Extremely partisan; extremely
     biased in favor of a political party.
-    
+
 social acceptance
     Can be defined as the fact that most
     people, in order to fit in with others,
     attempt to look and act like them.
-    
+
     A simple example of showing acceptance is
     assenting to receive a gift from someone.
-    
+
     Pictured is Indira Gandhi accepting a
     gift.
 
@@ -11583,7 +11583,7 @@ gallivant
 galavanting
     To go from place to place seeking out
     entertainment and amusement.
-    
+
     When you go on a backpacking trip around
     Europe purely for fun and entertainment,
     this is an example of when you galavant
@@ -11594,7 +11594,7 @@ De facto
     practices that exist in reality, even
     though they are not officially recognized
     by laws.
-    
+
     It is commonly used to refer to what
     happens in practice, in contrast with de
     jure, which refers to things that happen
@@ -11626,7 +11626,7 @@ reprove
 émigré
     A person who has emigrated, often with a
     connotation of political or social
-    self-exile. 
+    self-exile.
 
 formative
     serving to form something, especially
@@ -11681,11 +11681,11 @@ parlous
 uncertainty
     Epistemic situations involving imperfect
     or unknown information.
-    
+
     It applies to predictions of future
     events, to physical measurements that are
     already made, or to the unknown.
-    
+
     Uncertainty arises in partially observable
     or stochastic environments, as well as due
     to ignorance, indolence, or both.
@@ -11706,7 +11706,7 @@ impunity
 
     Impunity means "exemption from punishment
     or loss or escape from fines".
-    
+
     In the international law of human rights,
     it refers to the failure to bring
     perpetrators of human rights violations to
@@ -11718,7 +11718,7 @@ limerence
     A state of infatuation or obsession with
     another person that involves an all-
     consuming passion and intrusive thoughts.
-    
+
     "It is often a result of not being present
     either through trauma or certain childhood
     development issues," explains psychosexual
@@ -11729,7 +11729,7 @@ lovesickness
     negative feelings when deeply in love,
     during the absence of a loved one or when
     love is unrequited.
-    
+
     It has been considered a condition since
     the Middle Ages and symptoms that have
     remained consistent across time include a
@@ -11743,10 +11743,10 @@ sortied
 smitten
     Be strongly attracted to someone or
     something.
-    
+
     "Trillin leaves no doubt he was smitten
     with his wife, as were others."
-    
+
     But smitten with love on sweet Jenny he
     gaz'd, and beg'd on his knees that she
     there would remain….
@@ -11813,10 +11813,10 @@ exigencies
 Edaphology
     Concerned with the influence of soils on
     living things, particularly plants.
-    
+
     It is one of two main divisions of soil
     science, the other being pedology.
-    
+
     Edaphology includes the study of how soil
     influences humankind's use of land for
     plant growth as well as people's overall
@@ -11834,13 +11834,13 @@ parricide
     The killing of a parent or other near
     relative.
 
-pejorative 
-slur 
+pejorative
+slur
     A word or grammatical form expressing a
     negative or a disrespectful connotation, a
     low opinion, or a lack of respect toward
     someone or something.
-    
+
     It is also used to express criticism,
     hostility, or disregard.
 
@@ -11850,7 +11850,7 @@ prerogative
     individual or group, the content of which
     is separate from the body of rights
     enjoyed under the general law.
-    
+
     It was a common facet of feudal law.
 
 qualm
@@ -11882,7 +11882,7 @@ vacillate
     "he was accused of vacillating leadership"
 
     "a vacillate person"
-    
+
     "to waver in mind, will, or feeling :
     hesitate in choice of opinions or
     courses."
@@ -11892,7 +11892,7 @@ vacillate
 longsuffering
     Patient and persevering in the face of
     trial or provocation.
-    
+
     Enduring something (such as delay or
     trouble) calmly; enduring patiently;
     tolerant; enduring.
@@ -11915,7 +11915,7 @@ influencer
 incongruencies
     The state of being incongruous, or lacking
     congruence.
-    
+
     An instance or point of disagreement; a
     dissimilarity; a discrepancy; an
     inconsistency.
@@ -11946,7 +11946,7 @@ schism
     A division between people, usually
     belonging to an organization, movement, or
     religious denomination.
-    
+
     The word is most frequently applied to a
     split in what had previously been a single
     religious body, such as the Great
@@ -11962,7 +11962,7 @@ appraisal
     estate, a business, collectible, or an
     antique, by the estimate of an authorized
     person.
-    
+
     Appraisals are typically used for
     insurance and taxation purposes or to
     determine a possible selling price for an
@@ -11985,18 +11985,18 @@ stickler for the rules
     Someone who always follows a defined
     procedure, such as a set of rules is a
     Stickler.
-    
+
     A "stickler for the rules" will always
     insist that the rules are followed.
-    
+
 obedient
     If you always do what you're told, you can
     be described as obedient.
-    
+
     Use obedient to describe someone who knows
     the rules, toes the line, and follows
     instructions.
-    
+
     The word can refer to people (an obedient
     student), a group (obedient citizens), or
     even animals (an obedient dog).
@@ -12020,7 +12020,7 @@ metacognition
     An awareness of one's own thought
     processes and an understanding of the
     patterns behind them.
-    
+
     The term comes from the root word meta,
     meaning "beyond", or "on top of".
 
@@ -12029,7 +12029,7 @@ praxis
 
     The process by which a theory, lesson, or
     skill is enacted, embodied, or realized.
-    
+
     "Praxis" may also refer to the act of
     engaging, applying, exercising, realizing,
     or practicing ideas.
@@ -12075,16 +12075,16 @@ bad faith
     consists of entertaining or pretending to
     entertain one set of feelings while acting
     as if influenced by another.
-    
+
     It is associated with hypocrisy, breach of
     contract, affectation, and lip service.
-    
+
     It is not to be confused with heresy.
 
 cherish
     Protect and care for (someone) lovingly.
     "he needed a woman he could cherish"
-    
+
     To cherish someone is to hold them dear—to
     care about them deeply in a way that makes
     you treasure them and show them how much
@@ -12104,7 +12104,7 @@ filigree
     A form of intricate metalwork used in
     jewellery and other small forms of
     metalwork.
-    
+
     In jewellery, it is usually of gold and
     silver, made with tiny beads or twisted
     threads, or both in combination, soldered
@@ -12168,7 +12168,7 @@ misanthropy
     The general hatred, dislike, distrust or
     contempt of the human species, human
     behavior or human nature.
-    
+
 misanthrope
 misanthropist
     A person who dislikes humankind and avoids
@@ -12185,18 +12185,18 @@ perspicaciousness
     Perspicacity is a penetrating discernment
     —a clarity of vision or intellect which
     provides a deep understanding and insight.
-    
+
     It takes the concept of wisdom deeper in
     the sense that it denotes a keenness of
     sense and intelligence applied to insight.
-    
+
     It has been described as a deeper level of
     internalization.
 
 simulacrum
     A representation or imitation of a person
     or thing.
-    
+
     The word was first recorded in the English
     language in the late 16th century, used to
     describe a representation, such as a
@@ -12223,7 +12223,7 @@ lacunae
 
     A cavity or depression, especially in
     bone.
-    
+
     "We provide an overview of the various
     formats and domains of the current
     resources, highlighting the current
@@ -12239,25 +12239,25 @@ consignment
     Involves selling one's personal goods
     through a third-party vendor such as a
     consignment store or online thrift store.
-    
+
     The owner of the goods pays the third-
     party a portion of the sale for
     facilitating the sale.
-    
+
     Consignors maintain the rights to their
     property until the item is sold or
     abandoned.
 
     Consignment is when a shop sells goods for
     an owner.
-    
+
     The owner keeps ownership of his item
     until it sells, if it sells.
-    
+
     As the owner, you'd pay a small fee to the
     shop as compensation for them selling your
     item.
-    
+
     For example, you consign a children's
     bicycle for $20.
 
@@ -12284,7 +12284,7 @@ imperium
     the supreme executive power in the Roman
     state, involving both military and
     judicial authority.
-    
+
     The same rights were conventionally
     extended to Roman citizens in the military
     or other official service outside Rome.
@@ -12296,11 +12296,11 @@ impiety
 
     A perceived lack of proper respect for
     something considered sacred.
-    
+
     Impiety is often closely associated with
     sacrilege, though it is not necessarily a
     physical action.
-    
+
     Impiety cannot be associated with a cult,
     as it implies a larger belief system was
     disrespected.
@@ -12426,10 +12426,10 @@ bespoke
     The word bespoke has evolved from a verb
     meaning 'to speak for something', to its
     contemporary usage as an adjective.
-    
+
     Originally, the adjective bespoke
     described tailor-made suits and shoes.
-    
+
     Later, it described anything commissioned
     to a particular specification.
 
@@ -12455,7 +12455,7 @@ gaffe
 
 political gaffe
     An error in speech made by a politician.
-    
+
     According to Barack Obama it is:
         Used by the press to describe any
         maladroit phrase by a candidate that
@@ -12471,10 +12471,10 @@ ascription
     Ascription, in sociology, is a way to
     acquire status, along with achievement or
     chance.
-    
+
     In philosophy, it is related to belief
     ascription.
-    
+
     It is also a concept in linguistics, refer
     to Predicate.
 
@@ -12496,7 +12496,7 @@ quadlemma
     A trilemma is a difficult choice from
     three options, each of which is (or
     appears) unacceptable or unfavourable.
-    
+
     There are two logically equivalent ways in
     which to express a trilemma: it can be
     expressed as a choice among three
@@ -12543,10 +12543,10 @@ tributary
 affluent
     A stream or river that flows into a larger
     stream or main stem river or a lake.
-    
+
     A tributary does not flow directly into a
     sea or ocean.
-    
+
     Tributaries and the main stem river drain
     the surrounding drainage basin of its
     surface water and groundwater, leading the
@@ -12574,7 +12574,7 @@ contempt
     often towards an individual or group, but
     sometimes towards an ideology, which has
     the characteristics of disgust and anger.
-    
+
     The word originated in 1393 in Old French
     contempt, contemps, from the Latin word
     contemptus meaning "scorn".
@@ -12599,7 +12599,7 @@ rodomontade
 rodomontade
     A mass noun meaning boastful talk or
     behavior.
-    
+
     The term is a reference to Rodomonte, a
     character in Italian Renaissance epic
     poems Orlando innamorato and its sequel
@@ -12697,7 +12697,7 @@ factoid
     but brief or trivial item of news or
     information.
 
-pejorative 
+pejorative
 slug
     A word or grammatical form expressing a
     negative or a disrespectful connotation, a
@@ -12739,7 +12739,7 @@ petrichor
     The term coined by Australian scientists
     in 1964 to describe the unique, earthy
     smell associated with rain.
-    
+
     It is caused by the water from the rain,
     along with certain compounds like ozone,
     geosmin, and plant oils.
@@ -12747,7 +12747,7 @@ petrichor
     During dry weather, plants produce
     compounds that accumulate in between rocks
     and in soil.
-    
+
     When it rains, these compounds are
     released into the air to add to the earthy
     smell of petrichor.
@@ -12759,7 +12759,7 @@ geosmin
     soil, secrete a compound called geosmin,
     which is released from soil into the air
     by raindrops.
-    
+
     Geosmin in the air can be detected by the
     human nose at less than 5 parts per
     trillion.
@@ -12876,7 +12876,7 @@ rabble-rouser
     emotional effect, or other rhetoric that
     tends to drown out reasoned deliberation
     and encourage fanatical popularity.
-    
+
     Demagogues overturn established norms of
     political conduct, or promise or threaten
     to do so
@@ -13032,7 +13032,7 @@ reductionism
     phenomena, which can be described in terms
     of other simpler or more fundamental
     phenomena.
-    
+
     It is also described as an intellectual
     and philosophical position that interprets
     a complex system as the sum of its parts.
@@ -13073,7 +13073,7 @@ pavilion
 
 proselytism
     The act or fact of religious conversion.
-    
+
     It has come to be seen as a form of
     involuntary forced conversion through
     bribery, coercion, or violence, as such,
@@ -13085,7 +13085,7 @@ shingled
     cream, hair gel, or a leave-in
     conditioner, through each curl to separate
     and smooth it into a bouncy coil.
-    
+
     When working products through your hair,
     shingling requires attention to detail.
 
@@ -13104,15 +13104,15 @@ virile
 virility
     Any of a wide range of masculine
     characteristics viewed positively.
-    
+
     Virile means "marked by strength or
     force".
-    
+
     Virility is commonly associated with
     vigour, health, sturdiness, and
     constitution, especially in the fathering
     of children.
-    
+
     In this last sense, virility is to men as
     fertility is to women.
 
@@ -13127,6 +13127,8 @@ psychoactive
 segue
     A smooth transition from one topic or
     section to the next.
-    
+
     The term is derived from Italian segue,
     which literally means "follows".
+
+non-chalant

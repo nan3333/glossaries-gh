@@ -9180,60 +9180,6 @@ closure
 quantum lambda calculi
     https://www.mscs.dal.ca/~selinger/papers/qlambdabook.pdf
 
-static typing
-statically typed
-    Haskell is statically typed.
-
-    Typing
-        “When types are checked”
-
-    Static
-        Types checked before run-time
-    Dynamic
-        Types checked on the fly, during
-        execution
-
-Haskell
-    [language]
-
-    A polymorphic lambda calculus with lazy
-    evaluation plus algebraic data types and
-    type classes.
-
-    This happens to be just the right
-    combination of features to allow us to
-    write clean, maintainable code that also
-    runs fast.
-
-    ewwlinks +/"Standard Haskell: Ergonomics + Performance" "https://serokell.io/blog/why-dependent-haskell"
-
-    Attributes:
-    - polymorphism type: parametric
-
-    A distinct construct exists to represent
-    side effects, orthogonal to the type of
-    functions.
-
-    why?
-    - reasoning about code
-    - purity
-      flows from laziness
-    - strong static typing
-
-    ewwlinks +/"Runtime Correctness" "https://github.com/github/semantic/blob/master/docs/why-haskell.md"
-
-cognitive dissonance
-    [psychology]
-
-    The mental discomfort experienced by a
-    person who holds two or more contradictory
-    beliefs, ideas, or values.
-
-    This discomfort is triggered by a
-    situation in which a person's belief
-    clashes with new evidence perceived by the
-    person.
-
 Napier's Bones
     https://history-computer.com/CalculatingTools/NapiersBones.html
 
@@ -9418,7 +9364,7 @@ B-tree
     search tree in that a node can have more
     than two children.
 
- 3-manifold
+3-manifold
     A space that locally looks like Euclidean
     3-dimensional space.
 
@@ -12754,3 +12700,7 @@ pantone
     like on paper and provide the printer with
     the Pantone number to make sure that they
     got what they wanted.
+
+maternal grandfather
+
+paternal grandfather
