@@ -13131,4 +13131,9 @@ segue
     The term is derived from Italian segue,
     which literally means "follows".
 
-non-chalant
+nonchalant
+    (of a person or manner) feeling or
+    appearing casually calm and relaxed; not
+    displaying anxiety, interest, or
+    enthusiasm.
+    "she gave a nonchalant shrug"
