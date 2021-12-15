@@ -73,3 +73,9 @@ Album
     Albums are the most important format
     because artists are severely judged on how
     well they put these projects together.
+
+counterpoint
+    The relationship between two or more
+    musical lines which are harmonically
+    interdependent yet independent in rhythm
+    and melodic contour.

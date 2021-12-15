@@ -13137,3 +13137,12 @@ nonchalant
     displaying anxiety, interest, or
     enthusiasm.
     "she gave a nonchalant shrug"
+
+counterpoint
+    Something that contrasts, and to
+    counterpoint is to provide a contrast.
+    
+    When a composer writes a piece of music
+    using voices that follow different rhythms
+    or pitches but ultimately come together
+    harmonically, she uses counterpoint.
