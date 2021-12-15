@@ -5,7 +5,7 @@ concrete
     The distinction between abstract and
     concrete refers to a divide between two
     types of entities.
-    
+
     Many philosophers hold that this
     difference has fundamental metaphysical
     significance.
@@ -31,7 +31,7 @@ CCRU
     University, England, from 1995 to 1997,
     and later as a student run collective
     after 2003.
-    
+
     Warwick University maintains that the CCRU
     was never a sanctioned academic project,
     with some faculty going so far as to
@@ -46,7 +46,7 @@ hyperstition
 
 Ship of Theseus
     [metaphysics of identity]
-    
+
     The ship of Theseus is a thought
     experiment that raises the question of
     whether an object that has had all of its
@@ -60,13 +60,13 @@ loom
     A symbol of cosmic creation and the
     structure upon which individual destiny is
     woven.
-    
+
     This symbolism is encapsulated in the
     classical myth of Arachne who was changed
     into a spider by the goddess Athena, who
     was jealous of her skill at the godlike
     craft of weaving.
-    
+
     In Maya civilization the goddess Ixchel
     taught the first woman how to weave at the
     beginning of time.

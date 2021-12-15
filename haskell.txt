@@ -2607,7 +2607,6 @@ forM_
     Type in context example:
     forM_ :: [Integer] -> (Integer -> IO ()) -> IO ()
 
-forM_
     mapM_ with its arguments flipped.
 
 forM_ vs forM
@@ -2617,7 +2616,12 @@ forM_ vs forM
 
     That is all.
 
+forM_
+    Ignores the results
+
 forM
+    Does not ignores the results.
+
     mapM with its arguments flipped.
 
 mapM
@@ -2735,12 +2739,6 @@ ps@(p:pt)
     Tree a [Tree a], then t@(Tree _ kids)
     gives you access to both the tree and its
     children.
-
-forM_
-    Ignores the results
-
-forM
-    Does not ignores the results
 
 Redundant parentheses
     These are equal.

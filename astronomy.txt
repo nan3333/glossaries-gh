@@ -36,3 +36,24 @@ perigee
     
 apogee
     The point farthest from Earth.
+
+trepidation
+    [obsolete medieval theory]
+
+    Hypothetical oscillation in the precession
+    of the equinoxes. The theory was popular
+    from the 9th to the 16th centuries. 
+
+precession
+    A change in the orientation of the
+    rotational axis of a rotating body.
+    
+    In an appropriate reference frame it can
+    be defined as a change in the first Euler
+    angle, whereas the third Euler angle
+    defines the rotation itself.
+
+equinox
+    Traditionally defined as the time when the
+    plane of Earth's equator passes through
+    the geometric center of the Sun's disk.
