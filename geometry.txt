@@ -18,6 +18,7 @@ affine geometry
     are made with affine transformations,
     which are mappings that preserve alignment
     of points and parallelism of lines.
+
 rational polygon
     A polygon is called rational if the angle
     between each pair of sides is a rational
