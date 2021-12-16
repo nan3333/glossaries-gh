@@ -1,3 +1,8 @@
+finite map
+associative array
+
+affine
+
 transclusion
     The inclusion of part or all of an
     electronic document into one or more other

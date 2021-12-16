@@ -1,3 +1,23 @@
+affine geometry
+    What remains of Euclidean geometry when
+    ignoring (mathematicians often say
+    "forgetting") the metric notions of
+    distance and angle.
+
+    As the notion of parallel lines is one of
+    the main properties that is independent of
+    any metric, affine geometry is often
+    considered as the study of parallel lines.
+    
+    Therefore, Playfair's axiom (Given a line
+    L and a point P not on L, there is exactly
+    one line parallel to L that passes through
+    P.) is fundamental in affine geometry.
+    
+    Comparisons of figures in affine geometry
+    are made with affine transformations,
+    which are mappings that preserve alignment
+    of points and parallelism of lines.
 rational polygon
     A polygon is called rational if the angle
     between each pair of sides is a rational
