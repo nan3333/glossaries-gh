@@ -23,6 +23,41 @@ Function application
 
         (f x) : (map f xs)
 
+fixity declaration
+    Can be given for any infix operator or
+    constructor (including those made from
+    ordinary identifiers, such as `elem`).
+    
+    This declaration specifies a precedence
+    level from 0 to 9 (with 9 being the
+    strongest; normal application is assumed
+    to have a precedence level of 10), and
+    left-, right-, or non-associativity.
+    
+    For example, the fixity declarations for
+    ++ and .  are:
+
+        infixr 5 ++
+        infixr 9 .
+
+    Both of these specify right-associativity,
+    the first with a precedence level of 5,
+    the other 9.
+    
+    Left associativity is specified via
+    infixl, and non-associativity by infix.
+    
+    Also, the fixity of more than one operator
+    may be specified with the same fixity
+    declaration.
+    
+    If no fixity declaration is given for a
+    particular operator, it defaults to infixl
+    9.
+    
+    (See §4.4.2 for a detailed definition of
+    the associativity rules.)
+
 Non-strict
     ewwlinks +/"Functions are Non-strict" "https://www.haskell.org/tutorial/functions.html"
 
