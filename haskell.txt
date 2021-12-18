@@ -2658,7 +2658,42 @@ mapM
 compose
 .
 (.)
+function composition
     [operator]
+    [infix operator]
+
+        (.)                     :: (b->c) -> (a->b) -> (a->c)
+        f . g                   = \ x -> f (g x)
+
+section
+convert infix operator into functional value
+    The partial application of an
+    infix operator.
+
+    This is the opposite of backquote notation
+    (i.e. making a functional value into an
+    operator).
+
+    For example:
+
+        (x+)  =  \y -> x+y   
+        (+y)  =  \x -> x+y   
+        (+)   =  \x y -> x+y   
+
+    The parentheses are mandatory.
+
+    Handy when passing an infix operator as an
+    argument to a function, as in:
+
+        map (+) [1,2,3]
+
+convert functional value into infix operator
+    Example:
+
+        x `elem` xs
+
+    This can be read intuitively as "x is an
+    element of xs."
 
 apply
 $
