@@ -10035,6 +10035,23 @@ OLAP
     A fancy term used to describe a certain
     class of database applications.
 
+    Two kinds of database-backed operations
+    that you need to do:
+    - use a database as part of some business
+      process.
+    - use a database as part of analysis.
+
+    The first category of database usage is
+    known as ‘Online Transaction Processing’,
+    or ‘OLTP’. The second category of database
+    usage is known as ‘Online Analytical
+    Processing’, or ‘OLAP’.
+
+    - OLTP: using a database to run your
+      business.
+    - OLAP: using a database to understand
+      your business.
+
 columnar data warehouse
     An alternative approach to OLAP workloads.
 

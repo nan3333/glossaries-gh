@@ -72,7 +72,7 @@ extract, transform, load
     - Loading.
 
     The process by which data is extracted
-    from data sources that are not optimized
+    from data sources that are not optimized.
 
     But also encompasses the details, the
     overlap and the advancements in ETL.

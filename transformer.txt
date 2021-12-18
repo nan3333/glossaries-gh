@@ -1,5 +1,8 @@
 https://huggingface.co/transformers/examples.html
 
+scaling transformer
+    [[https://www.youtube.com/watch?v=hgSGHusDx7M][Sparse is Enough in Scaling Transformers {aka Terraformer} | ML Research Paper Explained - YouTube]]
+
 Retrieval-Enhanced Transformer
 RETRO
     We enhance auto-regressive LMs by

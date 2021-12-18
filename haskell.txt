@@ -23,63 +23,107 @@ Function application
 
         (f x) : (map f xs)
 
+circular
+circularity
+    Here is an infinite list of ones:
+
+        ones = 1 : ones
+
+    The definition of ones above is an example
+    of a circular list.
+
+    In most circumstances laziness has an
+    important impact on efficiency, since an
+    implementation can be expected to
+    implement the list as a true circular
+    structure, thus saving space.
+
+    Another example:
+
+        fib = 1 : 1 : [ a+b | (a,b) <- zip fib (tail fib) ]
+
 non-terminating expression
 _|_
-
-    Suppose bot is defined by: 
+    Suppose bot is defined by:
 
         bot = bot
 
     In other words, bot is a non-terminating
     expression.
-    
+
     Abstractly, we denote the value of a non-
     terminating expression as _|_ (read
     "bottom").
-    
+
     Expressions that result in some kind of a
     run-time error, such as 1/0, also have
     this value.
-    
+
     Such an error is not recoverable: programs
     will not continue past these errors.
-    
+
     Errors encountered by the I/O system, such
     as an end-of-file error, are recoverable
     and are handled in a different manner.
-    
+
     (Such an I/O error is really not an error
     at all but rather an exception.
-    
+
     Much more will be said about exceptions in
     Section 7.)
+
+error
+error function
+    Its type is String->a.
+
+    This is a somewhat odd function: From its
+    type it looks as if it is returning a
+    value of a polymorphic type about which it
+    knows nothing, since it never receives a
+    value of that type as an argument!
+
+    In fact, there is one value "shared" by
+    all types: _|_. Indeed, semantically that
+    is exactly what value is always returned
+    by error (recall that all errors have
+    value _|_). However, we can expect that a
+    reasonable implementation will print the
+    string argument to error for diagnostic
+    purposes. Thus this function is useful
+    when we wish to terminate a program when
+    something has "gone wrong." For example,
+    the actual definition of head taken from
+    the Standard Prelude is: 
+
+        head (x:xs)             =  x
+        head  []                =  error "head{PreludeList}: head []"
 
 strict
     A function f is said to be strict if, when
     applied to a nonterminating expression, it
     also fails to terminate.
-    
+
     In other words, f is strict iff the value
     of f bot is _|_.
-    
+
     For most programming languages, all
     functions are strict.
-    
+
     But this is not so in Haskell.
-    
+
     As a simple example, consider const1, the
     constant 1 function, defined by:
 
         const1 x = 1
 
     The value of const1 bot in Haskell is 1.
-    
+
     Operationally speaking, since const1 does
     not "need" the value of its argument, it
     never attempts to evaluate it, and thus
     never gets caught in a nonterminating
     computation.
-    
+
     For this reason, non-strict functions are
     also called "lazy functions", and are said
     to evaluate their arguments "lazily", or
@@ -89,13 +133,13 @@ fixity declaration
     Can be given for any infix operator or
     constructor (including those made from
     ordinary identifiers, such as `elem`).
-    
+
     This declaration specifies a precedence
     level from 0 to 9 (with 9 being the
     strongest; normal application is assumed
     to have a precedence level of 10), and
     left-, right-, or non-associativity.
-    
+
     For example, the fixity declarations for
     ++ and .  are:
 
@@ -105,23 +149,68 @@ fixity declaration
     Both of these specify right-associativity,
     the first with a precedence level of 5,
     the other 9.
-    
+
     Left associativity is specified via
     infixl, and non-associativity by infix.
-    
+
     Also, the fixity of more than one operator
     may be specified with the same fixity
     declaration.
-    
+
     If no fixity declaration is given for a
     particular operator, it defaults to infixl
     9.
-    
+
     (See §4.4.2 for a detailed definition of
     the associativity rules.)
 
-Non-strict
+non-strict
+lazy
     ewwlinks +/"Functions are Non-strict" "https://www.haskell.org/tutorial/functions.html"
+
+    Another way of explaining non-strict
+    functions is that Haskell computes using
+    definitions rather than the assignments
+    found in traditional languages. Read a
+    declaration such as
+
+        v = 1/0
+
+    as `define v as 1/0' instead of `compute
+    1/0 and store the result in v'.  Only if
+    the value (definition) of v is needed will
+    the division by zero error occur.
+
+    One advantage of the non-strict nature of
+    Haskell is that data constructors are
+    non-strict, too. This should not be
+    surprising, since constructors are really
+    just a special kind of function (the
+    distinguishing feature being that they can
+    be used in pattern matching). For example,
+    the constructor for lists, (:), is
+    non-strict.
+
+    Non-strict constructors permit the
+    definition of (conceptually) infinite data
+    structures. Here is an infinite list of
+    ones:
+
+        ones = 1 : ones
+
+    Perhaps more interesting is the function
+    numsFrom:
+
+        numsFrom n = n : numsFrom (n+1)
+
+    Thus numsFrom n is the infinite list of
+    successive integers beginning with n. From
+    it we can construct an infinite list of
+    squares:
+
+        squares = map (^2) (numsfrom 0)
+
+    See "strict".
 
 state
     Violates referential transparency.
@@ -2773,9 +2862,9 @@ convert infix operator into functional value
 
     For example:
 
-        (x+)  =  \y -> x+y   
-        (+y)  =  \x -> x+y   
-        (+)   =  \x y -> x+y   
+        (x+)  =  \y -> x+y
+        (+y)  =  \x -> x+y
+        (+)   =  \x y -> x+y
 
     The parentheses are mandatory.
 
