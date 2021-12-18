@@ -5,6 +5,24 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+Function application
+    Example: map function:
+
+        map                     :: (a->b) -> [a] -> [b]
+        map f  []               =  []
+        map f (x:xs)            =  f x : map f xs
+
+    Second equation:
+
+        map f (x:xs)            =  f x : map f xs
+
+    Function application has higher precedence
+    than any infix operator, and thus the
+    right-hand side of the second equation
+    parses as:
+
+        (f x) : (map f xs)
+
 Non-strict
     ewwlinks +/"Functions are Non-strict" "https://www.haskell.org/tutorial/functions.html"
 
