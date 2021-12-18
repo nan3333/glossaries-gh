@@ -16,7 +16,7 @@ statically typed
     Haskell is statically typed.
 
     Typing
-        “When types are checked”
+        "When types are checked"
 
     Static
         Types checked before run-time
@@ -123,7 +123,7 @@ CPS
     Continuation passing style is a
     transformation from a normal function and
     a call stack to a direction to send the
-    result to the “continuation” without
+    result to the "continuation" without
     returning.
 
     This means the functions context can be
@@ -131,10 +131,10 @@ CPS
 
     Delimited continuations are a slight
     variation, where instead of an unbounded
-    “rest of the program”, the continuation
+    "rest of the program", the continuation
     has an end point and a value.
 
-    It’s essentially a function, and can be
+    It's essentially a function, and can be
     handled as such.
 
     There is a purely mechanical method for
@@ -149,12 +149,12 @@ continuation monad
     Having to explicitly add a continuation to
     everything is complicated.
 
-    However, there’s also a typeclass, or
+    However, there's also a typeclass, or
     concept, that allows you to convert
     regular functions into continuation
     passing style, automatically.
 
-    It’s then rather straightforward to
+    It's then rather straightforward to
     involve concerns like where work is being
     run for something that wraps up the entire
     work.
@@ -162,7 +162,7 @@ continuation monad
     Even being able to switch back and forth
     between contexts.
 
-    That’s the continuation monad.
+    That's the continuation monad.
 
 non-deterministic computation
     The kind of computation that, instead of
@@ -506,7 +506,7 @@ TupleSections
         \v w x y z -> (v, w, x, y, z)
 
     Looking at it this way allows us to ask,
-    “Why can’t we partially section a tuple?
+    "Why can't we partially section a tuple?
     After all, (+) is valid, (,) is valid, and
     (1 +) is valid, but (1,) is not valid. The
     TupleSections extension fixes this
@@ -1726,7 +1726,7 @@ sequence_
     monadic computations, executes each one in
     turn and returns a list of the results.
     If any of the computations fail, then the
-    whole function fails: 
+    whole function fails:
 
         sequence :: Monad m => [m a] -> m [a]
         sequence = foldr mcons (return [])
@@ -1737,7 +1737,7 @@ sequence_
     sequence but does not return a list of
     results.  It is useful when only the
     side-effects of the monadic computations
-    are important. 
+    are important.
 
         sequence_ :: Monad m => [m a] -> m ()
         sequence_ = foldr (>>) (return ())
@@ -1745,10 +1745,10 @@ sequence_
 non-deterministic
     ewwlinks +/"Before looking at the source" "http://sleepomeno.github.io/blog/2014/06/25/Explaining-the-Magic/"
 
-    But what sort of action is “01”. As a
-    string is a list of characters, it’s equal
-    to [‘0’,‘1’] which denotes a
-    ‘non-deterministic’ character value.
+    But what sort of action is "01". As a
+    string is a list of characters, it's equal
+    to ['0','1'] which denotes a
+    'non-deterministic' character value.
 
 null
     null :: Foldable t => t a -> Bool
@@ -1783,10 +1783,10 @@ replicateM
         -- ["000","001","010","011","100","101","110","111"]
 
     Explanation:
-        But what sort of action is “01”.  As a
-        string is a list of characters, it’s
-        equal to [‘0’,‘1’] which denotes a
-        ‘non-deterministic’ character value.
+        But what sort of action is "01".  As a
+        string is a list of characters, it's
+        equal to ['0','1'] which denotes a
+        'non-deterministic' character value.
 
     Old version is easier to understand
     http://hackage.haskell.org/package/base-4.7.0.0/docs/src/Control-Monad.html#replicateM
@@ -3246,7 +3246,7 @@ forever
 
 reverse binder function
 =<<
-(=<<) 
+(=<<)
     (=<<) :: Monad m => (a -> m b) -> m a -> m b
     base Prelude
     Same as >>=, but with the arguments interchanged.
@@ -3260,8 +3260,8 @@ reverse binder function
     the standard binding function. Since the standard binding function is called ">>=", the
     reverse binding function is called "=<<". It is useful in circumstances where the binding
     operator is used as a higher-order term and it is more convenient to have the arguments in the
-    reversed order. Its definition is simply: 
-    
+    reversed order. Its definition is simply:
+
         (=<<) :: Monad m => (a -> m b) -> m a -> m b
         f =<< x = x >>= f
 
@@ -3498,7 +3498,7 @@ _type namespace_
 
     The former is where functions, literals,
     patterns, etc. reside, and the latter is
-    where you’ll find type constructors,
+    where you'll find type constructors,
     typeclasses, and type variables.
 
 ::
@@ -3624,8 +3624,8 @@ instance
 
       ghciol ":i Monad"
 
-      instance Monad Maybe -- Defined in ‘GHC.Base’
-      instance Monad IO -- Defined in ‘GHC.Base’
+      instance Monad Maybe -- Defined in 'GHC.Base'
+      instance Monad IO -- Defined in 'GHC.Base'
 
     https://youtu.be/CNOff5LPKQI?t=369
 
@@ -3633,7 +3633,7 @@ mod
 modulo
     [operator]
 
-    Like ‘rem’, but after modular division.
+    Like 'rem', but after modular division.
 
 div
     [operator]
