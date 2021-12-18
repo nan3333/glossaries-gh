@@ -23,6 +23,37 @@ Function application
 
         (f x) : (map f xs)
 
+non-terminating expression
+_|_
+
+    Suppose bot is defined by: 
+
+        bot = bot
+
+    In other words, bot is a non-terminating
+    expression.
+    
+    Abstractly, we denote the value of a non-
+    terminating expression as _|_ (read
+    "bottom").
+    
+    Expressions that result in some kind of a
+    run-time error, such as 1/0, also have
+    this value.
+    
+    Such an error is not recoverable: programs
+    will not continue past these errors.
+    
+    Errors encountered by the I/O system, such
+    as an end-of-file error, are recoverable
+    and are handled in a different manner.
+    
+    (Such an I/O error is really not an error
+    at all but rather an exception.
+    
+    Much more will be said about exceptions in
+    Section 7.)
+
 fixity declaration
     Can be given for any infix operator or
     constructor (including those made from
