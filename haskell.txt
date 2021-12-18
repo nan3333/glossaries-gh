@@ -54,6 +54,37 @@ _|_
     Much more will be said about exceptions in
     Section 7.)
 
+strict
+    A function f is said to be strict if, when
+    applied to a nonterminating expression, it
+    also fails to terminate.
+    
+    In other words, f is strict iff the value
+    of f bot is _|_.
+    
+    For most programming languages, all
+    functions are strict.
+    
+    But this is not so in Haskell.
+    
+    As a simple example, consider const1, the
+    constant 1 function, defined by:
+
+        const1 x = 1
+
+    The value of const1 bot in Haskell is 1.
+    
+    Operationally speaking, since const1 does
+    not "need" the value of its argument, it
+    never attempts to evaluate it, and thus
+    never gets caught in a nonterminating
+    computation.
+    
+    For this reason, non-strict functions are
+    also called "lazy functions", and are said
+    to evaluate their arguments "lazily", or
+    "by need".
+
 fixity declaration
     Can be given for any infix operator or
     constructor (including those made from
