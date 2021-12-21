@@ -1234,3 +1234,52 @@ Search engine indexing
     interdisciplinary concepts from
     linguistics, cognitive psychology,
     mathematics, informatics, and CS.
+
+content match score
+    Measures how well a given document matches
+    a given query.
+
+    ewwlinks +/"content match score" "https://0x65.dev/blog/2019-12-05/a-new-search-engine.html"
+
+query log
+query/url pair
+    Typically referred to as query logs, are
+    often used by search engines to optimize
+    their ranking and for SEO to optimize
+    incoming traffic.
+
+    Here is a sample from
+    the AOL query logs dataset
+
+    Query                             	 Clicked Url
+    google                            	 http://www.google.com
+    wnmu                              	 http://www.wnmu.edu
+    wnmu webct                        	 https://western.checs.net:4443/wadmin/webct_logon.htm
+    ww.vibe.com                       	 http://www.vibe985.com
+    www.accuweather.com               	 http://www.accuweather.com
+    weather                           	 http://asp.usatoday.com
+    harry and david                   	 http://www.harryanddavid.com
+    college savings plan              	 http://www.collegesavings.org
+    pennsylvania college savings plan 	 http://www.patreasury.org
+    pennsylvania college savings plan 	 http://swz.salary.com
+    amc painter’s crossing            	 http://www.mrmovietimes.com
+
+query log dataset
+    Queries performed by people, if associated
+    to a web page, serve as even cleaner
+    summaries than anchor text.
+    
+    This is because all the logic put in place
+    by the search engine, who resolved the
+    query with a list of web pages, and all
+    human understanding and experience that
+    led one to select the best page from the
+    offered result list end up embedded in the
+    association <query, url>.
+    
+    These datasets exist in the wild, it is
+    possible to buy them from various
+    providers.
+    
+    So we got our hands on a couple datasets
+    and got to work.

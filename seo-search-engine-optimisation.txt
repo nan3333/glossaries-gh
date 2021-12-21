@@ -11,3 +11,50 @@ ranking factor
     
     Nobody knows exactly which factors decide
     the order of the search results.
+
+anchor text matching
+    [ranking signal]
+
+    A clear differentiating factor early on.
+    As stated by the founders themselves in
+    Google's seminal 1998 paper.
+
+association
+    <query, url>
+
+    See "query log".
+
+crawler
+Web Crawler
+    https://en.wikipedia.org/wiki/Web_crawler
+
+spamdexing
+    https://en.wikipedia.org/wiki/Spamdexing
+
+Granne
+    https://github.com/granne/granne
+
+Keyvi
+    https://github.com/KeyviDev/keyvi
+
+qpick
+    https://github.com/dncc/qpick
+
+popularity signal
+    [ranking factor]
+    
+    The more unique queries we can gather for
+    a page, the better our model for the page
+    will be.
+    
+    Our use of Human Web also enables us to
+    collect anonymous statistics on the page,
+    a part of which is shown below.
+    
+    This structure shows the popularity of the
+    page in different countries at this moment
+    in time, which is used as a popularity
+    signal.
+    
+    We can see that it is very popular in the
+    UK, less so is Australia, etc.
