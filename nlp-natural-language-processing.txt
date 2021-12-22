@@ -28,14 +28,14 @@ LamDA
 
     Unlike most other LMs, LaMDA was trained
     on dialogue.
-    
+
     During its training, it picked up on
     several of the nuances that distinguish
     open-ended conversation from other forms
     of language.
-    
+
     One of those nuances is sensibleness.
-    
+
     Basically: Does the response to a given
     conversational context make sense? For
     instance, if someone says: “I just started
@@ -53,10 +53,10 @@ Perplexity
     [#NLP]
 
     A way of evaluating LMs.
-    
+
     A LM is a probability distribution over
     entire sentences or texts.
-    
+
     It is often possible to achieve lower
     perplexity on more specialized corpora, as
     they are more predictable.
@@ -150,30 +150,30 @@ occlusion test
     consisting of cloze text, where the
     participant is asked to replace the
     missing language item.
-    
+
     Cloze tests require the ability to
     understand context and vocabulary in order
     to identify the correct language or part
     of speech that belongs in the deleted
     passages.
-    
+
     This exercise is commonly administered for
     the assessment of native and second
     language learning and instruction.
-    
+
     The word cloze is derived from closure in
     Gestalt theory.
-    
+
     The exercise was first described by W. L.
     Taylor in 1953.
 
     See "cloze word".
-    
+
     The methodology is the subject of an
     extensive academic literature;
     nonetheless, teachers commonly devise ad
     hoc tests.
-    
+
     May be used with the spacing effect to
     improve long-term retention of vocabulary,
     facts, etc.
@@ -321,7 +321,7 @@ entity extraction
     Helps you easily identify the key elements
     in a text, like names of people, places,
     brands, monetary values, and more.
-    
+
     Extracting the main entities in a text
     helps sort unstructured data and detect
     important information, which is crucial if
@@ -335,7 +335,7 @@ BoW model
 
     A simplifying representation used in NLP
     and IR.
-    
+
     In this model, a text (such as a sentence
     or a document) is represented as the bag
     (multiset) of its words, disregarding
@@ -353,7 +353,7 @@ BPE
     the most common pair of consecutive bytes
     of data is replaced with a byte that does
     not occur within that data.
-    
+
     A table of the replacements is required to
     rebuild the original data.
 
@@ -389,24 +389,24 @@ semantic repository
     An engine similar to a database management
     systems (DBMS) that permits the storage,
     querying and handling of structured data.
-    
+
     In addition, a semantic repository uses
     ontologies as semantic schemata to
     automatically reason about the queried
     data.
-    
+
     Semantic repositories make use of generic
     and flexible physical data models, such as
     graphs.
-    
+
     This permits them to quickly read and
     implement new metadata schemata or
     ontologies.
-    
+
     As a result, semantic repositories provide
     better incorporation of assorted data as
     well as more analytical power.
-    
+
     However, these kinds of repositories are
     still in the early stages of their
     development.
@@ -416,7 +416,7 @@ NLP
 Computational linguistics
     One of the most important technologies of
     the information age.
-    
+
     Applications of NLP are everywhere because
     people communicate almost everything in
     language:
@@ -427,7 +427,7 @@ Computational linguistics
     - language translation,
     - virtual agents,
     - medical reports, etc.
-    
+
     DL and NN approaches have obtained very
     high performance across many different NLP
     tasks, using single end-to-end neural
@@ -440,7 +440,7 @@ Computational linguistics
     well as the study of appropriate
     computational approaches to linguistic
     questions.
-    
+
 Minimum Edit Distance
     ewwlinks +/"Minimum edit distance for finding string distance" "http://www.exploredatabase.com/2020/03/minimum-edit-distance-for-finding-distance-between-strings.html"
 
@@ -461,7 +461,7 @@ Levenshtein distance
     The cost for insertion and deletion will
     be 1 2 for substitution (substitution is
     considered as a combination of delete and
-    insert) 
+    insert)
 
 Stylometry
 Stylometics
@@ -546,7 +546,7 @@ NLI
     [#natural-language processing]
 
     Deals with machine reading comprehension.
-    
+
     Considered an AI-hard problem.
 
 Benford's law
@@ -561,7 +561,7 @@ TextBlob
     [python library]
 
     An intuitive interface to NLTK.
-    
+
     Gentle learning curve while boasting a
     surprising amount of functionality.
 
@@ -573,7 +573,7 @@ Whole Word Masking
     - May 31st, 2019
 
 Whole Word Masking Model
-    
+
 MultiNLI
 Multi-Genre NL Inference
     [benchmark tasks]
@@ -584,13 +584,13 @@ Multi-Genre NL Inference
     A crowd-sourced collection of 433k
     sentence pairs annotated with textual
     entailment information.
-    
+
     The corpus is modeled on the SNLI corpus,
     but differs in that covers a range of
     genres of spoken and written text, and
     supports a distinctive cross-genre
     generalization evaluation.
-    
+
     The corpus served as the basis for the
     shared task of the RepEval 2017 Workshop
     at EMNLP in Copenhagen.
@@ -610,7 +610,7 @@ SuperGLUE
 
     https://super.gluebenchmark.com
 
-semantic map 
+semantic map
     We create visualizations of keyword and
     sentence relationships so the user can
     extract meaningful concepts quickly and
@@ -646,12 +646,12 @@ NLG
     A software process that transforms
     structured data into plain-English
     content.
-    
+
     It can be used to produce long form
     content for organizations to automate
     custom reports, as well as produce custom
     content for a web or mobile application.
-    
+
     It can also be used to generate short
     blurbs of text in interactive
     conversations (a chatbot) which might even
@@ -667,10 +667,10 @@ gensim
     - document indexing
     - similarity retrieval
     with large corpora
-    
+
     Target audience is the NLP and IR
     community.
-    
+
         rifle "$MYGIT/RaRe-Technologies/gensim/docs/notebooks/FastText_Tutorial.ipynb"
         sp "$MYGIT/RaRe-Technologies/gensim/docs/notebooks/FastText_Tutorial.py"
 
@@ -722,11 +722,11 @@ GloVe
 
     A model for distributed word
     representation.
-    
+
     The model is an unsupervised learning
     algorithm for obtaining vector
     representations for words.
-    
+
     This is achieved by mapping words into a
     meaningful space where the distance
     between words is related to semantic
@@ -774,15 +774,15 @@ contextualised word embeddings
     training phase and this vector
     representation is used for the same word
     in different context.
-    
+
     However, as we know, the same word in
     different contexts has different meanings.
-    
+
     Therefore, it makes more sense for the
     vector representation of the same word to
     be different depending on the context of
     which it appears in.
-    
+
     To address this, contextualised word
     embeddings such as ELMo (2018) was
     introduced, whereby word embeddings of the
@@ -815,10 +815,10 @@ Poincaré Embeddings
 
 Algorithms based on overall summarization
     e.g. bag-of-words
-    
+
     Not powerful enough to capture the
     sequential nature of text.
-    
+
 n-grams
     Struggled to model general context and
     suffered severely from a curse of
@@ -830,7 +830,7 @@ HMM-based models
 
 gazetteer
     A list of place names.
-    
+
     A geographical index or dictionary.
 
 NLU
@@ -881,7 +881,7 @@ Sentiment Analysis
     [task]
 
     Use "Tree-LSTM".
-    
+
 The Dynamic Memory Network
     Performs well consistently across multiple
     domains.
@@ -895,7 +895,7 @@ morphology
     The study of words, how they are formed,
     and their relationship to other words in
     the same language.
-    
+
     It analyzes the structure of words and
     parts of words, such as:
     - stems
@@ -907,7 +907,7 @@ syntax
     The set of rules, principles, and
     processes that govern the structure of
     sentences in a given language
-    
+
     For example,
     - word order
 
@@ -1072,7 +1072,7 @@ Embeddings from Language Models
     pipeline, and it will work like a charm.
     - text classification
     - NER
-    
+
 fine tuning on a specific text classification task
     BERT, LASER, FASTTEXT, ELMO
 
@@ -1081,11 +1081,11 @@ contextual model
     context of the word’s use in a sentence,
     and thus a single word can have multiple
     embeddings.
-    
+
     For example, BERT would produce different
     embeddings for Mercury in the following
     two sentences:
-    
+
     “Mercury is visible in the night sky” and
     “Mercury is often confused with Hermes,
     the fleet-footed messenger of Greek gods. ”
@@ -1094,7 +1094,7 @@ ParlAI
     http://parl.ai
 
     Pronounced "par-lay".
-    
+
     A python framework for sharing, training
     and testing dialogue models, from open-
     domain chitchat to VQA (Visual Question
@@ -1103,9 +1103,9 @@ ParlAI
 Universal Dependencies
 UD
     [framework]
-    
+
     https://universaldependencies.org/
-    
+
     For cross-linguistically consistent
     grammatical annotation and an open
     community effort with over 200
@@ -1139,7 +1139,7 @@ Polarity
 
     Defines the phase of emotions expressed in
     the analyzed sentence.
-    
+
     It ranges from -1 to 1 and goes like:
 
     * Very Positive
@@ -1151,18 +1151,18 @@ Polarity
     On account of polarity the emotion and
     sentiment of the writer can be easily
     described.
-    
+
     For example a person has written a review
     for some hotel as "Very bad service and
     staff".
-    
+
     Suppose the polarity of this sentence
     would be -0.56.
-    
+
     It is clear from the values that it is a
     negative emotion and against the brand
     image of Hotel.
-    
+
     This way polarity could easily determine
     the end sentiment.
 
@@ -1173,7 +1173,7 @@ Subjectivity
 
     Polarity alone is not enough to deal with
     complex text sentences.
-    
+
     Sometimes the sentence needs more
     attribute analysis to check weather it is
     describing features or opinions on some
@@ -1184,7 +1184,7 @@ Intensity
 
     Along with the polarity and subjectivity
     another important factor is intensity.
-    
+
     It defines how strong or weak the emotion
     is with respect to the context.
 
@@ -1193,10 +1193,10 @@ Author
 
     The person who has the ownership for that
     text or who has written the text content.
-    
+
     The content may be a review, conversation,
     social media chat, feedback or response.
-    
+
     This helps in managing a structured way
     for assigning expressions to a single
     entity.
@@ -1238,18 +1238,18 @@ NLG
     Generates a text based on structured data.
 
     3 stages in the NLG process:
-    
+
     1. Document planning:
        Deciding what is to be said and
        creating an abstract document that
        outlines the structure of the
        information to be presented.
-    
+
     2. Microplanning:
        Generation of referring expressions,
        word choice, and aggregation to flesh
        out the document specifications.
-    
+
     3. Realisation:
        Converting the abstract document
        specifications to a real text, using
@@ -1295,12 +1295,12 @@ ACE
     intended for professionals who want to use
     formal notations and formal methods, but
     may not be familiar with them.
-    
+
     Though ACE appears perfectly natural – it
     can be read and understood by any speaker
     of English – it is in fact a formal
     language.
-    
+
     ACE and its related tools have been used
     in the fields of software specifications,
     theorem proving, text summaries,
@@ -1318,7 +1318,7 @@ Chinking
 
     A part of the chunking process with NLP
     with NLTK.
-    
+
     A chink is what we wish to remove from the
     chunk.
 
@@ -1368,10 +1368,10 @@ non-destructive tokenization
 
     The tokens, sentences, etc., are simply
     indexes into a long array.
-    
+
     In other words, they don’t carve the text
     stream into little pieces.
-    
+
     So each sentence is a span with a start
     and an end index into the document array.
 
@@ -1393,14 +1393,14 @@ TextRank
 
     Example:
         from gensim.summarization import summarize
-        
+
     What the difference between TextRank and
     PageRank?
 
     The simple answer:
         PageRank is for webpage ranking, and
         TextRank is for text ranking.
-    
+
     The webpage in PageRank is the text in
     TextRank, so the basic idea is the same.
 
@@ -1409,7 +1409,7 @@ Extractive Summarization
     phrases and sentences, from a piece of
     text and stack them together to create a
     summary.
-    
+
     Therefore, identifying the right sentences
     for summarization is of utmost importance
     in an extractive method.
@@ -1424,7 +1424,7 @@ generic summarization
     Focuses on obtaining a generic summary or
     abstract of the collection (whether
     documents, or sets of images, or videos,
-    news stories etc.). 
+    news stories etc.).
 
 query relevant summarization
 query-based summarization
@@ -1435,7 +1435,7 @@ query-based summarization
 Abstractive Summarization
     Use advanced NLP techniques to generate an
     entirely new summary.
-    
+
     Some parts of this summary may not even
     appear in the original text.
 
@@ -1465,7 +1465,7 @@ coherence
 Keywords extraction
     One of the most common technique to
     summarize information from the text.
-    
+
     In some cases, keywords are not only
     single words but phrases, or even phrases
     where words are not directly connected to
@@ -1496,7 +1496,7 @@ Text segmentation
     The process of dividing written text into
     meaningful units, such as words,
     sentences, or topics.
-    
+
     The term applies both to mental processes
     used by humans when reading text, and to
     artificial processes implemented in
@@ -1517,30 +1517,30 @@ grammatical parse
     The process of correlating the line
     sequence of lexemes (words) of the
     language with its formal grammar.
-    
+
     The result of this is usually a parse tree
     or an abstract syntactical tree.
-    
+
     For grammatical parsing of computer
     languages context-free grammars are used.
 
 Parsing
     Determine the parse tree (grammatical
     analysis) of a given sentence.
-    
+
     The grammar for NLs is ambiguous and
     typical sentences have multiple possible
     analyses.
-    
+
     In fact, perhaps surprisingly, for a
     typical sentence there may be thousands of
     potential parses (most of which will seem
     completely nonsensical to a human).
-    
+
     There are two primary types of parsing,
     Dependency Parsing and Constituency
     Parsing.
-    
+
     Dependency Parsing focuses on the
     relationships between words in a sentence
     (marking things like Primary Objects and
@@ -1548,7 +1548,7 @@ Parsing
     focuses on building out the Parse Tree
     using a Probabilistic Context-Free Grammar
     (PCFG).
-    
+
     See also: Stochastic grammar.
 
 stochastic grammar
@@ -1564,12 +1564,12 @@ stochastic grammar
 Morphological segmentation
     Separate words into individual morphemes
     and identify the class of the morphemes.
-    
+
     The difficulty of this task depends
     greatly on the complexity of the
     morphology (i.e. the structure of words)
     of the language being considered.
-    
+
     English has fairly simple morphology,
     especially inflectional morphology, and
     thus it is often possible to ignore this
@@ -1577,7 +1577,7 @@ Morphological segmentation
     possible forms of a word (e.g. "open,
     opens, opened, opening") as separate
     words.
-    
+
     In languages such as Turkish or Meitei, a
     highly agglutinated Indian language,
     however, such an approach is not possible,
@@ -1587,14 +1587,14 @@ Morphological segmentation
 morpheme
     The smallest meaningful unit in a
     language.
-    
+
     A morpheme is not identical to a word.
-    
+
     The main difference between them is that a
     morpheme sometimes does not stand alone,
     but a word, by definition, always stands
     alone.
-    
+
     The linguistics field of study dedicated
     to morphemes is called morphology.
 
@@ -1642,11 +1642,11 @@ Bidirectional Encoder Representations from Transformers
 
     Uses MLM and NSP to learn text
     representation.
-    
+
     MLM is a way to mask some tokens and using
     the rest of tokens to predict the masked
     token.
-        
+
     open https://towardsdatascience.com/breaking-bert-down-430461f60efb
     open https://www.kdnuggets.com/2019/09/bert-changing-nlp-landscape.html
 
@@ -1655,12 +1655,12 @@ Bidirectional Encoder Representations from Transformers
     vim +/"## What is BERT?" "$MYGIT/google-research/bert/README.md"
 
     "Bidirectional" refers to its ability to
-    understand language ambiguity. 
+    understand language ambiguity.
 
     Separates itself from other training
     models by learning the relationships
     between sentences and accurately applying
-    those to pretrain deep neural networks.    
+    those to pretrain deep neural networks.
 
     https://arxiv.org/abs/1906.04341
 
@@ -1679,7 +1679,7 @@ Bidirectional Encoder Representations from Transformers
       messenger of Greek gods.”
 
     - BERT enables transfer learning
-    
+
       This is referred to as “NLP’s ImageNet
       Moment.” Google has pre-trained BERT on
       Wikipedia, and this pre-trained model
@@ -1752,10 +1752,10 @@ SDM
     altering data at rest within database
     copies being provisioned to DevOps
     environments.
-    
+
 Dynamic data masking
 DDM
-    
+
     Aims to temporarily hide or replace
     sensitive data in transit leaving the
     original at-rest data intact and
@@ -1818,15 +1818,15 @@ discourse cohesion
 
 discourse coherence
     Contrasts with cohesion.
-    
+
     Coherence is the term used to describe the
     way a text establishes links in meaning
     within and between sentences.
-    
+
     Essentially coherence is concerned with
     the content of a text, the meaning it is
     attempting to convey.
-    
+
     When texts are not coherent, they do not
     make sense or they make it difficult for
     the reader to follow and understand.
@@ -1856,7 +1856,7 @@ conllu
 CoNLL-U Parser
     Parses a CoNLL-U formatted string into a
     nested python dictionary.
-    
+
     CoNLL-U is often the output of NLP tasks.
 
     $MYGIT/bplank/bilstm-aux/data/da-ud-dev.conllu
@@ -1868,11 +1868,11 @@ Transformer
     by- sentence translation, but could be
     used to generate entire Wikipedia articles
     through multi-document summarization.
-    
+
     This is possible because the context
     window used by Transformer extends to
     thousands of words.
-    
+
     With such a large context window,
     Transformer could be used for applications
     beyond text, including pixels or musical
@@ -1889,12 +1889,12 @@ Reformer
     Designed to handle context windows of up
     to 1 million words, all on a single
     accelerator and using only 16GB of memory.
-    
+
     It combines two crucial techniques to
     solve the problems of attention and memory
     allocation that limit Transformer’s
     application to long context windows.
-    
+
     Reformer uses LSH to reduce the complexity
     of attending over long sequences and
     reversible residual layers to more
@@ -1907,11 +1907,11 @@ Reformer
         pixels, in the case of images) in the
         first layer and larger contexts in
         subsequent layers.
-        
+
         LSH is applied to the sequence, after
         which the keys are sorted by their
         hash and chunked.
-        
+
         Attention is applied only within a
         single chunk and its immediate
         neighbors.
@@ -1929,7 +1929,7 @@ Reversible layers
 
     (C) This approach enables running the
     network in reverse in order to recover
-    all intermediate values.  
+    all intermediate values.
 
 Generative Pre-trained Transformer 3
 GPT-3
@@ -1990,11 +1990,11 @@ GPT2
     Contends SOTA with XLNet on LG tasks,
     depending on the length of the previous
     context.
-    
+
     It also uses Attention, but each instance
     can only access information from the words
     before.
-    
+
     This makes it possible for it to work in a
     generative context, where the following
     words are unknown at inference time, but
@@ -2033,19 +2033,19 @@ cognitive grammar
     that grammar, semantics, and lexicon exist
     on a continuum instead of as separate
     processes altogether.
-    
+
     This approach to language was one of the
     first projects of cognitive linguistics.
-    
+
     In this system, grammar is not a formal
     system operating independently of meaning.
-    
+
     Rather, grammar is itself meaningful and
     inextricable from semantics.
-    
+
     Construction grammar is a similar foci of
     cognitive approaches to grammar.
-    
+
     While cognitive grammar emphasizes the
     study of the cognitive principles that
     give rise to linguistic organization,
@@ -2053,29 +2053,29 @@ cognitive grammar
     more descriptively and formally detailed
     account of the linguistic units that
     comprise a particular language.
-    
+
     Langacker first explicates the system of
     cognitive grammar in his seminal, two-
     volume work Foundations of Cognitive
     Grammar.
-    
+
     Volume one is titled "Theoretical
     Prerequisites", and it explores
     Langacker's hypothesis that grammar may be
     deconstructed into patterns that come
     together in order to represent concepts.
-    
+
     This volume concentrates on the broad
     scope of language especially in terms of
     the relationship between grammar and
     semantics.
-    
+
     Volume two is titled "Descriptive
     Application", as it moves beyond the first
     volume to elaborate on the ways in which
     Langacker's previously described theories
     may be applied.
-    
+
     Langacker invites his reader to utilize
     the tools presented in Foundations' first
     volume in a wide range of, mainly English,
@@ -2124,7 +2124,7 @@ Pattern-Exploiting Training (PET)
     and languages, PET outperforms both
     supervised training and unsupervised
     approaches in low-resource settings by a
-    large margin. 
+    large margin.
 
 RAKE
 Rapid Automatic Keyword Extraction
@@ -2146,133 +2146,13 @@ CC
 Coordinating conjunction
     A word that joins two elements of equal
     grammatical rank and syntactic importance.
-    
+
     They can join two verbs, two nouns, two
     adjectives, two phrases, or two
     independent clauses.
-    
+
     The seven coordinating conjunctions are
     for, and, nor, but, or, yet, and so.
-
-CD
-Cardinal number
-
-DT
-Determiner
-
-EX
-Existential there
-
-FW
-Foreign word
-
-IN
-    Preposition or subordinating conjunction
-
-JJ
-Adjective
-
-JJR
-    Adjective, comparative
-
-JJS
-    Adjective, superlative
-
-LS
-    List item marker
-
-MD
-    Modal
-
-NN
-    Noun, singular or mass
-
-NNS
-    Noun, plural
-
-NNP
-    Proper noun, singular
-
-NNPS
-    Proper noun, plural
-
-PDT
-Predeterminer
-
-POS
-Possessive ending
-
-PRP
-Personal pronoun
-
-PRP$
-Possessive pronoun
-
-RB
-Adverb
-
-RBR
-    Adverb, comparative
-
-RBS
-    Adverb, superlative
-
-RP
-    Particle
-
-SYM
-    Symbol
-
-TO
-    to
-
-UH
-    Interjection
-
-VB
-    Verb, base form
-
-VBD
-    Verb, past tense
-
-VBG
-    Verb, gerund or present participle
-
-VBN
-    Verb, past participle
-
-VBP
-    Verb, non-3rd person singular present
-
-VBZ
-    Verb, 3rd person singular present
-
-WDT
-Wh-determiner
-
-WP
-Wh-pronoun
-
-WP$
-Possessive wh-pronoun
-
-WRB
-    Wh-adverb
-
-ADV
-    [spacy]
-
-PART
-    [spacy]
-
-VERB
-    [spacy]
-
-DET
-    [spacy]
-
-NOUN
-    [spacy]
 
 out-of-vocabulary
 OOV
@@ -2352,7 +2232,7 @@ appraisal
     Refers to the ways that writers or
     speakers express approval or disapproval
     for things, people, behaviour or ideas.
-    
+
     Language users build relationships with
     their interlocutors by expressing such
     positions.
@@ -2365,17 +2245,17 @@ synoname
 
     It generates aliases for human names
     across cultural environments.
-    
+
     Names often have different spellings in
     different languages and cultures - for
     example, Alexander can also be Alexandr or
     Oleksandr.
-    
+
     This repository reads a data dump from
     Wikidata to filter out every human name
     from every language edition of Wikipedia
     and map them across language editions.
-    
+
 Part-of-speech
 POS
 Part-of-speech Tagging
@@ -2423,7 +2303,7 @@ Sequence Tagging
     Use "Bidirectional LSTM-CRF".
 
     Subtasks:
-    
+
     - Contextualized Embedding
     - Dependency Parsing
     - Fill-in-the-blank
@@ -2439,7 +2319,7 @@ Seq2Seq
 
     Traditional machine translation is
     basically based on Seq2Seq.
-    
+
     Follows a classical encoder decoder
     structure.
 
@@ -2508,14 +2388,14 @@ LDA
     sets of observations to be explained by
     unobserved groups that explain why some
     parts of the data are similar.
-    
+
     For example, if observations are words
     collected into documents, it posits that
     each document is a mixture of a small
     number of topics and that each word's
     presence is attributable to one of the
     document's topics.
-    
+
     LDA is an example of a topic model and
     belongs to the ML toolbox and in wider
     sense to the artificial intelligence
@@ -2530,7 +2410,7 @@ topic model
     A type of statistical model for
     discovering the abstract "topics" that
     occur in a collection of documents.
-    
+
     Topic modeling is a frequently used text-
     mining tool for discovery of hidden
     semantic structures in a text body.
@@ -2631,13 +2511,13 @@ causal language modeling
     A pretraining task where the model reads
     the texts in order and has to predict the
     next word.
-    
+
     It’s usually done by reading the whole
     sentence but using a mask inside the model
     to hide the future tokens at a certain
     timestep.
 
-deep learning: 
+deep learning:
     Machine learning algorithms which uses
     neural networks with several layers.
 
@@ -2720,26 +2600,26 @@ contrastive pre-training
     Pre-training methods are becoming more and
     more popular over the last few years and
     have revolutionized NLP.
-    
+
     The model starts off with contrastive pre-
     training where image text pairs are
     matched with the similarity from a batch
     of images.
-    
+
     This is done using an image encoder and a
     text encoder.
-    
+
     Contrastive pre-training attempts to learn
     noise invariant sequence representations
     which encourage consistency between the
     learned representations and the original
     sequence.
-    
+
     They got the inspiration from VirTex which
     is a pretraining approach using
     semantically dense captions to learn
     visual representations.
-    
+
     This approach has been shown to surpass
     other supervised approaches such as
     classic high-end ImageNet networks.
@@ -2754,14 +2634,14 @@ Text simplification
     of the prose is greatly simplified, while
     the underlying meaning and information
     remains the same.
-    
+
     Text simplification is an important area
     of research, because natural human
     languages ordinarily contain large
     vocabularies and complex compound
     constructions that are not easily
     processed through automation.
-    
+
     In terms of reducing language diversity,
     semantic compression can be employed to
     limit and simplify a set of words used in
@@ -2792,11 +2672,11 @@ statistical language model
 
     A probability distribution over sequences
     of words.
-    
+
     Given such a sequence, say of length m, it
     assigns a probability to the whole
     sequence.
-    
+
     The language model provides context to
     distinguish between words and phrases that
     sound similar.
@@ -2806,19 +2686,19 @@ statistical language model
     An LM is a statistical mechanism that
     tries to predict a token, usually a word,
     given some context.
-    
+
     As a statistical mechanism, it thus
     defines a probability distribution over a
     fixed vocabulary V.
-    
+
     The context is usually other tokens from
     V, and usually consists of the preceding
     tokens.
-    
+
     So, at a given time-step, a LM produces a
     vector of probabilities over the entire
     vocabulary.
-    
+
     Given the true targets, we can then assess
     the quality of the LM by, for example,
     calculating the cross entropy.
@@ -2827,7 +2707,7 @@ position encoding
     [#transformer]
 
     https://kazemnejad.com/blog/transformer_architecture_positional_encoding/
-    
+
 activity recognition
     NLG: The ability for a computer to
     recognize what a user is doing, such as
@@ -2848,7 +2728,7 @@ agent communication language
     Proposed by the Foundation for Intelligent
     Physical Agents, is a proposed standard
     language for agent communications.
-    
+
     Knowledge Query and Manipulation Language
     is another proposed standard.
 
@@ -2860,7 +2740,7 @@ anomaly detection
     events that do not conform to an expected
     pattern or to other items present in a
     dataset.
-    
+
     Typically, these anomalous items have the
     potential of getting translated into some
     kind of problems such as structural
@@ -2946,13 +2826,13 @@ computational philology
 
     A newly emerging course of studies at
     German universities.
-    
+
     It combines aspects of ‘traditional’
     teaching and research in Language and
     Computing, Computer-Aided Language
     Learning and multimedial presentation and
     publishing of linguistic data.
-    
+
     The following chapter will present an
     overview as to which aspects of
     information technology (IT) and
@@ -2961,7 +2841,7 @@ computational philology
     and which problems may be expected in
     teaching linguists about many aspects of
     IT they may be somewhat unused to.
-    
+
     The chapter is to a large extent based on
     experiences from a course that has already
     been taught at Chemnitz University of
@@ -3241,11 +3121,11 @@ satisfiability modulo theories
 semantic annotation
     The process of tagging documents with
     relevant concepts.
-    
+
     The documents are enriched with metadata:
     references that link the content to
     concepts, described in a knowledge graph.
-    
+
     This makes unstructured content easier to
     find, interpret and reuse.
 
@@ -3342,15 +3222,15 @@ anaphora
     interpretation depends upon another
     expression in context (its antecedent or
     postcedent).
-    
+
     In a narrower sense, anaphora is the use
     of an expression that depends specifically
     upon an antecedent expression.
-    
+
 anaphor
     The anaphoric (referring) term is called
     an anaphor.
-    
+
     For example, in the sentence Sally
     arrived, but nobody saw her, the pronoun
     her is an anaphor, referring back to the
@@ -3362,12 +3242,12 @@ anaphora resolution
     back to their antecedents, with centering
     theory (Grosz, Joshi, and Weinstein 1983)
     being one of them.
-    
+
     Taking the computational theory of mind
     view of language, centering theory gives a
     computational analysis of underlying
     antecedents.
-    
+
     In their original theory, Grosz, Joshi, &
     Weinstein (1983) propose that some
     discourse entities in utterances are more
@@ -3401,7 +3281,7 @@ WSD
     linguistics concerned with identifying
     which sense of a word is used in a
     sentence.
-    
+
     The solution to this issue impacts other
     computer-related writing, such as
     discourse, improving relevance of search
@@ -3417,7 +3297,7 @@ discrimination
 
 subword tokenizer
     A tokenizer than also breaks words up into
-    subwords. 
+    subwords.
 
     NLG: A part of a computer program that
     performs the task of recognizing words
@@ -3426,13 +3306,13 @@ subword tokenizer
 text generation
     Provide a prompt and the model will
     generate what follows.
-    
+
 filling masked text
     [nlp task]
 
     Given a text with masked words (e.g.,
     replaced by [MASK]), fill the blanks.
-    
+
 feature extraction
     [nlp task]
 
@@ -3443,14 +3323,14 @@ Multi-class classification
     One the most popular supervised
     classification problem one might come
     across when dealing with NLP problems.
-    
+
     AutoNLP makes it super easy to train
     multi-class classification models on your
     data.
-    
+
     Let’s assume we are training a model for
     sentiment detection.
-    
+
     The dataset has three sentiments:
     positive, negative & neutral.
 
@@ -3460,22 +3340,22 @@ FAISS
 
     A library for efficient similarity search
     and clustering of dense vectors.
-    
+
     It contains algorithms that search in sets
     of vectors of any size, up to ones that
     possibly do not fit in RAM.
-    
+
     It also contains supporting code for
     evaluation and parameter tuning.
-    
+
     Faiss is written in C++ with complete
     wrappers for Python/numpy.
-    
+
     Some of the most useful algorithms are
     implemented on the GPU.
 
     https://research.fb.com/category/facebook-ai-research-fair/
-    
+
 
 MRPC
 Microsoft Research Paraphrase Corpus
@@ -3486,17 +3366,17 @@ Microsoft Research Paraphrase Corpus
 COATIS
     An automatic tool designed to locate
     certain actions expressed in texts.
-    
+
     Rules of contextual exploration, activated
     by the presence of linguistic indicators
     of causality in sentences, enable COATIS
     to locate expressions that denote field
     actions and that are linked by causal
     relations.
-    
+
     COATIS processes technical texts of any
     domain, in the French language.
-    
+
     It is therefore particularly suitable for
     use in causal knowledge acquisition from
     texts.
@@ -3515,10 +3395,10 @@ context analysis
     n-grams and noun phrases to extract the
     themes and facets within a collection of
     unstructured text documents.
-    
+
     Through this context, data analysts and
     others can make better-informed decisions
-    and recommendations, whatever their goals.    
+    and recommendations, whatever their goals.
 
 content analysis
     [Field of study]
@@ -3526,7 +3406,7 @@ content analysis
     The study of documents and communication
     artifacts, which might be texts of various
     formats, pictures, audio or video.
-    
+
     Social scientists use content analysis to
     examine patterns in communication in a
     replicable and systematic manner.
@@ -3536,23 +3416,23 @@ CodeT5
     Transformer model that better leverages
     the code semantics conveyed from the
     developer-assigned identifiers.
-    
+
     Our model employs a unified framework to
     seamlessly support both code understanding
     and generation tasks and allows for multi-
     task learning.
-    
+
     Besides, we propose a novel identifier-
     aware pre-training task that enables the
     model to distinguish which code tokens are
     identifiers and to recover them when they
     are masked.
-    
+
     Furthermore, we propose to exploit the
     user-written code comments with a bimodal
     dual generation task for better NL-PL
     alignment.
-    
+
     Comprehensive experiments show that CodeT5
     significantly outperforms prior methods on
     understanding tasks such as code defect
