@@ -58,3 +58,63 @@ popularity signal
     
     We can see that it is very popular in the
     UK, less so is Australia, etc.
+
+page model
+    We can use these query logs to build a
+    model of the page outside of its content,
+    which we refer to as page models.
+    
+    https://0x65.dev/blog/2019-12-06/building-a-search-engine-from-scratch.html
+
+    A truncated page model:
+
+        {
+          "queries": [
+            [
+              "tesla cybertruck",
+              0.5111737168808949
+            ],
+            [
+              "tesla truck",
+              0.4108341455983614
+            ],
+            [
+              "new tesla car",
+              0.022784473090294764
+            ],
+            ...
+            ...
+            ...
+            [
+              "pick up tesla",
+              0.020538972510725183
+            ],
+            [
+              "new tesla truck",
+              0.019462471432017632
+            ],
+            [
+              "cyber truck tesla price",
+              0.006587470155023614
+            ],
+            [
+              "how much is the cybertruck",
+              0.003764268660013494
+            ],
+            ...
+            ...
+            ...
+            [
+              "cybertruck unveiling",
+              0.0016181605575564585
+            ],
+            [
+              "new tesla cybertruck",
+              0.0016181605575564585
+            ],
+            [
+              "cyber truck unveiling",
+              0.0016181605575564585
+            ]
+          ]
+        }
