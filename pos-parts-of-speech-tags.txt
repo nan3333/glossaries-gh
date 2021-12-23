@@ -1,18 +1,26 @@
+https://www.ling.upenn.edu/hist-corpora/annotation/labels.htm
+
 POS
 part of speech
     https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
+
+PRO
+personal pronoun
+
+PRO
+possessive pronoun
 
 CC
 Coordinating conjunction
     [POS tag]
 
-CD
-Cardinal number
-    [POS tag]
-
 DT
 Determiner
     [POS tag]
+
+ART
+Article
+    https://grammar.yourdictionary.com/parts-of-speech/nouns/what/what-is-a-determiner.html
 
 EX
 Existential there

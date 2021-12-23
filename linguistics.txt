@@ -1,3 +1,14 @@
+interjection
+    A word, phrase, or sentence that expresses
+    emotion, meaning, or feeling.
+    
+    These emotion words proceed punctuation
+    marks, which are most often but not always
+    exclamation points.
+    
+    For example: Rats! My research paper is
+    late!
+
 lexeme
     A unit of lexical meaning that underlies a
     set of words that are related through
