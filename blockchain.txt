@@ -1,3 +1,18 @@
+TDA
+Token Distribution Auction
+    During the TDA, the weights of both the
+    assets in the Balancer LBP will be
+    flexible and will change over time
+    depending on the trades initiated.
+    
+    The moment the pool goes live on the 28th
+    of December 2021, the weight will be set
+    at 96:4 (ALI/USDC), and, over the time the
+    pool runs, this weight will gradually
+    decrease to the final weight of 50:50.
+
+    https://medium.com/alethea-ai/alethea-ai-announces-token-distribution-auction-ec17600e6233
+
 cryptonetworks
     Networks built on top of the internet that
     1) use consensus mechanisms such as
