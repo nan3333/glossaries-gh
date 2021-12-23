@@ -33,7 +33,17 @@ transient
 prefix
     [#transient]
 
+    v +/"transient-prefix" "$EMACSD/packages28/transient-20210315.1902/transient.el"
+
+    https://emacs.stackexchange.com/questions/64554/defining-a-simple-transient-with-a-default-value
+
+        (transient-define-prefix magit-log ()
+          "Show a commit or reference log."
+          :man-page "git-log"
+          ...
+
 infix
+argument
     [#transient]
 
     Calling an infix command causes its value
@@ -44,6 +54,18 @@ infix
     that are set by infix commands and then
     consumed by the invoked suffix command(s).
 
+        (transient-define-argument magit-log:-n ()
+          :description "Limit number of commits"
+          :class 'transient-option
+          ...
+
+        (transient-define-infix magit-remote.<remote>.url ()
+          :class 'magit--git-variable:urls
+          :scope 'magit--read-remote-scope
+          :variable "remote.%s.url"
+          :multi-value t
+          :history-key 'magit-remote.<remote>.*url)
+
 suffix
     [#transient]
 
@@ -51,3 +73,13 @@ suffix
     the transient to be exited but suffix
     commands can also be configured to not
     exit the transient.
+
+        (transient-define-suffix magit-blame-quit ()
+          "Turn off Magit-Blame mode.
+        If the buffer was created during a recursive blame,
+        then also kill the buffer."
+          :if-non-nil 'magit-blame-mode
+          (interactive)
+          (magit-blame-mode -1)
+          (when magit-blame-recursive-p
+            (kill-buffer)))
