@@ -405,3 +405,36 @@ extended mind hypothesis
     confined to our brains, but rather that
     they extend into the external world and
     can be affected by it.
+
+Behavior cloning
+BC
+    sp +/"^1. Behavior cloning" "$HOME/Calibre Library/Unknown/WebGPT_ Browser-assisted question-answering with human feedback (262)/WebGPT_ Browser-assisted question-answerin - Unknown.txt"
+
+    The process of reconstructing a skill from
+    an operator's behavioural traces by means
+    of ML techniques.
+
+Reward modeling
+RM
+    sp +/"^2. Reward modeling" "$HOME/Calibre Library/Unknown/WebGPT_ Browser-assisted question-answering with human feedback (262)/WebGPT_ Browser-assisted question-answerin - Unknown.txt"
+
+    Learning a reward function from
+    interaction with the user and optimizing
+    the learned reward function with RL. 
+
+Reinforcement learning
+RL
+    [machine learning training method]
+
+    sp +/"^3. Reinforcement learning" "$HOME/Calibre Library/Unknown/WebGPT_ Browser-assisted question-answering with human feedback (262)/WebGPT_ Browser-assisted question-answerin - Unknown.txt"
+
+    Based on rewarding desired behaviors
+    and/or punishing undesired ones.
+    
+    In general, a RL agent is able to perceive
+    and interpret its environment, take
+    actions and learn through trial and error.
+
+Rejection sampling
+best-of-n
+    sp +/"^4. Rejection sampling" "$HOME/Calibre Library/Unknown/WebGPT_ Browser-assisted question-answering with human feedback (262)/WebGPT_ Browser-assisted question-answerin - Unknown.txt"
