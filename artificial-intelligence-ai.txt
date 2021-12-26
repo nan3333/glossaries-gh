@@ -438,3 +438,11 @@ RL
 Rejection sampling
 best-of-n
     sp +/"^4. Rejection sampling" "$HOME/Calibre Library/Unknown/WebGPT_ Browser-assisted question-answering with human feedback (262)/WebGPT_ Browser-assisted question-answerin - Unknown.txt"
+
+    A basic technique used to generate
+    observations from a distribution.
+    
+    It is also commonly called the acceptance-
+    rejection method or "accept-reject
+    algorithm" and is a type of exact
+    simulation method.
