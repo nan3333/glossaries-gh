@@ -11,6 +11,7 @@ carby
     in Australia.
 
 camshaft
+cam
     NLG: "Camshaft" refers to the shaft that
     connects the crankshaft to the valves in a
     car engine. The camshaft is also known as
@@ -45,3 +46,27 @@ Single Overhead Cam
     camshaft to open the valves (as opposed to
     two camshafts as in a "twin overhead cam"
     engine).
+
+piston
+    NLG: "Piston" refers to the part of the
+    engine that moves up and down, driven by
+    the engine's crankshaft, and which in turn
+    drives the wheels of the car.
+
+crank disc
+    NLG: "Crank disc" refers to the disc that
+    is installed on the crank shaft of a car
+    engine. The crank disc is usually
+    attached to the flywheel of the engine.
+
+flywheel
+    NLG: "Flywheel" refers to a heavy wheel
+    that stores kinetic energy, which can be
+    transferred to a crankshaft to provide a
+    torque to the engine.
+
+torque
+    NLG: "Torque" refers to the turning force
+    that causes rotation. It is usually
+    measured in foot-pounds or Newton-meters
+    (Nm).
