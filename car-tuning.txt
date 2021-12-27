@@ -9,3 +9,39 @@ carby
     It is sometimes colloquially shortened to
     carb in the UK and North America or carby
     in Australia.
+
+camshaft
+    NLG: "Camshaft" refers to the shaft that
+    connects the crankshaft to the valves in a
+    car engine. The camshaft is also known as
+    the "cam".
+
+crankshaft
+    NLG: "Crankshaft" refers to the part of an
+    engine that converts the reciprocating
+    motion of the piston into rotational
+    motion.
+    
+    The crankshaft is a rotating part itself,
+    called a "rotating axis".
+    
+    A "crankshaft" can be visually identified
+    by the presence of the crank disc, also
+    called the crank journal, on which the
+    piston rod travels.
+
+intake manifold
+    NLG: "Intake manifold" refers to the part
+    of an engine that distributes the fuel-air
+    mixture to the cylinders.
+    
+    It is usually cast from aluminum or cast
+    iron and is sometimes called a plenum
+    chamber.
+
+Single Overhead Cam
+    NLG: "Single Overhead Cam" refers to an
+    internal combustion engine with one
+    camshaft to open the valves (as opposed to
+    two camshafts as in a "twin overhead cam"
+    engine).

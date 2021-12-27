@@ -1075,6 +1075,7 @@ Pattern
 
     gli -F "\\.py" "from typing import"
 
+dunder
 dunder method    
 magic method
     [#Python]
