@@ -269,3 +269,8 @@ palindrome
     A word, phrase, or sequence that reads the
     same backward as forward, e.g., madam or
     nurses run.
+
+asynchony
+    The quality or state of being asynchronous
+
+    Absence or lack of concurrence in time.
