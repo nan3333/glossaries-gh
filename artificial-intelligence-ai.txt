@@ -446,3 +446,15 @@ best-of-n
     rejection method or "accept-reject
     algorithm" and is a type of exact
     simulation method.
+
+BDI
+belief-desire-intention
+software model
+    Developed for programming intelligent
+    agents.
+    
+    Superficially characterized by the
+    implementation of an agent's beliefs,
+    desires and intentions, it actually uses
+    these concepts to solve a particular
+    problem in agent programming.
