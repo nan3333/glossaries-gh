@@ -13,5 +13,5 @@ entity subgraph
 
     An example of an entity subgraph that
     builds on the previous example of a triple
-    is { [10x10 photobooks, instance of,
+    is { [210x10 photobooks, instance of,
     Nonprofit Organization] }. 

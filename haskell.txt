@@ -941,6 +941,11 @@ applicative
 applicative functor
     [Type class]
 
+    Something that specifies how to map a
+    function onto instances of itself
+    (instances that wrap basic values but also
+    instances that wrap functions).
+
     An intermediate structure between functors
     and monads. Applicative functors are the
     programming equivalent of lax monoidal
@@ -1449,6 +1454,13 @@ monad
 monad functor
     [type class]
 
+    Something that specifies how to map a
+    function onto instances of itself
+    (instances that wrap basic values but also
+    instances that wrap functions), but also
+    coerces both wrapped and unwrapped values
+    into wrapped.
+
     Like applicative functors, monads are
     functors with extra laws and operations.
 
@@ -1620,6 +1632,10 @@ Functor
     Example
     - <$>
       eff-map
+
+    Something that specifies how to map a
+    function onto instances of itself
+    (instances that wrap basic values).
 
     Things that can be mapped over, like
     lists, Maybes, trees, and such.
