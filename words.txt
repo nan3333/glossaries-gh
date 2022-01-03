@@ -13173,3 +13173,14 @@ revenant
     supposed revenant visitations were
     documented by English historians in the
     Middle Ages.
+
+rapacity
+    Aggressive greed.
+    "the rapacity of landowners seeking
+    greater profit from their property"
+
+extricate
+    Free (someone or something) from a
+    constraint or difficulty.
+    "he was trying to extricate himself from
+    official duties"
