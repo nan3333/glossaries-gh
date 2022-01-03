@@ -13184,3 +13184,8 @@ extricate
     constraint or difficulty.
     "he was trying to extricate himself from
     official duties"
+
+unbeknown
+unbeknownst
+    Without the knowledge of (someone).
+    "unbeknown to me, she made some enquiries"
