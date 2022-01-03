@@ -12721,3 +12721,8 @@ pantone
 maternal grandfather
 
 paternal grandfather
+
+pilot-scheme
+    A small-scale experiment or set of
+    observations undertaken to decide how and
+    whether to launch a full-scale project.
