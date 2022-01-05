@@ -1,4 +1,10 @@
 contract
+    [#solidity]
+
+    A collection of code (its functions) and
+    data (its state) that resides at a
+    specific address on the Ethereum
+    blockchain.
 
 require
 
@@ -14,9 +20,27 @@ abstract
 mapping
 
 view
+    [function]
+
+    It does not change the state, so it can be
+    executed on a single node instead of
+    having every node in the blockchain run
+    it.
+
+    This kind of function does not generate a
+    transaction and does not cost gas.
 
 override
 
 msg
 
 emit
+
+public
+    [keyword]
+
+    Makes variables accessible from other
+    contracts.
+
+        address public minter;
+        mapping (address => uint) public balances;

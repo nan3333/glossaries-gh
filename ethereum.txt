@@ -1,3 +1,23 @@
+zero address
+    A special Ethereum address, composed
+    entirely of zeros, that is specified as
+    the destination address of a contract
+    creation transaction.
+
+contract
+smart contract
+    A program that executes on the Ethereum
+    computing infrastructure.
+
+    It's a collection of code (its functions)
+    and data (its state) that resides at a
+    specific address on the Ethereum
+    blockchain.
+    
+    Smart contracts can define rules, like a
+    regular contract, and automatically
+    enforce them via the code.
+
 optimism
 optimistic ethereum
     https://www.optimism.io/
@@ -257,6 +277,7 @@ web3
       can pretty much program anything.
 
 ERC-20
+ERC20
     https://ethereum.org/en/developers/docs/standards/tokens/erc-20/
 
     One of the most significant tokens is
@@ -329,7 +350,10 @@ account
     An object containing an address, balance,
     nonce, and optional storage and code. An
     account can be a contract account or an
-    externally owned account (EOA).
+    EOA.
+
+EOA
+externally owned account
 
 address
     Most generally, this represents an EOA or
@@ -857,13 +881,16 @@ node
 
 nonce
     In cryptography, a value that can only be
-    used once. There are two types of nonce
-    used in Ethereum- an account nonce is a
-    transaction counter in each account, which
-    is used to prevent replay attacks; a
-    proof-of-work nonce is the random value in
-    a block that was used to satisfy the
-    proof-of-work.
+    used once.
+
+    There are two types of nonce used in
+    Ethereum:
+    - an account nonce is a transaction
+      counter in each account, which is used
+      to prevent replay attacks;
+    - a proof-of-work nonce is the random
+      value in a block that was used to
+      satisfy the proof-of-work.
 
 ommer (uncle) block
     When a miner finds a valid block, another
@@ -1022,19 +1049,6 @@ slot
     be proposed by a validator in the
     proof-of-stake system. A slot may be
     empty. 32 slots make up an epoch.
-
-smart contract
-    A program that executes on the Ethereum
-    computing infrastructure.
-
-    It's a collection of code (its functions)
-    and data (its state) that resides at a
-    specific address on the Ethereum
-    blockchain.
-    
-    Smart contracts can define rules, like a
-    regular contract, and automatically
-    enforce them via the code.
 
 Solidity
     A procedural (imperative) programming
@@ -1238,12 +1252,6 @@ wei
     The smallest denomination of ether. 1018
     wei = 1 ether.
 
-zero address
-    A special Ethereum address, composed
-    entirely of zeros, that is specified as
-    the destination address of a contract
-    creation transaction.
-
 Zero-knowledge rollup
 ZK-Rollup
 ZK Rollup
@@ -1368,3 +1376,23 @@ migration
     ewwlinks +/"migrations directory" "https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial/"
 
     $MYGIT/mullikine/semiosis-dapp/migrations
+
+OpenZeppelin
+    https://github.com/OpenZeppelin/openzeppelin-contracts
+
+totalSupply
+    [view]
+
+    Returns the amount of tokens in existence.
+
+    Returns the total supply of tokens in the
+    contract.
+
+        function totalSupply() external view returns (uint256);
+    
+    This value is returned using the most
+    common type in Ethereum, unsigned 256 bits
+    (256 bits is the native word size of the
+    EVM).
+    
+    This function is also a view.
