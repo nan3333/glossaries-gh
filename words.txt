@@ -13214,3 +13214,7 @@ semblance
     Resemblance; similarity.
     "it bears some semblance to the thing I
     have in mind"
+
+cogent
+    (of an argument or case) clear, logical,
+    and convincing.
