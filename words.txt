@@ -13204,3 +13204,13 @@ subside
     normal level.
     "the floods subside almost as quickly as
     they arise"
+
+semblance
+    The outward appearance or apparent form of
+    something, especially when the reality is
+    different.
+    "she tried to force her thoughts back into
+    some semblance of order"
+    Resemblance; similarity.
+    "it bears some semblance to the thing I
+    have in mind"
