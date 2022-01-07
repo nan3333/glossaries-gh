@@ -68,3 +68,47 @@ smart contract
     We found the Etherscan page for Yearn
     Finance by typing its ticker (YFI) into
     the search bar.
+
+account
+    There are two kinds of accounts in
+    Ethereum which share the same address
+    space:
+    - External accounts that are controlled by
+      public-private key pairs (i.e. humans),
+      and
+    - contract accounts which are controlled
+      by the code stored together with the
+      account.
+
+    The address of an external account is
+    determined from the public key while the
+    address of a contract is determined at the
+    time the contract is created (it is
+    derived from the creator address and the
+    number of transactions sent from that
+    address, the so-called “nonce”).
+    
+    Regardless of whether or not the account
+    stores code, the two types are treated
+    equally by the EVM.
+    
+    Every account has a persistent key-value
+    store mapping 256-bit words to 256-bit
+    words called storage.
+    
+    Furthermore, every account has a balance
+    in Ether (in “Wei” to be exact, 1 ether is
+    10**18 wei) which can be modified by
+    sending transactions that include Ether.
+
+external account
+    Controlled by public-private key pairs
+    (i.e. humans).
+
+    See: "account".
+
+contract account
+    An account controlled by the code stored
+    together with the account.
+
+    See: "account".

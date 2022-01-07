@@ -13189,3 +13189,18 @@ unbeknown
 unbeknownst
     Without the knowledge of (someone).
     "unbeknown to me, she made some enquiries"
+
+incautious
+    (of a person or an action) heedless of
+    potential problems or risks.
+    "he blames incautious borrowing during the
+    boom"
+
+subside
+    Become less intense, violent, or severe.
+    "I'll wait a few minutes until the storm
+    subsides"
+    (of water) go down to a lower or the
+    normal level.
+    "the floods subside almost as quickly as
+    they arise"
