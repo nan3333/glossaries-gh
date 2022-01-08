@@ -1,3 +1,15 @@
+conation
+    [#psychology]
+
+    The proactive (as opposed to habitual)
+    part of motivation that connects
+    knowledge, affect, drives, desires, and
+    instincts to behavior.
+    
+    The behavioral basis of attitudes is
+    sometimes referred to as the conative
+    component.
+
 counterfactual thinking
     A concept in psychology that involves the
     human tendency to create possible

@@ -13229,3 +13229,21 @@ columniation
 columniate
     The employment or the arrangement of
     columns in a structure.
+
+interject
+    Say (something) abruptly, especially as an
+    aside or interruption.
+    "she interjected the odd question here and
+    there"
+
+conation
+    [#psychology]
+
+    The proactive (as opposed to habitual)
+    part of motivation that connects
+    knowledge, affect, drives, desires, and
+    instincts to behavior.
+    
+    The behavioral basis of attitudes is
+    sometimes referred to as the conative
+    component.
