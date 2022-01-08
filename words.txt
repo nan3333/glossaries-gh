@@ -13224,3 +13224,8 @@ disaffected
     authority or a system of control.
     "a military plot by disaffected elements
     in the army"
+
+columniation
+columniate
+    The employment or the arrangement of
+    columns in a structure.
