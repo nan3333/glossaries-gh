@@ -8,3 +8,10 @@ Francophilia
     That affinity may include France itself or
     its history, language, cuisine,
     literature, etc.
+
+Beaujolais
+    A type of red wine that comes from the
+    region of eastern France called
+    Beaujolais.
+
+    "...a fruity Beaujolais."
