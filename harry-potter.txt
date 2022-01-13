@@ -4,6 +4,12 @@ occlumency
     https://harrypotter.fandom.com/wiki/Occlumency
 
 rememberall
+    A magical large marble-sized glass ball
+    that contained smoke which tureds red when
+    its owner or user had forgotten something.
+
+    It turned clear once whatever was
+    forgotten was remembered.
 
 aparecium
     The incantation to magically reveal hidden
