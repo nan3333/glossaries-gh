@@ -1,3 +1,22 @@
+metaspacetime
+    [#imaginary]
+    [#reality]
+
+    The concept of metaspacetime is spacetime
+    plus plausible continuations of it
+    stemming from any point in the spacetime.
+
+    It is similar to the notion of the
+    multiverse.
+    
+    However, where the term multiverse would
+    usually mean possible realities stemming
+    from this reality, or stemming from any
+    point in the observer's worldline,
+    metaspacetime encapsulates all potential
+    multiverses from from all observers at any
+    point in their worldlines.
+
 transultimate
     [#imaginary]
 
