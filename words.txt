@@ -13292,3 +13292,5 @@ eldritch
     horror.
 
 disgression
+
+protestations

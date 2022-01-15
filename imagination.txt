@@ -1,3 +1,7 @@
+imemory
+imemories
+    Imaginary memories.
+
 intellection
     The action or process of understanding, as
     opposed to imagination.
