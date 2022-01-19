@@ -1,3 +1,14 @@
+indictment
+    A criminal accusation that an individual
+    has committed a crime.
+    
+    In jurisdictions that use the concept of
+    felonies, the most serious criminal
+    offence is a felony; jurisdictions that do
+    not use the felonies concept often use
+    that of an indictable offence, an offence
+    that requires an indictment.
+
 subpoena
 witness summons
     A writ issued by a government agency, most
