@@ -13141,7 +13141,7 @@ nonchalant
 counterpoint
     Something that contrasts, and to
     counterpoint is to provide a contrast.
-    
+
     When a composer writes a piece of music
     using voices that follow different rhythms
     or pitches but ultimately come together
@@ -13161,12 +13161,12 @@ revenant
     An animated corpse that is believed to
     have revived from death to haunt the
     living.
-    
+
     The word revenant is derived from the Old
     French word, revenant, the "returning"
     (see also the related French verb revenir,
     meaning "to come back").
-    
+
     Revenants are part of the legend of
     various cultures, including Old Irish
     Celtic and Norse mythology, and stories of
@@ -13243,7 +13243,7 @@ conation
     part of motivation that connects
     knowledge, affect, drives, desires, and
     instincts to behavior.
-    
+
     The behavioral basis of attitudes is
     sometimes referred to as the conative
     component.
@@ -13255,11 +13255,11 @@ brigand
 brigandage
     The life and practice of highway robbery
     and plunder.
-    
+
     It is practiced by a brigand, a person who
     usually lives in a gang and lives by
     pillage and robbery.
-    
+
     The word brigand entered English as
     brigant via French from Italian as early
     as 1400.
@@ -13274,8 +13274,8 @@ eldritch
     Unearthly, alien, supernatural, weird,
     spooky, eerie.
 
-    Strange or unearthly; eerie. 
-    
+    Strange or unearthly; eerie.
+
     The word is about 500 years old and
     believed to have come from Middle English
     "elfriche," meaning "fairyland." The two
@@ -13291,6 +13291,38 @@ eldritch
     closely associated with Lovecraftian
     horror.
 
-disgression
+digression
+    A section of a composition or speech that
+    marks a temporary shift of subject; the
+    digression ends when the writer or speaker
+    returns to the main topic.
+
+    Digressions can be used intentionally as a
+    stylistic or rhetorical device.
 
 protestations
+    An emphatic declaration in response to
+    doubt or accusation.
+    "her protestations of innocence were in
+    vain"
+
+    An objection or protest.
+    "he was warned by the referee for his loud
+    protestations"
+
+lambert
+    The lambert is a non-SI metric unit of
+    luminance named for Johann Heinrich
+    Lambert, a Swiss mathematician, physicist
+    and astronomer.
+
+    A related unit of luminance, the foot-
+    lambert, is used in the lighting, cinema
+    and flight simulation industries.
+
+    The SI unit is the candela per square
+    metre.
+
+espouses
+    Adopt or support (a cause, belief, or way
+    of life).
