@@ -283,3 +283,17 @@ literate programming
     emphasizes the importance of the reading
     and writing of code over the importance of
     the design of the code.
+
+imaginary multiplexing
+    When spawning a chatbot which is named,
+    for example, "All of the Mad Hatter's Tea
+    Party crew", the chatbot may have multiple
+    personalities.
+
+    In some sense, a group of chatbots has
+    been spawned, yet they chatter out of a
+    single, 'real' chatbot.
+
+    This isn't real multiplexing, but it could
+    be considered an example of imaginary
+    multiplexing.
