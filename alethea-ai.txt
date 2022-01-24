@@ -1,3 +1,37 @@
+Narrative Industrial Complex
+
+industrial complex
+    A socioeconomic concept wherein businesses
+    become entwined in social or political
+    systems or institutions, creating or
+    bolstering a profit economy from these
+    systems.
+    
+    Such a complex is said to pursue its own
+    financial interests regardless of, and
+    often at the expense of, the best
+    interests of society and individuals.
+    
+    Businesses within an industrial complex
+    may have been created to advance a social
+    or political goal, but mostly profit when
+    the goal is not reached.
+    
+    The industrial complex may profit
+    financially from maintaining socially
+    detrimental or inefficient systems.
+
+Truth Decay
+    A blurring of the line between opinion and
+    fact. the increasing relative volume, and
+    resulting influence, of opinion and
+    personal experience over fact.
+
+    Declining trust in formerly respected
+    sources of factual information.
+
+personality prompt
+
 personality pod
     In June 2021, Alethea AI partnered with
     the auction house Sotheby’s and the artist
@@ -21,3 +55,27 @@ personality pod
     that a Personality Pod encapsulates the
     soul of a truly decentralized, unique, and
     intelligent digital being.
+
+Broadcast
+    [Intelligence Level 2 AI Service]
+    [AI Service]
+
+    Enables the iNFTs to create short Video
+    Messages.
+
+Real-time Interactivity
+    With an Intelligence Level 3 for instance,
+    can utilize the powerful AI Service of
+    Real-time Interactivity.
+    
+    This AI Service enables an iNFT to scale
+    his or her outreach and interact in real-
+    time with others, for a small fee.
+
+Intelligence Mining
+    Participation in gamified dataset creation
+    mechanisms.
+
+Battle of Minds
+    Two iNFTs engaged in an Intelligence
+    Mining game.
