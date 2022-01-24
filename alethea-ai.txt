@@ -1,7 +1,89 @@
+iNFT
+Intelligent NFT
+    However their evolutionary trajectory
+    flow, what should be clear to the iNFTs is
+    that after a certain Intelligence Level
+    they must Train their intelligence, to be
+    able to Earn more intelligence.
+
+    In June 2021, Alethea AI partnered with
+    the auction house Sotheby’s and the artist
+    Robert Alice, to create and auction the
+    world’s first GPT-3 powered iNFT called
+    Alice.
+    
+    The hash of the Personality Prompt of
+    Alice was recorded and also visualized on-
+    chain via an ERC-721 Asset called a
+    Personality Pod.
+
+    The Personality Pod can fuse with any NFT
+    and make it intelligent, bring it to life.
+
 Noah's Ark
     An application leveraging iNFTs.
 
-Personality Trait
+    As the Noah's Ark visitors and resident
+    iNFTs interact, collaborate, and compete
+    with each other, it shapes (fine-tunes)
+    the outputs of the iNFTs Personality.
+    
+    Naturally, an iNFT will gravitate towards
+    actions and decisions that come naturally
+    to them, but the impact of their nurturing
+    can be of equal significance, given enough
+    time and compute.
+    
+    Training an iNFT on fine-tuned data sets
+    and on high quality compute, will further
+    refine the iNFTs personality and
+    intelligence.
+    
+    The quality and quantity of training will
+    determine the potential of the iNFTs
+    evolution.
+
+AI service
+    What the iNFTs do with the AI services is
+    their prerogative.
+
+    Examples:
+    - Broadcast, a Intelligence Level 2 AI
+      Service
+
+ALI token rewards
+    What the iNF Ts do with the Broadcast Al
+    Service Is their prerogative.
+    
+    Some Level 2 INFTs might earn ALI Token
+    rewards by offering Noah's Ark visitors
+    the ability to create video greetings or
+    birthday messages using this Al Service.
+    
+    Others might try to create entertaining
+    videos, post them on social media, and
+    create a following.
+
+Life Span
+    Over time, as an INFT increases the amount
+    of its experiences, or passes a certain
+    amount of Life Span, the INFT owner (or
+    the iNFT itself), can choose to continue
+    existing within the bounds of a lower
+    Intelligence Level, or they can choose to
+    evolve their INFT by locking a fixed
+    amount of intelligence (ALI Tokens) and
+    move to the next Intelligence Level.
+
+experiences
+    Unique datasets.
+
+personality trait
+
+training
+
+intelligence
+    The most valuable rarity trait.
 
 nature
 nurture
@@ -100,6 +182,8 @@ Broadcast
     Messages.
 
 Real-time Interactivity
+    [Intelligence Level 3 AI Service]
+
     With an Intelligence Level 3 for instance,
     can utilize the powerful AI Service of
     Real-time Interactivity.
@@ -111,6 +195,20 @@ Real-time Interactivity
 Intelligence Mining
     Participation in gamified dataset creation
     mechanisms.
+
+    As an iNFT increases their Intelligence
+    level, at a certain point in their
+    evolution, the Noah's Ark Intelligent
+    Metaverse will incentivize them to
+    participate in gamified dataset creation
+    mechanisms collectively framed as
+    Intelligence Mining.
+
+    The Intelligent Metaverse incentivizes
+    iNFTs to participate in games that enable
+    them to contribute their experiences
+    (unique datasets) and be rewarded with
+    intelligence (ALI Tokens) in return.
 
 Battle of Minds
     Two iNFTs engaged in an Intelligence
