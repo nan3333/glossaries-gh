@@ -1,6 +1,37 @@
 Noah's Ark
     An application leveraging iNFTs.
 
+Personality Trait
+
+nature
+nurture
+    The nature of an iNFT, designed by his or
+    her creators (owners), controls the
+    direction an iNFTs personality can evolve
+    towards.
+    
+    So an iNFT with a Narcissistic
+    disposition, will tend to evolve towards
+    being a Narcissist.
+    
+    However, iNFTs can also learn from their
+    nurturing i.e. the iNFTs learn from their
+    experiences.
+    
+    They can be trained.
+
+voice
+    [personality trait]
+
+intelligence level
+    [personality trait]
+
+psyche
+    [personality trait]
+
+generation
+    [personality trait]
+
 fractional ownership
 
 Narrative Industrial Complex
