@@ -13362,3 +13362,21 @@ lambert
 espouses
     Adopt or support (a cause, belief, or way
     of life).
+
+auspices
+under the auspices
+    With the help and support of (someone or
+    something) The donation was made under the
+    auspices of the local historical society.
+    
+    The research is being done under the
+    auspices of the federal government.
+
+grift
+    Engage in petty or small-scale swindling.
+    "how long have you been grifting?"
+
+    A petty or small-scale swindle.
+    "a Sixth Avenue palmistry grift"
+
+    "Get on the grift".

@@ -1,3 +1,36 @@
+https://www.pcmag.com/encyclopedia/term/permissionless
+
+permissionless
+permissionless blockchain
+    Not requiring authorization.
+    
+    Permissionless often refers to public
+    blockchains that allow anyone to
+    participate in validating and mining
+    transactions as well as using the system
+    to buy, sell and trade assets.
+    
+    Contrast with permissioned blockchain.
+    
+    See blockchain, private blockchain and
+    crypto glossary.
+
+permissioned
+permissioned blockchain
+consortium blockchain
+private blockchain
+    A private blockchain that requires vetting
+    to become a validator, miner or, in many
+    cases, a user.
+    
+    Uses the blockchain architecture but is
+    controlled by an organization.
+    
+    Contrast with permissionless.
+    
+    See blockchain, private blockchain and
+    crypto glossary.
+
 TDA
 Token Distribution Auction
     During the TDA, the weights of both the
