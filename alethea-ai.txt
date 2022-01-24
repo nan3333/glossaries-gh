@@ -1,0 +1,23 @@
+personality pod
+    In June 2021, Alethea AI partnered with
+    the auction house Sotheby’s and the artist
+    Robert Alice, to create and auction the
+    world’s first GPT-3 powered iNFT called
+    Alice.
+    
+    The hash of the Personality Prompt of
+    Alice was recorded and also visualized on-
+    chain via an ERC-721 Asset called a
+    Personality Pod.
+    
+    A Personality Pod, unsurprisingly, is a
+    necessary component in the creation of an
+    iNFT.
+    
+    The Personality Pod can fuse with any NFT
+    and make it intelligent, bring it to life.
+    
+    It is not far-fetched, therefore, to say
+    that a Personality Pod encapsulates the
+    soul of a truly decentralized, unique, and
+    intelligent digital being.
