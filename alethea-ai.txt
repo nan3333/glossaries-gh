@@ -1,3 +1,33 @@
+ERC-721
+EIP-721: 
+Non-Fungible Token Standard
+NFT
+    [Standard]
+    
+    A standard interface for non-fungible
+    tokens, also known as deeds.
+
+    https://eips.ethereum.org/EIPS/eip-721
+
+Train-to-Earn model
+    However their evolutionary trajectory
+    flow, what should be clear to the iNFTs is
+    that after a certain Intelligence Level
+    they must Train their intelligence, to be
+    able to Earn more intelligence.
+
+    This Train-to-Earn model will enable iNFTs
+    to kickstart their evolution and achieve a
+    virtuous cycle of ever improving
+    intelligence.
+
+portal
+    At a certain point in their evolution,
+    some iNFTs might even possess enough
+    intelligence to use a Portal (ERC-721
+    asset) and create a metaverse of their
+    own.
+
 iNFT
 Intelligent NFT
     However their evolutionary trajectory
