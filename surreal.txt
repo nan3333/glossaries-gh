@@ -1,3 +1,12 @@
+Muse
+    The guiding spirit that is thought to
+    inspire artists; source of genius or
+    inspiration (noun).
+
+Naturalism
+    Faithful adherence to nature; factual or
+    realistic representation.
+
 phantasmagoria
     A sequence of real or imaginary images
     like those seen in a dream.
@@ -26,7 +35,7 @@ automatism
 
     Strategies of writing or creating art that
     aimed to access the unconscious mind.
-    
+
     The Surrealists, in particular,
     experimented with automatist techniques of
     writing, drawing, and painting.
@@ -76,13 +85,13 @@ abstract art
     reimagines imagery as a study of the
     relationship between shape, form, color,
     and line.
-    
+
     Abstraction occurs on a continuum,
     including the fractured-yet-recognizable
     forms of Cubism and the totally
     nonpictorial nature of Abstract
     Expressionism.
-    
+
     A term generally used to describe art that
     is not representational or based on
     external reality or nature.
@@ -92,7 +101,7 @@ expressionism
     and painting, originating in Northern
     Europe around the beginning of the 20th
     century.
-    
+
     Its typical trait is to present the world
     solely from a subjective perspective,
     distorting it radically for emotional
@@ -103,13 +112,13 @@ abstract expressionism
     1940s and 1950s, Abstract Expressionism
     was the first to place New York City at
     the forefront of international modern art.
-    
+
     The associated artists developed greatly
     varying stylistic approaches, but shared a
     commitment to an abstract art that
     powerfully expresses personal convictions
     and profound human values.
-    
+
     They championed bold, gestural abstraction
     in all mediums, particularly large painted
     canvases.
@@ -117,12 +126,12 @@ abstract expressionism
 abstraction
     Non-representational works of art that do
     not depict scenes or objects in the world
-    or have discernable subject matter. 
+    or have discernable subject matter.
 
 appropriation
     As an artistic strategy, the intentional
     borrowing, copying, and alteration of
-    preexisting images, objects, and ideas. 
+    preexisting images, objects, and ideas.
 
 Avant-garde
     French for “advanced guard,” this term is
@@ -152,7 +161,7 @@ biomorphic
 brushwork
     Brushwork refers to the way a painter
     applies paint to a surface.
-    
+
     It is typically characterized by the size,
     texture, and precision of the strokes.
 
@@ -167,7 +176,7 @@ chiaroscuro
     the use of strong contrasts between
     luminosity and shadow to achieve a sense
     of volume and dimensionality.
-    
+
     This unique technique was developed during
     the Italian Renaissance by Leonard da
     Vinci, the Baroque period by Caravaggio,
@@ -178,19 +187,19 @@ Dada
     in response to the disasters of World War
     I (1914– 18) and to an emerging modern
     media and machine culture.
-    
+
     Dada artists sought to expose accepted and
     often-repressive conventions of order and
     logic, favoring strategies of chance,
     spontaneity, and irreverence.
-    
+
     Dada artists experimented with a range of
     mediums, from collage and photomontage to
     everyday objects and performance,
     exploding typical concepts of how art
     should be made and viewed and what
     materials could be used.
-    
+
     An international movement born in neutral
     Zurich and New York, Dada rapidly spread
     to Berlin, Cologne, Hannover, Paris, and
@@ -202,7 +211,7 @@ Exquisite Corpse
     paper, folds it to conceal his or her
     contribution, then passes it to the next
     player for a further contribution.
-    
+
     The game gained popularity in artistic
     circles during the 1920s, when it was
     adopted as a technique by artists of the
@@ -212,6 +221,6 @@ Figurative
     A work of art is considered figurative
     when its subject matter is
     representational.
-    
+
     Representing a form or figure in art that
     retains clear ties to the real world.
