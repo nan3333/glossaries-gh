@@ -13401,3 +13401,15 @@ convivialism
 sagacity
     The quality of being sagacious.
     "a man of great political sagacity"
+
+pavlovian
+classical conditioning
+    A behavioral procedure in which a
+    biologically potent stimulus is paired
+    with a previously neutral stimulus.
+
+transgressive
+    Involving a violation of moral or social
+    boundaries.
+    "her experiences of transgressive love
+    with both sexes"
