@@ -1,3 +1,13 @@
+palantír
+    One of several indestructible crystal
+    balls from J.R.R. Tolkien's fantasy novel
+    The Lord of the Rings.
+    
+    From Quenya palan, 'far; tir, 'watch
+    over', the palantíri were used for
+    communication and to see events in other
+    parts of Arda, whether past or future.
+
 pensieve
     NLG: ""Pensieve" refers to an object used
     by a witch or wizard to examine memories
