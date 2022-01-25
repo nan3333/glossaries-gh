@@ -1,5 +1,5 @@
 ERC-721
-EIP-721: 
+EIP-721
 Non-Fungible Token Standard
 NFT
     [Standard]
@@ -22,11 +22,12 @@ Train-to-Earn model
     intelligence.
 
 portal
+    [ERC-721 asset]
+
     At a certain point in their evolution,
     some iNFTs might even possess enough
-    intelligence to use a Portal (ERC-721
-    asset) and create a metaverse of their
-    own.
+    intelligence to use a Portal and create a
+    metaverse of their own.
 
 iNFT
 Intelligent NFT
@@ -243,3 +244,55 @@ Intelligence Mining
 Battle of Minds
     Two iNFTs engaged in an Intelligence
     Mining game.
+
+Iconography
+    Refers to the subject matter, or images,
+    used to convey meaning or communicate a
+    message in a work of art.
+    
+    Subject matter in visual art, often
+    adhering to particular conventions of
+    artistic representation, and imbued with
+    symbolic meanings.
+
+Impressionism
+    A label applied to a loose group of mostly
+    French artists who positioned themselves
+    outside of the official Salon exhibitions
+    organized by the Académie des Beaux-Arts.
+    
+    Rejecting established styles, the
+    Impressionists began experimenting in the
+    early 1860s with a brighter palette of
+    pure unblended colors, synthetic paints,
+    sketchy brushwork, and subject matter
+    drawn from their direct observations of
+    nature and of everyday life in and around
+    Paris.
+    
+    They worked out of doors, the better to
+    capture the transient effects of sunlight
+    on the scenes before them.
+    
+    With their increased attention to the
+    shifting patterns of light and color,
+    their brushwork became rapid, broken into
+    separate dabs that better conveyed the
+    fleeting quality of light.
+    
+    In 1874, they held their first group
+    exhibition in Paris.
+    
+    Most critics derided their work,
+    especially Claude Monet’s Impression,
+    Sunrise (1872), which was called a sketch
+    or impression, rather than a finished
+    painting.
+    
+    From this criticism, they were mockingly
+    labeled Impressionists.
+    
+    They continued exhibiting together until
+    1886, at which point many of the core
+    artists were taking their work in new
+    directions.
