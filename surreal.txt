@@ -1,9 +1,9 @@
-Muse
+muse
     The guiding spirit that is thought to
     inspire artists; source of genius or
     inspiration (noun).
 
-Naturalism
+naturalism
     Faithful adherence to nature; factual or
     realistic representation.
 
@@ -133,7 +133,7 @@ appropriation
     borrowing, copying, and alteration of
     preexisting images, objects, and ideas.
 
-Avant-garde
+avant-garde
     French for “advanced guard,” this term is
     used in English to describe a group that
     is innovative, experimental, and inventive
@@ -141,7 +141,7 @@ Avant-garde
     in the realms of culture, politics, and
     the arts.
 
-Baroque
+baroque
     A term meaning extravagant, complex;
     applied to a style in art and architecture
     developed in Europe from the early
@@ -182,7 +182,7 @@ chiaroscuro
     Vinci, the Baroque period by Caravaggio,
     and the Dutch Golden Age by Rembrandt.
 
-Dada
+dada
     An artistic and literary movement formed
     in response to the disasters of World War
     I (1914– 18) and to an emerging modern
@@ -205,7 +205,7 @@ Dada
     to Berlin, Cologne, Hannover, Paris, and
     beyond.
 
-Exquisite Corpse
+exquisite corpse
     A game in which each participant takes
     turns writing or drawing on a sheet of
     paper, folds it to conceal his or her
@@ -217,10 +217,247 @@ Exquisite Corpse
     adopted as a technique by artists of the
     Surrealist movement.
 
-Figurative
+figurative
     A work of art is considered figurative
     when its subject matter is
     representational.
 
     Representing a form or figure in art that
     retains clear ties to the real world.
+
+foreground
+    The foreground of a work of art is the
+    part of the composition that is closest to
+    the viewer.
+
+    It is typically discernible from the
+    background, which appears to be further
+    away.
+
+foreshortening
+    A technique in which an artist distorts
+    perspective to evoke an illusion of depth.
+
+    Foreshortened subjects often appear to
+    recede into the picture plane.
+
+found objects
+    An object—often utilitarian, manufactured
+    or naturally occurring—that was not
+    originally designed for an artistic
+    purpose but has been repurposed in an
+    artistic context.
+
+    Frottage A technique that involves rubbing
+    pencil, graphite, chalk, crayon, or
+    another medium onto a
+
+genre
+    A category of artistic practice having a
+    particular form, content, or technique.
+    Examples of genres include:
+    - landscape, and
+    - still life.
+
+iconography
+    Refers to the subject matter, or images,
+    used to convey meaning or communicate a
+    message in a work of art.
+
+    Subject matter in visual art, often
+    adhering to particular conventions of
+    artistic representation, and imbued with
+    symbolic meanings.
+
+in situ
+in-situ
+    In its original position or place.
+
+    "I love in-situ in everyday objects.."
+
+juxtaposition
+    An act of placing things close together or
+    side by side for comparison or contrast.
+
+    Manifesto A public declaration, often
+    political in nature, of a group or
+    individual’s principles, belie
+
+medium
+    A medium is the material used to create
+    art.
+
+    Examples of mediums are watercolor paint,
+    pastel, clay, and charcoal.
+
+    The materials used to create a work of
+    art, and the categorization of art based
+    on the materials used (for example,
+    painting [or more specifically,
+    watercolor], drawing, sculpture).
+
+motif
+    In the visual arts, a motif is an element
+    of the iconography.
+
+    In paintings, a motif can refer to any
+    pictorial feature of the composition.
+
+    In the decorative arts and architecture,
+    it often denotes a recognizable symbol
+    that repeats.
+
+    A distinctive and often recurring feature
+    in a composition.
+
+muse
+    The guiding spirit that is thought to
+    inspire artists; source of genius or
+    inspiration (noun).
+
+naturalism
+    Faithful adherence to nature; factual or
+    realistic representation.
+
+neo-impressionism
+    A term coined by French art critic Fénéon
+    in 1886, applied to an avant-garde art
+    movement that flourished principally in
+    France from 1886 to 1906.
+
+    Led by the example of Georges Seurat, the
+    Neo-Impressionists renounced the
+    spontaneity of Impressionism in favor of a
+    measured painting technique grounded in
+    science and the study of optics.
+
+    Neo-Impressionists came to believe that
+    separate touches of pigment result in a
+    greater vibrancy of color than is achieved
+    by the conventional mixing of pigments on
+    the palette.
+
+pentimento
+    Pentimento (“repentance” in Italian)
+    refers to the presence of evidence that an
+    artist has painted over a previously
+    rendered subject.
+
+    In The Old Guitarist by Pablo Picasso, for
+    example, the vague outline of a woman’s
+    face is apparent beneath the final
+    brushstrokes.
+
+perspective
+    The representation of 3-dimensional depth
+    and space on a flat surface.
+
+    There are two main types of perspective:
+    linear and atmospheric.
+
+    Linear perspective employs intersecting
+    lines and vanishing points as a means to
+    make objects appear far away.
+
+    According to Leonardo da Vinci in A
+    Treatise on Painting, atmospheric
+    perspective, on the other hand,
+    illustrates the idea that “colors become
+    weaker in proportion to their distance
+    from the person who is looking at them”
+    through tonal changes.
+
+oil paint
+    A paint in which pigment is suspended in
+    oil, which dries on exposure to air.
+
+old master
+    A distinguished European artist of the
+    period from about 1500 to the early 1700s,
+    especially one of the great painters of
+    this period, e.g. Michelangelo.
+
+paranoiac critical method
+    Emerging from psychological methods, a
+    creative process, developed by Surrealist
+    artist Salvador Dalí in the 1930s, for the
+    exploration of the creative potential of
+    dream imagery and subconscious thoughts.
+
+post-impressionism
+    A term coined in 1910 by the English art
+    critic and painter Roger Fry and applied
+    to the reaction against the naturalistic
+    depiction of light and color in
+    Impressionism, led by Paul Cézanne, Paul
+    Gauguin, Vincent van Gogh, and Georges
+    Seurat.
+
+    Though each of these artists developed his
+    own, distinctive style, they were unified
+    by their interest in expressing their
+    emotional and psychological responses to
+    the world through bold colors and
+    expressive, often symbolic images.
+
+    Post-Impressionism can be roughly dated
+    from 1886 to 1905.
+
+subconscious (in technical use, Unconscious)
+    In popular writing about psychology, the
+    division of the mind containing the sum of
+    all thoughts, memories, impulses, desires,
+    feelings, etc., that are not subject to a
+    person’s perception or control but that
+    often affect conscious thoughts and
+    behavior (noun).
+
+    The Surrealists derived much inspiration
+    from psychoanalyst Sigmund Freud’s
+    theories on dreams and the workings of the
+    subconscious mind.
+
+surrealism
+    An artistic and literary movement led by
+    French poet André Breton from 1924 through
+    World War II.
+
+    Drawing on the psychoanalytic theories of
+    Sigmund Freud, the Surrealists sought to
+    overthrow what they perceived as the
+    oppressive rationalism of modern society
+    by accessing the surréalisme (superior
+    reality) of the subconscious.
+
+    In his 1924 “Surrealist Manifesto,” Breton
+    argued for an uninhibited mode of
+    expression derived from the mind’s
+    involuntary mechanisms, particularly
+    dreams, and called on artists to explore
+    the uncharted depths of the imagination
+    with radical new methods and visual forms.
+
+    These ranged from abstract “automatic”
+    drawings to hyper-realistic painted scenes
+    inspired by dreams and nightmares to
+    uncanny combinations of materials and
+    objects.
+
+symbol
+    A form, sign, or emblem that represents
+    something else, often something
+    immaterial, such as an idea or emotion.
+
+tone
+    Tone refers to the lightness or darkness
+    of a particular color.
+
+trompe l’oeil
+    In French, trompe l’oeil means “deceive
+    the eye.” A technique that creates optical
+    illusions of three-dimensionality by
+    employing eye-catching lifelike imagery.
+
+venus
+    The godess of love and beauty in Roman
+    mythology.

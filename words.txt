@@ -13390,3 +13390,10 @@ pageant
     the town's pageant"
 
     A beauty contest.
+
+conviviality
+convivialism
+    The ability of individuals to interact
+    creatively and autonomously with others
+    and their environment to satisfy their own
+    needs.
