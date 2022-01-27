@@ -13422,3 +13422,18 @@ inviolable
 
     Secure from assault or trespass :
     unassailable inviolable borders.
+
+spitball
+    Throw out (a suggestion) for discussion.
+    "I'm just spitballing a few ideas"
+
+concession
+concession agreement
+    [Contract]
+
+    A grant of rights, land or property by a
+    government, local authority, corporation,
+    individual or other legal entity.
+    
+    Public services such as water supply may
+    be operated as a concession.
