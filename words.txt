@@ -13488,3 +13488,18 @@ condescending
     patronizing superiority.
     "she thought the teachers were arrogant
     and condescending"
+
+insinuate
+    Suggest or hint (something bad) in an
+    indirect and unpleasant way.
+    "he was insinuating that I had no
+    self-control"
+
+    Slide (oneself or a thing) slowly and
+    smoothly into a particular place.
+    "I insinuated my shoulder in the gap"
+
+depose
+    Remove from office suddenly and
+    forcefully.
+    "he had been deposed by a military coup"
