@@ -1,3 +1,14 @@
+service mesh
+    Example: the open source project Istio.
+
+    A way to control how different parts of an
+    application share data with one another.
+    
+    Unlike other systems for managing this
+    communication, a service mesh is a
+    dedicated infrastructure layer built right
+    into an app.
+
 mesh networking
 meshnet
 mesh network
