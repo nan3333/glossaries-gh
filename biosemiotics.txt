@@ -21,3 +21,10 @@ Biosemiotics
     that semiosis (sign process, including
     meaning and interpretation) is one of its
     immanent and intrinsic features.
+
+semiosphere
+    Falls under biosemiotics and is an
+    abstract, epiphenomenal, dialogic membrane
+    of semiosis, in which sign processes
+    operate under the set of all
+    interconnected Umwelt.

@@ -1,3 +1,31 @@
+confabulation
+    Confabulation is the creation of false
+    memories in the absence of intentions of
+    deception.
+    
+    Individuals who confabulate have no
+    recognition that the information being
+    relayed to others is fabricated.
+
+semiosphere
+    Falls under biosemiotics and is an
+    abstract, epiphenomenal, dialogic membrane
+    of semiosis, in which sign processes
+    operate under the set of all
+    interconnected Umwelt.
+
+code
+    A set of cultural conventions,
+    contemporary sub-codes, and themes used to
+    communicate meaning.
+    
+    The most common is one's spoken language,
+    but the term can also be used to refer to
+    any narrative form: consider the color
+    scheme of an image (e.g. red for danger),
+    or the rules of a board game (e.g. the
+    military signifiers in chess).
+
 bricoleur
     The initiator of the bricolage.
 
@@ -295,6 +323,10 @@ signified
 
 interpretant
 interpretance
+    Interpretant is a subject / sign that
+    refers to the same object as another sign,
+    transitively.
+
     The effect of a sign on someone who reads
     or comprehends it.
     

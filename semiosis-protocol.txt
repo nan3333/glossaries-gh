@@ -1,3 +1,101 @@
+semiotic function
+    [#human development]
+    [human ability]
+
+    The semiotic function is the ability to
+    create representations.
+
+    Thanks to the semiotic function, we’ve
+    been able to communicate in such a way
+    that we created a culture that facilitated
+    the survival and advancement of our
+    species.
+    
+    It’s based on the use of signs and symbols
+    that have distinct signifieds and
+    signifiers.
+    
+    But how does it actually work? A great
+    example of the semiotic function that can
+    help you understand it better is a
+    painting by the famous French painter,
+    Magritte.
+    
+    He painted a pipe and wrote the words
+    “Ceci n’est pas une pipe” (this is not a
+    pipe) below it.
+    
+    He wanted to make it clear that although
+    the painting certainly evoked a pipe, it
+    wasn’t actually a pipe.
+    
+    It is, in this case, a symbolic
+    representation of a pipe.
+    
+    In this example, Magritte used the
+    semiotic function to make art.
+    
+    However, human beings use symbolic
+    representations every day.
+
+object
+    [semiosis protocol]
+
+    The object is the generation that the user
+    desires, in their mind.
+
+promptee
+    The Pen.el peer address.
+
+signifier
+    [#semiosis protocol]
+    [sign]
+
+    An sNFT together with filled parameters.
+
+    Hard-coded parameters:
+    - prompt function name
+      - public
+    - promptee
+      - may be private (default)
+        - i.e. a Pen.el server url
+      - may be public
+        - i.e. OpenAI API endpoint
+    
+    User request / semiotic function
+    parameters:
+    - prompt function name and arguments
+      (combined into a single parameter)
+
+semiotic function
+sNFT
+Semiotic NFT
+    [#semiosis protocol]
+
+    A semiotic function is an abstraction over
+    a prompt function.
+
+    It happens between two interlocutors.
+
+    It is a sign which may be used to signify
+    what you want (the object).
+
+    The return value is the generation or
+    interpretant; A sign from the opposing
+
+    interlocutor that refers to the 
+
+    signified
+
+    It's a simplified prompt function which
+    only contains the parameters:
+    - signifier
+    - function name
+    - function argaments arguments
+
+    And what is returned is the:
+    - generation (interpretant)
+
 Perlocutionary Protocol
 PP
 
