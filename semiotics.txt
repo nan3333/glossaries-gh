@@ -336,6 +336,38 @@ interpretance
     "effect" of the process of semeiosis or
     signification.
 
+    Peirce delineates three types of
+    interpretants:
+    - the immediate,
+    - the dynamical, and
+    - the final or normal. 
+
+Immediate Interpretant
+    "The Immediate Interpretant consists in
+    the Quality of the Impression that a sign
+    is fit to produce, not to any actual
+    reaction."
+
+Dynamical Interpretant
+    "[The] Dynamical Interpretant consists in
+    direct effect actually produced by a Sign
+    upon an Interpreter of it. [---] [The]
+    Dynamical Interpretant is that which is
+    experienced in each act of Interpretation
+    and is different in each from that of the
+    other... [it] is a single actual event."
+
+Final or Normal Interpretant
+    "[The] Final Interpretant is [...] the
+    effect the Sign would produce in any mind
+    upon which the circumstances should permit
+    it to work out its full effect. [---]
+    ...[It] is the one Interpretative result
+    to which every Interpreter is destined to
+    come if the Sign is sufficiently
+    considered. [---] The Final Interpretant
+    is that toward which the actual tends."
+
 semiotic function
 the semiotic function
     The ability to create representations.
