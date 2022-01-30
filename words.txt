@@ -13503,3 +13503,17 @@ depose
     Remove from office suddenly and
     forcefully.
     "he had been deposed by a military coup"
+
+collectivism
+    The practice or principle of giving a
+    group priority over each individual in it.
+    "the Church has criticized the great
+    emphasis placed on individualism rather
+    than collectivism"
+
+    The ownership of land and the means of
+    production by the people or the state, as
+    a political principle or system.
+    "the Russian Revolution decided to alter
+    the course of modernity towards
+    collectivism"
