@@ -13517,3 +13517,22 @@ collectivism
     "the Russian Revolution decided to alter
     the course of modernity towards
     collectivism"
+
+mendacity
+mendacities
+    Untruthfulness. Lies.
+    "people publicly castigated for past
+    mendacity"
+
+fiduciary
+    A person who holds a legal or ethical
+    relationship of trust with one or more
+    other parties.
+    
+    Typically, a fiduciary prudently takes
+    care of money or other assets for another
+    person.
+
+sardonic
+    Grimly mocking or cynical.
+    "Starkey attempted a sardonic smile"
