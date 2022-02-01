@@ -13572,3 +13572,34 @@ progenitor
     the earliest recorded ancestor of a
     consanguineous family group of
     descendants.
+
+epitope
+antigenic determinant
+    The part of an antigen that is recognized
+    by the immune system, specifically by
+    antibodies, B cells, or T cells.
+    
+    The epitope is the specific piece of the
+    antigen to which an antibody binds.
+    
+    The part of an antibody that binds to the
+    epitope is called a paratope.
+
+polyclonal B cell response
+    A natural mode of immune response
+    exhibited by the adaptive immune system of
+    mammals.
+    
+    It ensures that a single antigen is
+    recognized and attacked through its
+    overlapping parts, called epitopes, by
+    multiple clones of B cell.
+
+polyclonal antibodies
+    Antibodies that are secreted by different
+    B cell lineages within the body.
+    
+    They are a collection of immunoglobulin
+    molecules that react against a specific
+    antigen, each identifying a different
+    epitope.
