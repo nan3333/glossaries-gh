@@ -1,3 +1,16 @@
+channel
+    Core.async provides a number of channel
+    types off the shelf:
+    - buffered channels,
+    - dropping-buffer channels, and
+    - sliding-buffers.
+
+buffered channels
+
+dropping-buffer channels
+
+sliding-buffers
+
 reducing function
 reduce function
 reducer
@@ -6,18 +19,18 @@ reducer
 
     A reducing function is a function you can
     use as the first argument of reduce.
-    
+
     A reducing function takes an accumulated
     result and an input and returns a new
     result.
-    
+
     conj is an example of a reducing function.
-    
+
     It takes a collection (the result we’ve
     accumulated so far) and an item (the
     input) and adds the item into the
     collection (the new result).
-    
+
     Here’s an example of using conj:
 
     (conj [1 2] 3)
@@ -45,19 +58,19 @@ spyscope
     ewwlinks +/"^Spyscope" "https://blog.davemartin.me/posts/debugging-in-clojure/"
 
 Scope-capture
-    [debug tool]    
-    
+    [debug tool]
+
     For cases when you need to debug a piece
     of code more thoroughly, the scope-capture
     library is indispensable.
 
     https://github.com/vvvvalvalval/scope-capture
-    
+
     It allows you to capture the local
     environment whenever a certain form is
     evaluated, and then re-create this
     environment in the REPL.
-    
+
     This allows you to play around in the REPL
     as if you’d stopped the program at the
     point when the form was evaluated.
@@ -90,11 +103,11 @@ Duct
 
     It is similar in scope to Arachne, and is
     based on Integrant.
-    
+
     Duct builds applications around an
     immutable configuration that acts as a
     structural blueprint.
-    
+
     The configuration can be manipulated and
     queried to produce sophisticated behavior.
 
@@ -102,7 +115,7 @@ ring
     [Clojure library]
 
     Defines a common interface for expressing
-    web applications.           
+    web applications.
 
     https://medium.com/@daniel.oliver.king/getting-real-work-done-in-clojure-application-development-683c8129a313
 
@@ -157,14 +170,14 @@ edn
 EDN
 Extensible Data Notation
     A format for serializing data.
-    
+
     EDN is a subset of the syntax used by
     Clojure.
-    
+
     Reading data defined by EDN is safer than
     that defined by the full Clojure syntax,
     especially from untrusted sources.
-    
+
     The main benefit of EDN over JSON and YAML
     is that it is extensible.
 
@@ -182,7 +195,7 @@ clojure
     A modern, dynamic, and functional dialect
     of the Lisp programming language on the
     Java platform.
-    
+
     Like other Lisp dialects, Clojure treats
     code as data and has a Lisp macro system.
 
@@ -223,54 +236,54 @@ atom
 
     Atoms provide a way to manage shared,
     synchronous, independent state.
-    
+
     They are a reference type like refs and
     vars.
-    
+
     You create an atom with atom, and can
     access its state with deref/@. Like refs
     and agents, atoms support validators.
-    
+
     To change the value of an atom, you can
     use swap!.
-    
+
     A lower-level compare-and-set! is also
     provided.
-    
+
     Changes to atoms are always free of race
     conditions.
-    
+
     As with all reference types, the intended
     use of atom is to hold one of Clojures
     immutable data structures.
-    
+
     And, similar to refs alter and agents
     send, you change the value by applying a
     function to the old value.
-    
+
     This is done in an atomic manner by swap!
-    
+
     Internally, swap!
-    
+
     reads the current value, applies the
     function to it, and attempts to compare-
     and-set!
-    
+
     it in.
-    
+
     Since another thread may have changed the
     value in the intervening time, it may have
     to retry, and does so in a spin loop.
-    
+
     The net effect is that the value will
     always be the result of the application of
     the supplied function to a current value,
     atomically.
-    
+
     However, because the function might be
     called multiple times, it must be free of
     side effects.
-    
+
     Atoms are an efficient way to represent
     some state that will never need to be
     coordinated with any other, and for which
@@ -310,11 +323,11 @@ future
     another thread, and will cache the result
     and return it on all subsequent calls to
     deref/@.
-    
+
     If the computation has not yet finished,
     calls to deref/@ will block, unless the
     variant of deref with timeout is used.
-    
+
     See also - realized?.
 
 CAS
@@ -336,11 +349,11 @@ doto
     Evaluates x then calls all of the methods
     and functions with the value of x supplied
     at the front of the given arguments.
-    
+
     The forms are evaluated in order.
-    
+
     Returns x.
-    
+
     (doto
       (new java.util.HashMap)
       (.put "a" 1)
@@ -446,9 +459,9 @@ transducer
     what the underlying sequence is (how to do
     it). It can be any seq, async channel or
     maybe observable.
-    
+
     They are composable and polymorphic.
-    
+
     The benefit is, you don't have to
     implement all standard combinators every
     time a new data source is added. Again and
@@ -458,17 +471,17 @@ transducer
 
     Transducers are composable algorithmic
     transformations.
-    
+
     They are independent from the context of
     their input and output sources and specify
     only the essence of the transformation in
     terms of an individual element.
-    
+
     Because transducers are decoupled from
     input or output sources, they can be used
     in many different processes - collections,
     streams, channels, observables, etc.
-    
+
     Transducers compose directly, without
     awareness of input or creation of
     intermediate aggregates.
