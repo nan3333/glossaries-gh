@@ -13560,3 +13560,15 @@ natural group
     Rather than the English term, the
     equivalent Latin term cladus is often used
     in taxonomical literature.
+
+progenitor
+    [genealogy]
+
+    The – sometimes legendary – founder of a
+    family, line of descent, clan or tribe,
+    noble house, or ethnic group.
+    
+    Genealogy understands a progenitor to be
+    the earliest recorded ancestor of a
+    consanguineous family group of
+    descendants.
