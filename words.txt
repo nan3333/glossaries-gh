@@ -13536,3 +13536,27 @@ fiduciary
 sardonic
     Grimly mocking or cynical.
     "Starkey attempted a sardonic smile"
+
+stipulate
+stipulates
+    Demand or specify (a requirement),
+    typically as part of an agreement.
+    "he stipulated certain conditions before
+    their marriage"
+
+damp squib
+    A situation or event which is much less
+    impressive than expected.
+    "my moment of power was a damp squib"
+
+clade
+monophyletic group
+natural group
+    A group of organisms that are monophyletic
+    – that is, composed of a common ancestor
+    and all its lineal descendants – on a
+    phylogenetic tree.
+    
+    Rather than the English term, the
+    equivalent Latin term cladus is often used
+    in taxonomical literature.
