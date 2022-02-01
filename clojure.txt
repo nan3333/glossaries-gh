@@ -1,3 +1,31 @@
+thread
+    Clojure supports two types of threads:
+    - Ordinary threads, and
+    - Inversion of Control (IOC) threads.
+
+    Clojure supports both due to the Java
+    runtime environment, but JavaScript, being
+    only single-threaded, only supports IOC
+    threads which we can create by using the
+    go macro.
+
+Ordinary thread
+
+Inversion of Control thread
+IOC thread
+
+Inversion of Control
+    Essentially the idea of handing over some
+    responsibility for execution over to
+    something else, e.g.  a library or
+    framework.
+
+    Normally we control precisely what the
+    software is doing at any given moment, but
+    with the inversion of control pattern, we
+    are effectively asking the software to
+    control us in response to some event.
+
 channel
     Core.async provides a number of channel
     types off the shelf:
