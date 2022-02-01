@@ -26,6 +26,25 @@ Inversion of Control
     are effectively asking the software to
     control us in response to some event.
 
+go
+go macro
+    [#async]
+
+    To avoid blocking our thread and pausing
+    our program execution, we can instead
+    create an IOC thread using the go macro,
+    which will instantly return control back
+    to our program after each task.
+
+    It does this internally by parking the
+    channel state, which avoids us having to
+    manually write additional call-backs and
+    events.
+
+    The internal state machine keeps track of
+    the channel for us and will notify us of
+    any state changes.
+
 channel
     Core.async provides a number of channel
     types off the shelf:
