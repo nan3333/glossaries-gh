@@ -12788,3 +12788,10 @@ hope springs eternal
 
     This saying is from “An Essay on Man,” by
     Alexander Pope.
+
+hypnagogia
+    A common fleeting perceptual experience
+    that occurs during the transition from
+    wakefulness to sleep and from sleep to
+    wakefulness, with varying degrees of
+    emotionality.
