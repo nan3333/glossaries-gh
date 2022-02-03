@@ -12781,3 +12781,10 @@ self-deprecation
     Modesty about or criticism of oneself.
     "an artist with a penchant for wry
     self-deprecation"
+
+hope springs eternal
+    People always hope for the best, even in
+    the face of adversity.
+
+    This saying is from “An Essay on Man,” by
+    Alexander Pope.
