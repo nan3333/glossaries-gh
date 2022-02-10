@@ -1,3 +1,10 @@
+impasto
+    [technique]
+
+    Paint is thickly applied.
+
+    https://www.youtube.com/watch?v=vBG621XEegk
+
 transgressive art
     [visual art genre]
 
