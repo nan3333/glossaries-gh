@@ -1,3 +1,15 @@
+broadcast
+multicast
+    Broadcast and multicast are two types of
+    transmission.
+    
+    The main difference between broadcast and
+    multicast is that, in broadcast, the
+    message or packets go to all the connected
+    devices on the network while in multicast,
+    the packets go to a required set of
+    devices on the network.
+
 adjacent host
     A host on the same subnet.
 

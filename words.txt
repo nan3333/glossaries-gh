@@ -9115,12 +9115,23 @@ dogma
     "the dogmas of faith"
 
 melee
+pell-mell
     A confused fight or scuffle.
     "several people were hurt in the melee"
 
     A confused crowd of people.
     "the melee of people that were always
     thronging the streets"
+
+    Disorganized hand-to-hand combat in
+    battles fought at abnormally close range
+    with little central control once it
+    starts.
+    
+    In military aviation, a melee has been
+    defined as "[a]n air battle in which
+    several aircraft, both friend and foe, are
+    confusingly intermingled".
 
 enigmatic
     Difficult to interpret or understand;
@@ -13787,3 +13798,19 @@ batiste
     Initially, it was made of linen; later,
     the term came to be applied to cotton
     fabrics as well.
+
+ableism
+    Discrimination and social prejudice
+    against people with disabilities and/or
+    people who are perceived to be disabled.
+
+concession
+    A thing that is granted, especially in
+    response to demands.
+    "the government was unwilling to make any
+    further concessions"
+
+punitive
+    Inflicting or intended as punishment.
+    "he called for punitive measures against
+    the Eastern bloc"

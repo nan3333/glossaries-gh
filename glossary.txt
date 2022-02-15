@@ -12795,3 +12795,11 @@ hypnagogia
     wakefulness to sleep and from sleep to
     wakefulness, with varying degrees of
     emotionality.
+
+petting zoo
+    Features a combination of domesticated
+    animals and some wild species that are
+    docile enough to touch and feed.
+    
+    In addition to independent petting zoos,
+    many general zoos contain a petting zoo.
