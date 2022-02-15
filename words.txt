@@ -13814,3 +13814,14 @@ punitive
     Inflicting or intended as punishment.
     "he called for punitive measures against
     the Eastern bloc"
+
+brazen
+    Bold and without shame.
+    "he went about his illegal business with a
+    brazen assurance"
+
+    Endure an embarrassing or difficult
+    situation by behaving with apparent
+    confidence and lack of shame.
+    "there was nothing to do but brazen it
+    out"
