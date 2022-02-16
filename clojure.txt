@@ -1,3 +1,9 @@
+selmer
+    [library]
+
+    A fast, Django inspired template system in
+    Clojure.
+
 thread
     Clojure supports two types of threads:
     - Ordinary threads, and

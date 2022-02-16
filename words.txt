@@ -13825,3 +13825,9 @@ brazen
     confidence and lack of shame.
     "there was nothing to do but brazen it
     out"
+
+malaise
+    A general feeling of discomfort, illness,
+    or unease whose exact cause is difficult
+    to identify.
+    "a general air of malaise"
