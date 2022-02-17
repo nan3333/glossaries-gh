@@ -13831,3 +13831,9 @@ malaise
     or unease whose exact cause is difficult
     to identify.
     "a general air of malaise"
+
+agrarian
+    Relating to cultivated land or the
+    cultivation of land.
+    "Brazil is rapidly diversifying its
+    agrarian economy"

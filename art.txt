@@ -1,3 +1,23 @@
+tessellated
+    Denoting or characterized by a pattern of
+    repeated shapes, especially polygons, that
+    fit together closely without gaps or
+    overlaps.
+    "a tessellated pavement"
+
+etching
+etched
+    An intaglio printmaking process in which
+    lines or areas are incised using acid into
+    a metal plate in order to hold the ink.
+    
+    In etching, the plate can be made of iron,
+    copper, or zinc.
+    
+    To prepare the plate for etching, it is
+    first polished to remove all scratches and
+    imperfections from the surface.
+
 impasto
     [technique]
 
