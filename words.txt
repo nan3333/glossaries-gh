@@ -13916,3 +13916,10 @@ inimical
 
     Unfriendly; hostile.
     "an inimical alien power"
+
+epilogue
+    A section or speech at the end of a book
+    or play that serves as a comment on or a
+    conclusion to what has happened.
+    "the meaning of the book's title is
+    revealed in the epilogue"
