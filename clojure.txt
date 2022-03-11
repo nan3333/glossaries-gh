@@ -541,3 +541,10 @@ transducer
 
     NLG: A transducer is a function defined as
     a reduction.
+
+PersistentHashSet
+Hash set
+    Returned by datahike queries.
+
+    https://clojuredocs.org/clojure.core/hash-set
+

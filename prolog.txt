@@ -1,3 +1,62 @@
+goal
+    Something that Prolog tries to satisfy by
+    finding values of the variables (in this
+    case Student and Subject ) that make the
+    goal succeed.
+    
+    These value(s) are then said to be bound
+    to the variable(s).
+    
+    If Prolog is unable to do this, the goal
+    fails (and Prolog will print "false" in
+    response to the query).
+
+is
+    http://www.cse.unsw.edu.au/~billw/dictionaries/prolog/is.html
+
+    The is built-in predicate is used in
+    Prolog to force the evaluation of
+    arithmetic expressions. If you just write
+    something like X = 2 + 4, the result is to
+    bind X to the unevaluated term 2 + 4, not
+    to 6.
+
+    Example:
+         ?- X = 2 + 4.
+         X = 2+4
+
+    If instead you write X is 2 + 4, Prolog
+    arranges for the second argument, the
+    arithmetic expression 2 + 4, to be
+    evaluated (giving the result 6) before
+    binding the result to X.
+
+         ?- X is 2 + 4.
+         X = 6
+
+    A common mistake, for people used to
+    procedural programming languages like C
+    and Java, is to try to change the binding
+    of a variable by using an goal like N is N
+    + 1. This goal will never succeed, as it
+    requires N to have the same value as N +
+    1, which is impossible. 
+
+not
+not provable
+\+
+    Because of the problems of
+    negation-as-failure, negation in Prolog is
+    represented in modern Prolog interpreters
+    using the symbol \+, which is supposed to
+    be a mnemonic for not provable with the \
+    standing for not and the + for provable. 
+
+    http://www.cse.unsw.edu.au/~billw/dictionaries/prolog/negation.html#:~:text=Because%20of%20the%20problems%20of,not%20and%20the%20%2B%20for%20provable.
+
+    not
+        The older operator.
+
 quoted text
 string
     Prolog defines two forms of quoted text.

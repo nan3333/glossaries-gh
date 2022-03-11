@@ -1,3 +1,23 @@
+heart arrhythmia
+    An irregular heartbeat.
+    
+    Heart rhythm problems (heart arrhythmias)
+    occur when the electrical signals that
+    coordinate the heart's beats don't work
+    properly.
+    
+    The faulty signaling causes the heart to
+    beat too fast (tachycardia), too slow
+    (bradycardia) or irregularly.
+
+tachycardia
+    An irregular electrical signal (impulse)
+    starting in the upper or lower chambers of
+    the heart causes the heart to beat faster.
+    
+    Tachycardia is the medical term for a
+    heart rate over 100 beats a minute.
+
 Bell's palsy
     An unexplained episode of facial muscle
     weakness or paralysis.
@@ -39,3 +59,12 @@ spinal meningitis
     from person to person by sneezing,
     talking, kissing, or sharing food or
     drinks.
+
+trigeminal neuralgia
+    A condition that causes painful sensations
+    similar to an electric shock on one side
+    of the face.
+    
+    This chronic pain condition affects the
+    trigeminal nerve, which carries sensation
+    from your face to your brain.

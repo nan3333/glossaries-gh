@@ -1,6 +1,135 @@
-clause
+https://problog.readthedocs.io/en/latest/modeling_basic.html
 
 non-ground clause
+
+query
+    Example:
+        0.5::heads(C).
+        two_heads :- heads(c1), heads(c2).
+        query(two_heads).
+
+    Queries can also be added in batch.
+
+        0.5::heads(C).
+        query(heads(C)) :- between(1, 4, C).
+
+non-ground query
+    It is also possible to give a non-ground
+    query, on the condition that the program
+    itself contains sufficient information to
+    ground the probabilistic parts.
+
+        0.5::heads(C) :- between(1, 4, C).
+        query(heads(C)).
+
+evidence
+    Evidence specifies any observations on
+    which we want to condition this
+    probability. Evidence conditions a part of
+    the program to be true or false.
+
+    It can be specified using a fact
+    evidence(Literal).
+
+        0.5::heads(C).
+        two_heads :- heads(c1), heads(c2).
+        evidence(\+ two_heads).
+        query(heads(c1)).
+
+    This program computes the probability that
+    the first coin toss produces heads when we
+    know that the coin tosses did not both
+    produce heads.
+    
+    You can try it out in the online editor.
+    
+    Evidence can also be specified using the
+    binary predicate evidence(Positive, true)
+    and evidence(Positive, false).
+
+condition
+    [verb]
+
+    Problog introduces also two predicates
+    query and evidence for querying a
+    probabilistic program or to condition it
+    to some pieces of evidence.
+
+    "condition it to some pieces of evidence"
+
+syntax
+    Definition            | Example
+    fact                  | a.
+    probabilistic fact    | 0.5::a.
+    clause                | a :- x.
+    probabilistic clause  | 0.5::a :- x.
+    annotated disjunction | 0.5::a; 0.5::b.
+    annotated disjunction | 0.5::a; 0.5::b :- x.
+
+fact
+    a.
+
+probabilistic fact
+    0.5::a.
+
+clause
+    a :- x.
+
+probabilistic clause
+    0.5::a :- x.
+
+annotated disjunction
+    Examples:
+    - 0.5::a; 0.5::b.
+
+    Can also be used as head of a clause.
+
+    Examples:
+    - 0.5::a; 0.5::b :- x.
+    - 0.5::weather(0,sun); 0.5::weather(0,rain).
+      0.8::weather(T,sun); 0.2::weather(T,rain) :- T > 0, T1 is T - 1, weather(T1, sun).
+      0.4::weather(T,sun); 0.6::weather(T,rain) :- T > 0, T1 is T - 1, weather(T1, rain).
+
+and and or
+    % and
+    twoSix :- six1, six2.
+
+    % or
+    someSix :- six1.
+    someSix :- six2.
+
+    https://dtai.cs.kuleuven.be/problog/tutorial/basic/03_dice.html#annotated-disjunctions-dealing-with-multi-valued-variables
+
+annotated disjunction
+multi-valued variable
+    I think the rule of sum is partially
+    implemented as multi-valued variables.
+
+    https://dtai.cs.kuleuven.be/problog/tutorial/basic/02_bayes.html#annotated-disjunctions-dealing-with-multi-valued-variables
+
+    A probabilistic primitive that chooses
+    exactly one of a number of alternatives
+    (if their probabilities sum to 1.0, if the
+    sum is less than 1.0, then with some
+    probability none of the alternatives is
+    picked).
+    
+    It expresses that at most one of these
+    choices is true.
+    
+    There is always an implicit null choice
+    which states that none of the options is
+    taken.
+
+    Example:
+        1/6::die(D, 1); 1/6::die(D, 2); 1/6::die(D, 3);
+        1/6::die(D, 4); 1/6::die(D, 5); 1/6::die(D, 6).
+    
+    In this example, however, that extra state
+    has zero probability because the
+    probabilities of the other states sum to
+    one.
+
 
 stochastic memoization
     [#probabilistic programming]
@@ -25,3 +154,18 @@ Meta-predicates
     Apply a predicate on all members of a list
     (or higher-order functions) such as map,
     partition, fold, and scan.
+
+not
+not provable
+\+
+    Because of the problems of
+    negation-as-failure, negation in Prolog is
+    represented in modern Prolog interpreters
+    using the symbol \+, which is supposed to
+    be a mnemonic for not provable with the \
+    standing for not and the + for provable. 
+
+    http://www.cse.unsw.edu.au/~billw/dictionaries/prolog/negation.html#:~:text=Because%20of%20the%20problems%20of,not%20and%20the%20%2B%20for%20provable.
+
+    not
+        The older operator.

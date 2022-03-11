@@ -1,3 +1,70 @@
+bayesian network
+    https://youtu.be/TuGDMj43ehw?t=409
+
+Probability identities
+    P(a | b) = P(a, b) / P(b)
+        Probability
+        a = weather is cloudy
+        b = season is Spring
+        a | b = cloudy given it is Spring
+        a, b = cloudy and is Spring
+
+    P(a, b) = P(a | b) P(b)
+
+Rule of sum
+    https://brilliant.org/wiki/probability-rule-of-sum/
+
+    See "Multi-valued variable".
+    
+Bayes' formula
+    P(b | a) = P(a | b) P(b) / P(a)
+
+    When reading these probability formulas
+    you can imagine that | means /.
+
+    That means it easy to work out without
+    imagining it.
+
+    In that case, I should also imagine , as
+    meaning *.
+
+    P(R, W, S, C) = P(R) P(C) P(W | C, R) P(S | W)
+        What is the probability that the
+        ground is wet(W) given someone was
+        washing their car(C) OR that it
+        rained(R).
+
+    If the , is on the right side of a |
+    though, then it's an OR which is additive.
+        But how is that calculated?
+        # Therefore acts to further divide (as
+        # if it's part of the divisor)? - No.
+
+        I think I'd need Generalized Rule of
+        Sum to calculate this.
+
+    The probability of two things
+    simultaneously would be their
+    probabilities multiplied together - this
+    makes sense.
+
+probability tree
+    https://youtu.be/TuGDMj43ehw?t=1259
+
+Noisy OR
+    The noisy OR is a generalization of the
+    logical OR.
+
+    Three assumptions:
+    - 1. All possible causes Ui for a event X
+      are listed (you can add a leak node)
+    - 2. Negated causes ¬Ui do not have any
+      influence on X
+    - 3. Independent failure probability qi
+      for each cause alone.
+
+    https://dtai.cs.kuleuven.be/problog/tutorial/basic/01_coins.html#noisy-or-multiple-rules-for-the-same-head
+
 statistical distribution
 distribution
 
@@ -59,10 +126,20 @@ population parameter
     thereby parameterized.
 
 variate
-    Random variable, variate, variant,
-    stochastic variable, chance variable
-
+random variable
+variant
+stochastic variable
+chance variable
     A variable quantity that is random.
+    
+    A random variable is a variable whose
+    value is unknown or a function that
+    assigns values to each of an experiment's
+    outcomes.
+    
+    A random variable can be either discrete
+    (having specific values) or continuous
+    (any value in a continuous range).
 
 discrete variable
     A variable that can only take on a certain

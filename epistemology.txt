@@ -114,3 +114,15 @@ sensualism
     important form of true cognition.
 
     It may oppose abstract ideas.
+
+propositional truth
+    If a proposition is true, then we say it
+    has a truth value of "true"; if a
+    proposition is false, its truth value is
+    "false".
+    
+    For example, "Grass is green", and "2 + 5
+    = 5" are propositions.
+    
+    The first proposition has the truth value
+    of "true" and the second "false".

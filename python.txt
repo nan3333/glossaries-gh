@@ -1101,3 +1101,7 @@ textpipe
 
 PIL
     Python Imaging Library.
+
+module
+    Just another name for any single python
+    file

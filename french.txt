@@ -106,3 +106,35 @@ café américain
 
     NLG: A combination of coffee and hot milk
     served with a small amount of hot water.
+
+chien
+    dog
+
+    Au secours! Un chien m'attaque!
+    Help! A dog is attacking me!
+
+chat
+    cat
+
+    Ce chat est très amical.
+    This cat is very friendly.
+
+hamster
+    hamster
+
+    Les hamsters aiment dormir.
+    Hamsters like to sleep.
+
+ardent
+    Very enthusiastic or passionate.
+    "an ardent supporter of the cause of
+    education"
+
+concupiscence
+    Concupiscence is an ardent, usually
+    sensual, longing.
+    
+    In Christianity, particularly in Roman
+    Catholic and Lutheran theology,
+    concupiscence is the tendency of humans to
+    sin.

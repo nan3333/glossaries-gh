@@ -286,3 +286,52 @@ argumentum a fortiori
     argue in favor of a second proposition
     that is held to be implicit in, and even
     more certain than, the first.
+
+First-order logic
+    Symbolized reasoning in which each
+    sentence, or statement, is broken down
+    into a subject and a predicate.
+    
+    The predicate modifies or defines the
+    properties of the subject.
+    
+    In first-order logic, a predicate can only
+    refer to a single subject.
+
+    E.g. Prolog.
+
+    https://www.baeldung.com/cs/first-order-logic
+
+Second-order logic
+    [#logic and mathematics]
+
+    An extension of first-order logic, which
+    itself is an extension of propositional
+    logic.
+    
+    Second-order logic is in turn extended by
+    higher-order logic and type theory.
+    
+    First-order logic quantifies only
+    variables that range over individuals
+    (elements of the domain of discourse);
+    second-order logic, in addition, also
+    quantifies over relations.
+    
+    For example, the second-order sentence
+    ∀P∀x(Px ∨ ¬Px) says that for every formula
+    P, and every individual x, either Px is
+    true or not(Px) is true (this is the law
+    of excluded middle).
+    
+    Second-order logic also includes
+    quantification over sets, functions, and
+    other variables (see section below).
+    
+    Both first-order and second-order logic
+    use the idea of a domain of discourse
+    (often called simply the "domain" or the
+    "universe").
+    
+    The domain is a set over which individual
+    elements may be quantified.
