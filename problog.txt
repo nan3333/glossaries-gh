@@ -2,6 +2,13 @@ https://problog.readthedocs.io/en/latest/modeling_basic.html
 
 non-ground clause
 
+head/tail notation
+[H|Tail]
+    http://www.cs.trincoll.edu/~ram/cpsc352/notes/prolog/search.html
+
+    Example:
+        excess([I|R],Limit) :- \+pack(I), excess(R,Limit).
+
 pattern matching
     https://homepage.cs.uri.edu/faculty/hamel/courses/2015/spring2015/csc481/lecture-notes/ln481-012.pdf
 

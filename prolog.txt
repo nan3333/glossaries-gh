@@ -1,3 +1,6 @@
+global constraint
+    https://www.swi-prolog.org/pldoc/man?section=clpfd-global
+
 pattern matching
     https://homepage.cs.uri.edu/faculty/hamel/courses/2015/spring2015/csc481/lecture-notes/ln481-012.pdf
 

@@ -14081,3 +14081,13 @@ revile
     insulting manner.
     "he was now reviled by the party that he
     had helped to lead"
+
+tropism
+    The turning of all or part of an organism
+    in a particular direction in response to
+    an external stimulus.
+
+excoriate
+    Criticize (someone) severely.
+    "he excoriated the government for
+    censorship"
