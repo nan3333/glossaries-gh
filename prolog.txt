@@ -1,3 +1,23 @@
+pattern matching
+    https://homepage.cs.uri.edu/faculty/hamel/courses/2015/spring2015/csc481/lecture-notes/ln481-012.pdf
+
+    Example:
+        % excess/1
+        excess(Limit) :- excess([skis,boots,helmet,gloves],Limit). % all possible items
+        % excess/2
+        excess([],Limit) :- Limit<0.
+        excess([I|R],Limit) :- pack(I), weight(I,W), L is Limit-W, excess(R,L).
+        excess([I|R],Limit) :- \+pack(I), excess(R,Limit).
+
+SLD resolution
+Selective Linear Definite clause resolution
+    The basic inference rule used in logic
+    programming.
+    
+    It is a refinement of resolution, which is
+    both sound and refutation complete for
+    Horn clauses.
+
 goal
     Something that Prolog tries to satisfy by
     finding values of the variables (in this
@@ -180,13 +200,6 @@ term
     - an atomic term or
     - a compound term.
 
-constraint logic programming
-    https://youtu.be/G_eYTctGZw8?t=1394
-
-    A form of constraint programming, in which
-    logic programming is extended to include
-    concepts from constraint satisfaction.
-
 help.
     [query]
 
@@ -210,13 +223,20 @@ cd('/home/shane').
     Set your active directory.
 
 constraint logic programming
+CLP
+    https://youtu.be/G_eYTctGZw8?t=1394
+
     A form of constraint programming, in which
     logic programming is extended to include
     concepts from constraint satisfaction.
-    
+
     A constraint logic program is a logic
     program that contains constraints in the
     body of clauses.
+
+clpfd
+CLP(FD)
+    https://www.swi-prolog.org/pldoc/doc/_SWI_/library/clp/clpfd.pl
 
 declarative reading
 concluding reading

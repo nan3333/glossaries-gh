@@ -2,6 +2,30 @@ https://problog.readthedocs.io/en/latest/modeling_basic.html
 
 non-ground clause
 
+pattern matching
+    https://homepage.cs.uri.edu/faculty/hamel/courses/2015/spring2015/csc481/lecture-notes/ln481-012.pdf
+
+    Example:
+        % excess/1
+        excess(Limit) :- excess([skis,boots,helmet,gloves],Limit). % all possible items
+        % excess/2
+        excess([],Limit) :- Limit<0.
+        excess([I|R],Limit) :- pack(I), weight(I,W), L is Limit-W, excess(R,L).
+        excess([I|R],Limit) :- \+pack(I), excess(R,Limit).
+
+intensional probabilistic fact
+    Fact with a `flexible’ probability.
+
+        weight(skis,6).
+        weight(boots,4).
+        weight(helmet,3).
+        weight(gloves,2).
+
+        % intensional probabilistic fact with flexible probability:
+        P::pack(Item) :- weight(Item,Weight),  P is 1.0/Weight.
+
+    https://dtai.cs.kuleuven.be/problog/tutorial/basic/06_more_features.html
+
 query
     Example:
         0.5::heads(C).

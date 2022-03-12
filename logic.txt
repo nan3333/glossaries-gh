@@ -1,3 +1,16 @@
+Horn clause
+    [#mathematical logic]
+    [#logic programming]
+
+    A logical formula of a particular rule-
+    like form which gives it useful properties
+    for use in logic programming, formal
+    specification, and model theory.
+    
+    Horn clauses are named for the logician
+    Alfred Horn, who first pointed out their
+    significance in 1951.
+
 logic
     Types
     - epistemic,
