@@ -134,7 +134,15 @@ repression
     subduing them in the unconscious
 
 confabulation
-    [psychology]
+confabulate
+    [#psychology]
+
+    Fabricate imaginary experiences as
+    compensation for loss of memory.
+
+    "she has lapses in attention and
+    concentration—she may be confabulating a
+    little"
 
     A memory error defined as the production
     of fabricated, distorted, or
@@ -147,6 +155,14 @@ confabulation
     generally very confident about their
     recollections, despite contradictory
     evidence.
+
+    Confabulation is the creation of false
+    memories in the absence of intentions of
+    deception.
+    
+    Individuals who confabulate have no
+    recognition that the information being
+    relayed to others is fabricated.
 
 cognitive bias
     A systematic pattern of deviation from
