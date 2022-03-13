@@ -5,7 +5,7 @@ maplist
     Rows is a list of lists.
 
     This is asserting that both dimension
-    sizes of the 2D Rows are equal.
+    sizes of the 2D Rows are equal:
 
         maplist(same_length(Rows), Rows)
 
@@ -14,10 +14,34 @@ append
     a list which is the flattened 1D
     represesntation of the former.
 
+    Example:
+
         % Make rows 1D and store in Vs. Assert
         % that all values lie within the range
         % 1..9.
         append(Rows, Vs), Vs ins 1..9,
+
+transpose
+    This does a 2D matrix transpose.
+
+    When imagining the other value, picture
+    the square is unchanged (cells in the same
+    position), the first argument is the
+    square divided into rows and the second is
+    square divided into columns.
+
+    In the example, when picturing Ts, imagine
+    the square is unchanged but is divided
+    into Columns instead of rows.
+
+    https://www.swi-prolog.org/pldoc/man?predicate=transpose/2
+
+    Example:
+
+        transpose(Rows, Columns),
+
+        ?- transpose([[1,2,3],[4,5,6],[7,8,9]], Ts).
+        Ts = [[1, 4, 7], [2, 5, 8], [3, 6, 9]].
 
 backward chaining
 backward reasoning
