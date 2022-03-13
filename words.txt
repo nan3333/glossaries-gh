@@ -1439,6 +1439,7 @@ Kakorrhaphiophobia
     person from doing anything at all.
 
 anachronism
+anachronistic
     A thing belonging or appropriate to a
     period other than that in which it exists,
     especially a thing that is conspicuously
@@ -14101,3 +14102,17 @@ infinitude
     The state or quality of being infinite or
     having no limit.
     "the infinitude of the universe"
+
+Bologna sausage
+baloney
+    A sausage derived from mortadella, a
+    similar-looking, finely ground pork
+    sausage containing cubes of pork fat,
+    originally from the Italian city of
+    Bologna.
+    
+    Typical seasoning for bologna includes
+    black pepper, nutmeg, allspice, celery
+    seed and coriander and, like mortadella,
+    myrtle berries give it its distinctive
+    flavor.

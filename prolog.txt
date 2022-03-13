@@ -327,11 +327,28 @@ clause
     ending with a full stop (".").
 
     Either:
-    - fact
+    - fact/unit clause
     - rule
 
+    Examples:
+        % Unit clause
+        factorial(0,1).
+
+        % Rule
+        factorial(N,F) :-
+           N>0,
+           N1 is N-1,
+           factorial(N1,F1),
+           F is N * F1.
+
 fact
+unit clause
     State what is always true.
+
+    Does not have a body.
+
+body
+    The part that comes after :- in a rule.
 
 program
     Consists of:
