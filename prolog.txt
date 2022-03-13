@@ -1,3 +1,24 @@
+maplist
+    In this example, same_length takes 2
+    arguments.
+
+    Rows is a list of lists.
+
+    This is asserting that both dimension
+    sizes of the 2D Rows are equal.
+
+        maplist(same_length(Rows), Rows)
+
+append
+    First arg is list of lists and 2nd arg is
+    a list which is the flattened 1D
+    represesntation of the former.
+
+        % Make rows 1D and store in Vs. Assert
+        % that all values lie within the range
+        % 1..9.
+        append(Rows, Vs), Vs ins 1..9,
+
 backward chaining
 backward reasoning
 backward induction
