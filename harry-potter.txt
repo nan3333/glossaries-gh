@@ -26,3 +26,13 @@ pensieve
     appears to be a cloud-like liquid/gas; the
     collected memories of people who have
     siphoned their recollections into it.
+
+Crookshanks
+    Hermione Granger's pet cat.
+    
+    He was half-Kneazle, as evidenced by his
+    lion-like appearance, ability to solve
+    problems on his own without aid or
+    teaching, and clear dislike of and ability
+    at recognising untrustworthy persons (even
+    if they are transfigured).
