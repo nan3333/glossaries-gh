@@ -9,6 +9,38 @@ interjection
     For example: Rats! My research paper is
     late!
 
+disjunct
+    [#linguistics]
+
+    A type of adverbial adjunct that expresses
+    information that is not considered
+    essential to the sentence it appears in,
+    but which is considered to be the
+    speaker's or writer's attitude towards, or
+    descriptive statement of, the
+    propositional content of the sentence,
+    "expressing, for example, the speaker's
+    degree of truthfulness or his manner of
+    speaking." A specific type of disjunct is
+    the sentence adverb (or sentence
+    adverbial), which modifies a sentence, or
+    a clause within a sentence, to convey the
+    mood, attitude or sentiments of the
+    speaker, rather than an adverb modifying a
+    verb, an adjective or another adverb
+    within a sentence.
+    
+    More generally, the term disjunct can be
+    used to refer to any sentence element that
+    is not fully integrated into the clausal
+    structure of the sentence.
+    
+    Such elements usually appear peripherally
+    (at the beginning or end of the sentence)
+    and are set off from the rest of the
+    sentence by a comma (in writing) and a
+    pause (in speech).
+
 lexeme
     A unit of lexical meaning that underlies a
     set of words that are related through

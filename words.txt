@@ -14116,3 +14116,7 @@ baloney
     seed and coriander and, like mortadella,
     myrtle berries give it its distinctive
     flavor.
+
+disjunct
+    Disjoined and distinct from one another.
+    "a series of disjunct chords"
