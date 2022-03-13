@@ -646,6 +646,12 @@ CFG
             A → α 
         replaces A with α.
 
+    Example:
+        <Stmt> → <Id> = <Expr>
+
+        replaces '<Stmt>'
+        with '<Id> = <Expr>'
+
 Grammar
     The language of languages.
 

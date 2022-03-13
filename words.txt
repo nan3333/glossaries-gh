@@ -14091,3 +14091,13 @@ excoriate
     Criticize (someone) severely.
     "he excoriated the government for
     censorship"
+
+finitude
+    The state of having limits or bounds.
+    "one quickly senses the finitude of his
+    patience"
+
+infinitude
+    The state or quality of being infinite or
+    having no limit.
+    "the infinitude of the universe"
