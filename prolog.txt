@@ -1,3 +1,8 @@
+discontiguous
+    % Clauses are not bunched together in one place.
+    % They may be scattered across the file
+    :- discontiguous bird/1, wings/1.
+
 maplist
     In this example, same_length takes 2
     arguments.
