@@ -3,3 +3,117 @@ PlanLogic
     LOGICMOO.
 
 LOGICMOO
+
+PPDL
+Planning Domain Definition Language
+    Used for factored representation.
+
+    Describes four things:
+    - initial state
+    - actions that are available in a state
+    - the result of applying an action, and
+    - the goal test
+
+factored representation
+    Planning researchers have settled on a
+    factored representation - one in which a
+    state of the world is represented by a
+    collection of variables.
+
+Nomic
+    A game created in 1982 by philosopher
+    Peter Suber, the rules of which include
+    mechanisms for changing those rules,
+    usually beginning by way of democratic
+    voting.
+    
+    The game is in some ways modeled on modern
+    government systems, and demonstrates that
+    in any system where rule changes are
+    possible, a situation may arise in which
+    the resulting laws are contradictory or
+    insufficient to determine what is in fact
+    legal.
+    
+    Its name derives from the Greek for "law",
+    νόμος (nomos), because it models (and
+    exposes conceptual questions about) legal
+    systems and the problems of legal
+    interpretation.
+
+Nomic-MU
+Game World
+
+PrologMUD
+    This is the Nomic-MU (Game World).
+
+LM489
+AGI Bot
+
+I_T
+Imagen_Theater
+    [frame sequences]
+
+    http://logicmoo.org/xwiki/bin/view/Main/Technical%20Description/
+
+C_D
+Compulsory_Dialog
+    A Language Of Thought.
+
+    Sequences that perform edits of I_Ts
+    without regard to the rules of event
+    calculus.
+    
+    These C_Ds are “language like” but not in
+    terms of spoken language.
+
+memories
+    Pre-built memories (and later learned) are
+    done as a “narrative” encoded in two ways:
+    - I_T
+    - C_D
+
+reification
+
+circumscription
+    Restriction of something within limits.
+
+    A form of non-monotonic reasoning.
+
+    Circumscription is a non-monotonic logic
+    created by John McCarthy to formalize the
+    common sense assumption that things are as
+    expected unless otherwise specified.
+
+event calculus
+    https://www.sciencedirect.com/topics/computer-science/event-calculus
+
+    Characterized by a set of axioms and
+    definitions.
+
+    The event calculus uses reification: It
+    treats time-varying properties and events
+    as objects so that statements can be made
+    about the truth values of properties at
+    timepoints and the occurrences of events
+    at timepoints.
+    
+    The event calculus uses circumscription,
+    or the minimization of the extensions of
+    predicates, to allow default reasoning.
+    
+    The event calculus uses the default
+    assumptions that (1) the only events that
+    occur are those known to occur and (2) the
+    only effects of events are those that are
+    known.
+    
+    When new information becomes available,
+    the circumscriptions can be recomputed and
+    reasoning again performed, which may lead
+    to new conclusions.
+    
+    Circumscription is defined by a formula of
+    second-order logic, but in most cases of
+    interest circumscriptions compile into
+    formulas of firstorder logic.
