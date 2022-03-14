@@ -21,6 +21,8 @@ factored representation
     collection of variables.
 
 Nomic
+    https://en.wikipedia.org/wiki/Nomic
+
     A game created in 1982 by philosopher
     Peter Suber, the rules of which include
     mechanisms for changing those rules,
@@ -43,12 +45,17 @@ Nomic
 
 Nomic-MU
 Game World
+    See "Nomic".
 
 PrologMUD
     This is the Nomic-MU (Game World).
 
 LM489
 AGI Bot
+    The LOGICMOO AGI system has a robotic
+    prototype called LM489 which humans can be
+    able to hang out with in a Nomic Game
+    called PrologMUD. 
 
 I_T
 Imagen_Theater
@@ -56,9 +63,43 @@ Imagen_Theater
 
     http://logicmoo.org/xwiki/bin/view/Main/Technical%20Description/
 
+innate Primary I_Ts
+
+secondary I_Ts
+    The Innate Primary I_Ts are most often
+    incompatible stories with each other since
+    they are not in any way connected using
+    the same slots or if they are incomparable
+    to the level of detail they express.
+
+    But when not too far off we let Secondary
+    I_Ts be formed by them.  
+
+tertiary I_T buffers
+tertiary I_T
+dim proxies
+    I_Ts can be at any level of detail, but
+    they are mostly too detailed for the C_Ds
+    to keep up with them in real time. So an
+    automation tries to create a “not so good”
+    stream of C_D which leads to the creation
+    of several Tertiary I_T buffers (dim
+    proxies).
+
+quaternary I_T
+    Next, another automation struggles to
+    “repair” these Tertiary I_Ts to help the
+    first automation. The system collates the
+    C_Ds above into a final Quaternary I_T.
+    Next the system uses a new stream C_D to
+    repair the Quaternary I_T to synchronize
+    the Tertiary and Quaternary I_Ts. 
+
 C_D
 Compulsory_Dialog
     A Language Of Thought.
+
+    http://logicmoo.org/xwiki/bin/view/Main/Technical%20Description/#
 
     Sequences that perform edits of I_Ts
     without regard to the rules of event
