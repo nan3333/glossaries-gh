@@ -1,6 +1,39 @@
 $HOME/notes/ws/racket/scratch/scratch.rkt
 https://beautifulracket.com/appendix/glossary.html
 
+.
+    The . operator is just the classic lisp .
+    operator.
+
+    list is made out of pairs and one pair has
+    the literal form (car . cdr) and a list of
+    the elements 2, 3 is made up like:
+
+        (2 . (3 . ()))
+
+    Where the . is used in a function
+    definition, it works like elisps' &rest
+    due to pattern-matching.
+
+        (define (command->string command . args)
+          (let-values (((sub stdout stdin stderr)
+                        (apply subprocess #f
+                               (current-input-port)
+                               (current-error-port)
+                               (find-executable-path command)
+                               args)))
+            (let ((output (port->string stdout)))
+              (subprocess-wait sub)
+              (if (eqv? 0 (subprocess-status sub))
+                  output
+                  (error "Command failed:" (cons command args))))))
+
+#f
+    Literal False
+
+#t
+    Literal True
+
 syntactic form
 form
     Examples:
