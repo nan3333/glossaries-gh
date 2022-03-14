@@ -134,3 +134,49 @@ microtheories
     The OpenCyc ontology uses microtheories
     provide an elegant mechanism for handling
     contexts
+
+CycL
+CycL query language
+    https://youtu.be/gD2CNI_xLNQ?t=124
+
+    Examples:
+    - "A frightened person" in CycL:
+
+        (#$and
+        (#$isa ?x #$Person)
+        
+        (#$feelsEmotion ?x #$Fear #$High))
+
+    More complex relations:
+    - Wearing the red shirt rather than a
+      green one caused the bull to charge
+      rather than ignore him.
+
+        (#$causes-Contrastive WearingARedShirt
+        WearingAGreenShirt BullCharges BullDoesNotCharge)
+
+    More examples of things Cyc knows about / can express:
+    - isa
+
+        (#$isa #$BillClinton #$UnitedStatesPresident)
+
+    - genls - Taxonomic relationship between families
+      The genus of trees is plants. This is saying that All trees are plants
+
+        (#$genls #$Tree-ThePlant #$Plant) (=All trees are plants)
+
+    - capitalCity - geography
+      The capital city of france is paris.
+
+        (#$capitalCity #$France #$Paris) (=Paris is the capital of France)
+
+    - relationAllExists - relation between biologicalMother and FemaleAnimal
+
+        (#$relationAllExists #$biologicalMother #$ChordataPhylum #$FemaleAnimal)
+
+#$causes-Contrastive
+    [predicate]
+
+    a rather than b caused, otherwise
+
+    If in the first case X, if in the second case Y.

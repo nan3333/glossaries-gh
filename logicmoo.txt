@@ -57,6 +57,42 @@ AGI Bot
     able to hang out with in a Nomic Game
     called PrologMUD. 
 
+    LM489 system bootstraps with built in
+    narratives that constitute a set of innate
+    hallucinations.
+    
+    These hallucinations cause LM489 to "just
+    in time" know how to do something.
+    
+    It does this by mirroring the agents
+    contained in the hallucinations (Think of
+    them like "training videos") Though not
+    actually videos, instead Event Calculus
+    that "play" in the PrologMUD (aka NomicMU)
+    theatre.
+    
+    These not-really-a-video(s) are chosen by
+    what order to play them based on they fit
+    into one of the concurrent narratives that
+    the systems expects it is always part of. 
+
+    In the LOGICMOO System, our LM489 bot
+    experiences events, actions, internal
+    dialog in the MUD thru a special memory
+    Narrative-Pipeline.
+    
+    The is channeled thru the Pipelines to
+    allow LM489 configure the level of detail
+    it will need to remember to learn how to
+    do things.
+
+Narrative Pipeline
+    http://logicmoo.org/xwiki/bin/view/Main/Developer/PrologMUD/
+
+sequegen
+LogicMOO sequegen
+    http://logicmoo.org/xwiki/bin/view/Main/Developer/PrologMUD/
+
 I_T
 Imagen_Theater
     [frame sequences]
