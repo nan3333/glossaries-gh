@@ -51,7 +51,8 @@ PrologMUD
     This is the Nomic-MU (Game World).
 
 LM489
-AGI Bot
+    [AGI Bot]
+
     The LOGICMOO AGI system has a robotic
     prototype called LM489 which humans can be
     able to hang out with in a Nomic Game
@@ -85,6 +86,25 @@ AGI Bot
     allow LM489 configure the level of detail
     it will need to remember to learn how to
     do things.
+
+    Operates in two modes:
+    - narrative thinking mode
+    - performance mode
+
+
+narrative thinking mode
+    [#LM489]
+
+    The program continuously rethinks have
+    narrative thoughts until it runs out of
+    things to narrative to think about or is
+    interrupted.
+
+performance mode
+    [#LM489]
+
+    The program accepts input states or
+    actions and produces output actions.
 
 Narrative Pipeline
     http://logicmoo.org/xwiki/bin/view/Main/Developer/PrologMUD/

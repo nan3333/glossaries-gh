@@ -31,6 +31,8 @@ onology
     $DUMP$NOTES/ws/opencyc/IntroOpenCycOnt.txt
 
 collections
+    https://www.qrg.northwestern.edu/nextkb/IntroOpenCycOnt.pdf
+
     Provide an engineering approximation to
     concepts.
     
@@ -63,6 +65,12 @@ collections
     in statements is a means of perceptual
     grounding that is available for many kinds
     of everyday objects in today’s AI systems.
+
+    To specify that something is an instance
+    of a collection, the predicate isa is
+    used, e.g.:
+
+        (isa NeroTheCat Cat)
 
 predicates
     Provide relations and functions to make
@@ -135,6 +143,21 @@ microtheories
     provide an elegant mechanism for handling
     contexts
 
+    Not all concepts need to be consistent! A
+    microtheory is an internally consistent
+    collection of facts about a particular
+    domain.
+
+    "I believe in God."
+
+    Cyc solves contradictory beliefs and
+    assertions by using microtheories.
+
+    You have internally consistent bubbles.
+
+    Then your beliefs database as a whole may
+    contain contradictions.
+
 CycL
 CycL query language
     CycL, the language in which Cyc (and hence
@@ -191,10 +214,7 @@ CycL query language
     If in the first case X, if in the second
     case Y.
 
-microthery
-    Not all concepts need to be consistent! A
-    microtheory is an internally consistent
-    collection of facts about a particular
-    domain.
+knowledge retrieval
+    Cyc can do this.
 
-    "I believe in God."
+    https://youtu.be/gD2CNI_xLNQ?t=1852
