@@ -55,6 +55,9 @@ Web Ontology Language
     A family of knowledge representation
     languages for authoring ontologies.
 
+    https://www.w3.org/OWL/
+    e:$HOME/source/git/asanchez75/opencyc
+
 RDF
     https://www.w3.org/TR/2014/NOTE-rdf11-primer-20140624/#section-use-cases
 

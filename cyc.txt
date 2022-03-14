@@ -137,6 +137,11 @@ microtheories
 
 CycL
 CycL query language
+    CycL, the language in which Cyc (and hence
+    OpenCyc) is written.
+
+    $HOME/source/git/asanchez75/opencyc/KB+inference_engine
+
     https://youtu.be/gD2CNI_xLNQ?t=124
 
     Examples:
@@ -161,7 +166,8 @@ CycL query language
         (#$isa #$BillClinton #$UnitedStatesPresident)
 
     - genls - Taxonomic relationship between families
-      The genus of trees is plants. This is saying that All trees are plants
+      The genus of trees is plants. This is
+      saying that All trees are plants
 
         (#$genls #$Tree-ThePlant #$Plant) (=All trees are plants)
 
@@ -171,6 +177,9 @@ CycL query language
         (#$capitalCity #$France #$Paris) (=Paris is the capital of France)
 
     - relationAllExists - relation between biologicalMother and FemaleAnimal
+      For every instance of ChordataPhylum
+      there exists a FemaleAnimal which is its
+      mother.
 
         (#$relationAllExists #$biologicalMother #$ChordataPhylum #$FemaleAnimal)
 
@@ -179,4 +188,13 @@ CycL query language
 
     a rather than b caused, otherwise
 
-    If in the first case X, if in the second case Y.
+    If in the first case X, if in the second
+    case Y.
+
+microthery
+    Not all concepts need to be consistent! A
+    microtheory is an internally consistent
+    collection of facts about a particular
+    domain.
+
+    "I believe in God."
