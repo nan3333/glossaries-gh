@@ -91,7 +91,6 @@ LM489
     - narrative thinking mode
     - performance mode
 
-
 narrative thinking mode
     [#LM489]
 

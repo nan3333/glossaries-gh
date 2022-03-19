@@ -5015,7 +5015,12 @@ beleaguered
     Lay siege to.
 
 coalescing
+coalesces
     Come together to form one mass or whole.
+    coalesce
+
+    "the puddles had coalesced into shallow
+    streams"
 
 duress
     Threats, violence, constraints, or other
@@ -5510,10 +5515,6 @@ vassal
 equiprobable
     (of two or more things) equally likely to
     occur; having equal probability.
-
-lackadaisical
-    Lacking enthusiasm and determination;
-    carelessly lazy.
 
 placate
 placated
@@ -14156,3 +14157,22 @@ parsimonious
 
     "even the parsimonious Joe paid for drinks
     all round"
+
+panoply
+    An extensive or impressive collection.
+    "a deliciously inventive panoply of
+    insults"
+
+    A complete suit of armour.
+
+mainstay
+    A person or thing on which something else
+    is based or depends.
+    "farming is the mainstay of the rural
+    economy"
+
+lackadaisical
+    Lacking enthusiasm and determination;
+    carelessly lazy.
+
+    "one of my lackadaisical days"
