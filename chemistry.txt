@@ -150,3 +150,13 @@ substrate
     other chemical reactions are performed, or
     play a supporting role in a variety of
     spectroscopic and microscopic techniques.
+
+pH
+power of hydrogen
+potential of hydrogen
+    A scale used to specify the acidity or
+    basicity of an aqueous solution.
+    
+    Acidic solutions are measured to have
+    lower pH values than basic or alkaline
+    solutions.
