@@ -68,3 +68,15 @@ trigeminal neuralgia
     This chronic pain condition affects the
     trigeminal nerve, which carries sensation
     from your face to your brain.
+
+apoplexy
+    Rupture of an internal organ and the
+    accompanying symptoms.
+    
+    The term formerly referred to what is now
+    called a stroke.
+    
+    Nowadays, health care professionals do not
+    use the term, but instead specify the
+    anatomic location of the bleeding, such as
+    cerebral, ovarian or pituitary.

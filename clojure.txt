@@ -381,7 +381,40 @@ future
     calls to deref/@ will block, unless the
     variant of deref with timeout is used.
 
+;; A future's calculation is started here and it runs in another thread
+user=> (def f (future (Thread/sleep 10000) (println "done") 100))
+#'user/f
+;;if you wait 10 seconds before dereferencing it you'll see "done"
+
+;; When you dereference it you will block until the result is available.
+user=> @f
+done
+100
+
+;; Dereferencing again will return the already calculated value.
+=> @f
+100
+
     See also - realized?.
+
+dereference
+dereferencing
+    Unlike futures, delays, and promises,
+    dereferencing an atom (or any other
+    reference type) will never block.
+    
+    When you dereference futures, delays, and
+    promises, it’s like you’re saying “I need
+    a value now, and I will wait until I get
+    it,” so it makes sense that the operation
+    would block.
+    
+    However, when you dereference a reference
+    type, it’s like you’re saying “give me the
+    value I’m currently referring to,” so it
+    makes sense that the operation doesn’t
+    block, because it doesn’t have to wait for
+    anything.
 
 CAS
 Compare-And-Set

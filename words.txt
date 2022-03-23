@@ -10736,11 +10736,11 @@ putative
     Generally considered or reputed to be.
 
 accrete
-    grow by accumulation or coalescence.
+    Grow by accumulation or coalescence.
     "ice that had accreted grotesquely into
     stalactites"
 
-    form (a composite whole) by gradual
+    Form (a composite whole) by gradual
     accumulation.
     "the collection of art he had accreted was
     to be sold"
@@ -14194,3 +14194,14 @@ Balkanization
     It is usually caused by differences of
     ethnicity, culture, and religion and some
     other factors such as past grievances.
+
+cajole
+    Persuade (someone) to do something by
+    sustained coaxing or flattery.
+    "he hoped to cajole her into selling the
+    house"
+
+apoplectic
+    Overcome with anger; furious.
+    "Mark was apoplectic with rage at the
+    decision"
