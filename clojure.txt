@@ -316,13 +316,9 @@ atom
 
     This is done in an atomic manner by swap!
 
-    Internally, swap!
-
-    reads the current value, applies the
-    function to it, and attempts to compare-
-    and-set!
-
-    it in.
+    Internally, swap!  reads the current
+    value, applies the function to it, and
+    attempts to compare- and-set! it in.
 
     Since another thread may have changed the
     value in the intervening time, it may have
