@@ -160,3 +160,12 @@ potential of hydrogen
     Acidic solutions are measured to have
     lower pH values than basic or alkaline
     solutions.
+
+atomization
+    The process of converting an analyte in
+    solid, liquid or solution form to a free
+    gaseous atom.
+    
+    It is the transformation of a bulk liquid
+    into a spray of liquid droplets in a
+    surrounding gas or vacuum.

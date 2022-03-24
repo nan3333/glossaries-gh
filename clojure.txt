@@ -51,6 +51,11 @@ go macro
     the channel for us and will notify us of
     any state changes.
 
+core.async
+    core.async is about making processes that
+    take values from and put values into
+    channels.
+
 channel
     Core.async provides a number of channel
     types off the shelf:
@@ -577,3 +582,15 @@ Hash set
 
     https://clojuredocs.org/clojure.core/hash-set
 
+goroutine
+go
+a/<!
+    From inside a (go ...) block, you can -
+    and should - use a/<! instead of a/<!!:
+
+     (a/go (let [x (a/<! ch)] ...))
+
+    The logical behaviour will be the same as
+    a/<!!, but only the logical process of the
+    goroutine will block instead of the actual
+    OS thread.

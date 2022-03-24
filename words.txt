@@ -14205,3 +14205,6 @@ apoplectic
     Overcome with anger; furious.
     "Mark was apoplectic with rage at the
     decision"
+
+eschew
+    Deliberately avoid using; abstain from.
