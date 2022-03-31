@@ -314,6 +314,8 @@ polymorphic type
     Can be thought of as containers for values
     of another type.
 
+    Monad types are polymorphic types.
+
     They are like containers that are capable
     of holding values of many different types.
     
