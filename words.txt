@@ -14233,3 +14233,14 @@ prestige
     quality.
     "the firm has recently gained considerable
     prestige"
+
+exculpatory
+    Tending or serving to clear from alleged
+    fault or guilt.
+
+    "The DNA found at the crime scene
+    proved to be exculpatory; it did not match
+    that of the defendant, and so he was
+    acquitted."
+
+    "It was self-exculpatory"
