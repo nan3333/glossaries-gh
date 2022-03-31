@@ -310,17 +310,23 @@ concrete data type
     [(String,String)] and Tree String are
     concrete data types.
 
-Polymorphic type
-    Like containers that are capable of
-    holding values of many different types. So
-    Maybe Int can be thought of as a Maybe
+polymorphic type
+    Can be thought of as containers for values
+    of another type.
+
+    They are like containers that are capable
+    of holding values of many different types.
+    
+    So Maybe Int can be thought of as a Maybe
     container holding an Int value (or
     Nothing) and Maybe String would be a Maybe
     container holding a String value (or
-    Nothing). In Haskell, we can also make the
-    type of the container polymorphic, so we
-    could write "m a" to represent a container
-    of some type holding a value of some type!
+    Nothing).
+    
+    In Haskell, we can also make the type of
+    the container polymorphic, so we could
+    write "m a" to represent a container of
+    some type holding a value of some type!
 
 Continuation Passing Style
 CPS
