@@ -298,6 +298,14 @@ data constructor
 
         lookupAge :: DB -> String -> Maybe Int
 
+    Type constructors such as Point and data
+    constructors such as Pt are in separate
+    namespaces. This allows the same name to
+    be used for both a type constructor and
+    data constructor, as in the following: 
+
+        data Point a = Point a a
+
 type constuctor
     Examples:
         [] is also a type constructor. Given
@@ -4174,3 +4182,17 @@ unary type constructor
     The Point type can now be seen clearly as
     a unary type constructor, since from the
     type t it constructs a new type Point t.
+
+binary data constructor
+    Example:
+        Pt is a -> a -> Point a,
+
+    Thus the following typings are valid: 
+        Pt  2.0  3.0            :: Point Float
+        Pt  'a'  'b'            :: Point Char
+        Pt True False           :: Point Bool
+
+recursive type
+    Examples
+        -- binary trees
+        data Tree a = Leaf a | Branch (Tree a) (Tree a) 

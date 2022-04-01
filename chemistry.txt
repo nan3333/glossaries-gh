@@ -1,5 +1,16 @@
 http://www.colby.edu/chemistry/OChem/STEREOCHEM/definitions.html
 
+radical
+    Any atom or molecule with a lone electron
+    in an outermost valence shell.
+
+radical pair
+    A pair of radicals connected in a very
+    special way; Their unpaired valence
+    electrons are entangled.
+
+    https://youtu.be/0A1ouV7iD8o?t=358
+
 substituent
     An atom or group of atoms taking the place
     of another atom or group or occupying a
