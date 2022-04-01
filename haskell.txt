@@ -4106,3 +4106,34 @@ principle type
     correct types, but too general, whereas
     something like [Integer]->Integer is too
     specific.
+
+nullary constructor
+    If a constructor does not take any data
+    arguments, it is nullary. 
+
+enumerated type
+    Examples:
+        data Bool  = False | True
+        data Color = Red | Green | Blue | Indigo | Violet
+
+    Both Bool and Color are examples of
+    enumerated types, since they consist of a
+    finite number of nullary data
+    constructors.
+
+tuple type
+    Example:
+        data Point a = Pt a a
+
+    Because of the single constructor, a type
+    like Point is often called a tuple type,
+    since it is essentially just a cartesian
+    product (in this case binary) of other
+    types. (Tuples are somewhat like records
+    in other languages.)
+
+multi-constructor type
+    In contrast to tuple types,
+    multi-constructor types, such as Bool and
+    Color, are called (disjoint) union or sum
+    types.
