@@ -298,6 +298,20 @@ data constructor
 
         lookupAge :: DB -> String -> Maybe Int
 
+type constuctor
+    Examples:
+        [] is also a type constructor. Given
+        any type t we can "apply" [] to yield
+        a new type [t].
+
+        The Haskell syntax allows [] t to be
+        written as [t].
+
+        Similarly, -> is a type constructor:
+        given two types t and u, t->u is the
+        type of functions mapping elements of
+        type t to elements of type u.
+
 concrete
 concrete type
 concrete data type
@@ -2137,6 +2151,11 @@ pattern matching
     A pattern that matches the empty list.
 
     It doesn't bind any variables.
+
+    [] is also a type constructor. Given any
+    type t we can "apply" [] to yield a new
+    type [t]. The Haskell syntax allows [] t
+    to be written as [t].
 
 Foldable
     Own implementation:
@@ -4133,7 +4152,25 @@ tuple type
     in other languages.)
 
 multi-constructor type
+union type
+sum types
     In contrast to tuple types,
     multi-constructor types, such as Bool and
-    Color, are called (disjoint) union or sum
-    types.
+    Color (See enumerated type), are called
+    (disjoint) union or sum types.
+
+polymorphic type
+    Example:
+        data Point a = Pt a a
+
+    For any type t, Point defines the type of
+    cartesian points that use t as the
+    coordinate type.
+
+unary type constructor
+    Example:
+        data Point a = Pt a a
+
+    The Point type can now be seen clearly as
+    a unary type constructor, since from the
+    type t it constructs a new type Point t.
