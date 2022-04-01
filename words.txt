@@ -14244,3 +14244,9 @@ exculpatory
     acquitted."
 
     "It was self-exculpatory"
+
+prophylactic
+    Guarding from or preventing the spread or
+    occurrence of disease or infection.
+
+    "a prophylactic measure"
