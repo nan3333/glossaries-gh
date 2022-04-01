@@ -4094,3 +4094,15 @@ mplus
 
 FiniteMap
     ewwlinks +/"FiniteMap" "https://wiki.haskell.org/All_About_Monads"
+
+principle type
+    An expression's or function's principal
+    type is the least general type that,
+    intuitively, "contains all instances of
+    the expression".
+    
+    For example, the principal type of head is
+    [a]->a; [b]->a, a->a, or even a are
+    correct types, but too general, whereas
+    something like [Integer]->Integer is too
+    specific.
