@@ -306,6 +306,30 @@ data constructor
 
         data Point a = Point a a
 
+    Data constructors:
+
+        data Tree a             = Leaf a | Branch (Tree a) (Tree a) 
+
+        Here we have defined a polymorphic
+        binary tree type whose elements are
+        either leaf nodes containing a value
+        of type a, or internal nodes
+        ("branches") containing (recursively)
+        two sub-trees.
+
+        When reading data declarations such as
+        this, remember again that Tree is a
+        type constructor, whereas Branch and
+        Leaf are data constructors. Aside from
+        establishing a connection between
+        these constructors, the above
+        declaration is essentially defining
+        the following types for Branch and
+        Leaf: 
+
+        Branch                  :: Tree a -> Tree a -> Tree a
+        Leaf                    :: a -> Tree a
+
 type constuctor
     Examples:
         [] is also a type constructor. Given
