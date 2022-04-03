@@ -5,6 +5,15 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+function
+    inc x                  = x+1
+    add x y                = x+y
+
+    are really shorthand for: 
+
+    inc                    = \x   -> x+1
+    add                    = \x y -> x+y
+
 Function application
     Example: map function:
 
@@ -72,6 +81,8 @@ _|_
     Much more will be said about exceptions in
     Section 7.)
 
+    See "error function".
+
 error
 error function
     Its type is String->a.
@@ -97,6 +108,8 @@ error function
 
         head (x:xs)             =  x
         head  []                =  error "head{PreludeList}: head []"
+
+    See "_|_".
 
 strict
     A function f is said to be strict if, when
@@ -587,9 +600,33 @@ type ascription
 
     > :t (4 :: Int) + (5 :: Int)
 
-operator section syntax
+section
+operator section
 section of an infix operator
     [#haskell]
+
+    Convert infix operator into a functional
+    value.
+
+    The partial application of an
+    infix operator.
+
+    This is the opposite of backquote notation
+    (i.e. making a functional value into an
+    operator).
+
+    For example:
+
+        (x+)  =  \y -> x+y
+        (+y)  =  \x -> x+y
+        (+)   =  \x y -> x+y
+
+    The parentheses are mandatory.
+
+    Handy when passing an infix operator as an
+    argument to a function, as in:
+
+        map (+) [1,2,3]
 
     A special syntax for partial application
     on infix operators.
@@ -2926,28 +2963,6 @@ function composition
         (.)                     :: (b->c) -> (a->b) -> (a->c)
         f . g                   = \ x -> f (g x)
 
-section
-convert infix operator into functional value
-    The partial application of an
-    infix operator.
-
-    This is the opposite of backquote notation
-    (i.e. making a functional value into an
-    operator).
-
-    For example:
-
-        (x+)  =  \y -> x+y
-        (+y)  =  \x -> x+y
-        (+)   =  \x y -> x+y
-
-    The parentheses are mandatory.
-
-    Handy when passing an infix operator as an
-    argument to a function, as in:
-
-        map (+) [1,2,3]
-
 convert functional value into infix operator
     Example:
 
@@ -3154,7 +3169,17 @@ xs
     xs hs "foldl (/) 64 [4,2,4]"
 
 lambda
-    xs hs "foldl (\x y -> 2*x + y) 4 [1,2,3]"
+    Instead of using equations to define
+    functions, we can also define them
+    "anonymously" via a lambda abstraction.
+
+    For example, a function equivalent to inc
+    could be written as \x -> x+1.
+
+    Similarly, the function add is equivalent
+    to \x -> \y -> x+y.
+
+        xs hs "foldl (\x y -> 2*x + y) 4 [1,2,3]"
 
 queryTerminal
     vim +/"import           System.Posix.Terminal (queryTerminal)" "$MYGIT/google/haskell-trainings/haskell_101/codelab/Main.hs"
