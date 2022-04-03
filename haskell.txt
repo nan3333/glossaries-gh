@@ -1451,7 +1451,61 @@ one-way matching
         -- f a1 (fold f [a2, a3, a4])        -- fold f (x:xs) = f x (fold f x5)
         -- f a1 (f a2 (fold f [a3, a41))     -- fold f (x:xs) = f x (fold f x5)
         -- f a1 (f a2 (f a3 (fold f [a4])))  -- fold f (x:xs) = f x (fold f x5)
+
+    Indeed, matching is permitted using the
+    constructors of any type, user-defined or
+    not. This includes tuples, strings,
+    numbers, characters, etc. For example,
+    here's a contrived function that matches
+    against a tuple of "constants:" 
+
+        contrived :: ([a], Char, (Int, Float), String, Bool) -> Bool
+        contrived    ([],  'b',  (1,   2.0),   "hi",   True) = False
+
+    This example also demonstrates that
+    nesting of patterns is permitted (to
+    arbitrary depth).
+
         -- f a1 (f a2 (f a3 a4))             -- fold f [x] = x
+
+    Technically speaking, formal parameters
+    (The Report calls these variables.) are
+    also patterns---it's just that they never
+    fail to match a value.
+    
+    As a "side effect" of the successful
+    match, the formal parameter is bound to
+    the value it is being matched against.
+    
+    For this reason patterns in any one
+    equation are not allowed to have more than
+    one occurrence of the same formal
+    parameter (a property called linearity
+    §3.17, §3.3, §4.4.3).
+
+formal parameter
+    Example:
+        addVectors :: (Num a) => (a, a) -> (a, a) -> (a, a)
+        addVectors (x1, y1) (x2, y2) = (x1 + x2, y1 + y2)
+
+        -- The formal parameters of the
+        -- pattern matching are x1, y1, x2 and
+        -- y2.
+
+refutable
+irrefutable
+    Patterns such as formal parameters that
+    never fail to match are said to be
+    irrefutable, in contrast to refutable
+    patterns which may fail to match.
+    
+    The pattern used in the contrived example
+    above is refutable.
+    
+    There are three other kinds of irrefutable
+    patterns, two of which we will introduce
+    now (the other we will delay until Section
+    4.4).
 
 patterns
     A way of making sure a value conforms to some form and
