@@ -1403,6 +1403,7 @@ function application
     it has the highest precedence.
 
 pattern matching
+one-way matching
     Specifying patterns to which some data
     should conform and then checking to see if
     it does and deconstructing the data
@@ -1451,7 +1452,6 @@ pattern matching
         -- f a1 (f a2 (fold f [a3, a41))     -- fold f (x:xs) = f x (fold f x5)
         -- f a1 (f a2 (f a3 (fold f [a4])))  -- fold f (x:xs) = f x (fold f x5)
         -- f a1 (f a2 (f a3 a4))             -- fold f [x] = x
-
 
 patterns
     A way of making sure a value conforms to some form and
