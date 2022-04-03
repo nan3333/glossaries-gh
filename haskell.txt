@@ -1426,6 +1426,33 @@ pattern matching
         addVectors :: (Num a) => (a, a) -> (a, a) -> (a, a)
         addVectors (x1, y1) (x2, y2) = (x1 + x2, y1 + y2)
 
+    Pattern matching in Haskell is different
+    from that found in logic programming
+    languages such as Prolog; in particular,
+    it can be viewed as "one-way" matching,
+    whereas Prolog allows "two-way" matching
+    (via unification), along with implicit
+    backtracking in its evaluation mechanism:
+        zip (x:xs) (y:ys)       = (x,y) : zip xs ys
+        -- Here, 'zip xs ys' is pattern
+        -- matched after the former
+        zip  xs     ys          = []
+
+    Examples of pattern matching:
+        fold :: (a -> a -> a) -> [a] -> a
+        fold f [] = error "blah"
+        fold f [x] = x
+        fold f (x:xs) = f x (fold f x5)
+
+        -- pattern matching
+        -- ----------------
+        -- fold f [a1, a2, a3, a4]
+        -- f a1 (fold f [a2, a3, a4])        -- fold f (x:xs) = f x (fold f x5)
+        -- f a1 (f a2 (fold f [a3, a41))     -- fold f (x:xs) = f x (fold f x5)
+        -- f a1 (f a2 (f a3 (fold f [a4])))  -- fold f (x:xs) = f x (fold f x5)
+        -- f a1 (f a2 (f a3 a4))             -- fold f [x] = x
+
+
 patterns
     A way of making sure a value conforms to some form and
     deconstructing it.
@@ -2201,20 +2228,6 @@ scanr1 :: (a -> a -> a) -> [a] -> [a]
 
 list
 [a]
-
-pattern matching
-    fold :: (a -> a -> a) -> [a] -> a
-    fold f [] = error "blah"
-    fold f [x] = x
-    fold f (x:xs) = f x (fold f x5)
-
-    -- pattern matching
-    -- ----------------
-    -- fold f [a1, a2, a3, a4]
-    -- f a1 (fold f [a2, a3, a4])        -- fold f (x:xs) = f x (fold f x5)
-    -- f a1 (f a2 (fold f [a3, a41))     -- fold f (x:xs) = f x (fold f x5)
-    -- f a1 (f a2 (f a3 (fold f [a4])))  -- fold f (x:xs) = f x (fold f x5)
-    -- f a1 (f a2 (f a3 a4))             -- fold f [x] = x
 
 []
     A pattern that matches the empty list.
