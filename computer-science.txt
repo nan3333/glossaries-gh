@@ -274,3 +274,14 @@ asynchony
     The quality or state of being asynchronous
 
     Absence or lack of concurrence in time.
+
+arbitrary-precision
+bignum
+multiple-precision
+infinite-precision
+    [arithmetic]
+
+    Calculations are performed on numbers
+    whose digits of precision are limited only
+    by the available memory of the host
+    system.

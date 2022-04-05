@@ -4692,9 +4692,55 @@ explicit grouping mechanism
 parametric polymorphism
     [type of polymorphism]
 
+    For example, the map function is
+    polymorphic and its type indicates clearly
+    that its first argument is a function;
+    note also that the two a's must be
+    instantiated with the same type (likewise
+    for the b's). As an example of the use of
+    map, we can increment the elements in a
+    list: 
+    
+        map (add 1) [1,2,3] => [2,3,4] 
+
 ad-hoc polymorphism
-ad hoc polymorphism
 overloading
     [type of polymorphism]
 
     http://www.cs.otago.ac.nz/coursework/cosc347/References/FP/haskell-98-tutorial-html/classes.html
+
+    - The literals 1, 2, etc. are often used
+      to represent both fixed and arbitrary
+      precision integers.
+    
+    - Numeric operators such as + are often
+      defined to work on many different kinds
+      of numbers.
+    
+    - The equality operator (== in Haskell)
+      usually works on numbers and many other
+      (but not all) types.
+    
+    Intuitively speaking, the type of elem
+    "ought" to be: a->[a]->Bool. But this
+    would imply that == has type a->a->Bool,
+    even though we just said that we don't
+    expect == to be defined for all types.
+    
+    Furthermore, as we have noted earlier,
+    even if == were defined on all types,
+    comparing two lists for equality is very
+    different from comparing two integers. In
+    this sense, we expect == to be overloaded
+    to carry on these various tasks.
+    
+    Type classes conveniently solve both of
+    these problems. They allow us to declare
+    which types are instances of which class,
+    and to provide definitions of the
+    overloaded operations associated with a
+    class. For example, let's define a type
+    class containing an equality operator: 
+    
+        class Eq a where 
+        (==) :: a -> a -> Bool
