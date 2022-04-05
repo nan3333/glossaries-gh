@@ -322,9 +322,7 @@ Haskell Kernel
 
     ewwlinks +/"The Haskell Kernel" "https://www.haskell.org/onlinereport/haskell2010/haskellch1.html#x6-110001.2"
 
-type constructor
- vs
-data constructor
+type constructor vs data constructor
     Maybe is a type constructor and Nothing
     and Just are data constructors.
     You can construct a data value by applying
@@ -370,7 +368,7 @@ data constructor
         Branch :: Tree a -> Tree a -> Tree a
         Leaf   :: a -> Tree a
 
-type constuctor
+type constructor
     Examples:
         [] is also a type constructor. Given
         any type t we can "apply" [] to yield
@@ -384,6 +382,9 @@ type constuctor
         type of functions mapping elements of
         type t to elements of type u.
 
+    See:
+    - "type constructor vs data constructor"
+
 concrete
 concrete type
 concrete data type
@@ -395,6 +396,9 @@ concrete data type
     For example, Maybe Integer , Bool ,
     [(String,String)] and Tree String are
     concrete data types.
+
+    See:
+    - "type constructor vs data constructor"
 
 polymorphic type
     Can be thought of as containers for values
