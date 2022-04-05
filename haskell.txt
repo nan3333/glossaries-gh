@@ -3162,9 +3162,36 @@ let
 
 typeclass
 type class
-    A class of a class.
+class
+    A class of a type.
 
     Num contains Integer, Double, Int, Float.
+
+    Example:
+    - Eq
+
+context
+    A class can be used as a context.
+
+    Example:
+    - Eq a
+      - where Eq is the context here.
+
+    The constraint that a type a must be an
+    instance of the class Eq is written Eq a.
+
+    Thus Eq a is not a type expression, but
+    rather it expresses a constraint on a
+    type, and is called a context.
+
+    Contexts are placed at the front of type
+    expressions.
+
+    For example, the effect of the above class
+    declaration is to assign the following
+    type to ==: 
+    
+        (==) :: (Eq a) => a -> a -> Bool
 
 Ord
     [typeclass]
@@ -4785,17 +4812,3 @@ overloaded
     - "context"
     - "operation"
 
-context
-    The constraint that a type a must be an
-    instance of the class Eq is written Eq a.
-    Thus Eq a is not a type expression, but
-    rather it expresses a constraint on a
-    type, and is called a context. Contexts
-    are placed at the front of type
-    expressions.
-
-    For example, the effect of the above class
-    declaration is to assign the following
-    type to ==: 
-    
-        (==) :: (Eq a) => a -> a -> Bool
