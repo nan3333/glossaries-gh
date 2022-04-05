@@ -4163,6 +4163,15 @@ else
                             then x
                             else x*2
 
+    vs case:
+
+        if e1then e2else e3
+
+    which is really short-hand for: 
+
+        case e1 of True  -> e2  
+                   False -> e3  
+
 Constraint
     ewwlinks +/"The following things" "https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/constraint_kind.html"
 
@@ -4273,7 +4282,8 @@ mplus
 FiniteMap
     ewwlinks +/"FiniteMap" "https://wiki.haskell.org/All_About_Monads"
 
-principle type
+principal
+principal type
     An expression's or function's principal
     type is the least general type that,
     intuitively, "contains all instances of
@@ -4394,3 +4404,95 @@ type signature declaration
     We can declare an explicit typing for inc: 
 
         inc :: Integer -> Integer
+
+lazy pattern
+    ewwlinks +/"4.4  Lazy Patterns" "http://www.cs.otago.ac.nz/coursework/cosc347/References/FP/haskell-98-tutorial-html/patterns.html"
+
+    There is one other kind of pattern allowed
+    in Haskell.
+    
+    It is called a lazy pattern, and has the
+    form ~pat.
+    
+    Lazy patterns are irrefutable: matching a
+    value v against ~pat always succeeds,
+    regardless of pat.
+    
+    Operationally speaking, if an identifier
+    in pat is later "used" on the right-hand-
+    side, it will be bound to that portion of
+    the value that would result if v were to
+    successfully match pat, and _|_ otherwise.
+    
+    Lazy patterns are useful in contexts where
+    infinite data structures are being defined
+    recursively.
+    
+    For example, infinite lists are an
+    excellent vehicle for writing simulation
+    programs, and in this context the infinite
+    lists are often called streams.
+    
+    Consider the simple case of simulating the
+    interactions between a server process
+    server and a client process client, where
+    client sends a sequence of requests to
+    server, and server replies to each request
+    with some kind of response.
+    
+    This situation is shown pictorially in
+    Figure 2.
+    
+    (Note that client also takes an initial
+    message as argument.)
+
+    Client Server Example 
+
+    Using streams to simulate the message
+    sequences, the Haskell code corresponding
+    to this diagram is: 
+
+        reqs  = client init resps
+        resps = server reqs
+
+    These recursive equations are a direct
+    lexical transliteration of the diagram.
+
+    Let us further assume that the structure
+    of the server and client look something
+    like this: 
+
+        client init (resp:resps) = init : client (next resp) resps
+        server      (req:reqs)   = process req : server reqs
+
+    where we assume that next is a function
+    that, given a response from the server,
+    determines the next request, and process
+    is a function that processes a request
+    from the client, returning an appropriate
+    response.
+
+    Unfortunately, this program has a serious
+    problem: it will not produce any output!
+    The problem is that client, as used in the
+    recursive setting of reqs and resps,
+    attempts a match on the response list
+    before it has submitted its first request!
+    In other words, the pattern matching is
+    being done "too early." One way to fix
+    this is to redefine client as follows: 
+
+        client init resps = init : client (next (head resps)) (tail resps)
+
+    Although workable, this solution does not
+    read as well as that given earlier. A
+    better solution is to use a lazy pattern:
+
+        client init ~(resp:resps) = init : client (next resp) resps
+
+    Because lazy patterns are irrefutable, the
+    match will immediately succeed, allowing
+    the initial request to be "submitted", in
+    turn allowing the first response to be
+    generated; the engine is now "primed", and
+    the recursion takes care of the rest.
