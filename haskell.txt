@@ -4644,6 +4644,10 @@ Let expression
     and pattern bindings.
 
 mutually recursive
+    A form of recursion where two mathematical
+    or computational objects, such as
+    functions or datatypes, are defined in
+    terms of each other.
 
 where
 where clause
@@ -4834,6 +4838,44 @@ overloaded
     - "context"
     - "operation"
 
+class declaration
+    [declaration]
+
+    Example:
+
+        class (Eq a) => Ord a where
+        (<), (<=), (>=), (>) :: a -> a -> Bool
+        max, min :: a -> a -> a
+
+superclass
+subclass
+class inclusion
+    Example:
+
+        class (Eq a) => Ord a where
+        (<), (<=), (>=), (>) :: a -> a -> Bool
+        max, min :: a -> a -> a
+
+    We say that Eq is a superclass of Ord
+    (conversely, Ord is a subclass of Eq), and
+    any type which is an instance of Ord must
+    also be an instance of Eq.
+
+    One benefit of such class inclusions is
+    shorter contexts: a type expression for a
+    function that uses operations from both
+    the Eq and Ord classes can use the context
+    (Ord a), rather than (Eq a, Ord a), since
+    Ord "implies" Eq.
+    
+    More importantly, methods for subclass
+    operations can assume the existence of
+    methods for superclass operations.
+    
+    For example, the Ord declaration in the
+    Standard Prelude contains this default
+    method for (<): 
+
 class extension
     We may wish to define a class Ord which
     inherits all of the operations in Eq, but
@@ -4879,3 +4921,13 @@ class extension
 
     In other words, quicksort only operates on
     lists of values of ordered types.
+
+multiple inheritance
+    Classes may have more than one superclass.
+
+    Example:
+
+        class (Eq a, Show a) => C a where ...
+
+    This creates a class C which inherits
+    operations from both Eq and Show.
