@@ -368,23 +368,6 @@ type constructor vs data constructor
         Branch :: Tree a -> Tree a -> Tree a
         Leaf   :: a -> Tree a
 
-type constructor
-    Examples:
-        [] is also a type constructor. Given
-        any type t we can "apply" [] to yield
-        a new type [t].
-
-        The Haskell syntax allows [] t to be
-        written as [t].
-
-        Similarly, -> is a type constructor:
-        given two types t and u, t->u is the
-        type of functions mapping elements of
-        type t to elements of type u.
-
-    See:
-    - "type constructor vs data constructor"
-
 concrete
 concrete type
 concrete data type
@@ -5018,5 +5001,39 @@ higher-order function
     function as an argument.
 
 first-order type
+    Integer is a first-order type.
+    Even `Tree Integer`, or even `Tree a`
+    are first-order, because they are FQ
+    types.
+
+    Example:
+        Integer
+
+    Example:
+        -- a tree containing Integer values
+        Tree Integer
+
+    Example:
+        -- representing the family of trees
+        -- containing a values
+        Tree a
 
 higher-order type
+type constructor
+    Tree by itself is a higher-order type.
+
+    Examples:
+        [] is also a type constructor. Given
+        any type t we can "apply" [] to yield
+        a new type [t].
+
+        The Haskell syntax allows [] t to be
+        written as [t].
+
+        Similarly, -> is a type constructor:
+        given two types t and u, t->u is the
+        type of functions mapping elements of
+        type t to elements of type u.
+
+    See:
+    - "type constructor vs data constructor"
