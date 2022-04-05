@@ -4744,3 +4744,33 @@ overloading
     
         class Eq a where 
         (==) :: a -> a -> Bool
+
+    Here Eq is the name of the class being
+    defined, and == is the single operation in
+    the class.
+    
+    This declaration may be read "a type a is
+    an instance of the class Eq if there is an
+    (overloaded) operation ==, of the
+    appropriate type, defined on it." (Note
+    that == is only defined on pairs of
+    objects of the same type.)
+
+    Eq is a context.
+
+    See "context".
+
+context
+    The constraint that a type a must be an
+    instance of the class Eq is written Eq a.
+    Thus Eq a is not a type expression, but
+    rather it expresses a constraint on a
+    type, and is called a context. Contexts
+    are placed at the front of type
+    expressions.
+
+    For example, the effect of the above class
+    declaration is to assign the following
+    type to ==: 
+    
+        (==) :: (Eq a) => a -> a -> Bool
