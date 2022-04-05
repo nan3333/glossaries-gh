@@ -1312,6 +1312,20 @@ literate formatting
     Example:
     $MYGIT/bollu/teleport/app/Main.lhs
 
+operation
+operator
+    Type classes allow us to declare which
+    types are instances of which class, and to
+    provide definitions of the overloaded
+    operations associated with a class. For
+    example, let's define a type class
+    containing an equality operator: 
+    
+        class Eq a where 
+        (==) :: a -> a -> Bool
+
+    See "overloading".
+
 method
 typeclass method
 type class method
@@ -4712,6 +4726,8 @@ parametric polymorphism
 
 ad-hoc polymorphism
 overloading
+overload
+overloaded
     [type of polymorphism]
 
     http://www.cs.otago.ac.nz/coursework/cosc347/References/FP/haskell-98-tutorial-html/classes.html
@@ -4765,7 +4781,9 @@ overloading
 
     Eq is a context.
 
-    See "context".
+    See:
+    - "context"
+    - "operation"
 
 context
     The constraint that a type a must be an
