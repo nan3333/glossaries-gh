@@ -4507,3 +4507,43 @@ lazy pattern
     turn allowing the first response to be
     generated; the engine is now "primed", and
     the recursion takes care of the rest.
+
+pattern binding
+    [lazy binding]
+
+    As another example of the use of lazy
+    patterns, consider the definition of
+    Fibonacci given earlier: 
+
+    fib             = 1 : 1 : [ a+b | (a,b) <- zip fib (tail fib) ]
+
+    We might try rewriting this using an as-pattern: 
+
+    fib@(1:tfib)    = 1 : 1 : [ a+b | (a,b) <- zip fib tfib ]
+
+    This version of fib has the (small)
+    advantage of not using tail on the
+    right-hand side, since it is available in
+    "destructured" form on the left-hand side
+    as tfib.
+
+    This kind of equation is called a pattern
+    binding because it is a top-level equation
+    in which the entire left-hand side is a
+    pattern; i.e. both fib and tfib become
+    bound within the scope of the
+    declaration.
+
+    Now, using the same reasoning as earlier,
+    we should be led to believe that this
+    program will not generate any output.
+    Curiously, however, it does, and the
+    reason is simple: in Haskell, pattern
+    bindings are assumed to have an implicit ~
+    in front of them, reflecting the most
+    common behavior expected of pattern
+    bindings, and avoiding some anomalous
+    situations which are beyond the scope of
+    this tutorial. Thus we see that lazy
+    patterns play an important role in
+    Haskell, if only implicitly. 
