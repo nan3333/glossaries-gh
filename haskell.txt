@@ -1381,7 +1381,7 @@ constructor
     - data T1 = A Int Int | B Bool Bool
       Sums and products can be combined.
 
-braces
+brace
 {}
     Syntax for records.
 
@@ -1532,17 +1532,22 @@ irrefutable
     now (the other we will delay until Section
     4.4).
 
-patterns
+pattern
     A way of making sure a value conforms to some form and
     deconstructing it.
 
     http://learnyouahaskell.com/syntax-in-functions
 
-guards
+guard
     A way of testing whether some property of a value (or several of
     them) are true or false.
 
     http://learnyouahaskell.com/syntax-in-functions#guards-guards
+
+    Example:
+        toNatural               :: Integer -> Natural
+        toNatural x | x < 0     = error "Can't create negative naturals!" 
+                    | otherwise = MakeNatural x
 
 Monoid
     [#haskell]
