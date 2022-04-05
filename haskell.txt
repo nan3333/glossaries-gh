@@ -4763,6 +4763,11 @@ explicit grouping mechanism
     readability. It is easy to learn, and its
     use is encouraged.
 
+polymorphism
+    Types:
+    - parametric polymorphism
+    - ad-hoc polymorphism
+
 parametric polymorphism
     [type of polymorphism]
 
@@ -4778,9 +4783,9 @@ parametric polymorphism
         map (add 1) [1,2,3] => [2,3,4]
 
 ad-hoc polymorphism
-overloading
 overload
 overloaded
+overloading
     [type of polymorphism]
 
     http://www.cs.otago.ac.nz/coursework/cosc347/References/FP/haskell-98-tutorial-html/classes.html
