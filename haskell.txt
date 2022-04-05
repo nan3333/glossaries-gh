@@ -4343,3 +4343,12 @@ typing
             inc :: Integer -> Integer
         [1,2,3] :: [Integer]
         ('b',4) :: (Char,Integer)
+
+equation
+    Functions in Haskell are normally defined
+    by a series of equations.
+
+    For example, the function inc can be
+    defined by the single equation: 
+
+        inc n = n+1
