@@ -131,3 +131,51 @@ syzygy
           Jupiter - Earth - Sun.
 
       That makes it great for viewing.
+
+apsis
+    The farthest or nearest point in the orbit
+    of a planetary body about its primary
+    body.
+    
+    The apsides of Earth's orbit of the Sun
+    are two:
+    - the aphelion,
+    - the perihelion.
+
+aphelion
+    Where Earth is farthest from the sun
+
+perihelion
+    Where Earth is nearest to the sun
+
+sun dog
+sundog
+ock sun
+parhelion
+parhelia
+    [#meteorology]
+
+    An atmospheric optical phenomenon that
+    consists of a bright spot to one or both
+    sides of the Sun.
+    
+    Two sun dogs often flank the Sun within a
+    22° halo.
+    
+    The sun dog is a member of the family of
+    halos caused by the refraction of sunlight
+    by ice crystals in the atmosphere.
+    
+    Sun dogs typically appear as a pair of
+    subtly colored patches of light, around
+    22° to the left and right of the Sun, and
+    at the same altitude above the horizon as
+    the Sun.
+    
+    They can be seen anywhere in the world
+    during any season, but are not always
+    obvious or bright.
+    
+    Sun dogs are best seen and most
+    conspicuous when the Sun is near the
+    horizon.
