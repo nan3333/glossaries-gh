@@ -344,6 +344,10 @@ type constructor vs data constructor
 
         data Point a = Point a a
 
+    For tuples, the type constructors (as well
+    as the data constructors) are (,), (,,),
+    and so on.
+
     Data constructors:
 
         data Tree a = Leaf a | Branch (Tree a) (Tree a)
@@ -2593,6 +2597,54 @@ kind
         ghci> :kind (->)
         (->) :: * -> * -> *
 
+    As we know, the type system detects typing
+    errors in expressions. But what about
+    errors due to malformed type expressions?
+    The expression (+) 1 2 3 results in a type
+    error since (+) takes only two arguments.
+    Similarly, the type Tree Int Int should
+    produce some sort of an error since the
+    Tree type takes only a single argument.
+    So, how does Haskell detect malformed type
+    expressions? The answer is a second type
+    system which ensures the correctness of
+    types! Each type has an associated kind
+    which ensures that the type is used
+    correctly.
+
+    Type expressions are classified into
+    different kinds which take one of two
+    possible forms: 
+
+    - The symbol * represents the kind of type
+      associated with concrete data objects.
+      That is, if the value v has type t, the
+      kind of v must be *.
+    - If k1 and k2 are kinds, then k1->k2 is
+      the kind of types that take a type of
+      kind k1 and return a type of kind k2. 
+
+    The type constructor Tree has the kind
+    *->*; the type Tree Int has the kind *.
+    Members of the Functor class must all have
+    the kind *->*; a kinding error would
+    result from an declaration such as 
+
+        instance Functor Integer where ...
+
+    since Integer has the kind *. 
+
+    Kinds do not appear directly in Haskell
+    programs.  The compiler infers kinds
+    before doing type checking without any
+    need for `kind declarations'. Kinds stay
+    in the background of a Haskell program
+    except when an erroneous type signature
+    leads to a kind error. Kinds are simple
+    enough that compilers should be able to
+    provide descriptive error messages when
+    kind conflicts occur.
+
 //
     ewwlinks +/"13.4  Incremental updates" "https://www.haskell.org/tutorial/arrays.html"
 
@@ -4724,6 +4776,8 @@ let vs where
 
 layout
 explicit grouping mechanism
+    [two-dimensional syntax]
+
     The reader may have been wondering how it
     is that Haskell programs avoid the use of
     semicolons, or some other kind of
@@ -5020,6 +5074,9 @@ first-order type
 
 higher-order type
 type constructor
+    Takes a type as an argument and returns a
+    type as a result.
+
     Tree by itself is a higher-order type.
 
     Examples:
@@ -5034,6 +5091,14 @@ type constructor
         given two types t and u, t->u is the
         type of functions mapping elements of
         type t to elements of type u.
+
+    There are no values in Haskell that have a
+    higher order type, but such types can be
+    used in class declarations.
+
+    The exception to the rule due to syntax
+    sugar:
+    - The types [a] and [] a are the same.
 
     See:
     - "type constructor vs data constructor"

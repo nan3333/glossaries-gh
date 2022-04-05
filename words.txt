@@ -14280,3 +14280,14 @@ isotropic
     No special direction.
 
     https://youtu.be/e1dOnqCu9pQ?t=20
+
+abject
+    The definition of abject is something that
+    is very bad or miserable.
+    
+    An example of abject poverty would be
+    homelessness.
+    
+    Extremely contemptible or degrading.
+
+    "abject terror"

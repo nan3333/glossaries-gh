@@ -227,3 +227,12 @@ extend an invitation
     To offer an invitation (to someone).
 
     "I extended the invitation to Melee."
+
+to wit
+    A phrase meaning "the following comes to
+    mind." The phrase is sometimes used to
+    introduce examples for a more general
+    statement.
+    
+    It may follow a comma, or form the
+    beginning of a new sentence.
