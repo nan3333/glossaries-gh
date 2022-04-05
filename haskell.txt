@@ -177,6 +177,31 @@ fixity declaration
     (See §4.4.2 for a detailed definition of
     the associativity rules.)
 
+associative
+    Associative operators are those that are
+    not sensitive of the sequence of
+    execution, for example, 5+3+2 will always
+    result in 10 whether you execute/solve the
+    right part first or the last part.
+
+non-associative
+non-associativity
+    Non-associative operators are those whose
+    result will differ based upon the sequence
+    of execution or solving, for example,
+    5-3-2 will result in 0 if the left pair is
+    executed first and will result in 4 if the
+    right part is executed first.
+    
+    The Non-Associative operators are further
+    classified as:
+    - left-associative
+    - right associative.
+
+left associative
+right associative
+    [non-associative]
+
 non-strict
 lazy
     ewwlinks +/"Functions are Non-strict" "https://www.haskell.org/tutorial/functions.html"
