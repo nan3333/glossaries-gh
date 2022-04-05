@@ -6,24 +6,24 @@ http://learnyouahaskell.com/input-and-output
 lyah sequence
 
 function
-    inc x                  = x+1
-    add x y                = x+y
+    inc x   = x+1
+    add x y = x+y
 
     are really shorthand for: 
 
-    inc                    = \x   -> x+1
-    add                    = \x y -> x+y
+    inc = \x   -> x+1
+    add = \x y -> x+y
 
 Function application
     Example: map function:
 
-        map                     :: (a->b) -> [a] -> [b]
-        map f  []               =  []
-        map f (x:xs)            =  f x : map f xs
+        map          :: (a->b) -> [a] -> [b]
+        map f  []    =  []
+        map f (x:xs) =  f x : map f xs
 
     Second equation:
 
-        map f (x:xs)            =  f x : map f xs
+        map f (x:xs) =  f x : map f xs
 
     Function application has higher precedence
     than any infix operator, and thus the
@@ -106,8 +106,8 @@ error function
     the actual definition of head taken from
     the Standard Prelude is: 
 
-        head (x:xs)             =  x
-        head  []                =  error "head{PreludeList}: head []"
+        head (x:xs) =  x
+        head  []    =  error "head{PreludeList}: head []"
 
     See "_|_".
 
@@ -321,7 +321,7 @@ data constructor
 
     Data constructors:
 
-        data Tree a             = Leaf a | Branch (Tree a) (Tree a) 
+        data Tree a = Leaf a | Branch (Tree a) (Tree a) 
 
         Here we have defined a polymorphic
         binary tree type whose elements are
@@ -340,8 +340,8 @@ data constructor
         the following types for Branch and
         Leaf: 
 
-        Branch                  :: Tree a -> Tree a -> Tree a
-        Leaf                    :: a -> Tree a
+        Branch :: Tree a -> Tree a -> Tree a
+        Leaf   :: a -> Tree a
 
 type constuctor
     Examples:
