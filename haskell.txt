@@ -2911,6 +2911,9 @@ data vs newtype
               Y _ -> "This will not"
 
 data
+data declaration
+    [declaration]
+
     Create a datatype to hold an abstract
     syntax tree for an expression, one could
     use:
@@ -3202,6 +3205,62 @@ context
     type for elem:
 
         elem :: (Eq a) => a -> [a] -> Bool
+
+    Contexts are also allowed in data
+    declarations.
+
+class constraint
+    Class methods may have additional class
+    constraints on any type variable except
+    the one defining the current class. For
+    example, in this class: 
+    
+        class C a where
+        m :: Show b => a -> b
+    
+    the method m requires that type b is in
+    class Show. However, the method m could
+    not place any additional class constraints
+    on type a. These would instead have to be
+    part of the context in the class
+    declaration. 
+
+constraint
+    Types:
+    - Context
+    - Class constraint
+    - Implicit parameter constraint
+    - Equality constraint
+    - ConstraintKinds
+
+    Normally, constraints (which appear in
+    types to the left of the => arrow) have a
+    very restricted syntax. They can only be:
+    
+    - Class constraints, e.g. Show a
+    - Implicit parameter constraints
+      e.g. ?x::Int (with the ImplicitParams extension)
+    - Equality constraints
+      e.g. a ~ Int (with the TypeFamilies or GADTs extensions)
+    
+    With the ConstraintKinds extension, GHC
+    becomes more liberal in what it accepts as
+    constraints in your program.
+
+ConstraintKinds
+    Allow types of kind Constraint to be used
+    in contexts.
+
+    ewwlinks +/"The following things" "https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/constraint_kind.html"
+
+    Among others:
+        Anything whose form is not yet known,
+        but the user has declared to have kind
+        Constraint (for which they need to
+        import it from Data.Kind )
+
+    ghcd 5.5
+    ghcd Fractional
 
 instance declaration
     [declaration]
@@ -4252,18 +4311,6 @@ else
 
         case e1 of True  -> e2
                    False -> e3
-
-Constraint
-    ewwlinks +/"The following things" "https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/constraint_kind.html"
-
-    Among others:
-        Anything whose form is not yet known,
-        but the user has declared to have kind
-        Constraint (for which they need to
-        import it from Data.Kind )
-
-    ghcd 5.5
-    ghcd Fractional
 
 Yesod
 main = warp 3000
