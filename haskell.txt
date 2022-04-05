@@ -1494,6 +1494,8 @@ formal parameter
 
 refutable
 irrefutable
+    [pattern]
+
     Patterns such as formal parameters that
     never fail to match are said to be
     irrefutable, in contrast to refutable
@@ -4074,6 +4076,8 @@ sequenceA
 
 as-pattern
 @
+    ewwlinks +/"^As-patterns." "http://www.cs.otago.ac.nz/coursework/cosc347/References/FP/haskell-98-tutorial-html/patterns.html"
+
     The @ Symbol is used to both give a name
     to a parameter and match that parameter
     against a pattern that follows the @.
@@ -4312,3 +4316,20 @@ recursive type
     Examples
         -- binary trees
         data Tree a = Leaf a | Branch (Tree a) (Tree a) 
+
+race
+    Allows you to kill asynchonous exceptions
+    from the outside.
+
+    https://youtu.be/DebDaiYev2M?t=596
+
+atomic type
+    Examples:
+    - Integer (infinite-precision integers),
+    - Char (characters),
+    - Integer->Integer (functions mapping Integer to Integer)
+
+structured type
+    Examples:
+    - [Integer] (homogeneous lists of integers)
+    - (Char,Integer) (character, integer pairs).

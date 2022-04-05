@@ -12878,3 +12878,13 @@ Quid pro quo
     "give and take", "tit for tat", "you
     scratch my back, and I'll scratch yours",
     and "one hand washes the other".
+
+homophily
+    The principle that a contact between
+    similar people occurs at a higher rate
+    than among dissimilar people.
+    
+    The pervasive fact of homophily means that
+    cultural, behavioral, genetic, or material
+    information that flows through net- works
+    will tend to be localized.
