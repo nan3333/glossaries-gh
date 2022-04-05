@@ -200,6 +200,8 @@ non-associativity
 
 left associative
 right associative
+left-associative
+right-associative
     [non-associative]
 
 non-strict
@@ -1223,8 +1225,8 @@ language extensions
 
         import "regex-pcre" Text.Regex.PCRE
 
-infixl 5
-infixr 5
+infixl
+infixr
     https://stackoverflow.com/questions/27770118/how-does-the-infix-work
 
     ewwlinks +/"(|>) :: Seq a -> a -> Seq a infixl 5" "https://hackage.haskell.org/package/containers-0.6.2.1/docs/Data-Sequence.html#v:-124--62-"
@@ -1239,6 +1241,10 @@ infixr 5
     associativity is non-ambiguous.
 
     https://wiki.haskell.org/Keywords#infixr
+
+    Examples:
+    - infixl 5
+    - infixr 5
 
 ()
 unit
