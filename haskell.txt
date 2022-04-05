@@ -4849,6 +4849,26 @@ polymorphism
 parametric polymorphism
     [type of polymorphism]
 
+    Parametric polymorphism is useful in
+    defining families of types by universally
+    quantifying over all types.
+
+    Sometimes, however, that universal
+    quantification is too broad---we wish to
+    quantify over some smaller set of types,
+    such as those types whose elements can be
+    compared for equality, so we may use
+    ad-hoc polymorphism instead. Type classes
+    can be seen as providing a structured way
+    to do just this.
+    
+    Indeed, we can think of parametric
+    polymorphism as a kind of overloading too!
+    It's just that the overloading occurs
+    implicitly over all types instead of a
+    constrained set of types (i.e. a type
+    class).
+
     For example, the map function is
     polymorphic and its type indicates clearly
     that its first argument is a function;
