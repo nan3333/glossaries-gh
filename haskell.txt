@@ -9,7 +9,7 @@ function
     inc x   = x+1
     add x y = x+y
 
-    are really shorthand for: 
+    are really shorthand for:
 
     inc = \x   -> x+1
     add = \x y -> x+y
@@ -104,7 +104,7 @@ error function
     when we wish to terminate a program when
     something has "gone wrong." For example,
     the actual definition of head taken from
-    the Standard Prelude is: 
+    the Standard Prelude is:
 
         head (x:xs) =  x
         head  []    =  error "head{PreludeList}: head []"
@@ -192,7 +192,7 @@ non-associativity
     5-3-2 will result in 0 if the left pair is
     executed first and will result in 4 if the
     right part is executed first.
-    
+
     The Non-Associative operators are further
     classified as:
     - left-associative
@@ -342,13 +342,13 @@ data constructor
     constructors such as Pt are in separate
     namespaces. This allows the same name to
     be used for both a type constructor and
-    data constructor, as in the following: 
+    data constructor, as in the following:
 
         data Point a = Point a a
 
     Data constructors:
 
-        data Tree a = Leaf a | Branch (Tree a) (Tree a) 
+        data Tree a = Leaf a | Branch (Tree a) (Tree a)
 
         Here we have defined a polymorphic
         binary tree type whose elements are
@@ -365,7 +365,7 @@ data constructor
         these constructors, the above
         declaration is essentially defining
         the following types for Branch and
-        Leaf: 
+        Leaf:
 
         Branch :: Tree a -> Tree a -> Tree a
         Leaf   :: a -> Tree a
@@ -404,13 +404,13 @@ polymorphic type
 
     They are like containers that are capable
     of holding values of many different types.
-    
+
     So Maybe Int can be thought of as a Maybe
     container holding an Int value (or
     Nothing) and Maybe String would be a Maybe
     container holding a String value (or
     Nothing).
-    
+
     In Haskell, we can also make the type of
     the container polymorphic, so we could
     write "m a" to represent a container of
@@ -1319,9 +1319,9 @@ operator
     provide definitions of the overloaded
     operations associated with a class. For
     example, let's define a type class
-    containing an equality operator: 
-    
-        class Eq a where 
+    containing an equality operator:
+
+        class Eq a where
         (==) :: a -> a -> Bool
 
     See "overloading".
@@ -1333,7 +1333,7 @@ type class method
 
     Example:
 
-        instance Eq Integer where 
+        instance Eq Integer where
         x == y = x `integerEq` y
 
     The definition of == is called a method.
@@ -1510,7 +1510,7 @@ one-way matching
     not. This includes tuples, strings,
     numbers, characters, etc. For example,
     here's a contrived function that matches
-    against a tuple of "constants:" 
+    against a tuple of "constants:"
 
         contrived :: ([a], Char, (Int, Float), String, Bool) -> Bool
         contrived    ([],  'b',  (1,   2.0),   "hi",   True) = False
@@ -1525,11 +1525,11 @@ one-way matching
     (The Report calls these variables.) are
     also patterns---it's just that they never
     fail to match a value.
-    
+
     As a "side effect" of the successful
     match, the formal parameter is bound to
     the value it is being matched against.
-    
+
     For this reason patterns in any one
     equation are not allowed to have more than
     one occurrence of the same formal
@@ -1553,10 +1553,10 @@ irrefutable
     never fail to match are said to be
     irrefutable, in contrast to refutable
     patterns which may fail to match.
-    
+
     The pattern used in the contrived example
     above is refutable.
-    
+
     There are three other kinds of irrefutable
     patterns, two of which we will introduce
     now (the other we will delay until Section
@@ -3189,9 +3189,31 @@ context
 
     For example, the effect of the above class
     declaration is to assign the following
-    type to ==: 
-    
+    type to ==:
+
         (==) :: (Eq a) => a -> a -> Bool
+
+    This should be read, "For every type a
+    that is an instance of the class Eq, ==
+    has type a->a->Bool". This is the type
+    that would be used for == in the elem
+    example, and indeed the constraint imposed
+    by the context propagates to the principal
+    type for elem:
+
+        elem :: (Eq a) => a -> [a] -> Bool
+
+instance declaration
+    [declaration]
+
+    But how do we specify which types are
+    instances of the class Eq, and the actual
+    behavior of == on each of those types?
+    This is done with an instance declaration.
+    For example:
+
+        instance Eq Integer where
+        x == y = x `integerEq` y
 
 Ord
     [typeclass]
@@ -4226,10 +4248,10 @@ else
 
         if e1then e2else e3
 
-    which is really short-hand for: 
+    which is really short-hand for:
 
-        case e1 of True  -> e2  
-                   False -> e3  
+        case e1 of True  -> e2
+                   False -> e3
 
 Constraint
     ewwlinks +/"The following things" "https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/constraint_kind.html"
@@ -4347,7 +4369,7 @@ principal type
     type is the least general type that,
     intuitively, "contains all instances of
     the expression".
-    
+
     For example, the principal type of head is
     [a]->a; [b]->a, a->a, or even a are
     correct types, but too general, whereas
@@ -4356,7 +4378,7 @@ principal type
 
 nullary constructor
     If a constructor does not take any data
-    arguments, it is nullary. 
+    arguments, it is nullary.
 
 enumerated type
     Examples:
@@ -4407,7 +4429,7 @@ binary data constructor
     Example:
         Pt is a -> a -> Point a,
 
-    Thus the following typings are valid: 
+    Thus the following typings are valid:
         Pt  2.0  3.0            :: Point Float
         Pt  'a'  'b'            :: Point Char
         Pt True False           :: Point Bool
@@ -4415,7 +4437,7 @@ binary data constructor
 recursive type
     Examples
         -- binary trees
-        data Tree a = Leaf a | Branch (Tree a) (Tree a) 
+        data Tree a = Leaf a | Branch (Tree a) (Tree a)
 
 race
     Allows you to kill asynchonous exceptions
@@ -4453,14 +4475,14 @@ equation
     by a series of equations.
 
     For example, the function inc can be
-    defined by the single equation: 
+    defined by the single equation:
 
         inc n = n+1
 
 type signature declaration
     [declaration]
 
-    We can declare an explicit typing for inc: 
+    We can declare an explicit typing for inc:
 
         inc :: Integer -> Integer
 
@@ -4469,47 +4491,47 @@ lazy pattern
 
     There is one other kind of pattern allowed
     in Haskell.
-    
+
     It is called a lazy pattern, and has the
     form ~pat.
-    
+
     Lazy patterns are irrefutable: matching a
     value v against ~pat always succeeds,
     regardless of pat.
-    
+
     Operationally speaking, if an identifier
     in pat is later "used" on the right-hand-
     side, it will be bound to that portion of
     the value that would result if v were to
     successfully match pat, and _|_ otherwise.
-    
+
     Lazy patterns are useful in contexts where
     infinite data structures are being defined
     recursively.
-    
+
     For example, infinite lists are an
     excellent vehicle for writing simulation
     programs, and in this context the infinite
     lists are often called streams.
-    
+
     Consider the simple case of simulating the
     interactions between a server process
     server and a client process client, where
     client sends a sequence of requests to
     server, and server replies to each request
     with some kind of response.
-    
+
     This situation is shown pictorially in
     Figure 2.
-    
+
     (Note that client also takes an initial
     message as argument.)
 
-    Client Server Example 
+    Client Server Example
 
     Using streams to simulate the message
     sequences, the Haskell code corresponding
-    to this diagram is: 
+    to this diagram is:
 
         reqs  = client init resps
         resps = server reqs
@@ -4519,7 +4541,7 @@ lazy pattern
 
     Let us further assume that the structure
     of the server and client look something
-    like this: 
+    like this:
 
         client init (resp:resps) = init : client (next resp) resps
         server      (req:reqs)   = process req : server reqs
@@ -4539,7 +4561,7 @@ lazy pattern
     before it has submitted its first request!
     In other words, the pattern matching is
     being done "too early." One way to fix
-    this is to redefine client as follows: 
+    this is to redefine client as follows:
 
         client init resps = init : client (next (head resps)) (tail resps)
 
@@ -4561,11 +4583,11 @@ pattern binding
 
     As another example of the use of lazy
     patterns, consider the definition of
-    Fibonacci given earlier: 
+    Fibonacci given earlier:
 
     fib             = 1 : 1 : [ a+b | (a,b) <- zip fib (tail fib) ]
 
-    We might try rewriting this using an as-pattern: 
+    We might try rewriting this using an as-pattern:
 
     fib@(1:tfib)    = 1 : 1 : [ a+b | (a,b) <- zip fib tfib ]
 
@@ -4594,7 +4616,7 @@ pattern binding
     situations which are beyond the scope of
     this tutorial. Thus we see that lazy
     patterns play an important role in
-    Haskell, if only implicitly. 
+    Haskell, if only implicitly.
 
 block-structuring
     [form]
@@ -4607,7 +4629,7 @@ let
 Let expression
     Haskell's let expressions are useful
     whenever a nested set of bindings is
-    required. As a simple example, consider: 
+    required. As a simple example, consider:
 
         let y   = a*b
             f x = (x+y)/y
@@ -4627,7 +4649,7 @@ where
 where clause
     Sometimes it is convenient to scope
     bindings over several guarded equations,
-    which requires a where clause: 
+    which requires a where clause:
 
         f x y  |  y>z           =  ...
                |  y==z          =  ...
@@ -4649,7 +4671,7 @@ let vs where
     expression is an expression, whereas a
     where clause is not---it is part of the
     syntax of function declarations and case
-    expressions. 
+    expressions.
 
 layout
 explicit grouping mechanism
@@ -4658,14 +4680,14 @@ explicit grouping mechanism
     semicolons, or some other kind of
     terminator, to mark the end of equations,
     declarations, etc. For example, consider
-    this let expression from the last section: 
+    this let expression from the last section:
 
         let y   = a*b
             f x = (x+y)/y
         in f c + f d
 
     How does the parser know not to parse this
-    as: 
+    as:
 
         let y   = a*b f
             x   = (x+y)/y
@@ -4714,7 +4736,7 @@ explicit grouping mechanism
     explicit grouping mechanism, which
     deserves mention because it can be useful
     under certain circumstances. The let
-    example above is equivalent to: 
+    example above is equivalent to:
 
         let { y   = a*b
             ; f x = (x+y)/y
@@ -4725,7 +4747,7 @@ explicit grouping mechanism
     semicolons. One way in which this explicit
     notation is useful is when more than one
     declaration is desired on a line; for
-    example, this is a valid expression: 
+    example, this is a valid expression:
 
         let y   = a*b;  z = a/b
             f x = (x+y)/z
@@ -4747,9 +4769,9 @@ parametric polymorphism
     instantiated with the same type (likewise
     for the b's). As an example of the use of
     map, we can increment the elements in a
-    list: 
-    
-        map (add 1) [1,2,3] => [2,3,4] 
+    list:
+
+        map (add 1) [1,2,3] => [2,3,4]
 
 ad-hoc polymorphism
 overloading
@@ -4762,43 +4784,43 @@ overloaded
     - The literals 1, 2, etc. are often used
       to represent both fixed and arbitrary
       precision integers.
-    
+
     - Numeric operators such as + are often
       defined to work on many different kinds
       of numbers.
-    
+
     - The equality operator (== in Haskell)
       usually works on numbers and many other
       (but not all) types.
-    
+
     Intuitively speaking, the type of elem
     "ought" to be: a->[a]->Bool. But this
     would imply that == has type a->a->Bool,
     even though we just said that we don't
     expect == to be defined for all types.
-    
+
     Furthermore, as we have noted earlier,
     even if == were defined on all types,
     comparing two lists for equality is very
     different from comparing two integers. In
     this sense, we expect == to be overloaded
     to carry on these various tasks.
-    
+
     Type classes conveniently solve both of
     these problems. They allow us to declare
     which types are instances of which class,
     and to provide definitions of the
     overloaded operations associated with a
     class. For example, let's define a type
-    class containing an equality operator: 
-    
-        class Eq a where 
+    class containing an equality operator:
+
+        class Eq a where
         (==) :: a -> a -> Bool
 
     Here Eq is the name of the class being
     defined, and == is the single operation in
     the class.
-    
+
     This declaration may be read "a type a is
     an instance of the class Eq if there is an
     (overloaded) operation ==, of the
@@ -4812,3 +4834,48 @@ overloaded
     - "context"
     - "operation"
 
+class extension
+    We may wish to define a class Ord which
+    inherits all of the operations in Eq, but
+    in addition has a set of comparison
+    operations and minimum and maximum
+    functions:
+
+        class (Eq a) => Ord a where
+        (<), (<=), (>=), (>) :: a -> a -> Bool
+        max, min :: a -> a -> a
+
+    Note the context in the class declaration.
+    
+    We say that Eq is a superclass of Ord
+    (conversely, Ord is a subclass of Eq), and
+    any type which is an instance of Ord must
+    also be an instance of Eq.
+    
+    (In the next Section we give a fuller
+    definition of Ord taken from the Prelude.)
+    One benefit of such class inclusions is
+    shorter contexts: a type expression for a
+    function that uses operations from both
+    the Eq and Ord classes can use the context
+    (Ord a), rather than (Eq a, Ord a), since
+    Ord "implies" Eq.
+    
+    More importantly, methods for subclass
+    operations can assume the existence of
+    methods for superclass operations.
+    
+    For example, the Ord declaration in the
+    Standard Prelude contains this default
+    method for (<):
+
+        x < y = x <= y && x /= y
+
+    As an example of the use of Ord, the
+    principal typing of quicksort defined in
+    Section 2.4.1 is:
+
+        quicksort :: (Ord a) => [a] -> [a]
+
+    In other words, quicksort only operates on
+    lists of values of ordered types.
