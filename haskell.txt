@@ -4602,3 +4602,99 @@ let vs where
     where clause is not---it is part of the
     syntax of function declarations and case
     expressions. 
+
+layout
+explicit grouping mechanism
+    The reader may have been wondering how it
+    is that Haskell programs avoid the use of
+    semicolons, or some other kind of
+    terminator, to mark the end of equations,
+    declarations, etc. For example, consider
+    this let expression from the last section: 
+
+        let y   = a*b
+            f x = (x+y)/y
+        in f c + f d
+
+    How does the parser know not to parse this
+    as: 
+
+        let y   = a*b f
+            x   = (x+y)/y
+        in f c + f d
+
+    ?
+
+    The answer is that Haskell uses a
+    two-dimensional syntax called layout that
+    essentially relies on declarations being
+    "lined up in columns." In the above
+    example, note that y and f begin in the
+    same column. The rules for layout are
+    spelled out in detail in the Report (§2.7,
+    §B.3), but in practice, use of layout is
+    rather intuitive. Just remember two
+    things:
+
+    First, the next character following any of
+    the keywords where, let, or of is what
+    determines the starting column for the
+    declarations in the where, let, or case
+    expression being written (the rule also
+    applies to where used in the class and
+    instance declarations to be introduced in
+    Section 5). Thus we can begin the
+    declarations on the same line as the
+    keyword, the next line, etc. (The do
+    keyword, to be discussed later, also uses
+    layout).
+
+    Second, just be sure that the starting
+    column is further to the right than the
+    starting column associated with the
+    immediately surrounding clause (otherwise
+    it would be ambiguous). The "termination"
+    of a declaration happens when something
+    appears at or to the left of the starting
+    column associated with that binding form.
+    (Haskell observes the convention that tabs
+    count as 8 blanks; thus care must be taken
+    when using an editor which may observe
+    some other convention.)
+
+    Layout is actually shorthand for an
+    explicit grouping mechanism, which
+    deserves mention because it can be useful
+    under certain circumstances. The let
+    example above is equivalent to: 
+
+        let { y   = a*b
+            ; f x = (x+y)/y
+            }
+        in f c + f d
+
+    Note the explicit curly braces and
+    semicolons. One way in which this explicit
+    notation is useful is when more than one
+    declaration is desired on a line; for
+    example, this is a valid expression: 
+
+        let y   = a*b;  z = a/b
+            f x = (x+y)/z
+        in f c + f d
+
+    The use of layout greatly reduces the
+    syntactic clutter associated with
+    declaration lists, thus enhancing
+    readability. It is easy to learn, and its
+    use is encouraged.
+
+parametric polymorphism
+    [type of polymorphism]
+
+ad-hoc polymorphism
+ad hoc polymorphism
+overloading
+    [type of polymorphism]
+
+    http://www.cs.otago.ac.nz/coursework/cosc347/References/FP/haskell-98-tutorial-html/classes.html
