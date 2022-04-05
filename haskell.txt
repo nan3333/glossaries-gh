@@ -4335,6 +4335,8 @@ structured type
     - (Char,Integer) (character, integer pairs).
 
 typing
+    [declaration]
+
     The association of a value with its type.
 
     Examples:
@@ -4345,6 +4347,8 @@ typing
         ('b',4) :: (Char,Integer)
 
 equation
+    [declaration]
+
     Functions in Haskell are normally defined
     by a series of equations.
 
@@ -4352,3 +4356,10 @@ equation
     defined by the single equation: 
 
         inc n = n+1
+
+type signature declaration
+    [declaration]
+
+    We can declare an explicit typing for inc: 
+
+        inc :: Integer -> Integer
