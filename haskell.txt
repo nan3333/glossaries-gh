@@ -4117,9 +4117,20 @@ as-pattern
     used with other data structures.
 
     It's just syntactic sugar, with @ read
-    aloud as "as". ps@(p:pt) gives you names
-    for:
+    aloud as "as".
 
+    Example:
+        f (x:xs)                = x:x:xs
+
+    can be rewritten as:
+        f s@(x:xs)             = x:s
+
+    Example:
+        fib@(1:tfib)    = 1 : 1 : [ a+b | (a,b) <- zip fib tfib ]
+
+    Example:
+        ps@(p:pt)
+    gives you names for:
         the list: ps
         the list's head : p
         the list's tail: pt
