@@ -78,9 +78,6 @@ _|_
     (Such an I/O error is really not an error
     at all but rather an exception.
 
-    Much more will be said about exceptions in
-    Section 7.)
-
     See "error function".
 
 error
@@ -542,20 +539,7 @@ catamorphism
 
     https://youtu.be/LXx-dOmjxg0
 
-    [#category theory]
-
-    The concept of catamorphism denotes the
-    unique homomorphism from an initial
-    algebra into some other algebra.
-
     $MYGIT/acmeism/RosettaCodeData/Task/Catamorphism
-
-    Catamorphisms provide generalizations of
-    folds of lists to arbitrary algebraic data
-    types, which can be described as initial
-    algebras.
-
-    [#category theory]
 
     Deconstructs a data structure with an
     F-algebra for its underlying functor.
@@ -577,11 +561,6 @@ catamorphism
 
     The unique homomorphism from an initial
     algebra into some other algebra.
-
-    In FP, catamorphisms provide
-    generalizations of folds of lists to
-    arbitrary algebraic data types, which can
-    be described as initial algebras.
 
     The dual concept is that of anamorphism
     that generalize unfolds.
