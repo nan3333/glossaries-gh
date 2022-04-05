@@ -1549,6 +1549,24 @@ guard
         toNatural x | x < 0     = error "Can't create negative naturals!" 
                     | otherwise = MakeNatural x
 
+    I think what makes them special is that
+    they calculate values which they use,
+    later. ie. avg. Maybe not, though. I have
+    no idea.
+
+    https://www.youtube.com/watch?v=02_H3LjqMr8&list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY&index=23
+
+    batAvgRating :: Double -> Double -> String
+
+    batAvgRating hits atBats
+        | avg <= 0.200 = "Terrible Batting Average"
+        | avg <= 0.250 = "Average Player"
+        | avg <= 0.280 = "Your doing pretty good"
+        | otherwise = "You're a Superstar"
+        where avg = hits / atBats
+
+    See: "where".
+
 Monoid
     [#haskell]
     [typeclass]
@@ -3128,25 +3146,6 @@ $
     f $ g $ h x  =  f (g (h x))
     f (g $ h x)  =  f (g (h x))
     f (g (h x))  =  f (g (h x))
-
-haskell guard
-    I think what makes them special is that
-    they calculate values which they use,
-    later. ie. avg. Maybe not, though. I have
-    no idea.
-
-    https://www.youtube.com/watch?v=02_H3LjqMr8&list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY&index=23
-
-    batAvgRating :: Double -> Double -> String
-
-    batAvgRating hits atBats
-        | avg <= 0.200 = "Terrible Batting Average"
-        | avg <= 0.250 = "Average Player"
-        | avg <= 0.280 = "Your doing pretty good"
-        | otherwise = "You're a Superstar"
-        where avg = hits / atBats
-
-    See: "where".
 
 comparing lists
     Can be compared if the stuff they contain
