@@ -2587,6 +2587,10 @@ mono
 kind
     [#type theory]
 
+    The type of a type constructor or, less
+    commonly, the type of a higher-order type
+    operator.
+
     Could be:
     - The type of a type constructor.
     - The type of a higher-order type operator.
@@ -2622,7 +2626,7 @@ kind
     Monolithic:
         $MYGIT/acmeism/RosettaCodeData/Task/Arrays/Haskell/arrays.hs
 
-keywords
+keyword
     !                     	 https://wiki.haskell.org/Keywords#.21
     '                     	 https://wiki.haskell.org/Keywords#.27
     ''                    	 https://wiki.haskell.org/Keywords#.27.27
@@ -2952,7 +2956,7 @@ stack reinstall package
 
     It started a stack install for me for ghc-8.6.3.
 
-maybe
+Maybe
     https://www.snoyman.com/blog/2017/01/functors-applicatives-and-monads
 
     "lifts" or extends a type (e.g. Integer)
@@ -3080,8 +3084,8 @@ function composition
     [operator]
     [infix operator]
 
-        (.)                     :: (b->c) -> (a->b) -> (a->c)
-        f . g                   = \ x -> f (g x)
+        (.)   :: (b->c) -> (a->b) -> (a->c)
+        f . g = \ x -> f (g x)
 
 convert functional value into infix operator
     Example:
@@ -3103,9 +3107,10 @@ $
     f (g (h x))  =  f (g (h x))
 
 haskell guard
-    I think what makes them special is that they calculate values which
-    they use, later. ie. avg.
-    Maybe not, though. I have no idea.
+    I think what makes them special is that
+    they calculate values which they use,
+    later. ie. avg. Maybe not, though. I have
+    no idea.
 
     https://www.youtube.com/watch?v=02_H3LjqMr8&list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY&index=23
 
@@ -3117,6 +3122,8 @@ haskell guard
         | avg <= 0.280 = "Your doing pretty good"
         | otherwise = "You're a Superstar"
         where avg = hits / atBats
+
+    See: "where".
 
 comparing lists
     Can be compared if the stuff they contain
@@ -3174,6 +3181,7 @@ class
     - Eq
 
 context
+type constraint
     A class can be used as a context.
 
     Example:
@@ -3209,6 +3217,8 @@ context
     Contexts are also allowed in data
     declarations.
 
+kind constraint
+
 class constraint
     Class methods may have additional class
     constraints on any type variable except
@@ -3227,7 +3237,8 @@ class constraint
 
 constraint
     Types:
-    - Context
+    - Context (type constraint?)
+    - Kind constraint
     - Class constraint
     - Implicit parameter constraint
     - Equality constraint
@@ -4983,3 +4994,25 @@ multiple inheritance
 
     This creates a class C which inherits
     operations from both Eq and Show.
+
+first-order
+    See:
+    - "first-order function"
+    - "first-order type"
+
+higher-order
+    See:
+    - "higher-order function"
+    - "higher-order type"
+
+first-order function
+    A function that takes no other
+    functions as arguments.
+
+higher-order function
+    A function that takes at least one
+    function as an argument.
+
+first-order type
+
+higher-order type
