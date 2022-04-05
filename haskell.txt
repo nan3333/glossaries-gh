@@ -1019,10 +1019,6 @@ type variable
 
     Type variables come in lowercase.
 
-typeclass method
-type class method
-    ewwlinks +/"type class method" "https://www.schoolofhaskell.com/school/starting-with-haskell/introduction-to-haskell/5-type-classes"
-
 list comprehension
     [x*2 | x = 12]
 
@@ -1316,8 +1312,20 @@ literate formatting
     Example:
     $MYGIT/bollu/teleport/app/Main.lhs
 
-methods
-    $MYGIT/lotz84/haskellbyexample/ex/methods.md.hs
+method
+typeclass method
+type class method
+    ewwlinks +/"type class method" "https://www.schoolofhaskell.com/school/starting-with-haskell/introduction-to-haskell/5-type-classes"
+
+    Example:
+
+        instance Eq Integer where 
+        x == y = x `integerEq` y
+
+    The definition of == is called a method.
+
+    Example of not a true method:
+        $HOME/source/git/lotz84/haskellbyexample/ex/methods.md.hs
 
 Identity
     import Data.Functor.Identity
@@ -1619,11 +1627,6 @@ semigroup
 
 group
     A monoid with all inverses.
-
-Typeclass
-    A class of a class.
-
-    Num contains Integer, Double, Int, Float.
 
 Programming with effects
 Programming with monads
@@ -3143,7 +3146,11 @@ let
     valid character in functions, we can make
     a function like this.
 
-Typeclasses
+typeclass
+type class
+    A class of a class.
+
+    Num contains Integer, Double, Int, Float.
 
 Ord
     [typeclass]
