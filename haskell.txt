@@ -4333,3 +4333,13 @@ structured type
     Examples:
     - [Integer] (homogeneous lists of integers)
     - (Char,Integer) (character, integer pairs).
+
+typing
+    The association of a value with its type.
+
+    Examples:
+             5  :: Integer
+            'a' :: Char
+            inc :: Integer -> Integer
+        [1,2,3] :: [Integer]
+        ('b',4) :: (Char,Integer)
