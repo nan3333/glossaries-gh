@@ -1216,13 +1216,52 @@ infixr
 unit
     The empty tuple.
 
+action
 I/O action
+    [#haskell monads]
+
+    Actions are sequenced using an operator
+    that has a rather cryptic name: >>= (or
+    `bind').
+    
+    Instead of using this operator directly,
+    we choose some syntactic sugar, the do
+    notation, to hide these sequencing
+    operators under a syntax resembling more
+    conventional languages.
+    
+    The do notation can be trivially expanded
+    to >>=.
+
     Something that, when performed, will carry
     out an action with a side-effect (that's
     usually either reading from the input or
     printing stuff to the screen) and will
     also contain some kind of return value
     inside it.
+    
+    Actions are defined rather than invoked
+    within the expression language of Haskell.
+    
+    Evaluating the definition of an action
+    doesn't actually cause the action to
+    happen.
+    
+    Rather, the invocation of actions takes
+    place outside of the expression evaluation
+    we have considered up to this point.
+    
+    Actions are either atomic, as defined in
+    system primitives, or are a sequential
+    composition of other actions.
+    
+    The I/O monad contains primitives which
+    build composite actions, a process similar
+    to joining statements in sequential order
+    using `;' in other languages.
+    
+    Thus the monad serves as the glue which
+    binds together the actions in a program. 
 
 Prelude print :: Show a => a -> IO ()
 Prelude putStrLn :: String -> IO ()
@@ -2029,7 +2068,10 @@ lens
         nameTag = "Hello, my name is " ++ getLine
 
 do
-    Use do syntax to glue together several I/O actions into one.
+    [#haskell monads]
+
+    Use do syntax to glue together several I/O
+    actions into one.
 
         main = do
             putStrLn "Hello, what's your name?"
@@ -2051,6 +2093,16 @@ do
         Except for the last line, every line
         in a do block that doesn't bind can
         also be written with a bind
+
+    The do notation uses layout in the same
+    manner as let or where so we can omit
+    braces and semicolons with proper
+    indentation.
+
+    Unlike a let expression where variables
+    are scoped over all definitions, the
+    variables defined by <- are only in scope
+    in the following statements.
 
 let
     form:
@@ -4662,11 +4714,11 @@ pattern binding
     patterns, consider the definition of
     Fibonacci given earlier:
 
-    fib             = 1 : 1 : [ a+b | (a,b) <- zip fib (tail fib) ]
+        fib          = 1 : 1 : [ a+b | (a,b) <- zip fib (tail fib) ]
 
     We might try rewriting this using an as-pattern:
 
-    fib@(1:tfib)    = 1 : 1 : [ a+b | (a,b) <- zip fib tfib ]
+        fib@(1:tfib) = 1 : 1 : [ a+b | (a,b) <- zip fib tfib ]
 
     This version of fib has the (small)
     advantage of not using tail on the
@@ -5369,3 +5421,6 @@ thunk
 
 thunk build-up
     ewwlinks +/"Note that iterate is lazy, potentially leading to thunk build-up if the consumer doesn't force each iterate." "http://hackage.haskell.org/package/base-4.12.0.0/docs/GHC-OldList.html#v:iterate"
+
+IO
+    [type]
