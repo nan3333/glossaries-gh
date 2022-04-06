@@ -3685,14 +3685,6 @@ co-monad
 comonad
     ewwlinks +/"Control.Monad.Co" "http://hackage.haskell.org/package/kan-extensions-5.2/docs/Control-Monad-Co.html"
 
-thunk build-up
-    ewwlinks +/"Note that iterate is lazy, potentially leading to thunk build-up if the consumer doesn't force each iterate." "http://hackage.haskell.org/package/base-4.12.0.0/docs/GHC-OldList.html#v:iterate"
-
-thunk
-    A value that is yet to be evaluated.
-
-    https://wiki.haskell.org/Thunk
-
 array
     ewwlinks +/"13  Arrays" "https://www.haskell.org/tutorial/arrays.html"
 
@@ -5270,6 +5262,7 @@ strict data constructor
     See "strictness flag".
 
 strictness flag
+!
     There are a number of overheads associated
     with thunks: they take time to construct
     and evaluate, they occupy space in the
@@ -5279,9 +5272,10 @@ strictness flag
     overheads, strictness flags in data
     declarations allow specific fields of a
     constructor to be evaluated immediately,
-    selectively suppressing laziness. A field
-    marked by ! in a data declaration is
-    evaluated when the structure is created
+    selectively suppressing laziness.
+
+    A field marked by ! in a data declaration
+    is evaluated when the structure is created
     instead of delayed in a thunk. There are a
     number of situations where it may be
     appropriate to use strictness flags: 
@@ -5334,3 +5328,44 @@ strictness flag
     strictness flags may lead to hard to find
     infinite loops or have other unexpected
     consequences.
+
+thunk
+    A value that is yet to be evaluated.
+
+    https://wiki.haskell.org/Thunk
+
+    Internally, each field of a lazy data
+    object is wrapped up in a structure
+    commonly referred to as a thunk that
+    encapsulates the computation defining the
+    field value.
+    
+    This thunk is not entered until the value
+    is needed; thunks which contain errors
+    (_|_) do not affect other elements of a
+    data structure.
+    
+    For example, the tuple ('a',_|_) is a
+    perfectly legal Haskell value.
+    
+    The 'a' may be used without disturbing the
+    other component of the tuple.
+    
+    Most programming languages are strict
+    instead of lazy: that is, all components
+    of a data structure are reduced to values
+    before being placed in the structure.
+
+    There are a number of overheads associated
+    with thunks: they take time to construct
+    and evaluate, they occupy space in the
+    heap, and they cause the garbage collector
+    to retain other structures needed for the
+    evaluation of the thunk. To avoid these
+    overheads, strictness flags in data
+    declarations allow specific fields of a
+    constructor to be evaluated immediately,
+    selectively suppressing laziness.
+
+thunk build-up
+    ewwlinks +/"Note that iterate is lazy, potentially leading to thunk build-up if the consumer doesn't force each iterate." "http://hackage.haskell.org/package/base-4.12.0.0/docs/GHC-OldList.html#v:iterate"
