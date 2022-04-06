@@ -1546,7 +1546,7 @@ guard
 
     Example:
         toNatural               :: Integer -> Natural
-        toNatural x | x < 0     = error "Can't create negative naturals!" 
+        toNatural x | x < 0     = error "Can't create negative naturals!"
                     | otherwise = MakeNatural x
 
     I think what makes them special is that
@@ -2616,7 +2616,7 @@ kind
 
     Type expressions are classified into
     different kinds which take one of two
-    possible forms: 
+    possible forms:
 
     - The symbol * represents the kind of type
       associated with concrete data objects.
@@ -2624,17 +2624,17 @@ kind
       kind of v must be *.
     - If k1 and k2 are kinds, then k1->k2 is
       the kind of types that take a type of
-      kind k1 and return a type of kind k2. 
+      kind k1 and return a type of kind k2.
 
     The type constructor Tree has the kind
     *->*; the type Tree Int has the kind *.
     Members of the Functor class must all have
     the kind *->*; a kinding error would
-    result from an declaration such as 
+    result from an declaration such as
 
         instance Functor Integer where ...
 
-    since Integer has the kind *. 
+    since Integer has the kind *.
 
     Kinds do not appear directly in Haskell
     programs.  The compiler infers kinds
@@ -2747,12 +2747,15 @@ deriving
         Rectangle 50.0 230.0 60.0 90.0
 
 newtype
+newtype declaration
     [declaration]
-
-    ewwlinks +/"A newtype declaration creates a new type in much the same way as data" "https://wiki.haskell.org/Newtype"
 
     Creates a new type in much the same way as
     data.
+
+    The use of newtype avoids the extra level
+    of indirection (caused by laziness) that
+    the data declaration would introduce.
 
     How one introduces a renaming for an
     algebraic data type into Haskell.
@@ -2783,6 +2786,8 @@ newtype
     can only be replaced with newtype if the
     type has exactly one constructor with
     exactly one field inside it.
+
+    ewwlinks +/"A newtype declaration creates a new type in much the same way as data" "https://wiki.haskell.org/Newtype"
 
 the most basic haskell function usage
     -- Type annotation (optional, same for each implementation)
@@ -3245,17 +3250,17 @@ class constraint
     Class methods may have additional class
     constraints on any type variable except
     the one defining the current class. For
-    example, in this class: 
-    
+    example, in this class:
+
         class C a where
         m :: Show b => a -> b
-    
+
     the method m requires that type b is in
     class Show. However, the method m could
     not place any additional class constraints
     on type a. These would instead have to be
     part of the context in the class
-    declaration. 
+    declaration.
 
 constraint
     Types:
@@ -3269,13 +3274,13 @@ constraint
     Normally, constraints (which appear in
     types to the left of the => arrow) have a
     very restricted syntax. They can only be:
-    
+
     - Class constraints, e.g. Show a
     - Implicit parameter constraints
       e.g. ?x::Int (with the ImplicitParams extension)
     - Equality constraints
       e.g. a ~ Int (with the TypeFamilies or GADTs extensions)
-    
+
     With the ConstraintKinds extension, GHC
     becomes more liberal in what it accepts as
     constraints in your program.
@@ -4865,7 +4870,7 @@ parametric polymorphism
     ad-hoc polymorphism instead. Type classes
     can be seen as providing a structured way
     to do just this.
-    
+
     Indeed, we can think of parametric
     polymorphism as a kind of overloading too!
     It's just that the overloading occurs
@@ -4974,14 +4979,14 @@ class inclusion
     the Eq and Ord classes can use the context
     (Ord a), rather than (Eq a, Ord a), since
     Ord "implies" Eq.
-    
+
     More importantly, methods for subclass
     operations can assume the existence of
     methods for superclass operations.
-    
+
     For example, the Ord declaration in the
     Standard Prelude contains this default
-    method for (<): 
+    method for (<):
 
 class extension
     We may wish to define a class Ord which
@@ -4995,12 +5000,12 @@ class extension
         max, min :: a -> a -> a
 
     Note the context in the class declaration.
-    
+
     We say that Eq is a superclass of Ord
     (conversely, Ord is a subclass of Eq), and
     any type which is an instance of Ord must
     also be an instance of Eq.
-    
+
     (In the next Section we give a fuller
     definition of Ord taken from the Prelude.)
     One benefit of such class inclusions is
@@ -5009,11 +5014,11 @@ class extension
     the Eq and Ord classes can use the context
     (Ord a), rather than (Eq a, Ord a), since
     Ord "implies" Eq.
-    
+
     More importantly, methods for subclass
     operations can assume the existence of
     methods for superclass operations.
-    
+
     For example, the Ord declaration in the
     Standard Prelude contains this default
     method for (<):
@@ -5105,3 +5110,227 @@ type constructor
 
     See:
     - "type constructor vs data constructor"
+
+field
+field label
+field name
+    The fields within a Haskell data type can
+    be accessed either positionally or by name
+    using field labels. Consider a data type
+    for a two-dimensional point:
+
+        data Point = Pt Float Float
+
+    The two components of a Point are the
+    first and second arguments to the
+    constructor Pt. A function such as
+
+        pointx                  :: Point -> Float
+        pointx (Pt x _)         =  x
+
+    may be used to refer to the first
+    component of a point in a more descriptive
+    way, but, for large structures, it becomes
+    tedious to create such functions by hand.
+
+    Constructors in a data declaration may be
+    declared with associated field names,
+    enclosed in braces. These field names
+    identify the components of constructor by
+    name rather than by position. This is an
+    alternative way to define Point:
+
+        data Point = Pt {pointx, pointy :: Float}
+
+    This data type is identical to the earlier
+    definition of Point. The constructor Pt is
+    the same in both cases. However, this
+    declaration also defines two field names,
+    pointx and pointy. These field names can
+    be used as selector functions to extract a
+    component from a structure. In this
+    example, the selectors are:
+
+        pointx                  ::   Point -> Float
+        pointy                  ::   Point -> Float
+
+    This is a function using these selectors:
+
+        absPoint                :: Point -> Float
+        absPoint p              =  sqrt (pointx p * pointx p +
+                                         pointy p * pointy p)
+
+    Field labels can also be used to construct
+    new values. The expression Pt {pointx=1,
+    pointy=2} is identical to Pt 1 2. The use
+    of field names in the declaration of a
+    data constructor does not preclude the
+    positional style of field access; both Pt
+    {pointx=1, pointy=2} and Pt 1 2 are
+    allowed. When constructing a value using
+    field names, some fields may be omitted;
+    these absent fields are undefined.
+
+    Pattern matching using field names uses a
+    similar syntax for the constructor Pt:
+
+        absPoint (Pt {pointx = x, pointy = y}) = sqrt (x*x + y*y)
+
+    An update function uses field values in an
+    existing structure to fill in components
+    of a new structure. If p is a Point, then
+    p {pointx=2} is a point with the same
+    pointy as p but with pointx replaced by 2.
+    This is not a destructive update: the
+    update function merely creates a new copy
+    of the object, filling in the specified
+    fields with new values.
+
+    [The braces used in conjunction with field
+    labels are somewhat special: Haskell
+    syntax usually allows braces to be omitted
+    using the layout rule (described in
+    Section 4.6). However, the braces
+    associated with field names must be
+    explicit.]
+
+    Field names are not restricted to types
+    with a single constructor (commonly called
+    `record' types). In a type with multiple
+    constructors, selection or update
+    operations using field names may fail at
+    runtime. This is similar to the behavior
+    of the head function when applied to an
+    empty list.
+
+    Field labels share the top level namespace
+    with ordinary variables and class methods.
+    A field name cannot be used in more than
+    one data type in scope. However, within a
+    data type, the same field name can be used
+    in more than one of the constructors so
+    long as it has the same typing in all
+    cases. For example, in this data type
+
+        data T = C1 {f :: Int, g :: Float}
+               | C2 {f :: Int, h :: Bool}
+
+    the field name f applies to both
+    constructors in T. Thus if x is of type T,
+    then x {f=5} will work for values created
+    by either of the constructors in T.
+
+    Field names does not change the basic
+    nature of an algebraic data type; they are
+    simply a convenient syntax for accessing
+    the components of a data structure by name
+    rather than by position. They make
+    constructors with many components more
+    manageable since fields can be added or
+    removed without changing every reference
+    to the constructor.
+
+strict data
+strict data constructor
+    Data structures in Haskell are generally
+    lazy: the components are not evaluated
+    until needed.
+    
+    This permits structures that contain
+    elements which, if evaluated, would lead
+    to an error or fail to terminate.
+    
+    Lazy data structures enhance the
+    expressiveness of Haskell and are an
+    essential aspect of the Haskell
+    programming style.
+    
+    Internally, each field of a lazy data
+    object is wrapped up in a structure
+    commonly referred to as a thunk that
+    encapsulates the computation defining the
+    field value.
+    
+    This thunk is not entered until the value
+    is needed; thunks which contain errors
+    (_|_) do not affect other elements of a
+    data structure.
+    
+    For example, the tuple ('a',_|_) is a
+    perfectly legal Haskell value.
+    
+    The 'a' may be used without disturbing the
+    other component of the tuple.
+    
+    Most programming languages are strict
+    instead of lazy: that is, all components
+    of a data structure are reduced to values
+    before being placed in the structure.
+
+    See "strictness flag".
+
+strictness flag
+    There are a number of overheads associated
+    with thunks: they take time to construct
+    and evaluate, they occupy space in the
+    heap, and they cause the garbage collector
+    to retain other structures needed for the
+    evaluation of the thunk. To avoid these
+    overheads, strictness flags in data
+    declarations allow specific fields of a
+    constructor to be evaluated immediately,
+    selectively suppressing laziness. A field
+    marked by ! in a data declaration is
+    evaluated when the structure is created
+    instead of delayed in a thunk. There are a
+    number of situations where it may be
+    appropriate to use strictness flags: 
+    
+    - Structure components that are sure to be
+      evaluated at some point during program
+      execution. 
+    - Structure components that are simple to
+      evaluate and never cause errors. 
+    - Types in which partially undefined
+      values are not meaningful. 
+    
+    For example, the complex number library
+    defines the Complex type as: 
+    
+        data RealFloat a => Complex a = !a :+ !a
+    
+    [note the infix definition of the
+    constructor :+.] This definition marks the
+    two components, the real and imaginary
+    parts, of the complex number as being
+    strict. This is a more compact
+    representation of complex numbers but this
+    comes at the expense of making a complex
+    number with an undefined component, 1 :+
+    _|_ for example, totally undefined (_|_).
+    As there is no real need for partially
+    defined complex numbers, it makes sense to
+    use strictness flags to achieve a more
+    efficient representation.
+    
+    Strictness flags may be used to address
+    memory leaks: structures retained by the
+    garbage collector but no longer necessary
+    for computation.
+    
+    The strictness flag, !, can only appear in
+    data declarations. It cannot be used in
+    other type signatures or in any other type
+    definitions. There is no corresponding way
+    to mark function arguments as being
+    strict, although the same effect can be
+    obtained using the seq or !$ functions.
+        
+    It is difficult to present exact
+    guidelines for the use of strictness
+    flags. They should be used with caution:
+    laziness is one of the fundamental
+    properties of Haskell and adding
+    strictness flags may lead to hard to find
+    infinite loops or have other unexpected
+    consequences.
