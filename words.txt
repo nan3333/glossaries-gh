@@ -14291,3 +14291,12 @@ abject
     Extremely contemptible or degrading.
 
     "abject terror"
+
+barista
+    Someone who makes and/or serves coffee and
+    coffee-based beverages. These can include
+    espresso and drinks made from espresso
+    such as lattes, cappuccino and iced coffee
+    beverages.
+
+    Said "báh-rhi-star".
