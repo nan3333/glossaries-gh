@@ -14351,3 +14351,15 @@ false bravado
     mislead someone, false bravado is a
     pretense of courage and self-confidence, a
     simulation
+
+solutionism
+    The belief that every problem has a
+    solution based in technology.
+
+jackboot
+    A large leather military boot reaching to
+    the knee.
+    used as a symbol of cruel or authoritarian
+    behaviour or rule.
+    "a country under the jackboot of
+    colonialism"

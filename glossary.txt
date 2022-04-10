@@ -12888,3 +12888,5 @@ homophily
     cultural, behavioral, genetic, or material
     information that flows through net- works
     will tend to be localized.
+
+geopolitical tensions
