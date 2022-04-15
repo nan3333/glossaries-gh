@@ -17,10 +17,17 @@ social stigma
     - intelligence or lack thereof, and
     - health.
     
-    Stigma can also be against oneself,
-    stemming from a negatively viewed personal
-    attribute that results in a 'spoiled
-    identity" (i.e., self-stigma.)
+    Stigma can also be against oneself. See
+    "self-stigma".
+
+content choice
+    [#stigma communication]
+
+    Types:
+    - marks,
+    - labels,
+    - peril, and
+    - responsibility
 
 stigma communication
     Involved in creating, maintaining, and
@@ -28,18 +35,26 @@ stigma communication
     stigmatization.
     
     The model of stigma communication explains
-    how and why particular content choices
-    (marks, labels, peril, and responsibility)
-    can create stigmas and encourage their
+    how and why particular content choices can
+    create stigmas and encourage their
     diffusion.
     
-    A recent experiment using health alerts
-    tested the model of stigma communication,
-    finding that content choices indeed
-    predicted stigma beliefs, intentions to
-    further diffuse these messages, and
-    agreement with regulating infected
-    persons' behaviors.
+    Content choices indeed predicted stigma
+    beliefs, intentions to further diffuse
+    these messages, and agreement with
+    regulating infected persons' behaviors.
+
+folkways
+    The traditional behaviour or way of life
+    of a particular community or group of
+    people.
+    "a study of Cherokee folklore and
+    folkways"
+
+mores
+    The essential or characteristic customs
+    and conventions of a society or community.
+    "an offence against social mores"
 
 deviance
 the sociology of deviance
@@ -136,3 +151,13 @@ stigmatization
     The social rejection of numerous
     individuals, and often entire groups of
     people who have been labeled deviant.
+
+stigmatize
+stigmatized
+    Describe or regard as worthy of disgrace
+    or great disapproval.
+    "the institution was stigmatized as a last
+    resort for the destitute"
+
+    "Francis, stigmatized in fashion as his
+    Lord"
