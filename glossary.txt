@@ -12901,3 +12901,13 @@ gender dysphoria
     Transgender and gender-diverse people
     might experience gender dysphoria at some
     point in their lives.
+
+recidivism
+    The act of a person repeating an
+    undesirable behavior after they have
+    experienced negative consequences of that
+    behavior.
+
+    It is also used to refer to the percentage
+    of former prisoners who are rearrested for
+    a similar offense.

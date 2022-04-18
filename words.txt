@@ -14363,3 +14363,12 @@ jackboot
     behaviour or rule.
     "a country under the jackboot of
     colonialism"
+
+vanguard
+    A group of people leading the way in new
+    developments or ideas.
+    "the experimental spirit of the modernist
+    vanguard"
+
+    The foremost part of an advancing army or
+    naval force.
