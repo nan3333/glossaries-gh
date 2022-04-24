@@ -79,3 +79,8 @@ counterpoint
     musical lines which are harmonically
     interdependent yet independent in rhythm
     and melodic contour.
+
+overture
+    Originally, the instrumental introduction
+    to a ballet, opera, or oratorio in the
+    17th century.
