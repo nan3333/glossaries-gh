@@ -14431,3 +14431,11 @@ Hearsay evidence
     In most courts, hearsay evidence is
     inadmissible unless an exception to the
     hearsay rule applies.
+
+rend
+rending
+    Tear (something) into pieces.
+    "snapping teeth that would rend human
+    flesh to shreds"
+
+    "a rending in the fabric of reality"
