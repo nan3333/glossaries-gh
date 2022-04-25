@@ -14372,3 +14372,9 @@ vanguard
 
     The foremost part of an advancing army or
     naval force.
+
+consternation
+    A feeling of anxiety or dismay, typically
+    at something unexpected.
+    "to her consternation her car wouldn't
+    start"
