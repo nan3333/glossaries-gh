@@ -353,3 +353,7 @@ reparation
 whoremonger
     A man who habitually consorts with or pays
     for the services of prostitutes.
+
+epistle
+    A letter.
+    "activists firing off angry epistles"

@@ -427,3 +427,7 @@ narcissistic
     Others often describe people with NPD as
     cocky, manipulative, selfish, patronizing,
     and demanding.
+
+affect
+    Refers to the underlying experience of
+    feeling, emotion or mood.

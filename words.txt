@@ -14378,3 +14378,32 @@ consternation
     at something unexpected.
     "to her consternation her car wouldn't
     start"
+
+torpor
+    A state of mental and motor inactivity
+    with partial or total insensibility.
+
+    A state of lowered physiological
+    activity typically characterized by
+    reduced metabolism, heart rate,
+    respiration, and body temperature that
+    occurs in varying degrees especially in
+    hibernating and estivating animals.
+
+ennui
+    A feeling of listlessness and
+    dissatisfaction arising from a lack of
+    occupation or excitement.
+
+listlessness
+    The state or condition of having little or
+    no interest in anything: When overwhelmed
+    by trauma, you can fall into a state of
+    torpor or listlessness, where you can't
+    even bring yourself to care that you don't
+    care anymore.
+
+replete
+    Filled or well-supplied with something.
+    "sensational popular fiction, replete with
+    adultery and sudden death"
