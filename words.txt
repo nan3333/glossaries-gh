@@ -14407,3 +14407,27 @@ replete
     Filled or well-supplied with something.
     "sensational popular fiction, replete with
     adultery and sudden death"
+
+beseech
+    Ask (someone) urgently and fervently to do
+    something; implore; entreat.
+    "they beseeched him to stay"
+
+shew
+    Old-fashioned spelling of show.
+
+corporeal
+    Relating to a person's body, especially as
+    opposed to their spirit.
+
+Hearsay
+Hearsay evidence
+    In a legal forum, is testimony from an
+    under-oath witness who is reciting an out-
+    of-court statement, the content of which
+    is being offered to prove the truth of the
+    matter asserted.
+    
+    In most courts, hearsay evidence is
+    inadmissible unless an exception to the
+    hearsay rule applies.
