@@ -1,3 +1,9 @@
+stigmatism
+    The condition of an optical system (such
+    as a lens or mirror) in which rays of
+    light from a single point converge in a
+    single focal point.
+
 holography
 hologram
     A technique that enables a wavefront to be
