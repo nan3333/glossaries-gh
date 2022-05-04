@@ -14542,3 +14542,17 @@ placation
     doing something that pleases them.
 
     "Then you go into placation-mode"
+
+naff
+    Go away.
+    "she told press photographers to naff off"
+
+fealty
+    A feudal tenant's or vassal's sworn
+    loyalty to a lord.
+    "they owed fealty to the Earl rather than
+    the King"
+
+    Formal acknowledgement of loyalty to a
+    lord.
+    "a property for which she did fealty"
