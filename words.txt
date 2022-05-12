@@ -14556,3 +14556,8 @@ fealty
     Formal acknowledgement of loyalty to a
     lord.
     "a property for which she did fealty"
+
+tempest
+    A violent storm.
+
+    Tumult, uproar. tempest.
