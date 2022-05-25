@@ -14931,3 +14931,22 @@ pillory
     Attack or ridicule publicly.
     "he found himself pilloried by members of
     his own party"
+
+insolent
+    Showing a rude and arrogant lack of
+    respect.
+    "she hated the insolent tone of his voice"
+
+stigmata
+    [#Christianity]
+
+    The appearance of bodily wounds, scars and
+    pain in locations corresponding to the
+    crucifixion wounds of Jesus Christ, such
+    as the hands, wrists, and feet.
+    
+    Stigmata are exclusively associated with
+    Roman Catholicism.
+    
+    Many reported stigmatics are members of
+    Catholic religious orders.
