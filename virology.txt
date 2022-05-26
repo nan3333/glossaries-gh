@@ -1,0 +1,13 @@
+HIV
+AIDS
+    HIV is incurable due to the presence of a
+    latent viral reservoir.
+    
+    During the life cycle of the virus, HIV
+    integrates into the host DNA.
+    
+    A subset of integrated HIV provirus
+    remains transcriptionally silent,
+    producing neither viral proteins nor viral
+    progeny, until reactivation by various
+    physiologic stimuli.
