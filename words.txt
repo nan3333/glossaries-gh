@@ -15028,12 +15028,6 @@ buttress
     "authority was buttressed by religious
     belief"
 
-aeon
-    (in Neoplatonism, Platonism, and
-    Gnosticism) a power existing from
-    eternity; an emanation or phase of the
-    supreme deity.
-
 dissolution
     Separation into component parts.
 
@@ -15045,15 +15039,6 @@ dissolution
 
     The dissolving of an assembly or
     organization.
-
-henosis
-    The classical Greek word for mystical
-    "oneness", "union" or "unity".
-    
-    In Platonism, and especially Neoplatonism,
-    the goal of henosis is union with what is
-    fundamental in reality: the One, the
-    Source, or Monad.
 
 theurgy
     Describes the practice of rituals,
