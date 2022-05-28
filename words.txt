@@ -15153,3 +15153,9 @@ absolve
 rapacious
     Aggressively greedy or grasping.
     "rapacious landlords"
+
+emersion
+    The process of emerging from water after
+    being submerged.
+    "some coral species can survive emersion
+    for up to three hours"
