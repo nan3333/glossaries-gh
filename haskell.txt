@@ -5424,3 +5424,6 @@ thunk build-up
 
 IO
     [type]
+
+instantiated
+    "instantiated to IO a"

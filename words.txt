@@ -11162,10 +11162,6 @@ acquiescent
     or to do what someone else wants.
     "his acquiescent mood"
 
-concupiscence
-    NLG: A strong desire for something,
-    typically something that is considered
-
 reductive
     Tending to present a subject or problem in
     a simplified form, especially one viewed
@@ -15224,3 +15220,84 @@ forbearance
     tolerance.
     "his unfailing courtesy and forbearance
     under great provocation"
+
+huzzah
+    An expression or shout of acclaim —often
+    used interjectionally to express joy or
+    approbation.
+
+excelsior
+    A Latin comparative word often translated
+    as "ever upward" or "even higher".
+
+bethink
+    Come to think.
+
+concupiscence
+    Strong sexual desire; lust.
+
+synoptic
+    Of or forming a general summary or
+    synopsis.
+    "a synoptic outline of the contents"
+
+self-conscious
+    Feeling undue awareness of oneself, one's
+    appearance, or one's actions.
+    "I feel a bit self-conscious parking my
+    scruffy old car"
+
+be that as it may
+    Despite that; nevertheless.
+
+abrogate
+    Repeal or do away with (a law, right, or
+    formal agreement).
+    "a proposal to abrogate temporarily the
+    right to strike"
+
+incredulous
+    (of a person or their manner) unwilling or
+    unable to believe something.
+
+scoffer
+    A person who mocks or makes fun of someone
+    or something, often of religion or moral
+    values.
+
+    We need courage when facing scoffers who
+    jeer at our faith and make ironic comments
+    about it.
+
+psyche
+    [#psychology]
+
+    The totality of the human mind, conscious
+    and unconscious.
+    
+    Many thinkers, including Carl Jung, also
+    include in this definition the overlap and
+    tension between the personal and the
+    collective elements in man.
+    
+    Psychology is the scientific or objective
+    study of the psyche.
+
+    The human soul, mind, or spirit.
+    "their childhood made them want to
+    understand the human psyche and to help
+    others"
+
+perversion
+    Distortion or corruption of the original
+    course, meaning, or state of something.
+    "the thing which most disturbed him was
+    the perversion of language and truth"
+
+lowliness
+    The state of being humble and unimportant. 
+
+    Humbleness, obscureness, unimportance. 
+
+    An obscure and unimportant standing; not
+    well known.
