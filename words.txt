@@ -15301,3 +15301,9 @@ lowliness
 
     An obscure and unimportant standing; not
     well known.
+
+sanguine
+    Optimistic or positive, especially in an
+    apparently bad or difficult situation.
+    "he is sanguine about prospects for the
+    global economy"

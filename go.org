@@ -1,7 +1,7 @@
 * [#A] goroutines
 Easy threads.
 
- [[gr:goroutines]]
+[[gr:goroutines]]
 
 * variadic arguments
 Where a is the slice, and i is the index of the element you want to delete:
