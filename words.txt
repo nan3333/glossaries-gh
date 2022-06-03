@@ -15329,3 +15329,22 @@ remnant
 
 ideated
     Form an idea of; imagine or conceive.
+
+philistine
+    A person who is hostile or indifferent to
+    culture and the arts.
+    "I am a complete philistine when it comes
+    to paintings"
+
+reprove
+    Reprimand (someone).
+    "he was reproved for obscenity"
+
+rubric
+    A scoring tool that explicitly describes
+    the instructor's performance expectations
+    for an assignment or piece of work.
+    
+    A rubric identifies: criteria: the aspects
+    of performance (e.g., argument, evidence,
+    clarity) that will be assessed.
