@@ -1,3 +1,11 @@
+dialectic
+dialectics
+dialectical method
+    A discourse between two or more people
+    holding different points of view about a
+    subject but wishing to establish the truth
+    through reasoned argumentation.
+
 abstract
 concrete
     [#metaphysics]
