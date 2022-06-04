@@ -523,6 +523,8 @@ liminal space
     uncomfortable for most people.
 
 aerography
+    [technique]
+
     A surrealist method in which a stencil
     used in spraypainting is replaced by a
     three-dimensional object, such as a
@@ -537,6 +539,8 @@ aerography
     Man Ray.
 
 automatism
+    [technique]
+
     A term is borrowed from physiology, where
     it describes bodily movements that are not
     consciously controlled like breathing or
@@ -548,6 +552,8 @@ automatism
     his patients.
 
 bulletism
+    [technique]
+
     An artistic process that involves shooting
     ink at a blank piece of paper. The result
     is a type of ink blot.
@@ -558,6 +564,8 @@ bulletism
     Salvador Dalí named this technique.
 
 calligramme
+    [technique]
+
     A calligramme is a text or poem of a type
     developed by Guillaume Apollinaire in
     which the words or letters make up a
@@ -567,6 +575,8 @@ calligramme
     https://www.google.com/search?q=calligramme&sxsrf=ALiCzsaanMZRDPW6zqVjXr1kjiTs7KWYSA%3A1654327941338&tbm=isch&source=iu&ictx=1&vet=1&fir=huHFTF7kFhAKWM%252CBAJNCa86HCn7GM%252C_%253B7fWVZ8BG99dOAM%252CwpIUZ7Lg5vuD7M%252C_%253Bf1wMjS0GD1pQjM%252CokuOsVuDOVBPKM%252C_%253B-qOBBbSFHyDRAM%252CzuulOvpnKau5HM%252C_%253BPOCZ-zwCBKicsM%252CyeExpK3qd8QjaM%252C_%253BTircu0HX8uggrM%252CZiZ638DrSCuVOM%252C_%253BbIlPrOQ0TnGIYM%252CuwRWgSNYf6mwdM%252C_%253Bi5cPyD5PbFbXRM%252CtNs8W82p7YWprM%252C_%253BywBJT4-HuvW2PM%252CZiZ638DrSCuVOM%252C_%253B4_OTVBWN0zC3GM%252CKDcs0K02hjgu6M%252C_%253Br2VRQID15BObwM%252Cr8eRJITlsSAKJM%252C_%253BXOlhz_q1IIzmHM%252CFGp9zLYWBPfaRM%252C_%253BbtcNu0opf0NXBM%252CvmSk4pkkpaYnBM%252C_%253BSf-wmNrESl5o_M%252CmVtVRAm9dcaxZM%252C_%253BLc0SdOZpP_DnIM%252CzbDn3TqglaGEbM%252C_%253B66pz7CQmPuKDgM%252CTe1vfafX9EVwAM%252C_%253BFxS1624zbbOgfM%252CNSrEc1YZLDGKcM%252C_%253Bc27WXIji09z_DM%252CKDcs0K02hjgu6M%252C_&usg=AI4_-kTcZNQEBIraeNGogRLU28jinE2WDA&sa=X#imgrc=i5cPyD5PbFbXRM
 
 collage
+    [technique]
+
     The assemblage of different forms creating
     a new whole.
     
@@ -577,6 +587,8 @@ collage
     support or canvas.
 
 coulage
+    [technique]
+
     A coulage is a kind of automatic or
     involuntary sculpture made by pouring a
     molten material (such as metal, wax,
@@ -596,6 +608,8 @@ coulage
     divination process known as ceromancy.
 
 cubomania
+    [technique]
+
     A method of making collages in which a
     picture or image is cut into squares and
     the squares are then reassembled without
@@ -605,11 +619,15 @@ cubomania
     Romanian surrealist Gherasim Luca.
 
 cut-up technique
+    [technique]
+
     A literary form or method in which a text
     is cut up at random and rearranged to
     create a new text.
 
 decalcomania
+    [technique]
+
     A process of spreading thick paint upon a
     canvas then—while it is still wet—covering
     it with further material such as paper or
@@ -624,6 +642,8 @@ decalcomania
     such as Max Ernst.
 
 dream résumé
+    [technique]
+
     Takes the form of an employment résumé but
     chronicles its subject's achievements,
     employment, or the like, in dreams, rather
@@ -635,6 +655,8 @@ dream résumé
     http://katherinekean.blogspot.com/2009/06/ten-highlights-from-my-dream-resume.html
 
 echo poem
+    [technique]
+
     An echo poem is a poem written using a
     technique invented by Aurélien Dauguet in
     1972.
@@ -678,6 +700,8 @@ echo poem
     Echo.
 
 éclaboussure
+    [technique]
+
     A process in Surrealist painting where oil
     paints or watercolours are laid down and
     water or turpentine is splattered, then
@@ -690,6 +714,8 @@ echo poem
     It was used in paintings by Remedios Varo.
 
 entopic graphomania
+    [technique]
+
     From the book "Vision Dans le Cristal"
     (1945) by Dolfi Trost.
     
@@ -751,6 +777,8 @@ entopic graphomania
     "voronoi mathematical progression".
 
 étrécissements
+    [technique]
+
     Collage is perceived as an additive method
     of visual poetry whereas Étrécissements
     are a reductive method.
@@ -765,33 +793,81 @@ entopic graphomania
     instrument.
 
 exquisite corpse
+cadavre exquis
+    [technique]
+
+    A method by which a collection of words or
+    images are collectively assembled.
+    
+    It is based on an old parlour game known
+    by the same name (and also as
+    Consequences) in which players wrote in
+    turn on a sheet of paper, folded it to
+    conceal part of the writing, and then
+    passed it to the next player for a further
+    contribution.
 
 frottage
+    [technique]
+
+    A method of creation in which one takes a
+    pencil or other drawing tool and makes a
+    "rubbing" over a textured surface.
+    
+    The drawing can either be left as it is or
+    used as the basis for further refinement.
 
 fumage
+    [technique]
+
 
 games
+    [technique]
+
 
 grattage
+    [technique]
+
 
 heatage
+    [technique]
+
 
 indecipherable writing
+    [technique]
+
 
 involuntary sculpture
+    [technique]
+
 
 latent news
+    [technique]
+
 
 movement of liquid down a vertical surface
+    [technique]
+
 
 paranoiac-critical method
+    [technique]
+
 
 parsemage
+    [technique]
+
 
 photomontage
+    [technique]
+
 
 sifflage
+    [technique]
+
 
 surautomatism
+    [technique]
+
 
 triptography
+    [technique]
