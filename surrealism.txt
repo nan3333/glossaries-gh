@@ -820,54 +820,195 @@ frottage
 fumage
     [technique]
 
+    A technique in which impressions are made
+    by the smoke of a candle or kerosene lamp
+    on a piece of paper or canvas.
+    
+    This technique was introduced by Wolfgang
+    Paalen.
 
 games
     [technique]
 
+    Games are important not only as a form of
+    recreation but as a method of
+    investigation.
+    
+    The intention is to cut away the
+    constraints of rationalism and allow
+    concepts to develop more freely and in a
+    more random manner.
+    
+    The aim is to break traditional thought
+    patterns and create a more original
+    outcome.
+    
+    Old games such as Exquisite corpse, and
+    newer ones, notably Time Travelers'
+    Potlatch and Parallel Collage, have played
+    a critical role.
+    
+    Exquisite corpse is a method by which a
+    collection of words or images are
+    collectively assembled, the result being
+    known as the exquisite corpse or cadavre
+    exquis in French.
+    
+    Later the game was adapted to drawing and
+    collage.
+    
+    Time Travelers' Potlatch is a game in
+    which two or more players say what gift
+    they would give to another person - this
+    is usually an historical person who played
+    a role in, or had an influence on, the
+    formation of Surrealism.
 
 grattage
     [technique]
 
+    A surrealist technique in painting in
+    which (usually wet) paint is scraped off
+    the canvas.
+    
+    It was employed by Max Ernst and Joan
+    Miró.
 
 heatage
     [technique]
 
+    Heatage is an automatic technique
+    developed and used by David Hare in which
+    an exposed but unfixed photographic
+    negative is heated from below, causing the
+    emulsion (and the resulting image, when
+    developed) to distort in a random fashion.
 
 indecipherable writing
     [technique]
 
+    In addition to its obvious meaning of
+    writing that is illegibile or for whatever
+    other reason cannot be made out by the
+    reader, indecipherable writing refers to a
+    set of automatic techniques, most
+    developed by Romanian surrealists and
+    falling under the heading of
+    surautomatism.
+    
+    Examples include entoptic graphomania,
+    fumage and the movement of liquid down a
+    vertical surface.
 
 involuntary sculpture
     [technique]
 
+    Surrealism describes as "involuntary
+    sculpture" those made by absent-mindedly
+    manipulating something, such as rolling
+    and unrolling a movie ticket, bending a
+    paper clip, and so forth.
 
 latent news
     [technique]
 
+    Latent news is a game in which an article
+    from a newspaper is cut into individual
+    words (or perhaps phrases) and then
+    rapidly reassembled; see also Cut-up
+    technique.
 
 movement of liquid down a vertical surface
     [technique]
 
+    The movement of liquid down a vertical
+    surface is, as the name suggests, a
+    technique, invented by surrealists from
+    Romania and said by them to be
+    surautomatic and a form of indecipherable
+    writing, of making pictures by dripping or
+    allowing a flow of some form of liquid
+    down a vertical surface.
 
 paranoiac-critical method
     [technique]
 
+    Paranoiac-critical method is a technique
+    invented by Salvador Dalí which consists
+    of the artist invoking a paranoid state
+    (fear that the self is being manipulated,
+    targeted or controlled by others).
+    
+    The result is a deconstruction of the
+    psychological concept of identity, such
+    that subjectivity becomes the primary
+    aspect of the artwork.
 
 parsemage
     [technique]
 
+    A surrealist and automatic method in the
+    visual arts invented by Ithell Colquhoun
+    in which dust from charcoal or colored
+    chalk is scattered on the surface of water
+    and then skimmed off by passing a stiff
+    paper or cardboard just under the water's
+    surface.
 
 photomontage
     [technique]
 
+    Making of composite picture by cutting and
+    joining a number of photographs. 
 
 sifflage
     [technique]
 
+    The technique used by Jimmy Ernst in which
+    liquid paint is blown to inspire or reveal
+    an image.
+    
+    This is sometimes called "soufflage", but
+    Ernst's name was "sifflage".
+    
+    The result can be seen in his Echo Plasm.
 
 surautomatism
     [technique]
 
+    Any theory or act of taking automatism to
+    its most absurd limits. 
 
 triptography
     [technique]
+
+    An automatic photographic technique
+    whereby a roll of film is used three times
+    (either by the same photographer or, in
+    the spirit of Exquisite Corpse, three
+    different photographers), causing it to be
+    triple-exposed in such a way that the
+    chances of any single photograph having a
+    clear and definite subject is nearly
+    impossible.
+    
+    Indeed, finding any edges on the negative
+    itself during the developing process is a
+    nearly impossible task.
+    
+    Typically the developing of such a roll of
+    film is an exercise in automatic technique
+    in and of itself, cutting the film by
+    counting sprocket holes alone, with no
+    regard for the images present on the
+    negative.
+    
+    The results have a quality reminiscent of
+    the transitory period in sleep when one
+    dream suddenly becomes another.
+    
+    Creativist Christopher Thurlow claims to
+    have discovered this technique when his
+    urge to continue taking photographs was
+    suddenly challenged by the fact that he
+    had run out of un-exposed film.
