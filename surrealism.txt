@@ -239,18 +239,6 @@ dada
     to Berlin, Cologne, Hannover, Paris, and
     beyond.
 
-exquisite corpse
-    A game in which each participant takes
-    turns writing or drawing on a sheet of
-    paper, folds it to conceal his or her
-    contribution, then passes it to the next
-    player for a further contribution.
-
-    The game gained popularity in artistic
-    circles during the 1920s, when it was
-    adopted as a technique by artists of the
-    Surrealist movement.
-
 figurative
     A work of art is considered figurative
     when its subject matter is
@@ -795,10 +783,16 @@ entopic graphomania
 exquisite corpse
 cadavre exquis
     [technique]
-
-    A method by which a collection of words or
-    images are collectively assembled.
+    [game]
     
+    A method by which a collection of words or
+    images are collectively assembled, the
+    result being known as the exquisite corpse
+    or cadavre exquis in French.
+    
+    Later the game was adapted to drawing and
+    collage.
+
     It is based on an old parlour game known
     by the same name (and also as
     Consequences) in which players wrote in
@@ -806,6 +800,17 @@ cadavre exquis
     conceal part of the writing, and then
     passed it to the next player for a further
     contribution.
+
+    A game in which each participant takes
+    turns writing or drawing on a sheet of
+    paper, folds it to conceal his or her
+    contribution, then passes it to the next
+    player for a further contribution.
+
+    The game gained popularity in artistic
+    circles during the 1920s, when it was
+    adopted as a technique by artists of the
+    Surrealist movement.
 
 frottage
     [technique]
@@ -848,21 +853,44 @@ games
     Potlatch and Parallel Collage, have played
     a critical role.
     
-    Exquisite corpse is a method by which a
-    collection of words or images are
-    collectively assembled, the result being
-    known as the exquisite corpse or cadavre
-    exquis in French.
+    Examples:
+    - Time Travelers' Potlatch
+    - Exquisite corpse
+    - Parallel Collage
     
-    Later the game was adapted to drawing and
-    collage.
+Time Travelers' Potlatch
+    [game]
+
+    A game in which two or more players say
+    what gift they would give to another
+    person - this is usually an historical
+    person who played a role in, or had an
+    influence on, the formation of Surrealism.
+
+Parallel Collage
+    [game]
+    [surrealist game]
+
+    Requires a minimum of 3 players.
+
+    Each player gives 2 graphic images and 2
+    lines of poetic text to the other players.
     
-    Time Travelers' Potlatch is a game in
-    which two or more players say what gift
-    they would give to another person - this
-    is usually an historical person who played
-    a role in, or had an influence on, the
-    formation of Surrealism.
+    All players then use the images and lines
+    of text (including their own) to construct
+    a collage-image and collage-poem.
+    
+    In the process of construction, a player
+    can modify any item, in any way desired.
+    
+    Until everyone is finished, each person's
+    work is kept hidden.
+    
+    When all images and poems are complete,
+    they are shared among the players, with a
+    comparison of the results.
+
+    https://www.zazie.at/Collaborations/ParallelCollage_6er/00_WebPages/ParallelCollageMenu.html
 
 grattage
     [technique]
