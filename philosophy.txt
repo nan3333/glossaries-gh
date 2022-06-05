@@ -344,3 +344,15 @@ intelligibility
     The intelligible method is thought
     thinking itself, or the human mind
     reflecting on itself.
+
+state of affairs
+situation
+    [#philosophy]
+
+    In philosophy, a state of affairs, also
+    known as a situation, is a way the actual
+    world must be in order to make some given
+    proposition about the actual world true;
+    in other words, a state of affairs is a
+    truth-maker, whereas a proposition is a
+    truth-bearer.
