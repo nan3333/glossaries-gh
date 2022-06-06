@@ -15078,6 +15078,15 @@ theurgy
     A system of white magic practised by the
     early Neoplatonists.
 
+henosis
+    The classical Greek word for mystical
+    "oneness", "union" or "unity".
+    
+    In Platonism, and especially Neoplatonism,
+    the goal of henosis is union with what is
+    fundamental in reality: the One, the
+    Source, or Monad.
+
 syncretism
     The amalgamation or attempted amalgamation
     of different religions, cultures, or
