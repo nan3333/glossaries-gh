@@ -15386,3 +15386,38 @@ licentiousness
     Lacking moral discipline or ignoring legal
     restraint; having no regard for accepted
     rules or standards.
+
+temerity
+    Excessive confidence or boldness;
+    audacity.
+    "no one had the temerity to question his
+    conclusions"
+
+decontextualized
+    Considered in isolation from the context.
+    "coffee-table photo books with their
+    beautiful but decontextualized
+    photographs"
+
+immanence
+    [#philosophy]
+    [#theology]
+
+    The doctrine or theory of immanence holds
+    that the divine encompasses or is
+    manifested in the material world.
+    
+    It is held by some philosophical and
+    metaphysical theories of divine presence.
+
+    A term applied, in contradistinction to
+    “transcendence,” to the fact or condition
+    of being entirely within something (from
+    Latin immanere, “to dwell in, remain”).
+
+contradistinction
+    Distinction made by contrasting the
+    different qualities of two things.
+    "such a process is known as induction, in
+    contradistinction to the deduction
+    process"
