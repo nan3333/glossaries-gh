@@ -647,6 +647,7 @@ dream résumé
 
 echo poem
     [technique]
+    [game]
 
     An echo poem is a poem written using a
     technique invented by Aurélien Dauguet in
