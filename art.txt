@@ -71,3 +71,15 @@ perspicacity by René Magritte
     Year: 1936
 
     egr 1936 perspicacity by René Magritte
+
+motif
+    [#narrative]
+
+    A motif is a distinctive repeating feature
+    or idea; often, it helps develop other
+    narrative aspects such as theme or mood.
+    
+    A narrative motif can be created through
+    the use of imagery, structural components,
+    language, and other elements throughout
+    literature.
