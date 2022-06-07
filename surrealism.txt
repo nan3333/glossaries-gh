@@ -1,4 +1,4 @@
-Asemic writing
+asemic writing
     https://en.wikipedia.org/wiki/Asemic_writing
 
     A wordless open semantic form of writing.
@@ -479,37 +479,6 @@ super-reality
     The aim of surrealism is to resolve the
     previously contradictory conditions of
     dream and reality into a surreality.
-
-surrealism
-    [cultural movement]
-
-    About finding a bridge between the
-    subconscious and reality.
-
-    An artistic and literary movement led by
-    French poet André Breton from 1924 through
-    World War II.
-
-    Drawing on the psychoanalytic theories of
-    Sigmund Freud, the Surrealists sought to
-    overthrow what they perceived as the
-    oppressive rationalism of modern society
-    by accessing the surréalisme (superior
-    reality) of the subconscious.
-
-    In his 1924 “Surrealist Manifesto,” Breton
-    argued for an uninhibited mode of
-    expression derived from the mind’s
-    involuntary mechanisms, particularly
-    dreams, and called on artists to explore
-    the uncharted depths of the imagination
-    with radical new methods and visual forms.
-
-    These ranged from abstract “automatic”
-    drawings to hyper-realistic painted scenes
-    inspired by dreams and nightmares to
-    uncanny combinations of materials and
-    objects.
 
 symbol
     A form, sign, or emblem that represents
@@ -1141,6 +1110,56 @@ creativist
     creativists who must keep “real jobs” in
     order to survive.
 
+uninhibited creative psyche
+    The idea of an uninhibited creative psyche
+    was conceived as the modus operandi for
+    Surrealists.
+    
+surrealism
+    A psychic automatism.
+
+    A psychic mechanism or state of mind that
+    can stand as a solution for the problems
+    of life.
+
+surrealism
+    [cultural movement]
+
+    About finding a bridge between the
+    subconscious and reality.
+
+    An artistic and literary movement led by
+    French poet André Breton from 1924 through
+    World War II.
+
+    Drawing on the psychoanalytic theories of
+    Sigmund Freud, the Surrealists sought to
+    overthrow what they perceived as the
+    oppressive rationalism of modern society
+    by accessing the surréalisme (superior
+    reality) of the subconscious.
+
+    In his 1924 “Surrealist Manifesto,” Breton
+    argued for an uninhibited mode of
+    expression derived from the mind’s
+    involuntary mechanisms, particularly
+    dreams, and called on artists to explore
+    the uncharted depths of the imagination
+    with radical new methods and visual forms.
+
+    These ranged from abstract “automatic”
+    drawings to hyper-realistic painted scenes
+    inspired by dreams and nightmares to
+    uncanny combinations of materials and
+    objects.
+
 pure psychic automatism
 
     https://www.widewalls.ch/magazine/psychic-automatism
+
+active imagination
+    A conscious method of experimentation.
+    
+    It employs creative imagination as an
+    organ for "perceiving outside your mental
+    boxes."

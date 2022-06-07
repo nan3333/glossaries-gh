@@ -3130,24 +3130,6 @@ precession
     recently been enacted in a number of
     states.
 
-precession of simulacra
-    The postmodern phenomenon wherein "images
-    precede reality"-accurately describes what
-    is wrong with the pre-abortion ultrasound
-    mandates that have recently been enacted
-    in a number of states.
-
-orders of simulacra
-    Baudrillard's orders of simulacra exist as
-    follows:
-    - The first order of simulacra focuses on
-      counterfeits and false images.
-    - The second order of simulacra is
-      dominated by production of these false
-      images.
-    - The third order of simulacra rests on
-      ultimate simulation.
-
 ostensibly
     As appears or is stated to be true, though
     not necessarily so; apparently.
@@ -15457,3 +15439,31 @@ contradistinction
     "such a process is known as induction, in
     contradistinction to the deduction
     process"
+
+potential
+    Existing in possibility : capable of
+    development into actuality
+
+latent
+    Present and capable of emerging or
+    developing but not now visible, obvious,
+    active,
+
+asemic
+    Having no specific semantic content.
+    Without the smallest unit of meaning.
+
+conformant
+    (especially of technology) compatible or
+    conforming with appropriate standards.
+    "vendors are using the test tool and
+    expect to announce conformant products
+    soon"
+
+injunction
+    An injunction is a legal and equitable
+    remedy in the form of a special court
+    order that compels a party to do or
+    refrain from specific acts.
+
+    https://bible.knowing-jesus.com/words/Injunctions
