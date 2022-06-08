@@ -15496,3 +15496,8 @@ accentuation
 
     The pattern of relative prominence of
     syllables in a phrase or utterance.
+
+facile
+    Ignoring the true complexities of an
+    issue; superficial.
+    "facile generalizations"
