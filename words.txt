@@ -15415,22 +15415,6 @@ decontextualized
     beautiful but decontextualized
     photographs"
 
-immanence
-    [#philosophy]
-    [#theology]
-
-    The doctrine or theory of immanence holds
-    that the divine encompasses or is
-    manifested in the material world.
-    
-    It is held by some philosophical and
-    metaphysical theories of divine presence.
-
-    A term applied, in contradistinction to
-    “transcendence,” to the fact or condition
-    of being entirely within something (from
-    Latin immanere, “to dwell in, remain”).
-
 contradistinction
     Distinction made by contrasting the
     different qualities of two things.
@@ -15470,3 +15454,36 @@ appointed
     (of a time or place) decided on
     beforehand; designated.
     "she arrived at the appointed time"
+
+seraph
+seraphim
+    A celestial being variously described as
+    having two or three pairs of wings and
+    serving as a throne guardian of God.
+
+    A type of celestial or heavenly being
+    originating in Ancient Judaism.
+    
+    The term plays a role in subsequent
+    Judaism, Christianity, and Islam.
+    
+    Tradition places seraphim in the highest
+    rank in Christian angelology and in the
+    fifth rank of ten in the Jewish angelic
+    hierarchy.
+
+immanence
+    [#philosophy]
+    [#theology]
+
+    The doctrine or theory of immanence holds
+    that the divine encompasses or is
+    manifested in the material world.
+    
+    It is held by some philosophical and
+    metaphysical theories of divine presence.
+
+    A term applied, in contradistinction to
+    “transcendence,” to the fact or condition
+    of being entirely within something (from
+    Latin immanere, “to dwell in, remain”).
