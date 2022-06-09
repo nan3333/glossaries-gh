@@ -1,3 +1,29 @@
+ephemeron
+    A data structure that solves two related
+    problems in garbage collected systems.
+    
+    On the one hand, an ephemeron provides a
+    notification when some object is about to
+    be collected.
+
+    On the other hand, an ephemeron allows
+    data to be associated with some object
+    without creating a reference to that
+    object that will prevent the object from
+    being collected.
+    
+    An ephemeron is a key-value pair, where
+    the key is the object that the ephemeron
+    guards, notifying the system when that
+    object is collectable, and the value can
+    be any data associated with the object
+    such as a property list, and which may be
+    emptyOn the other hand, an ephemeron
+    allows data to be associated with some
+    object without creating a reference to
+    that object that will prevent the object
+    from being collected.
+
 Dijkstra's algorithm
 Dijkstra's Shortest Path First algorithm
 SPF algorithm
