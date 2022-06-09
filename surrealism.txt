@@ -1211,7 +1211,7 @@ latent potentiality
     Wholeness of personality.
 
 active imagination
-Transcendent Function
+transcendent function
     [therapeutic method]
 
     A conscious method of experimentation.
@@ -1227,3 +1227,36 @@ Transcendent Function
     Carl Jung considered this technique to be the
     most powerful tool to access the unconscious
     and for achieving latent potentiality.
+
+double exposure
+multiple exposure
+    [#surrealist photography]
+
+    The superimposition of two or more
+    exposures to create a single image, and
+    double exposure has a corresponding
+    meaning in respect of two images.
+    
+    The exposure values may or may not be
+    identical to each other.
+
+combination printing
+    [#surrealist photography]
+
+    The photographic technique of using the
+    negatives of two or more images in
+    conjunction with one another to create a
+    single image.
+
+montage (photography)
+    [#surrealist photography]
+
+    A combination of several photographs
+    joined together for artistic effect or to
+    show more of the subject than can be shown
+    in a single photograph.
+
+solarization (photography)
+    [#surrealist photography]
+
+    Eschewed the camera altogether.
