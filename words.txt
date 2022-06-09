@@ -15535,3 +15535,8 @@ eschew
     Deliberately avoid using; abstain from.
     "he appealed to the crowd to eschew
     violence"
+
+straight shooter
+    An honest and forthright person.
+    "Candace is a plain talker and a straight
+    shooter"
