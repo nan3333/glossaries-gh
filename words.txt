@@ -15566,3 +15566,9 @@ demureness
     
     Standards of modesty are culturally and
     context dependent and vary widely.
+
+predicated
+    Founded or based on.
+
+    "the theory of structure on which later
+    chemistry was predicated"
