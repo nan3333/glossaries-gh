@@ -1024,7 +1024,8 @@ cartharsis
     emotions.
 
 incontrovertibly
-    not able to be denied or disputed.
+incontrovertible
+    Not able to be denied or disputed.
 
     "incontrovertible proof"
 
@@ -1040,12 +1041,12 @@ revivification
     vivify.] re. · viv′i.
 
 frivolity
-    lack of seriousness; light-heartedness.
+    Lack of seriousness; light-heartedness.
 
     "a night of fun and frivolity"
 
 festal
-    relating to or characteristic of a
+    Relating to or characteristic of a
     celebration or festival.
 
     "plum pudding was originally served on
@@ -1059,7 +1060,7 @@ organ meats
     animal.
 
 pugnacious
-    eager or quick to argue, quarrel, or
+    Eager or quick to argue, quarrel, or
     fight.
 
     "his public statements became increasingly
@@ -1096,10 +1097,6 @@ convolution
 
     A coil or twist.
 
-* Confusing English
-** precede vs proceed
-** preceding vs proceeding
-
 accost
     Approach and address (someone) boldly or
     aggressively.
@@ -1122,7 +1119,7 @@ crisis
     either recovery or death.
 
 complicit
-    involved with others in an activity that
+    Involved with others in an activity that
     is unlawful or morally wrong.
 
 mischaracterization
@@ -1158,7 +1155,7 @@ cure-all
     or diseases.
 
 prefigured
-    imagine, conceive of, ideate, envisage
+    Imagine, conceive of, ideate, envisage.
 
 fanfare
     A short ceremonial tune or flourish played
@@ -15591,3 +15588,18 @@ delineating
 
     "his finger found a precisely outlined
     section delineated in red marker"
+
+imputation
+    [#theology]
+
+    A charge or claim that someone has done
+    something undesirable; an accusation.
+    "there are grounds for inquiring into the
+    imputations of misconduct against him"
+
+    [#finance]
+    The assignment of a value to something by
+    inference from the value of the products
+    or processes to which it contributes.
+    "the imputation of interest will increase
+    her taxable income"
