@@ -15603,3 +15603,18 @@ imputation
     or processes to which it contributes.
     "the imputation of interest will increase
     her taxable income"
+
+resolvedness
+    The quality or state of being resolved.
+
+topical
+    (of a subject) of immediate relevance,
+    interest, or importance owing to its
+    relation to current events.
+    "a popular topical affairs programme"
+
+impious
+    Showing a lack of respect for God or
+    religion.
+    "the emperor's impious attacks on the
+    Church"
