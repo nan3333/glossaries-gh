@@ -65,3 +65,7 @@ impiety
     Impiety cannot be associated with a cult,
     as it implies a larger belief system was
     disrespected.
+
+godliness
+    The quality or state of being spiritually
+    pure or virtuous.
