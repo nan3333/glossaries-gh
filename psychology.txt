@@ -1,3 +1,14 @@
+prodrome
+prodromal
+    A medical term for early signs or symptoms
+    of an illness or health problem that
+    appear before the major signs or symptoms
+    start.
+    
+    Psychosis, a group of symptoms found in
+    disorders like schizophrenia, is one
+    illness with a specific prodrome.
+
 apperception
     The mental process by which a person makes
     sense of an idea by assimilating it to the
