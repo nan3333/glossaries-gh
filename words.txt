@@ -138,7 +138,8 @@ prescient
     before they take place.
 
 pertinent
-    Here are the pertinent section of my init.el
+    Here are the pertinent section of my
+    init.el
 
 zero-day
     Winzen said that it happened on Thursday
@@ -947,7 +948,7 @@ reveller
     lively and noisy way.
 
 perfidious
-    deceitful and untrustworthy.
+    Deceitful and untrustworthy.
 
 misestimation
     oh babe can you please not tell mum what i
