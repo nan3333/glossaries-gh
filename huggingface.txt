@@ -1,3 +1,11 @@
+Space
+    A special kind of repository that hosts
+    application code for ML demos Those
+    applications can be written using Python
+    libraries like Streamlit or Gradio.
+
+    Or you can just host a static web page.
+
 huggingface
 🤗
 Hugging Face
