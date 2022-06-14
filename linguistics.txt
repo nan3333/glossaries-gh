@@ -1,3 +1,11 @@
+semantic domain
+    Some words have a 'narrow semantic
+    domain', a very technical thing - such as
+    a USB port.
+    
+    But some words have a 'broad semantic
+    domain'.
+
 interjection
     A word, phrase, or sentence that expresses
     emotion, meaning, or feeling.
