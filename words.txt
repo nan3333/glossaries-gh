@@ -15645,3 +15645,9 @@ seditious
     oppose their government: She was arrested
     after making a speech that the government
     considered to be seditious.
+
+contemn
+contemned
+    Treat or regard with contempt.
+    "it lay in Deronda's nature usually to
+    contemn the feeble"
