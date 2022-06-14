@@ -15658,3 +15658,5 @@ demonetise
     "coins minted with the name and portrait
     of Emperor Caligula were demonetized after
     his death"
+
+mimesis

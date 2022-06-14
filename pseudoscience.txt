@@ -55,6 +55,15 @@ extropy
     if after the Ancient Greek *ἐκτροπία
     (ektropía, “a turning out of”).
 
+pseudoscience
+    The big difference between science and
+    pseudo-science is a difference in
+    attitude. While a pseudo-science is set up
+    to look for evidence that supports its
+    claims, Popper says, a science is set up
+    to challenge its claims and look for
+    evidence that might prove it false.
+
 memetics
     The study of information and culture based
     on an analogy with Darwinian evolution.
