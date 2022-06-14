@@ -15651,3 +15651,10 @@ contemned
     Treat or regard with contempt.
     "it lay in Deronda's nature usually to
     contemn the feeble"
+
+demonetise
+    Deprive (a coin, note, or precious metal)
+    of its status as money.
+    "coins minted with the name and portrait
+    of Emperor Caligula were demonetized after
+    his death"
