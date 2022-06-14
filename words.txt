@@ -9935,27 +9935,6 @@ loquacious
     "never loquacious, Sarah was now totally
     lost for words"
 
-mimetic
-    The word is Greek and means “imitation”
-    (though in the sense of “re-presentation”
-    rather than of “copying”).
-
-    Plato and Aristotle spoke of mimesis as
-    the re-presentation of nature.
-
-    Relating to, constituting, or habitually
-    practising mimesis.
-    "mimetic patterns in butterflies"
-
-mimesis
-    A term used in literary criticism and
-    philosophy that carries a wide range of
-    meanings, including imitatio, imitation,
-    nonsensuous similarity, receptivity,
-    representation, mimicry, the act of
-    expression, the act of resembling, and the
-    presentation of the self.
-
 incontrovertible
     Not able to be denied or disputed.
     "incontrovertible proof"
@@ -15659,22 +15638,7 @@ demonetise
     of Emperor Caligula were demonetized after
     his death"
 
-mimesis
-    [#literary criticism]
-    [#philosophy]
-    [#art]
-
-    Carries a wide range of meanings,
-    including imitatio, imitation, nonsensuous
-    similarity, receptivity, representation,
-    mimicry, the act of expression, the act of
-    resembling, and the presentation of the
-    self.
-
-    Describes the process of imitation or
-    mimicry through which artists portray and
-    interpret the world.
-
-    Mimesis is not a literary device or
-    technique, but rather a way of thinking
-    about a work of art.
+sure-fire
+    Certain to succeed.
+    "bad behaviour is a sure-fire way of
+    getting attention"
