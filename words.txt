@@ -15666,3 +15666,25 @@ invective
     
     The Latin adjective invectivus means
     'scolding.'
+
+precipitously
+    1.
+    very steeply.
+    "off the coast, the depth of the sea floor
+    drops precipitously"
+
+    2.
+    hastily and without careful consideration.
+
+peradventure
+    Perhaps.
+    "peradventure I'm not as wealthy as he is"
+
+    Uncertainty or doubt as to whether
+    something is the case.
+    "that shows beyond peradventure the
+    strength of the economy"
+
+fallible
+    Capable of making mistakes or being wrong.
+    "experts can be fallible"

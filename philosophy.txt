@@ -1,3 +1,8 @@
+rudiment
+    The first principles of (a subject).
+    "she taught the girls the rudiments of
+    reading and writing"
+
 mimetic
     The word is Greek and means “imitation”
     (though in the sense of “re-presentation”
