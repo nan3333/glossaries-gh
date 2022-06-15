@@ -1,3 +1,15 @@
+logical purity
+pure
+    At the heart of each great Prolog program
+    is a property we call logical purity or
+    simply purity.
+    
+    Informally, this means that the program
+    has the properties we expect from a
+    relation.
+
+    https://www.metalevel.at/prolog/purity
+
 module
     Can only be used as the first term of a
     source file.

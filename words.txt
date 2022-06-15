@@ -15642,3 +15642,27 @@ sure-fire
     Certain to succeed.
     "bad behaviour is a sure-fire way of
     getting attention"
+
+impermanent
+    Not permanent.
+
+vitriol
+    1.
+    bitter criticism or malice.
+    "her mother's sudden gush of fury and
+    vitriol"
+
+    2.
+    sulphuric acid.
+    "it was as if his words were spraying
+    vitriol on her face"
+
+invective
+    Abusive, reproachful, or venomous language
+    used to express blame or censure; or, a
+    form of rude expression or discourse
+    intended to offend or hurt; vituperation,
+    or deeply seated ill will, vitriol.
+    
+    The Latin adjective invectivus means
+    'scolding.'
