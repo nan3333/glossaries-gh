@@ -15701,3 +15701,7 @@ astute
     assess situations or people and turn this
     to one's advantage.
     "an astute businessman"
+
+garish
+    Obtrusively bright and showy; lurid.
+    "garish shirts in all sorts of colours"
