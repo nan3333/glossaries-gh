@@ -15688,3 +15688,16 @@ peradventure
 fallible
     Capable of making mistakes or being wrong.
     "experts can be fallible"
+
+repose
+    A state of rest, sleep, or tranquillity.
+    "in repose her face looked relaxed"
+
+    Be situated or kept in a particular place.
+    "the diamond now reposes in the Louvre"
+
+astute
+    Having or showing an ability to accurately
+    assess situations or people and turn this
+    to one's advantage.
+    "an astute businessman"
