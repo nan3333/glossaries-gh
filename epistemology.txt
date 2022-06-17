@@ -1,3 +1,20 @@
+truthmaker theory
+    The branch of metaphysics that explores
+    the relationships between what is true and
+    what exists.
+    
+    The basic intuition behind truthmaker
+    theory is that truth depends on being.
+    
+    For example, a perceptual experience of a
+    green tree may be said to be true because
+    there actually is a green tree.
+
+    This is meant to be a modern alternative
+    to the "correspondence theory".
+
+    https://plato.stanford.edu/entries/truth-correspondence/
+
 reflexivity
     [#epistemology]
     [#sociology of knowledge]
