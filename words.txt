@@ -15739,3 +15739,9 @@ exoneration
     penalty cases, especially where new
     evidence is put forth after the execution
     has taken place.
+
+quiescent
+    In a state or period of inactivity or
+    dormancy.
+    "strikes were headed by groups of workers
+    who had previously been quiescent"
