@@ -1,3 +1,11 @@
+missiology
+    [academic discipline]
+
+    Missiology is the academic study of the
+    Christian mission history and methodology,
+    which began to be developed as an academic
+    discipline in the 19th century.
+
 sectarianism
     Excessive attachment to a particular sect
     or party, especially in religion.
