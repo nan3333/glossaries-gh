@@ -15705,3 +15705,20 @@ astute
 garish
     Obtrusively bright and showy; lurid.
     "garish shirts in all sorts of colours"
+
+consternation
+    A feeling of anxiety or dismay, typically
+    at something unexpected.
+    "to her consternation her car wouldn't
+    start"
+
+humanism
+    An outlook or system of thought attaching
+    prime importance to human rather than
+    divine or supernatural matters.
+    
+    Humanist beliefs stress the potential
+    value and goodness of human beings,
+    emphasize common human needs, and seek
+    solely rational ways of solving human
+    problems.
