@@ -605,7 +605,7 @@ indexical
 indexicality
     [semiotics]
     [inguistics]
-    [nthropology]
+    [anthropology]
     [philosophy of language]
 
     The phenomenon of a sign pointing to some
