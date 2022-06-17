@@ -244,15 +244,6 @@ semeiotic
     their particular approaches to the
     subject.
 
-icon
-    [representamen]
-
-index
-    [representamen]
-
-symbol
-    [representamen]
-
 word
 linguistic sign
     Unites a concept and sound-image.
@@ -634,3 +625,58 @@ interlocutor
 connotative
     Having the power of implying or suggesting
     something in addition to what is explicit.
+
+arbitrariness
+    Relative arbitrariness:
+    - Symbolic
+    - Iconic
+    - Indexical
+
+    https://sealinguist.files.wordpress.com/2015/08/visualmemory.jpg
+
+symbol
+symbolic
+    [sign type]
+    [representamen]
+
+    The S^r does not resemble the S^d - The
+    relationship is arbitrary/purely
+    conventional.
+
+    Example:
+    - A speech bubble containing the word
+      'tree'.
+
+icon
+iconic
+    [sign type]
+    [representamen]
+
+    The S^r perceptually resembles the S^d.
+
+    Example:
+    - A painting of a specific tree.
+
+index
+indexical
+    [sign type]
+    [representamen]
+
+    the relationship is not purely arbitrary -
+    The S^r is directly connected (physically
+    or causally) to the S^d.
+
+    Example:
+    - A leaf from the tree.
+
+S^r
+    R
+    Example:
+    - A speech bubble containing the word
+      'tree'.
+    - A painting of a specific tree.
+    - A leaf from the tree.
+
+S^d
+    Example:
+    - A specific tree.

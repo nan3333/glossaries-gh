@@ -15727,3 +15727,15 @@ mellifluous
     (of a sound) pleasingly smooth and musical
     to hear.
     "her low mellifluous voice"
+
+exoneration
+    Occurs when the conviction for a crime is
+    reversed, either through demonstration of
+    innocence, a flaw in the conviction, or
+    otherwise.
+    
+    Attempts to exonerate convicts are
+    particularly controversial in death
+    penalty cases, especially where new
+    evidence is put forth after the execution
+    has taken place.
