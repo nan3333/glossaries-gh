@@ -15749,3 +15749,9 @@ quiescent
 phenomenology
     The science of phenomena as distinct from
     that of the nature of being.
+
+phenomena
+phenomenon
+    A fact or situation that is observed to
+    exist or happen, especially one whose
+    cause or explanation is in question.
