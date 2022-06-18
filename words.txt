@@ -15745,3 +15745,7 @@ quiescent
     dormancy.
     "strikes were headed by groups of workers
     who had previously been quiescent"
+
+phenomenology
+    The science of phenomena as distinct from
+    that of the nature of being.
