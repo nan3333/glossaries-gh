@@ -15776,3 +15776,14 @@ asunder
     Apart.
     "those whom God hath joined together let
     no man put asunder"
+
+shoehorn
+shoehorned
+    Force into an inadequate space.
+    "people were shoehorned into cramped
+    corners"
+
+cognizance
+    Knowledge or awareness.
+    "the Renaissance cognizance of Greece was
+    limited"
