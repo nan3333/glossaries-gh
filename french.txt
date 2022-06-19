@@ -170,3 +170,8 @@ adequation
 
     "A judgment is said to be true when it
     conforms to the external reality".
+
+hearken
+    Listen.
+    "he refused to hearken to Tom's words of
+    wisdom"

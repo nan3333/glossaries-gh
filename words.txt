@@ -15806,3 +15806,11 @@ phantasmal
 rapture
     A feeling of intense pleasure or joy.
     "Leonora listened with rapture"
+
+libertarians
+    Seek to maximize autonomy and political
+    freedom, and minimize the state's
+    violation of individual liberties;
+    emphasizing free association, freedom of
+    choice, individualism and voluntary
+    association.
