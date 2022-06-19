@@ -15765,3 +15765,14 @@ aberrance
     with its own set of age-related norms and
     plenty of room for idiosyncrasy, aberrancy
     and downright criminal behavior
+
+imperceptible
+    So slight, gradual, or subtle as not to be
+    perceived.
+    "his head moved in an almost imperceptible
+    nod"
+
+asunder
+    Apart.
+    "those whom God hath joined together let
+    no man put asunder"
