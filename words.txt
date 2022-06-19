@@ -15787,3 +15787,8 @@ cognizance
     Knowledge or awareness.
     "the Renaissance cognizance of Greece was
     limited"
+
+coalesce
+    Combine (elements) in a mass or whole.
+    "his idea served to coalesce all that
+    happened into one connected whole"
