@@ -15792,3 +15792,13 @@ coalesce
     Combine (elements) in a mass or whole.
     "his idea served to coalesce all that
     happened into one connected whole"
+
+expounding
+    Present and explain (a theory or idea) in
+    detail.
+    "he was expounding a powerful argument"
+
+phantasmal
+    Pertaining to or of the nature of a
+    phantasm; unreal; illusory; spectral:
+    phantasmal creatures of nightmare.
