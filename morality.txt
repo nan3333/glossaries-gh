@@ -1,3 +1,5 @@
+http://github.com/semiosis/glossaries-gh/blob/master/ethics-and-morality.txt
+
 morality
     Many people think of morality as something
     that's personal and normative, whereas
