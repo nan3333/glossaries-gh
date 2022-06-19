@@ -62,6 +62,9 @@ prosaic
     Having the style or diction of prose;
     lacking poetic beauty.
 
+    See:
+    - prosaic AGI.
+
 prosaic AGI
     It now seems possible that we could build
     "prosaic" AGI, which can replicate human
