@@ -15802,3 +15802,7 @@ phantasmal
     Pertaining to or of the nature of a
     phantasm; unreal; illusory; spectral:
     phantasmal creatures of nightmare.
+
+rapture
+    A feeling of intense pleasure or joy.
+    "Leonora listened with rapture"
