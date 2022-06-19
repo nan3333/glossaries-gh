@@ -15755,3 +15755,13 @@ phenomenon
     A fact or situation that is observed to
     exist or happen, especially one whose
     cause or explanation is in question.
+
+aberrancy
+aberrance
+    The quality or state of being aberrant :
+    deviation from what is known, usual, or
+    expected Sleep is a sophisticated
+    behavior, just like walking and thinking,
+    with its own set of age-related norms and
+    plenty of room for idiosyncrasy, aberrancy
+    and downright criminal behavior

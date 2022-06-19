@@ -1,3 +1,14 @@
+escher mosaic
+    https://www.google.com/search?q=escher+mosaic&sxsrf=ALiCzsbZxOxIjm0l-6Ha3-oeWUArfHR46Q%3A1655541950532&source=lnms&tbm=isch&sa=X&biw=1904&bih=911&dpr=1
+    
+    Make a text prompt:
+    - 1st prompt: Elephant, Giraffe, Elephant Giraffe Escher Mosaic
+    - 2nd prompt: Pineapple, House,
+
+    Generate a multi-image prompt:
+    - 1st prompt: Im:Elephant, Im:Giraffe, Im:Elephant Giraffe Escher Mosaic
+    - 2nd prompt: Im:Pineapple, Im:House,
+
 mimesis
     [#literary criticism]
     [#philosophy]
