@@ -15830,3 +15830,12 @@ dowel
 mythopoeic
     Relating to the making of myths; causing,
     producing, or giving rise to myths.
+
+congenital
+    (of a disease or physical abnormality)
+    present from birth.
+    "a congenital malformation of the heart"
+
+    (of a person) having a particular trait
+    from birth or by firmly established habit.
+    "a congenital liar"
