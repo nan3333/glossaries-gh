@@ -15826,3 +15826,7 @@ restitution
 
 dowel
     https://www.mitre10.co.nz/shop/timber/doweling/c/RS2217
+
+mythopoeic
+    Relating to the making of myths; causing,
+    producing, or giving rise to myths.
