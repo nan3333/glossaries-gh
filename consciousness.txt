@@ -1,12 +1,74 @@
-Hard problem of consciousness
-    The problem of explaining why and how we
-    have qualia or phenomenal experiences.
+hard problem of consciousness
+    The mystery of how inanimate matter
+    arranges itself into living beings with
+    self-aware minds and a rich inner life —
+    is what the philosopher David Chalmers
+    called the “hard problem” of
+    consciousness. But the way Seth sees it,
+    Chalmers was overly pessimistic. Yes, it’s
+    a challenge — but we’ve been chipping away
+    at it steadily over the years.
+
+    https://joe-antognini.github.io/ml/consciousness
+
+    The hard problem of consciousness is the
+    problem of explaining why and how we have
+    qualia or phenomenal experiences.
     
-    This is in contrast to the "easy problems"
-    of explaining the physical systems that
-    give us and other animals the ability to
-    discriminate, integrate information, and
-    so forth.
+    That is to say, it is the problem of why
+    we have personal, first-person
+    experiences, often described as
+    experiences that feel "like something."
+    
+    In comparison, we assume there are no such
+    experiences for inanimate things like, for
+    instance, a thermostat, toaster, computer,
+    or a sophisticated form of artificial
+    intelligence.
+    
+    The philosopher David Chalmers, who
+    introduced the term "hard problem of
+    consciousness," contrasts this with the
+    "easy problems" of explaining the physical
+    systems that give us and other animals the
+    ability to discriminate, integrate
+    information, report mental states, focus
+    attention, and so forth.
+    
+    Easy problems are (relatively) easy
+    because all that is required for their
+    solution is to specify a mechanism that
+    can perform the function.
+    
+    That is, even though we have yet to solve
+    most of the easy problems (our
+    understanding of the brain is still
+    preliminary), these questions can probably
+    eventually be understood by relying
+    entirely on standard scientific methods.
+    
+    Chalmers claims that even once we have
+    solved such problems about the brain and
+    experience, the hard problem will "persist
+    even when the performance of all the
+    relevant functions is explained".
+    
+    The existence of a "hard problem" is
+    controversial.
+    
+    It has been accepted by philosophers of
+    mind such as Joseph Levine, Colin McGinn,
+    and Ned Block and cognitive
+    neuroscientists such as Francisco Varela,
+    Giulio Tononi, and Christof Koch.
+    
+    However, its existence is disputed by
+    philosophers of mind such as Daniel
+    Dennett, Massimo Pigliucci, Thomas
+    Metzinger, Patricia Churchland, and Keith
+    Frankish, and cognitive neuroscientists
+    such as Stanislas Dehaene, Bernard Baars,
+    Anil Seth and Antonio Damasio.
 
 cognizance
     Knowledge or awareness.
@@ -83,80 +145,18 @@ interactionism
     Herbert Blumer expanded on Mead's work and
     coined the term "symbolic interactionism".
 
-hard problem of consciousness
-    The mystery of how inanimate matter
-    arranges itself into living beings with
-    self-aware minds and a rich inner life —
-    is what the philosopher David Chalmers
-    called the “hard problem” of
-    consciousness. But the way Seth sees it,
-    Chalmers was overly pessimistic. Yes, it’s
-    a challenge — but we’ve been chipping away
-    at it steadily over the years.
-
-    https://joe-antognini.github.io/ml/consciousness
-
-    The hard problem of consciousness is the
-    problem of explaining why and how we have
-    qualia or phenomenal experiences.
-    
-    That is to say, it is the problem of why
-    we have personal, first-person
-    experiences, often described as
-    experiences that feel "like something."
-    
-    In comparison, we assume there are no such
-    experiences for inanimate things like, for
-    instance, a thermostat, toaster, computer,
-    or a sophisticated form of artificial
-    intelligence.
-    
-    The philosopher David Chalmers, who
-    introduced the term "hard problem of
-    consciousness," contrasts this with the
-    "easy problems" of explaining the physical
-    systems that give us and other animals the
-    ability to discriminate, integrate
-    information, report mental states, focus
-    attention, and so forth.
-    
-    Easy problems are (relatively) easy
-    because all that is required for their
-    solution is to specify a mechanism that
-    can perform the function.
-    
-    That is, even though we have yet to solve
-    most of the easy problems (our
-    understanding of the brain is still
-    preliminary), these questions can probably
-    eventually be understood by relying
-    entirely on standard scientific methods.
-    
-    Chalmers claims that even once we have
-    solved such problems about the brain and
-    experience, the hard problem will "persist
-    even when the performance of all the
-    relevant functions is explained".
-    
-    The existence of a "hard problem" is
-    controversial.
-    
-    It has been accepted by philosophers of
-    mind such as Joseph Levine, Colin McGinn,
-    and Ned Block and cognitive
-    neuroscientists such as Francisco Varela,
-    Giulio Tononi, and Christof Koch.
-    
-    However, its existence is disputed by
-    philosophers of mind such as Daniel
-    Dennett, Massimo Pigliucci, Thomas
-    Metzinger, Patricia Churchland, and Keith
-    Frankish, and cognitive neuroscientists
-    such as Stanislas Dehaene, Bernard Baars,
-    Anil Seth and Antonio Damasio.
-
 universal mind
 universal consciousness
     A metaphysical concept suggesting an
     underlying essence of all being and
     becoming in the universe.
+
+qualia
+    [#philosophy of mind]
+    [#philosophy]
+    [#psychology]
+
+    Individual instances of subjective,
+    conscious experience.
+
+    https://youtu.be/evQsOFQju08?t=165
