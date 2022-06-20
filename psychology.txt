@@ -1,17 +1,17 @@
 ego
     An infinitesimally small part of what Jung
     referred to as psyche.
-    
+
     Psyche is the totality of all psychic
     processes, both conscious and unconscious.
-    
+
     The ego is more or less just the center of
     consciousness.
-    
+
     Both consciousness and the ego are
     latecomers in the evolution of psyche per
     se.
-    
+
     Unconsciousness, however, was our original
     state of being, and thus, all of its
     underlying processes still have powerful
@@ -21,10 +21,10 @@ ego death
 psychic death
     A "complete loss of subjective self-
     identity".
-    
+
     The term is used in various intertwined
     contexts, with related meanings.
-    
+
     Jungian psychology uses the synonymous
     term psychic death, referring to a
     fundamental transformation of the psyche.
@@ -55,7 +55,7 @@ prodromal
     of an illness or health problem that
     appear before the major signs or symptoms
     start.
-    
+
     Psychosis, a group of symptoms found in
     disorders like schizophrenia, is one
     illness with a specific prodrome.
@@ -72,7 +72,7 @@ Free association
     consciousness without censorship as an aid
     in gaining access to unconscious
     processes.
-    
+
     The technique is used in psychoanalysis
     which was originally devised by Sigmund
     Freud out of the hypnotic method of his
@@ -85,7 +85,7 @@ conation
     part of motivation that connects
     knowledge, affect, drives, desires, and
     instincts to behavior.
-    
+
     The behavioral basis of attitudes is
     sometimes referred to as the conative
     component.
@@ -96,7 +96,7 @@ counterfactual thinking
     alternatives to life events that have
     already occurred; something that is
     contrary to what actually happened.
-    
+
     Counterfactual thinking is, as it states:
     "counter to the facts".
 
@@ -106,17 +106,17 @@ episodic memory
     emotions, and other contextual
     information) that can be explicitly stated
     or conjured.
-    
+
     It is the collection of past personal
     experiences that occurred at particular
     times and places; for example, the party
     on one's 7th birthday.
-    
+
     Along with semantic memory, it comprises
     the category of explicit memory, one of
     the two major divisions of long-term
     memory (the other being implicit memory).
-    
+
     The term "episodic memory" was coined by
     Endel Tulving in 1972, referring to the
     distinction between knowing and
@@ -124,13 +124,13 @@ episodic memory
     recollection (semantic) whereas
     remembering is a feeling that is located
     in the past (episodic).
-    
+
     One of the main components of episodic
     memory is the process of recollection,
     which elicits the retrieval of contextual
     information pertaining to a specific event
     or experience that has occurred.
-    
+
     Tulving seminally defined three key
     properties of episodic memory recollection
     as:
@@ -148,11 +148,11 @@ mindblindness
     A few unfortunates suffer from a puzzling
     deficit, an inability to understand
     another's point of view.
-    
+
     This condition is sometimes referred to as
     'mindblindness', and it is a major symptom
     of autism.
-    
+
     To 'mindblind' humans, the world is a
     confusing place which they never 'get the
     hang of'.
@@ -164,11 +164,11 @@ will
     The cognitive process by which an
     individual decides on and commits to a
     particular course of action.
-    
+
     It is defined as purposive striving and is
     one of the primary human psychological
     functions.
-    
+
     Others include affect, motivation, and
     cognition
 
@@ -187,7 +187,7 @@ gerund
     forms in various languages; most often,
     but not exclusively, one that functions as
     a noun.
-    
+
     In English, it has the properties of both
     verb and noun, such as being modifiable by
     an adverb and being able to take a direct
@@ -197,11 +197,11 @@ retrieval-induced forgetting
     Occurs when recalling certain memories
     causes other related information to be
     forgotten.
-    
+
     So repeatedly calling forth some memories
     might lead other memories to become less
     accessible.
-    
+
     Traumatic or unwanted memories, for
     example, might be forgotten by repeated
     retrieval of more positive ones
@@ -228,7 +228,7 @@ confabulate
     of fabricated, distorted, or
     misinterpreted memories about oneself or
     the world.
-    
+
     People who confabulate present incorrect
     memories ranging from "subtle alterations
     to bizarre fabrications", and are
@@ -239,7 +239,7 @@ confabulate
     Confabulation is the creation of false
     memories in the absence of intentions of
     deception.
-    
+
     Individuals who confabulate have no
     recognition that the information being
     relayed to others is fabricated.
@@ -247,11 +247,11 @@ confabulate
 cognitive bias
     A systematic pattern of deviation from
     norm or rationality in judgment.
-    
+
     Individuals create their own "subjective
     reality" from their perception of the
     input.
-    
+
     An individual's construction of reality,
     not the objective input, may dictate their
     behavior in the world.
@@ -270,11 +270,11 @@ déjà vu
     the feeling of having previously
     experienced an event or place actually
     being encountered for the first time.
-    
+
     It is the same as the French phrase déjà
     vu which can be translated as "seen
     before".
-    
+
     In parapsychology the same term is used
     similarly to precognition, which means
     knowing something and being able to
@@ -304,7 +304,7 @@ explanatory gap
 cognitive load
     Refers to the used amount of working
     memory resources.
-    
+
     Cognitive load theory differentiates
     cognitive load into three types:
     intrinsic, extraneous, and germane.
@@ -316,7 +316,7 @@ Dunning-Kruger Effect
 
     An illusory superiority that people
     believe (suffer from) in.
-    
+
     This happens because of misjudging their
     cognitive abilities as greater, than it
     actually is.
@@ -324,7 +324,7 @@ Dunning-Kruger Effect
     A cognitive bias in which people
     mistakenly assess their cognitive ability
     as greater than it is.
-    
+
     It is related to the cognitive bias of
     illusory superiority and comes from the
     inability of people to recognize their
@@ -357,7 +357,7 @@ Schizoid personality disorder
     An uncommon condition in which people
     avoid social activities and consistently
     shy away from interaction with others.
-    
+
     They also have a limited range of
     emotional expression.
 
@@ -386,7 +386,7 @@ machiavellianism
     focused on their own interests they will
     manipulate, deceive, and exploit others to
     achieve their goals.
-    
+
     Machiavellianism is one of the traits in
     what is called the 'Dark Triad', the other
     two being narcissism and psychopathy.
@@ -426,12 +426,12 @@ attribution
 
     Humans are motivated to assign causes to
     their actions and behaviors.
-    
+
     Social psychology states that attribution
     is the process by which individuals
     explain the causes of behavior and events
     as being either external or internal.
-    
+
     Models to explain this process are called
     attribution theory.
 
@@ -452,13 +452,13 @@ cognitive biases
 derealization
     A mental state where you feel detached
     from your surroundings.
-    
+
     People and objects around you may seem
     unreal.
-    
+
     Even so, you're aware that this altered
     state isn't normal.
-    
+
     More than half of all people may have this
     disconnection from reality once in their
     lifetime.
@@ -466,7 +466,7 @@ derealization
 depersonalization
     Described as feeling disconnected or
     detached from one's self.
-    
+
     Individuals may report feeling as if they
     are an outside observer of their own
     thoughts or body, and often report feeling
@@ -489,7 +489,7 @@ anhedonia
     The inability to feel pleasure during
     pleasurable activities, occurs as a part
     of a number of conditions.
-    
+
     It is also considered a central feature of
     depression.
 
@@ -503,7 +503,7 @@ narcissistic
     empathy and consideration for other
     people, and an excessive need for
     admiration.
-    
+
     Others often describe people with NPD as
     cocky, manipulative, selfish, patronizing,
     and demanding.
