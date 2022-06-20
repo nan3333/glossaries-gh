@@ -15819,3 +15819,7 @@ stalwart
     Loyal, reliable, and hard-working.
     "he remained a stalwart supporter of the
     cause"
+
+restitution
+    The restoration of something lost or
+    stolen to its proper owner.
