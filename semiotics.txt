@@ -320,11 +320,17 @@ interpretance
 
 semiotic function
 the semiotic function
-    The ability to create representations.
+    [#psychology]
+
+    The ability to create representations of
+    things so that we can communicate with
+    each other.
     
     It’s based on the use of signs and symbols
     that have distinct signifieds and
     signifiers.
+
+    https://exploringyourmind.com/semiotic-function-definition-development/
 
 Denotation
     A translation of a sign to its meaning,
