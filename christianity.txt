@@ -1,3 +1,19 @@
+pseudepigrapha
+    Falsely attributed works, texts whose
+    claimed author is not the true author, or
+    a work whose real author attributed it to
+    a figure of the past.
+    
+    In biblical studies, the term
+    pseudepigrapha can refer to an assorted
+    collection of Jewish religious works
+    thought to be written c. 300 BCE to 300
+    CE.
+
+    Examples:
+    - 1 Enoch
+    - 2 Esdras
+
 presuppositionalism
 presuppositional apologetics
     A school of Christian apologetics that
@@ -67,9 +83,23 @@ evidentialism
     that is to say one need not presuppose
     God's existence.
 
-
 experiential apologetics
+    Experiential apologetics is a reference to
+    an appeal "primarily, if not exclusively,
+    to experience as evidence for Christian
+    faith."
 
+    Also, "they spurn rational arguments or
+    factual evidence in favor of what they
+    believe to be a self-verifying
+    experience."
+
+    This view stresses experience that other
+    apologists have not made as explicit, and
+    in the end, the concept that the Holy
+    Spirit convinces the heart of truth
+    becomes the central theme of the
+    apologetic argument.
 
 narratival apologetics
 
