@@ -15839,3 +15839,8 @@ congenital
     (of a person) having a particular trait
     from birth or by firmly established habit.
     "a congenital liar"
+
+misanthropic
+    Having or showing a dislike of other
+    people; unsociable.
+    "a misanthropic drunken loner"
