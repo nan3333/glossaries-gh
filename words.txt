@@ -15844,3 +15844,7 @@ misanthropic
     Having or showing a dislike of other
     people; unsociable.
     "a misanthropic drunken loner"
+
+plaintive
+    Sounding sad and mournful.
+    "a plaintive cry"

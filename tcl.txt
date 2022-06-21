@@ -1,3 +1,9 @@
+expect_out
+    [variable]
+
+    An array that contains the results of the
+    previous expect.
+
 TclCl
     TCL with Classes
 

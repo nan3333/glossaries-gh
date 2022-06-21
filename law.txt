@@ -1,3 +1,20 @@
+claimant
+    The person who has been injured and who
+    would be making a claim for their
+    injuries.
+
+plaintiff
+    The party who initiates a lawsuit before a
+    court.
+    
+    By doing so, the plaintiff seeks a legal
+    remedy.
+    
+    If this search is successful, the court
+    will issue judgment in favor of the
+    plaintiff and make the appropriate court
+    order.
+
 indictment
     A criminal accusation that an individual
     has committed a crime.
