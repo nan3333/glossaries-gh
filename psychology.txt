@@ -1,3 +1,35 @@
+grok
+    A neologism coined by American writer
+    Robert A.  Heinlein for his 1961 science
+    fiction novel Stranger in a Strange Land.
+    
+    While the Oxford English Dictionary
+    summarizes the meaning of grok as "to
+    understand intuitively or by empathy, to
+    establish rapport with" and "to empathize
+    or communicate sympathetically (with);
+    also, to experience enjoyment", Heinlein's
+    concept is far more nuanced, with critic
+    Istvan Csicsery-Ronay Jr.
+    
+    observing that "the book's major theme can
+    be seen as an extended definition of the
+    term." The concept of grok garnered
+    significant critical scrutiny in the years
+    after the book's initial publication.
+    
+    The term and aspects of the underlying
+    concept have become part of communities
+    such as CS.
+
+rapport
+    A close and harmonious relationship in
+    which the people or groups concerned
+    understand each other's feelings or ideas
+    and communicate well.
+    "she was able to establish a good rapport
+    with the children"
+
 ego
     An infinitesimally small part of what Jung
     referred to as psyche.
@@ -550,3 +582,65 @@ narcissistic
 affect
     Refers to the underlying experience of
     feeling, emotion or mood.
+
+empathy
+    The capacity to understand or feel what
+    another person is experiencing from within
+    their frame of reference, that is, the
+    capacity to place oneself in another's
+    position.
+    
+    Definitions of empathy encompass a broad
+    range of social, cognitive, and emotional
+    processes primarily concerned with
+    understanding others (and others' emotions
+    in particular).
+    
+    Types of empathy include cognitive
+    empathy, emotional (or affective) empathy,
+    somatic empathy, and spiritual empathy.
+
+empathic anger
+    An emotion, a form of empathic distress.
+    
+    Empathic anger is felt in a situation
+    where someone else is being hurt by
+    another person or thing.
+
+    Empathic anger affects desires to help and
+    to punish.
+    
+    Two sub-categories of empathic anger are
+    trait empathic anger and state empathic
+    anger.[clarification needed] The higher a
+    person's perspective-taking ability, the
+    less angry they are in response to a
+    provocation.
+    
+    Empathic concern does not, however,
+    significantly predict anger response, and
+    higher personal distress is associated
+    with increased anger.
+
+empathic distress
+    Feeling the perceived pain of another
+    person.
+    
+    This feeling can be transformed into
+    empathic anger, feelings of injustice, or
+    guilt.
+    
+    These emotions can be perceived as pro-
+    social; however, views differ as to
+    whether they serve as motives for moral
+    behavior.
+
+personal distress
+    An aversive, self-focused emotional
+    reaction to the apprehension or
+    comprehension of another's emotional state
+    or condition.
+    
+    This negative affective state often occurs
+    as a result of emotional contagion when
+    there is confusion between self and other.
