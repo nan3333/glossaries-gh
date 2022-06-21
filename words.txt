@@ -15848,3 +15848,19 @@ misanthropic
 plaintive
     Sounding sad and mournful.
     "a plaintive cry"
+
+numinous
+    Having a strong religious or spiritual
+    quality; indicating or suggesting the
+    presence of a divinity.
+    "the strange, numinous beauty of this
+    ancient landmark"
+
+    A term derived from the Latin numen,
+    meaning "arousing spiritual or religious
+    emotion; mysterious or awe-inspiring."
+
+    The term was given its present sense by
+    the German theologian and philosopher
+    Rudolf Otto in his influential 1917 German
+    book The Idea of the Holy.
