@@ -15887,3 +15887,26 @@ solemn
 
     Characterized by deep sincerity.
     "he swore a solemn oath to keep faith"
+
+chastise
+    Rebuke or reprimand severely.
+    "he chastised his colleagues for their
+    laziness"
+
+contingent
+    Occurring or existing only if (certain
+    circumstances) are the case; dependent on.
+    "his fees were contingent on the success
+    of his search"
+
+contingency
+    [#philosophy]
+    [#logic]
+
+    The status of propositions that are
+    neither true under every possible
+    valuation nor false under every possible
+    valuation.
+    
+    A contingent proposition is neither
+    necessarily true nor necessarily false.
