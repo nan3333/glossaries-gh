@@ -15716,16 +15716,6 @@ phenomenon
     exist or happen, especially one whose
     cause or explanation is in question.
 
-aberrancy
-aberrance
-    The quality or state of being aberrant :
-    deviation from what is known, usual, or
-    expected Sleep is a sophisticated
-    behavior, just like walking and thinking,
-    with its own set of age-related norms and
-    plenty of room for idiosyncrasy, aberrancy
-    and downright criminal behavior
-
 imperceptible
     So slight, gradual, or subtle as not to be
     perceived.
@@ -15925,3 +15915,33 @@ wherefore
     to the will of God commit the keeping of
     their souls to him in well doing, as unto
     a faithful Creator."
+
+complacency
+    A feeling of smug or uncritical
+    satisfaction with oneself or one's
+    achievements.
+    "the figures are better, but there are no
+    grounds for complacency"
+
+vaunt
+vaunteth
+    To brag and boast and flaunt and go on and
+    on about how great something is.
+    
+    It's over-the-top showing off, and when
+    you exaggerate your greatness, you vaunt
+    to the point of no longer seeming so
+    great.
+
+aberrancy
+aberrance
+    The quality or state of being aberrant :
+    deviation from what is known, usual, or
+    expected Sleep is a sophisticated
+    behavior, just like walking and thinking,
+    with its own set of age-related norms and
+    plenty of room for idiosyncrasy, aberrancy
+    and downright criminal behavior
+
+aberrant
+    Departing from an accepted standard.
