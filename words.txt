@@ -15910,3 +15910,18 @@ contingency
     
     A contingent proposition is neither
     necessarily true nor necessarily false.
+
+fervent
+    Having or displaying a passionate
+    intensity.
+    "a fervent supporter of the revolution"
+
+wherefore
+    For what reason.
+    "she took an ill turn, but wherefore I
+    cannot say"
+
+    "Wherefore let them that suffer according
+    to the will of God commit the keeping of
+    their souls to him in well doing, as unto
+    a faithful Creator."
