@@ -15855,3 +15855,24 @@ congenital
     (of a disease or physical abnormality)
     present from birth.
     "a congenital malformation of the heart"
+
+promulgators
+    One who promulgates laws (announces a law
+    as a way of putting it into execution)
+    type of: lawgiver, lawmaker.
+    
+    a maker of laws; someone who gives a code
+    of laws.
+
+venal
+    Showing or motivated by susceptibility to
+    bribery.
+
+carousing
+    The activity of drinking alcohol and
+    enjoying oneself with others in a noisy,
+    lively way.
+    "a night of carousing"
+
+solicitude
+    Care or concern for someone or something.
