@@ -9685,46 +9685,6 @@ coalesce
     "his idea served to coalesce all that
     happened into one connected whole"
 
-prognostications
-    The action of foretelling or prophesying
-    future events.
-
-abductive instinct
-
-abductive reasoning
-
-deduction vs induction vs adbduction
-deductive vs inductive vs adbductive
-    https://www.merriam-webster.com/words-at-play/deduction-vs-induction-vs-abduction
-
-deduction
-deductive reasoning
-    Making an inference based on widely
-    accepted facts or premises.
-
-    If a beverage is defined as "drinkable
-    through a straw," one could use deduction
-    to determine soup to be a beverage.
-
-induction
-inductive reasoning
-    Making an inference based on an
-    observation, often of a sample.
-
-    You can induce that the soup is tasty if
-    you observe all of your friends consuming
-    it.
-
-abduction
-abductive reasoning
-    Making a probable conclusion from what you
-    know.
-
-    If you see an abandoned bowl of hot soup
-    on the table, you can use abduction to
-    conclude the owner of the soup is likely
-    returning soon.
-
 paunchy
     Having a large or protruding belly.
 
@@ -15871,3 +15831,27 @@ preeminence
     "the Edinburgh Festival maintains its
     pre-eminence because of the quality of its
     programming"
+
+quibble
+    A slight objection or criticism about a
+    trivial matter.
+    "the only quibble about this book is the
+    price"
+
+    Argue or raise objections about a trivial
+    matter.
+    "they are always quibbling about the
+    amount they are prepared to pay"
+
+bereft
+    Deprived of or lacking (something).
+    "her room was stark and bereft of colour"
+
+    (of a person) sad and lonely, especially through someone's death or
+    departure.
+    "his death in 1990 left her bereft"
+
+congenital
+    (of a disease or physical abnormality)
+    present from birth.
+    "a congenital malformation of the heart"

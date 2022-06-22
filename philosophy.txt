@@ -1,3 +1,161 @@
+abductive instinct
+
+abductive reasoning
+
+deduction vs induction vs adbduction
+deductive vs inductive vs adbductive
+    https://www.merriam-webster.com/words-at-play/deduction-vs-induction-vs-abduction
+
+deduction
+deductive reasoning
+    Making an inference based on widely
+    accepted facts or premises.
+
+    If a beverage is defined as "drinkable
+    through a straw," one could use deduction
+    to determine soup to be a beverage.
+
+induction
+inductive reasoning
+    Making an inference based on an
+    observation, often of a sample.
+
+    You can induce that the soup is tasty if
+    you observe all of your friends consuming
+    it.
+
+sensorium
+seat of sensation
+    The part of the consciousness which is on
+    the fringe.
+
+    The apparatus of an organism's perception
+    considered as a whole, the "seat of
+    sensation" where it experiences and
+    interprets the environments within which
+    it lives.
+    
+    The term originally entered English from
+    the Late Latin in the mid-17th century,
+    from the stem sens-.
+
+adbuction
+adbuctive
+abduction
+adbuctive inference
+abductive reasoning
+retroduction
+    Making a probable conclusion from what you
+    know.
+
+    If you see an abandoned bowl of hot soup
+    on the table, you can use abduction to
+    conclude the owner of the soup is likely
+    returning soon.
+
+    A form of logical inference formulated and
+    advanced by American philosopher Charles
+    Sanders Peirce beginning in the last third
+    of the 19th century.
+
+    It starts with an observation or set of
+    observations and then seeks to find the
+    simplest and most likely conclusion from
+    the observations.
+
+mind-body dualism
+    [philosophical position]
+
+    Mental phenomena are non-physical, or that
+    the mind and body are distinct and
+    separable.
+    
+    Thus, it encompasses a set of views about
+    the relationship between mind and matter,
+    as well as between subject and object, and
+    is contrasted with other positions, such
+    as physicalism and enactivism, in the
+    mind–body problem.
+
+René Descartes
+Descartes
+    Said "day cart".
+
+    French-born philosopher, mathematician,
+    and scientist.
+
+ghost in the machine
+    British philosopher Gilbert Ryle's
+    description of René Descartes' mind-body
+    dualism.
+
+    Ryle introduced the phrase in The Concept
+    of Mind to highlight the view of Descartes
+    and others that mental and physical
+    activity occur simultaneously but
+    separately.
+
+reflexive
+    [linguistics]
+
+    A verb form which is used when the subject
+    and object are the same.
+
+reflexive
+    [logic]
+
+    A form of argument in which the conclusion
+    is contained within the premises.
+
+abductive instinct
+    Instinct that people have on what to avoid
+    reasoning about.
+    
+mysterianism
+    [philosophical position]
+
+    Proposes that the hard problem of
+    consciousness cannot be resolved by
+    humans.
+
+    The unresolvable problem is how to explain
+    the existence of qualia.
+
+    The belief that no one can know the
+    ultimate nature of reality.
+
+four basic types of reasoning:
+four basic forms of logic:
+    - deductive,
+    - inductive,
+    - abductive, and
+    - metaphoric inference.
+
+autocracy
+    A form of government in which one person
+    has absolute power.
+
+    A system of government by a single,
+    absolute ruler or by a small group of
+    rulers.
+
+Mnemosyne
+    The goddess of memory in Greek mythology.
+    
+    "Mnemosyne" is derived from the same
+    source as the word mnemonic, that being
+    the Greek word mnēmē, which means
+    "remembrance, memory".
+    
+    Mnemosyne is the mother of the nine Muses.
+
+hysteresis
+    The phenomenon in which the value of a
+    physical property lags behind changes in
+    the effect causing it, as for instance
+    when magnetic induction lags behind the
+    magnetizing force.
+
 Good
     In most contexts, the concept of good
     denotes the conduct that should be
