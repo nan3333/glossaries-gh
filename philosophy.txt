@@ -1,3 +1,15 @@
+phenomenology
+    A philosophy of experience.
+    
+    For phenomenology the ultimate source of
+    all meaning and value is the lived
+    experience of human beings.
+    
+    All philosophical systems, scientific
+    theories, or aesthetic judgments have the
+    status of abstractions from the ebb and
+    flow of the lived world.
+
 Contingency in Sartre
     The view that whatever exists, need not
     exist, and that therefore it can be
@@ -10,6 +22,41 @@ Contingency in Sartre
 abductive instinct
 
 abductive reasoning
+abduction
+abductive inference
+retroduction
+    A form of logical inference formulated and
+    advanced by American philosopher Charles
+    Sanders Peirce beginning in the last third
+    of the 19th century.
+    
+    It starts with an observation or set of
+    observations and then seeks the simplest
+    and most likely conclusion from the
+    observations.
+    
+    This process, unlike deductive reasoning,
+    yields a plausible conclusion but does not
+    positively verify it.
+    
+    Abductive conclusions are thus qualified
+    as having a remnant of uncertainty or
+    doubt, which is expressed in retreat terms
+    such as "best available" or "most likely".
+    
+    One can understand abductive reasoning as
+    inference to the best explanation,
+    although not all usages of the terms
+    abduction and inference to the best
+    explanation are exactly equivalent.
+    
+    In the 1990s, as computing power grew, the
+    fields of law, CS, and artificial
+    intelligence research spurred renewed
+    interest in the subject of abduction.
+    
+    Diagnostic expert systems frequently
+    employ abduction.
 
 deduction vs induction vs adbduction
 deductive vs inductive vs adbductive

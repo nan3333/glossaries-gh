@@ -15947,3 +15947,26 @@ aberrance
 
 aberrant
     Departing from an accepted standard.
+
+unseemly
+    (of behaviour or actions) not proper or
+    appropriate.
+    "an unseemly squabble"
+
+desolate
+    (of a place) uninhabited and giving an
+    impression of bleak emptiness.
+    "a desolate Pennine moor"
+
+    Feeling or showing great unhappiness or
+    loneliness.
+    "I suddenly felt desolate and bereft"
+
+    Make (a place) appear bleakly empty.
+    "the droughts that desolated the dry
+    plains"
+
+    Make (someone) feel utterly wretched and
+    unhappy.
+    "he was desolated by the deaths of his
+    treasured friends"
