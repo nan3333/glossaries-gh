@@ -1,3 +1,22 @@
+epistemology
+    The branch of philosophy concerned with
+    knowledge.
+    
+    Epistemologists study the nature, origin,
+    and scope of knowledge, epistemic
+    justification, the rationality of belief,
+    and various related issues.
+    
+    Epistemology is considered a major
+    subfield of philosophy, along with other
+    major subfields such as ethics, logic, and
+    metaphysics.
+
+    The theory of knowledge, especially with
+    regard to its methods, validity, and
+    scope, and the distinction between
+    justified belief and opinion.
+
 apperception
     [epistemology]
 
@@ -72,35 +91,6 @@ reflexivity
     If positionality refers to what we know
     and believe then reflexivity is about what
     we do with this knowledge.
-
-epistemic theories of truth
-    [#philosophy]
-    [#epistemology]
-
-    Attempts to analyze the notion of truth in
-    terms of epistemic notions such as
-    knowledge, belief, acceptance,
-    verification, justification, and
-    perspective.
-
-epistemology
-    The branch of philosophy concerned with
-    knowledge.
-    
-    Epistemologists study the nature, origin,
-    and scope of knowledge, epistemic
-    justification, the rationality of belief,
-    and various related issues.
-    
-    Epistemology is considered a major
-    subfield of philosophy, along with other
-    major subfields such as ethics, logic, and
-    metaphysics.
-
-    The theory of knowledge, especially with
-    regard to its methods, validity, and
-    scope, and the distinction between
-    justified belief and opinion.
 
 Commonsense Reasoning
 

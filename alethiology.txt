@@ -15,6 +15,17 @@ major theories of truth
     - substantive
       - consensus
 
+epistemic theories of truth
+    [#philosophy]
+    [#epistemology]
+    [#alethiology]
+
+    Attempts to analyze the notion of truth in
+    terms of epistemic notions such as
+    knowledge, belief, acceptance,
+    verification, justification, and
+    perspective.
+
 substantive
     Having a firm basis in reality and so
     important, meaningful, or considerable.
