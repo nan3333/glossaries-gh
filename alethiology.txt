@@ -205,3 +205,11 @@ consensus theory of truth
     Among the current strong critics of
     consensus theory is the philosopher
     Nicholas Rescher.
+
+verity
+    A true principle or belief, especially one
+    of fundamental importance.
+    "the eternal verities"
+
+    Truth.
+    "irrefutable, objective verity"

@@ -40,14 +40,6 @@ scepticism
     knowledge which are asserted to be mere
     belief or dogma.
 
-verity
-    A true principle or belief, especially one
-    of fundamental importance.
-    "the eternal verities"
-
-    Truth.
-    "irrefutable, objective verity"
-
 reflexivity
     [#epistemology]
     [#sociology of knowledge]
