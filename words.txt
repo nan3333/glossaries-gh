@@ -15967,3 +15967,14 @@ forthright
     direct and outspoken.
     "his most forthright attack yet on the
     reforms"
+
+abase
+    Behave in a way that belittles or degrades
+    (someone).
+    "I watched my colleagues abasing
+    themselves before the board of trustees"
+
+    To behave in a way that makes one seem
+    lower or less deserving of respect.
+    "politicians abasing themselves before
+    wealthy businessmen."
