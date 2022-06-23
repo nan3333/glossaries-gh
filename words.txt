@@ -15970,3 +15970,9 @@ desolate
     unhappy.
     "he was desolated by the deaths of his
     treasured friends"
+
+forthright
+    (of a person or their manner or speech)
+    direct and outspoken.
+    "his most forthright attack yet on the
+    reforms"

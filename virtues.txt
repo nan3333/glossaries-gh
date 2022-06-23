@@ -1,10 +1,17 @@
-Wisdom
+virtue
+    A good or desirable character trait.
+
+    For example, honesty is a virtue and
+    dishonesty is a vice. There are many
+    vices.
+
+wisdom
     The quality of having experience,
     knowledge, and good judgement; the quality
     of being wise.
     "listen to his words of wisdom"
 
-Justice
+justice
     In its broadest sense, is the principle
     that people receive that which they
     deserve, with the interpretation of what
@@ -16,15 +23,53 @@ Justice
     rationality, law, religion, equity and
     fairness.
 
-Fortitude
+fortitude
     Courage in pain or adversity.
     "she endured her illness with great
     fortitude"
 
-Temperance
+temperance
     In its modern use is defined as moderation
     or voluntary self-restraint.
 
     It is typically described in terms of what
     an individual voluntarily refrains from
     doing.
+
+passionate
+    Having, showing, or caused by strong
+    feelings or beliefs.
+    "passionate pleas for help"
+
+honesty
+truthfulness
+    A facet of moral character that connotes
+    positive and virtuous attributes such as
+    integrity, truthfulness,
+    straightforwardness, including
+    straightforwardness of conduct, along with
+    the absence of lying, cheating, theft,
+    etc.
+    
+    Honesty also involves being trustworthy,
+    loyal, fair, and sincere.
+
+fearless
+    Lack of fear.
+    "she quickly earned a reputation for
+    fearlessness"
+
+forthright
+    (of a person or their manner or speech)
+    Direct and outspoken.
+    "his most forthright attack yet on the
+    reforms"
+
+discerning
+    Having or showing good judgement.
+    "the brasserie attracts discerning
+    customers"
+
+kindhearted
+    Having a kind and sympathetic nature.
+    "she was friendly and kind-hearted"
