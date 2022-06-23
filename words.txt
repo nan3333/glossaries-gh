@@ -5994,15 +5994,6 @@ volition
 fallible
     Capable of making mistakes or being wrong.
 
-conceit
-    In the modern literary criticism, more
-    common with genre fiction, conceit often
-    means an extended rhetorical device,
-    summed up in a short phrase, that refers
-    to a situation which either does not
-    exist, or exists rarely, but is needed for
-    the plot.
-
 distress
     Extreme anxiety, sorrow, or pain.
 

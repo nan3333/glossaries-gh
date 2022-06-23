@@ -1834,14 +1834,6 @@ discourse coherence
     For example:
     - extended metaphor
 
-extended metaphor
-    An extended metaphor, also known as a
-    conceit or sustained metaphor, is an
-    author’s exploitation of a single metaphor
-    or analogy at length through multiple
-    linked tenors, vehicles, and grounds
-    throughout a poem or story.
-
 Plug and Play Language Model
 PPLM
     https://github.com/huggingface/transformers/tree/master/examples/ppl
