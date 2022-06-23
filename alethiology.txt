@@ -26,6 +26,45 @@ epistemic theories of truth
     verification, justification, and
     perspective.
 
+deflationary theory of truth
+    [#theories of truth]
+
+    A deflationary theory of truth is one of a
+    family of theories that all have in common
+    the claim that assertions of predicate
+    truth of a statement do not attribute a
+    property called "truth" to such a
+    statement.
+
+propositional truth
+    If a proposition is true, then we say it
+    has a truth value of "true"; if a
+    proposition is false, its truth value is
+    "false".
+    
+    For example, "Grass is green", and "2 + 5
+    = 5" are propositions.
+    
+    The first proposition has the truth value
+    of "true" and the second "false".
+
+truthmaker theory
+    The branch of metaphysics that explores
+    the relationships between what is true and
+    what exists.
+    
+    The basic intuition behind truthmaker
+    theory is that truth depends on being.
+    
+    For example, a perceptual experience of a
+    green tree may be said to be true because
+    there actually is a green tree.
+
+    This is meant to be a modern alternative
+    to the "correspondence theory".
+
+    https://plato.stanford.edu/entries/truth-correspondence/
+
 substantive
     Having a firm basis in reality and so
     important, meaningful, or considerable.
