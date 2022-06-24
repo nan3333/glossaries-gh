@@ -1573,7 +1573,7 @@ abstract machine
     machines.
 
 clause
-    a disjunction of literals.
+    A disjunction of literals.
 
 Horn clause
     A clause with at most one positive

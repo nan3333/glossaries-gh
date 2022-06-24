@@ -1,3 +1,35 @@
+clause
+    [#language]
+
+    A constituent that comprises a semantic
+    predicand and a semantic predicate.
+    
+    A typical clause consists of a subject and
+    a syntactic predicate, the latter
+    typically a verb phrase composed of a verb
+    with any objects and other modifiers.
+
+    A unit of grammatical organization next
+    below the sentence in rank and in
+    traditional grammar said to consist of a
+    subject and predicate.
+
+    A particular and separate article,
+    stipulation, or proviso in a treaty, bill,
+    or contract.
+
+subordinate clause
+dependent clause
+embedded clause
+    A clause that is embedded within a complex
+    sentence.
+    
+    For instance, in the English sentence "I
+    know that Bette is a dolphin", the clause
+    "that Bette is a dolphin" occurs as the
+    complement of the verb "know" rather than
+    as a freestanding sentence.
+
 presupposition
     A thing tacitly assumed beforehand at the
     beginning of a line of argument or course
