@@ -1,3 +1,45 @@
+AI alignment
+alignment
+    Aims to align AI goal systems with human
+    values.
+
+capability control
+    Aims to reduce an AI system's capacity to
+    harm humans or gain control.
+    
+    Capability control proposals are generally
+    not considered reliable or sufficient to
+    solve the control problem, but rather as
+    potentially valuable supplements to
+    alignment efforts.
+
+AI control problem
+superintelligence control problem
+    Approaches:
+    - alignment
+    - capability control
+
+    https://futureoflife.org/2015/11/23/the-superintelligence-control-problem/
+
+    Aspects of how to build AI systems such
+    that they will aid rather than harm their
+    creators.
+    
+    One particular concern is that humanity
+    will have to solve the control problem
+    before a superintelligent AI system is
+    created, as a poorly designed
+    superintelligence might rationally decide
+    to seize control over its environment and
+    refuse to permit its creators to modify it
+    after launch.
+    
+    In addition, some scholars argue that
+    solutions to the control problem,
+    alongside other advances in AI safety
+    engineering, might also find applications
+    in existing non-superintelligent AI. 
+
 technocentrism
     A value system that is centered on
     technology and its ability to control and
