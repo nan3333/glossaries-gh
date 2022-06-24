@@ -1,3 +1,13 @@
+major levels of linguistic structure
+    - phoenetics
+    - phonology
+    - morphology
+    - syntax
+    - semantics
+    - pragmatics
+
+    https://link.springer.com/article/10.3758/s13423-016-1061-2/figures/1
+
 constituent
 syntactic analysis
     [#linguistics]
@@ -1273,6 +1283,16 @@ semantics
     meanings and word relations, and
     conceptual semantics, which studies the
     cognitive structure of meaning.
+
+pragmatics
+    The study of how context contributes to
+    meaning.
+    
+    The field of study evaluates how human
+    language is utilized in social
+    interactions, as well as the relationship
+    between the interpreter and the
+    interpreted.
 
 semantics vs pragmatics
     Semantics is the study of meaning, or more
