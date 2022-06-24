@@ -75,6 +75,7 @@ kindhearted
     "she was friendly and kind-hearted"
 
 humility
+self-abasement
     The quality of being humble.
     
     Dictionary definitions accentuate humility
@@ -85,3 +86,11 @@ humility
     recognition of self in relation to a deity
     or deities, and subsequent submission to
     said deity as a member of that religion.
+
+    Humiliating oneself when one feels lower
+    or less deserving of respect.
+    
+    Self-abasement might have a religious
+    aspect for those seeking humility before
+    God, perhaps in the context of monastic or
+    cenobitic lifestyle.
