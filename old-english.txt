@@ -16,3 +16,8 @@ whither
 
 cierring
     turning
+
+cwic
+    Having life.
+
+    "the quick and the dead"

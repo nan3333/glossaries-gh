@@ -1,3 +1,5 @@
+https://www.quantamagazine.org/the-spooky-quantum-phenomenon-youve-never-heard-of-20220622/
+
 bell inequalities
     https://youtu.be/9rIy0xY99a0?t=531
 
@@ -41,3 +43,57 @@ Schrödinger equation
     evolves.
 
     https://youtu.be/hXgqik6HXc0?t=625
+
+nonlocality
+    Measure one particle in an entangled pair
+    whose partner is miles away, and the
+    measurement seems to rip through the
+    intervening space to instantaneously
+    affect its partner.
+    
+    This “spooky action at a distance” (as
+    Albert Einstein called it) has been the
+    main focus of tests of quantum theory.
+    
+    “Nonlocality is spectacular. I mean, it’s
+    like magic,” said Adán Cabello, a
+    physicist at the University of Seville in
+    Spain.
+
+contextuality
+    Properties of particles, such as their
+    position or polarization, exist only
+    within the context of a measurement.
+    
+    Instead of thinking of particles’
+    properties as having fixed values,
+    consider them more like words in language,
+    whose meanings can change depending on the
+    context: “Time flies like an arrow.
+    
+    Fruit flies like bananas.” Although
+    contextuality has lived in nonlocality’s
+    shadow for over 50 years, quantum
+    physicists now consider it more of a
+    hallmark feature of quantum systems than
+    nonlocality is.
+    
+    A single particle, for instance, is a
+    quantum system “in which you cannot even
+    think about nonlocality,” since the
+    particle is only in one location, said
+    Bárbara Amaral, a physicist at the
+    University of São Paulo in Brazil.
+    
+    “So [contextuality] is more general in
+    some sense, and I think this is important
+    to really understand the power of quantum
+    systems and to go deeper into why quantum
+    theory is the way it is.” Researchers have
+    also found tantalizing links between
+    contextuality and problems that quantum
+    computers can efficiently solve that
+    ordinary computers cannot; investigating
+    these links could help guide researchers
+    in developing new quantum computing
+    approaches and algorithms.
