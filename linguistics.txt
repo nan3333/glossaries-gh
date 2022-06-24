@@ -1260,6 +1260,20 @@ literary consonance
     Another example of consonance is the word
     "sibilance" itself.
 
+semantics
+    The branch of linguistics and logic
+    concerned with meaning.
+    
+    There are a number of branches and
+    subbranches of semantics, including formal
+    semantics, which studies the logical
+    aspects of meaning, such as sense,
+    reference, implication, and logical form,
+    lexical semantics, which studies word
+    meanings and word relations, and
+    conceptual semantics, which studies the
+    cognitive structure of meaning.
+
 semantics vs pragmatics
     Semantics is the study of meaning, or more
     precisely, the study of the relation
