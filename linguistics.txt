@@ -41,6 +41,16 @@ embedded clause
     complement of the verb "know" rather than
     as a freestanding sentence.
 
+predicand
+    [#semantics]
+
+    An argument in an utterance, specifically
+    that of which something is predicated.
+    
+    By extension, in syntax, it is the
+    constituent in a clause typically
+    functioning as the subject.
+
 presupposition
     A thing tacitly assumed beforehand at the
     beginning of a line of argument or course
