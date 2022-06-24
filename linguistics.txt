@@ -1,3 +1,20 @@
+presupposition
+    A thing tacitly assumed beforehand at the
+    beginning of a line of argument or course
+    of action.
+    "both men shared certain ethical
+    presuppositions about the universe"
+
+    [#pragmatics]
+
+    An implicit assumption about the world or
+    background belief relating to an utterance
+    whose truth is taken for granted in
+    discourse.
+    
+    Example:
+    - Jane no longer writes fiction.
+
 semantic domain
     Some words have a 'narrow semantic
     domain', a very technical thing - such as
