@@ -15988,3 +15988,14 @@ abase
     lower or less deserving of respect.
     "politicians abasing themselves before
     wealthy businessmen."
+
+parry
+    Ward off (a weapon or attack) with a
+    countermove.
+    "he parried the blow by holding his sword
+    vertically"
+
+    Answer (a question or accusation)
+    evasively.
+    "he parried questions from reporters
+    outside the building"
