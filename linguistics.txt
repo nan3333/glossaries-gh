@@ -1,3 +1,14 @@
+constituent
+syntactic analysis
+    [#linguistics]
+
+    A word or a group of words that function
+    as a single unit within a hierarchical
+    structure.
+    
+    The constituent structure of sentences is
+    identified using tests for constituents.
+
 clause
     [#language]
 
