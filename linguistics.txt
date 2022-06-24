@@ -1,10 +1,17 @@
 major levels of linguistic structure
     - phoenetics
+      - speech sounds
     - phonology
+      - phonemes
     - morphology
+      - words
     - syntax
+      - phrases and sentences
     - semantics
+      - literal meaning of phrases and
+        sentences
     - pragmatics
+      - meaning in context of discourse
 
     https://link.springer.com/article/10.3758/s13423-016-1061-2/figures/1
 
