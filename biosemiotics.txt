@@ -1,5 +1,14 @@
-Biosemiotics
+biosemiotics
     [field of semiotics and biology]
+
+    The idea that life is based on semiosis,
+    i.e., on signs and codes.
+    
+    This idea has been strongly suggested by
+    the discovery of the genetic code, but so
+    far it has made little impact in the
+    scientific world and is largely regarded
+    as a philosophy rather than a science.
 
     Biology interpreted as a sign systems
     study, or, to elaborate, a study of:

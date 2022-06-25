@@ -9411,18 +9411,6 @@ EAS
     - Enterprise Resource Planning (ERP)
     - Business Intelligence.
 
-prismatic torus
-
-biosemiotics
-    (from the Greek βίος bios, "life" and
-    σημειωτικός sēmeiōtikos, "observant of
-    signs")
-
-    A field of semiotics and biology that
-    studies the prelinguistic meaning-making,
-    or production and interpretation of signs
-    and codes in the biological realm.
-
 semiosis
     The process of signification in language
     or literature.
