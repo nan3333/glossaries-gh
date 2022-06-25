@@ -1,3 +1,5 @@
+[[https://www.youtube.com/watch?v=V8FEFw50lg4][Explaining Neural Scaling Laws - YouTube]]
+
 Strength to Weight Ratio
     One property that is affected by SA/V is
     the strength to weight ratio.
