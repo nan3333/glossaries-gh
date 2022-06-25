@@ -16004,7 +16004,8 @@ belie
 belying
     (of an appearance) fail to give a true
     impression of (something).
-    "his lively, alert manner belied his years"
+    "his lively, alert manner belied his
+    years"
 
     Fail to fulfil or justify (a claim or
     expectation).
@@ -16017,3 +16018,15 @@ saunter
 
     A leisurely stroll.
     "a quiet saunter down the road"
+
+wile
+    Devious or cunning stratagems employed in
+    manipulating or persuading someone to do
+    what one wants.
+    "she didn't employ any feminine wiles to
+    capture his attention"
+    
+    Ephesians 6:11
+    Put on the whole armour of God, that ye
+    may be able to stand against the wiles of
+    the devil.

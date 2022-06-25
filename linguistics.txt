@@ -594,13 +594,6 @@ Sapir-Whorf hypothesis
     evidence that a language shapes your
     interpretation of the world.
 
-wile
-    Devious or cunning stratagems employed in
-    manipulating or persuading someone to do
-    what one wants.
-    "she didn't employ any feminine wiles to
-    capture his attention"
-
 generativity
     The use of finite resources to produce an
     infinite variety of sentences
