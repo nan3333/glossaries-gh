@@ -14844,33 +14844,33 @@ stigmata
     pain in locations corresponding to the
     crucifixion wounds of Jesus Christ, such
     as the hands, wrists, and feet.
-    
+
     Stigmata are exclusively associated with
     Roman Catholicism.
-    
+
     Many reported stigmatics are members of
     Catholic religious orders.
 
 parenthetical statement
     A parenthetical statement is one that
     explains or qualifies something.
-    
+
     You can call such a statement a
     parenthetical, (especially when it's in
     parentheses).
-    
+
     Have you ever said something like "I'm
     hungry!" and then added "...but I only
     want French fries"? That second statement
     is parenthetical: it clarifies the first
     statement.
-    
+
     Just like words in parentheses (like these
     words) add clarity to a sentence,
     parenthetical words in speech help make
     something clearer or give extra
     information.
-    
+
     You can call these statements (or words
     that actually are inside parentheses)
     parentheticals; and while parentheticals
@@ -14884,10 +14884,10 @@ astonish
 sacrilege
     The violation or injurious treatment of a
     sacred object, site or person.
-    
+
     This can take the form of irreverence to
     sacred persons, places, and things.
-    
+
     When the sacrilegious offence is verbal,
     it is called blasphemy, and when physical,
     it is often called desecration.
@@ -14905,7 +14905,7 @@ preterism
     A Christian eschatological view,
     interprets some or all prophecies of the
     Bible as events which have already
-    happened. 
+    happened.
 
 jubilation
     A feeling of great happiness and triumph.
@@ -14958,7 +14958,7 @@ theurgy
 henosis
     The classical Greek word for mystical
     "oneness", "union" or "unity".
-    
+
     In Platonism, and especially Neoplatonism,
     the goal of henosis is union with what is
     fundamental in reality: the One, the
@@ -15021,12 +15021,12 @@ deference
 
 concupiscence
     An ardent, usually sensual, longing.
-    
+
     In Christianity, particularly in Roman
     Catholic and Lutheran theology,
     concupiscence is the tendency of humans to
     sin.
-    
+
     There are nine occurrences of
     concupiscence in the Douay-Rheims Bible
     and three occurrences in the King James
@@ -15036,7 +15036,7 @@ reparation
     Anything paid or done to make up for a
     wrongdoing, or the act of making up for a
     wrongdoing.
-    
+
     An example of a reparation is money paid
     for an item broken in a store.
 
@@ -15187,12 +15187,12 @@ psyche
 
     The totality of the human mind, conscious
     and unconscious.
-    
+
     Many thinkers, including Carl Jung, also
     include in this definition the overlap and
     tension between the personal and the
     collective elements in man.
-    
+
     Psychology is the scientific or objective
     study of the psyche.
 
@@ -15208,9 +15208,9 @@ perversion
     the perversion of language and truth"
 
 lowliness
-    The state of being humble and unimportant. 
+    The state of being humble and unimportant.
 
-    Humbleness, obscureness, unimportance. 
+    Humbleness, obscureness, unimportance.
 
     An obscure and unimportant standing; not
     well known.
@@ -15257,7 +15257,7 @@ rubric
     A scoring tool that explicitly describes
     the instructor's performance expectations
     for an assignment or piece of work.
-    
+
     A rubric identifies: criteria: the aspects
     of performance (e.g., argument, evidence,
     clarity) that will be assessed.
@@ -15283,7 +15283,7 @@ hallowed
 aseity
     The property by which a being exists of
     and from itself.
-    
+
     It refers to the Christian belief that God
     does not depend on any cause other than
     himself for his existence, realization, or
@@ -15360,10 +15360,10 @@ seraphim
 
     A type of celestial or heavenly being
     originating in Ancient Judaism.
-    
+
     The term plays a role in subsequent
     Judaism, Christianity, and Islam.
-    
+
     Tradition places seraphim in the highest
     rank in Christian angelology and in the
     fifth rank of ten in the Jewish angelic
@@ -15376,7 +15376,7 @@ immanence
     The doctrine or theory of immanence holds
     that the divine encompasses or is
     manifested in the material world.
-    
+
     It is held by some philosophical and
     metaphysical theories of divine presence.
 
@@ -15418,7 +15418,7 @@ abeyance
     to them is not vested in any one person,
     but awaits the appearance or determination
     of the true owner.
-    
+
     In law, the term abeyance can be applied
     only to such future estates as have not
     yet vested or possibly may not vest.
@@ -15456,11 +15456,11 @@ demureness
     A mode of dress and deportment which
     intends to avoid the encouraging of sexual
     attraction in others.
-    
+
     The word "modesty" comes from the Latin
     word modestus which means "keeping within
     measure".
-    
+
     Standards of modesty are culturally and
     context dependent and vary widely.
 
@@ -15525,7 +15525,7 @@ lugubrious
 
 propitius
     A synonym of favorable and auspicious.
-    
+
     All three essentially mean "pointing
     toward a happy outcome," with some
     differences of emphasis.
@@ -15549,7 +15549,7 @@ rumbustious
 
 repetitious
     Characterized or marked by repetition
-    especially : tediously repeating. 
+    especially : tediously repeating.
 
 tendentious
     Marked by a tendency in favor of a
@@ -15599,7 +15599,7 @@ invective
     form of rude expression or discourse
     intended to offend or hurt; vituperation,
     or deeply seated ill will, vitriol.
-    
+
     The Latin adjective invectivus means
     'scolding.'
 
@@ -15652,7 +15652,7 @@ humanism
     An outlook or system of thought attaching
     prime importance to human rather than
     divine or supernatural matters.
-    
+
     Humanist beliefs stress the potential
     value and goodness of human beings,
     emphasize common human needs, and seek
@@ -15669,7 +15669,7 @@ exoneration
     reversed, either through demonstration of
     innocence, a flaw in the conviction, or
     otherwise.
-    
+
     Attempts to exonerate convicts are
     particularly controversial in death
     penalty cases, especially where new
@@ -15826,7 +15826,7 @@ promulgators
     One who promulgates laws (announces a law
     as a way of putting it into execution)
     type of: lawgiver, lawmaker.
-    
+
     a maker of laws; someone who gives a code
     of laws.
 
@@ -15847,7 +15847,7 @@ patriarchal
     Relating to or characteristic of a
     patriarch.
 
-solemn 
+solemn
     Formal and dignified.
     "a solemn procession"
 
@@ -15873,7 +15873,7 @@ contingency
     neither true under every possible
     valuation nor false under every possible
     valuation.
-    
+
     A contingent proposition is neither
     necessarily true nor necessarily false.
 
@@ -15903,7 +15903,7 @@ vaunt
 vaunteth
     To brag and boast and flaunt and go on and
     on about how great something is.
-    
+
     It's over-the-top showing off, and when
     you exaggerate your greatness, you vaunt
     to the point of no longer seeming so
@@ -15999,3 +15999,21 @@ parry
     evasively.
     "he parried questions from reporters
     outside the building"
+
+belie
+belying
+    (of an appearance) fail to give a true
+    impression of (something).
+    "his lively, alert manner belied his years"
+
+    Fail to fulfil or justify (a claim or
+    expectation).
+    "the quality of the music seems to belie
+    the criticism"
+
+saunter
+    Walk in a slow, relaxed manner.
+    "Adam sauntered into the room"
+
+    A leisurely stroll.
+    "a quiet saunter down the road"
