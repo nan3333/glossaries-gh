@@ -5864,6 +5864,18 @@ Diacope
     cries: "Fly, my pretties, fly!"
 
 Hendiadys
+    A figure of speech used for emphasis—"The
+    substitution of a conjunction for a
+    subordination".
+    
+    The basic idea is to use two words linked
+    by the conjunction "and" instead of the
+    one modifying the other.
+    
+    English names for hendiadys include two
+    for one and figure of twins.
+    
+    The term hendiaduo may also be used.
 
 Epistrophe
 
@@ -15825,9 +15837,12 @@ congenital
 promulgators
     One who promulgates laws (announces a law
     as a way of putting it into execution)
-    type of: lawgiver, lawmaker.
 
-    a maker of laws; someone who gives a code
+    A type of:
+    - lawgiver,
+    - lawmaker.
+
+    A maker of laws; someone who gives a code
     of laws.
 
 venal
@@ -16035,3 +16050,15 @@ delectation
 
     "we prepared [this] for your delectation
     and delight"
+
+hypocrisy
+    The practice of engaging in the same
+    behavior or activity for which one
+    criticizes another or the practice of
+    claiming to have moral standards or
+    beliefs to which one's own behavior does
+    not conform.
+    
+    In moral psychology, it is the failure to
+    follow one's own expressed moral rules and
+    principles.
