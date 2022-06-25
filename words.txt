@@ -16062,3 +16062,10 @@ hypocrisy
     In moral psychology, it is the failure to
     follow one's own expressed moral rules and
     principles.
+
+sanctimonious
+sanctimoniousness
+    A feeling or display of moral superiority
+    derived from a sense that one's beliefs,
+    actions, or affiliations are of greater
+    virtue than those of the average person.
