@@ -1,3 +1,42 @@
 epigraphy
     The study and interpretation of ancient
     inscriptions.
+
+    The study of inscriptions, or epigraphs,
+    as writing; it is the science of
+    identifying graphemes, clarifying their
+    meanings, classifying their uses according
+    to dates and cultural contexts, and
+    drawing conclusions about the writing and
+    the writers.
+    
+    Specifically excluded from epigraphy are
+    the historical significance of an epigraph
+    as a document and the artistic value of a
+    literary composition.
+    
+    A person using the methods of epigraphy is
+    called an epigrapher or epigraphist.
+
+codex
+    Essentially, an ancient book, consisting
+    of one or more quires of sheets of papyrus
+    or parchment folded together to form a
+    group of leaves, or pages.
+
+The Rosetta Stone
+    A stele composed of granodiorite inscribed
+    with three versions of a decree issued in
+    Memphis, Egypt, in 196 BC during the
+    Ptolemaic dynasty on behalf of King
+    Ptolemy V Epiphanes.
+    
+    The top and middle texts are in Ancient
+    Egyptian using hieroglyphic and Demotic
+    scripts respectively, while the bottom is
+    in Ancient Greek.
+    
+    The decree has only minor differences
+    between the three versions, making the
+    Rosetta Stone key to deciphering the
+    Egyptian scripts.
