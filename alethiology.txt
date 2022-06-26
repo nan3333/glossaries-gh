@@ -35,6 +35,22 @@ truthlikeness
 
     https://en.wikipedia.org/wiki/Verisimilitude
 
+proposition
+    A statement or assertion that expresses a
+    judgement or opinion.
+    "the proposition that high taxation is
+    undesirable"
+
+    [#logic]
+    [#linguistics]
+
+    A proposition is the meaning of a
+    declarative sentence.
+    
+    In philosophy, "meaning" is understood to
+    be a non-linguistic entity which is shared
+    by all sentences with the same meaning.
+
 supervaluationism
     [#philosophical logic]
 
