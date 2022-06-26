@@ -1,14 +1,13 @@
 text world theory
-    The basic premise of Text World Theory is
-    that human beings process and understand
-    all discourse by constructing mental
-    representations of it in their minds.
+    The basic premise is that human beings
+    process and understand all discourse by
+    constructing mental representations of it
+    in their minds.
     
-    Text World Theory aims to provide the
-    analytical tools necessary for the
-    systematic examination and discussion of
-    these mental representations, or text-
-    worlds.
+    Aims to provide the analytical tools
+    necessary for the systematic examination
+    and discussion of these mental
+    representations, or text-worlds.
 
     https://textworldtheory.org/about/
 
