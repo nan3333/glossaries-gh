@@ -6,3 +6,22 @@ ethics
     ethics is the standards of “good and bad”
     distinguished by a certain community or
     social setting.
+
+cognitivism
+    The meta-ethical view that ethical
+    sentences express propositions and can
+    therefore be true or false (they are
+    truth-apt), which noncognitivists deny.
+    
+    Cognitivism is so broad a thesis that it
+    encompasses (among other views) moral
+    realism (which claims that ethical
+    sentences express propositions about mind-
+    independent facts of the world), ethical
+    subjectivism (which claims that ethical
+    sentences express propositions about
+    peoples' attitudes or opinions), and error
+    theory (which claims that ethical
+    sentences express propositions, but that
+    they are all false, whatever their
+    nature).
