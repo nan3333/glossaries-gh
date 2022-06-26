@@ -7,6 +7,17 @@ ethics
     distinguished by a certain community or
     social setting.
 
+metaethics
+    The study of moral thought and moral
+    language.
+    
+    Rather than addressing questions about
+    what practices are right and wrong, and
+    what our obligations to other people or
+    future generations are – questions of so-
+    called 'normative' ethics – metaethics
+    asks what morality actually is.
+
 cognitivism
     The meta-ethical view that ethical
     sentences express propositions and can
