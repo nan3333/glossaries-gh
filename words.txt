@@ -41,17 +41,6 @@ aficionado
     or pastime.
     "a crossword aficionado"
 
-meritocracy
-    Meritocracy is a political system in which
-    economic goods and/or political power are
-    vested in individual people on the basis
-    of talent, effort, and achievement, rather
-    than wealth or social class.
-
-    Advancement in such a system is based on
-    performance, as measured through
-    examination or demonstrated achievement.
-
 fixture
     A piece of equipment or furniture which is
     fixed in position in a building or
@@ -67,10 +56,6 @@ fraternization
 
     To fraternize also means to become allies
     with someone, especially the enemy.
-
-vindictive
-    Having or showing a strong or unreasoning
-    desire for revenge.
 
 abyssopelagic
     A layer of the pelagic zone of the ocean.

@@ -1,10 +1,9 @@
-Reification
+reification
+reifies
     The process by which an abstract idea
     about a computer program is turned into an
     explicit data model or other object
     created in a programming language.
-
-    verb: reifies
 
 rational thinking
     Defined as the use of reason, the capacity
