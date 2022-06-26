@@ -1,3 +1,40 @@
+truth value
+logical value
+    [#logic]
+    [#mathematics]
+
+    Value indicating the relation of a
+    proposition to truth.
+
+verisimilitude
+truthlikeness
+    [#philosophy]
+
+    The notion that some propositions are
+    closer to being true than other
+    propositions.
+    
+    The problem of verisimilitude is the
+    problem of articulating what it takes for
+    one false theory to be closer to the truth
+    than another false theory.
+    
+    This problem was central to the philosophy
+    of Karl Popper, largely because Popper was
+    among the first to affirm that truth is
+    the aim of scientific inquiry while
+    acknowledging that most of the greatest
+    scientific theories in the history of
+    science are, strictly speaking, false.
+    
+    If this long string of purportedly false
+    theories is to constitute progress with
+    respect to the goal of truth, then it must
+    be at least possible for one false theory
+    to be closer to the truth than others.
+
+    https://en.wikipedia.org/wiki/Verisimilitude
+
 dialectic
 dialectics
 dialectical method
