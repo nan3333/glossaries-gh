@@ -16094,3 +16094,12 @@ transmute
     Change in form, nature, or substance.
     "the raw material of his experience was
     transmuted into stories"
+
+intimation
+    An indication or hint.
+    "the first intimations of trouble"
+
+    The action of making something known,
+    especially in an indirect way.
+    "it took ten years from the intimation of
+    a claim to the assessment of damages"
