@@ -1,3 +1,7 @@
+confirmand
+    A person who is to undergo the religious
+    rite of confirmation.
+
 confraternity
     A brotherhood, especially with a religious
     or charitable purpose.

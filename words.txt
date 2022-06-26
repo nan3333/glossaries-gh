@@ -16070,3 +16070,27 @@ aureole
     that in English is called Halo or Nim
 
     https://en.wikipedia.org/wiki/Aureola
+
+remission
+    The cancellation of a debt, charge, or
+    penalty.
+    "the scheme allows for the partial
+    remission of tuition fees"
+
+    A temporary diminution of the severity of
+    disease or pain.
+    "ten patients remained in remission"
+
+intimation
+    An indication or hint.
+    "the first intimations of trouble"
+
+    The action of making something known,
+    especially in an indirect way.
+    "it took ten years from the intimation of
+    a claim to the assessment of damages"
+
+transmute
+    Change in form, nature, or substance.
+    "the raw material of his experience was
+    transmuted into stories"
