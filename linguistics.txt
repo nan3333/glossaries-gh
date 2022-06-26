@@ -11,6 +11,13 @@ text world theory
 
     https://textworldtheory.org/about/
 
+foregrounding
+    A concept in literary studies concerning
+    making a linguistic utterance stand out
+    from the surrounding linguistic context,
+    from given literary traditions or from
+    more general world knowledge.
+
 deixis
     [#linguistics]
 

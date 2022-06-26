@@ -55,15 +55,17 @@ mind-reading
     [#surrealism]
     [#cognitive poetics]
 
-    A cognitive poetic term referring to the
-    natural, everyday ability to run a 'Theory
-    of Mind' assumption about another person's
-    status as a person, and then fill that
-    mental model out with presumptions about
-    belief, perspective, intended actions,
-    motivations, memories, outlook, and so on
-    (Stockwell 2009a, Stockwell and Mahlberg
-    2015).
+    The natural, everyday ability to run a
+    'Theory of Mind' assumption about another
+    person's status as a person, and then fill
+    that mental model out with presumptions
+    about:
+    - belief,
+    - perspective,
+    - intended actions,
+    - motivations,
+    - memories,
+    - outlook, and so on.
     
     We engage in exactly the same process with
     fictional characters, and with imag- ined
