@@ -16056,6 +16056,18 @@ recompence
 manifold
     Many and various.
 
+areola
+    [#ANATOMY]
+
+    A small circular area, in particular the
+    ring of pigmented skin surrounding a
+    nipple.
+
+    [#BIOLOGY]
+
+    Any of the small spaces between lines or
+    cracks on a leaf or an insect's wing.
+
 aureola
 aureole
     (diminutive of Latin aurea, "golden")
@@ -16070,6 +16082,13 @@ aureole
     that in English is called Halo or Nim
 
     https://en.wikipedia.org/wiki/Aureola
+
+    A circle of light or brightness
+    surrounding something, especially as
+    depicted in art around the head or body of
+    a person represented as holy.
+    "her hair framed her face in a golden
+    aureole"
 
 remission
     The cancellation of a debt, charge, or
