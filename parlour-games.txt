@@ -1,0 +1,11 @@
+telephone
+Chinese whispers
+    An internationally popular children's
+    game.
+    
+    It is also called transmission chain
+    experiments in the context of cultural
+    evolution research, and is primarily used
+    to identify the type of information that
+    is more easily passed on from one person
+    to another.
