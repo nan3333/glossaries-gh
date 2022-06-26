@@ -35,6 +35,48 @@ truthlikeness
 
     https://en.wikipedia.org/wiki/Verisimilitude
 
+supervaluationism
+    [#philosophical logic]
+
+    A semantics for dealing with irreferential
+    singular terms and vagueness.
+    
+    It allows one to apply the tautologies of
+    propositional logic in cases where truth
+    values are undefined.
+    
+    According to supervaluationism, a
+    proposition can have a definite truth
+    value even when its components do not.
+    
+    The proposition "Pegasus likes licorice",
+    for example, is often interpreted as
+    having no truth-value given the assumption
+    that the name "Pegasus" fails to refer.
+    
+    If indeed reference fails for "Pegasus",
+    then it seems as though there is nothing
+    that can justify an assignment of a truth-
+    value to any apparent assertion in which
+    the term "Pegasus" occurs.
+    
+    The statement "Pegasus likes licorice or
+    Pegasus doesn't like licorice", however,
+    is an instance of the valid schema
+    {\displaystyle p\vee \neg p}p\vee \neg p
+    ("{\displaystyle p}p or not-{\displaystyle
+    p}p"), so, according to supervaluationism,
+    it should be true regardless of whether or
+    not its disjuncts have a truth value; that
+    is, it should be true in all
+    interpretations.
+    
+    If, in general, something is true in all
+    precisifications, supervaluationism
+    describes it as "supertrue", while
+    something false in all precisifications is
+    described as "superfalse".
+
 dialectic
 dialectics
 dialectical method
