@@ -1,3 +1,18 @@
+aletheia
+    [#philosophy]
+
+    Truth or disclosure.
+    
+    It was used in Ancient Greek philosophy
+    and revived in the 20th century by the
+    philosopher Martin Heidegger.
+    
+    Aletheia is variously translated:
+    - unconcealedness,
+    - disclosure,
+    - revealing, or
+    - unclosedness.
+
 truth value
 logical value
     [#logic]
