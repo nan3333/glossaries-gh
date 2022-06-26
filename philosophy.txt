@@ -63,11 +63,21 @@ Contingency in Sartre
     they are.
 
 abductive instinct
+    See:
+    - "abductive reasoning"
 
 abductive reasoning
 abduction
 abductive inference
 retroduction
+    Making a probable conclusion from what you
+    know.
+    
+    If you see an abandoned bowl of hot soup
+    on the table, you can use abduction to
+    conclude the owner of the soup is likely
+    returning soon.
+
     A form of logical inference formulated and
     advanced by American philosopher Charles
     Sanders Peirce beginning in the last third
