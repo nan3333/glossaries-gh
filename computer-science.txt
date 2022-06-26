@@ -1,3 +1,25 @@
+continuation
+    An abstract representation of the control
+    state of a computer program.
+
+    A data structure that represents the
+    computational process at a given point in
+    the process's execution
+
+control flow
+    The order in which individual statements,
+    instructions or function calls of an
+    imperative program are executed or
+    evaluated.
+
+    Explicit control flow distinguishes an
+    imperative programming language from a
+    declarative programming language.
+
+control state
+
+
+
 bloom filter
     [space-efficient probabilistic data structure]
 

@@ -1,3 +1,34 @@
+preposition
+    Literally, "pre-position" -- it's a word
+    that expects another word to follow.
+
+    A word such as after, in, to, on, and
+    with.
+
+    Prepositions are usually used in front of
+    nouns or pronouns and they show the
+    relationship between the noun or pronoun
+    and other words in a sentence
+
+adverb
+    Like a decorator for a phrase.
+
+    An adverb is a word that modifies a verb,
+    adjective, determiner, clause,
+    preposition, or sentence.
+
+    Typically express manner, place, time,
+    frequency, degree, level of certainty,
+    etc., answering questions such as how?, in
+    what way?, when?, where?, and to what
+    extent?
+
+Anaphoric
+    An expression who's interpretation depends
+    on its antecedent or postcedent.
+
+    Anaphoric form of ‘-map’.
+
 text world theory
     The basic premise is that human beings
     process and understand all discourse by

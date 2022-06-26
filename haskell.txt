@@ -5,6 +5,74 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+partial function [haskell]
+    A function that is not defined for all
+    possible arguments of the specified type.
+
+    Examples:
+    - head, tail
+      Undefined for empty lists.
+
+    - (!!)
+      Undefined if the index is at least as
+      big as the list length.
+
+    - div
+      Undefined if the divisor is zero.
+
+    The opposite is a total function.
+
+    Avoid partial functions and instead write
+    total ones.
+        Makes "if your code compiles, it
+        probably works" true for your code
+        more often.
+
+    Usually if you have a partial function,
+    it's because your types are incorrect and
+    you should fix your types rather than
+    writing partial functions which guarantee
+    the impossible.
+
+    A good example of this is head.
+
+    You shouldn't use this function or write
+    functions like it.
+
+    The problem is in the type, it says [a] ->
+    a which is actually impossible as far as
+    total functions are concerned.
+
+    Why?
+
+    Because you might have an empty list!
+
+    Instead, a more honest type that lets you
+    write a total function would be [a] ->
+    Maybe a.
+
+    This makes the possibility of not getting
+    a result more explicit and keeps your
+    functions total.
+
+    You almost never have an excuse for
+    writing a partial function!
+
+    There are methods to avoid the use of
+    partial functions.
+
+    Example:
+        head :: [h] -> h                      -- 'head' is a function. list -> element.
+                                              -- what is the relevance of 'a'? It could be anything?
+        head []    = error "head: empty list" -- [], therefore error
+        head (x:_) = x
+
+        -- The empty list case errors.
+        -- If the list is empty, it panics.
+
+total function [haskell]
+    Opposite of a partial function.
+
 function
     inc x   = x+1
     add x y = x+y
@@ -1223,13 +1291,13 @@ I/O action
     Actions are sequenced using an operator
     that has a rather cryptic name: >>= (or
     `bind').
-    
+
     Instead of using this operator directly,
     we choose some syntactic sugar, the do
     notation, to hide these sequencing
     operators under a syntax resembling more
     conventional languages.
-    
+
     The do notation can be trivially expanded
     to >>=.
 
@@ -1239,29 +1307,29 @@ I/O action
     printing stuff to the screen) and will
     also contain some kind of return value
     inside it.
-    
+
     Actions are defined rather than invoked
     within the expression language of Haskell.
-    
+
     Evaluating the definition of an action
     doesn't actually cause the action to
     happen.
-    
+
     Rather, the invocation of actions takes
     place outside of the expression evaluation
     we have considered up to this point.
-    
+
     Actions are either atomic, as defined in
     system primitives, or are a sequential
     composition of other actions.
-    
+
     The I/O monad contains primitives which
     build composite actions, a process similar
     to joining statements in sequential order
     using `;' in other languages.
-    
+
     Thus the monad serves as the glue which
-    binds together the actions in a program. 
+    binds together the actions in a program.
 
 Prelude print :: Show a => a -> IO ()
 Prelude putStrLn :: String -> IO ()
@@ -5279,33 +5347,33 @@ strict data constructor
     Data structures in Haskell are generally
     lazy: the components are not evaluated
     until needed.
-    
+
     This permits structures that contain
     elements which, if evaluated, would lead
     to an error or fail to terminate.
-    
+
     Lazy data structures enhance the
     expressiveness of Haskell and are an
     essential aspect of the Haskell
     programming style.
-    
+
     Internally, each field of a lazy data
     object is wrapped up in a structure
     commonly referred to as a thunk that
     encapsulates the computation defining the
     field value.
-    
+
     This thunk is not entered until the value
     is needed; thunks which contain errors
     (_|_) do not affect other elements of a
     data structure.
-    
+
     For example, the tuple ('a',_|_) is a
     perfectly legal Haskell value.
-    
+
     The 'a' may be used without disturbing the
     other component of the tuple.
-    
+
     Most programming languages are strict
     instead of lazy: that is, all components
     of a data structure are reduced to values
@@ -5330,21 +5398,21 @@ strictness flag
     is evaluated when the structure is created
     instead of delayed in a thunk. There are a
     number of situations where it may be
-    appropriate to use strictness flags: 
-    
+    appropriate to use strictness flags:
+
     - Structure components that are sure to be
       evaluated at some point during program
-      execution. 
+      execution.
     - Structure components that are simple to
-      evaluate and never cause errors. 
+      evaluate and never cause errors.
     - Types in which partially undefined
-      values are not meaningful. 
-    
+      values are not meaningful.
+
     For example, the complex number library
-    defines the Complex type as: 
-    
+    defines the Complex type as:
+
         data RealFloat a => Complex a = !a :+ !a
-    
+
     [note the infix definition of the
     constructor :+.] This definition marks the
     two components, the real and imaginary
@@ -5358,12 +5426,12 @@ strictness flag
     defined complex numbers, it makes sense to
     use strictness flags to achieve a more
     efficient representation.
-    
+
     Strictness flags may be used to address
     memory leaks: structures retained by the
     garbage collector but no longer necessary
     for computation.
-    
+
     The strictness flag, !, can only appear in
     data declarations. It cannot be used in
     other type signatures or in any other type
@@ -5371,7 +5439,7 @@ strictness flag
     to mark function arguments as being
     strict, although the same effect can be
     obtained using the seq or !$ functions.
-        
+
     It is difficult to present exact
     guidelines for the use of strictness
     flags. They should be used with caution:
@@ -5391,18 +5459,18 @@ thunk
     commonly referred to as a thunk that
     encapsulates the computation defining the
     field value.
-    
+
     This thunk is not entered until the value
     is needed; thunks which contain errors
     (_|_) do not affect other elements of a
     data structure.
-    
+
     For example, the tuple ('a',_|_) is a
     perfectly legal Haskell value.
-    
+
     The 'a' may be used without disturbing the
     other component of the tuple.
-    
+
     Most programming languages are strict
     instead of lazy: that is, all components
     of a data structure are reduced to values

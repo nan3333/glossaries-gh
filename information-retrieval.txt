@@ -1,5 +1,58 @@
 $NOTES/ws/ranking/glossary.txt
 
+uninformed search
+    Used when there is no information about
+    the cost of navigating between states.
+
+    Examples:
+    - DFS
+    - IDFS
+    - BFS
+
+informed search
+    Used when we know the cost or have a solid
+    estimate of the cost between states.
+
+    Examples:
+    - UCF
+    - A*
+    - IDA*
+
+Best-first search
+    [graph search algorithm]
+
+    - Orders all partial solutions (states)
+      according to some heuristic, then
+    - expands the most promising node chosen
+      according to a specified rule.
+
+    Examples
+    - A*
+
+full-text extraction
+    - Extracting entities
+      Such as companies, people, dollar
+      amounts, key initiatives, etc.
+
+    - Categorizing content
+      Positive or negative (e.g. sentiment
+      analysis), by function, intention or
+      purpose, or by industry or other
+      categories for analytics and trending.
+
+    - Clustering content
+      To identify main topics of discourse
+      and/or to discover new topics.
+
+    - Fact extraction
+      To fill databases with structured
+      information for analysis, visualization,
+      trending, or alerts.
+
+    - Relationship extraction
+      To fill out graph databases to explore
+      real-world relationships.
+
 semantic search
     Not only find keywords, but to determine
     the intent and contextual meaning of the
