@@ -1,3 +1,16 @@
+congruent
+    In agreement or harmony.
+    "the rules may not be congruent with the
+    requirements of the law"
+
+incongruent
+    Incongruous; incompatible.
+
+    [#chemistry]
+    (of melting, dissolution, or other
+    process) affecting the components of an
+    alloy or other substance differently.
+
 prismatic
     Of, relating to, or like a prism.
 
