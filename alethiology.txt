@@ -51,6 +51,162 @@ proposition
     be a non-linguistic entity which is shared
     by all sentences with the same meaning.
 
+T-schema
+truth-schema
+    Used to give an inductive definition of
+    truth which lies at the heart of any
+    realisation of Alfred Tarski's semantic
+    theory of truth.
+    
+    Some authors refer to it as the
+    "Equivalence Schema", a synonym introduced
+    by Michael Dummett.
+    
+    The T-schema is often expressed in NL, but
+    it can be formalized in many-sorted
+    predicate logic or modal logic; such a
+    formalisation is called a
+    "T-theory."[citation needed] T-theories
+    form the basis of much fundamental work in
+    philosophical logic, where they are
+    applied in several important controversies
+    in analytic philosophy.
+    
+    As expressed in semi-NL (where 'S' is the
+    name of the sentence abbreviated to S):
+    'S' is true if and only if S.
+
+    Example:
+    - 'snow is white' is true if and only if
+      snow is white.
+
+    https://en.wikipedia.org/wiki/T-schema
+
+Tarksian semantics
+    [semantic theory of truth]
+
+    To formulate linguistic theories without
+    semantic paradoxes such as the liar
+    paradox, it is generally necessary to
+    distinguish the language that one is
+    talking about (the object language) from
+    the language that one is using to do the
+    talking (the metalanguage).
+    
+    In the following, quoted text is use of
+    the object language, while unquoted text
+    is use of the metalanguage; a quoted
+    sentence (such as "P") is always the
+    metalanguage's name for a sentence, such
+    that this name is simply the sentence P
+    rendered in the object language.
+    
+    In this way, the metalanguage can be used
+    to talk about the object language;
+    Tarski's theory of truth (Alfred Tarski
+    1935) demanded that the object language be
+    contained in the metalanguage.
+
+semantic theory of truth
+    A theory of truth in the philosophy of
+    language which holds that truth is a
+    property of sentences.
+
+    The semantic conception of truth, which is
+    related in different ways to both the
+    correspondence and deflationary
+    conceptions, is due to work by Polish
+    logician Alfred Tarski.
+    
+    Tarski, in "On the Concept of Truth in
+    Formal Languages" (1935), attempted to
+    formulate a new theory of truth in order
+    to resolve the liar paradox.
+    
+    In the course of this he made several
+    metamathematical discoveries, most notably
+    Tarski's undefinability theorem using the
+    same formal technique Kurt Gödel used in
+    his incompleteness theorems.
+    
+    Roughly, this states that a truth-
+    predicate satisfying Convention T for the
+    sentences of a given language cannot be
+    defined within that language.
+
+Kripke's theory of truth
+    Based on partial logic (a logic of
+    partially defined truth predicates instead
+    of Tarski's logic of totally defined truth
+    predicates) with the strong Kleene
+    evaluation scheme.
+
+truth-value semantics
+    [#formal semantics]
+
+    An alternative to Tarskian semantics.
+    
+    It has been primarily championed by Ruth
+    Barcan Marcus, H. Leblanc, and M. Dunn and
+    N. Belnap.
+    
+    It is also called the substitution
+    interpretation (of the quantifiers) or
+    substitutional quantification.
+    
+    The idea of these semantics is that
+    universal (existential) quantifier may be
+    read as a conjunction (disjunction) of
+    formulas in which constants replace the
+    variables in the scope of the quantifier.
+    
+    For example, ∀xPx may be read (Pa & Pb &
+    Pc &...) where a,b,c are individual
+    constants replacing all occurrences of x
+    in Px.
+    
+    The main difference between truth-value
+    semantics and the standard semantics for
+    predicate logic is that there are no
+    domains for truth-value semantics.
+    
+    Only the truth clauses for atomic and for
+    quantificational formulas differ from
+    those of the standard semantics.
+
+Liar paradox
+    [#philosophy]
+    [#logic]
+
+    The classical liar paradox or liar's
+    paradox or antinomy of the liar is the
+    statement of a liar that they are lying:
+    for instance, declaring that "I am lying".
+    
+    If the liar is indeed lying, then the liar
+    is telling the truth, which means the liar
+    just lied.
+    
+    In "this sentence is a lie" the paradox is
+    strengthened in order to make it amenable
+    to more rigorous logical analysis.
+    
+    It is still generally called the "liar
+    paradox" although abstraction is made
+    precisely from the liar making the
+    statement.
+    
+    Trying to assign to this statement, the
+    strengthened liar, a classical binary
+    truth value leads to a contradiction.
+    
+    If "this sentence is false" is true, then
+    it is false, but the sentence states that
+    it is false, and if it is false, then it
+    must be true, and so on.
+
+    https://en.wikipedia.org/wiki/Liar_paradox
+
 supervaluationism
     [#philosophical logic]
 
