@@ -1,4 +1,10 @@
 https://jungplatform.com/jungian-terms
+https://www.carl-jung.net/glossary.html
+
+Active imagination
+    Method of assimilation of unconscious
+    contents through their experimentation as
+    fantasies in the wakeful state.
 
 alchemy
     The chemistry from prehistory until the
@@ -26,6 +32,11 @@ amplification
     comparative studies of mythology,
     religion, fairy tales, alchemy, astrology
     etc.
+
+Analytical psychology
+    Derived from psychoanalysis.
+
+    See also: psychoanalysis.
 
 anima
     The archetype of female in man.
@@ -98,8 +109,9 @@ complex
     images.
 
 coniunctio
-    Or "conjunction", term used in alchemy to
-    define the union of opposites.
+conjunction
+    Term used in alchemy to define the union
+    of opposites.
 
     From the psychological point of view, it
     means the union of the conscious with the
@@ -109,6 +121,15 @@ coniunctio
 constellation
     Activation of a psychic personal complex
     or an archetypal content.
+
+creative play
+    Jung pulled himself out of his midlife
+    crisis by using creativity.
+
+    He began, for example, to build model
+    buildings like he did when a child.
+
+    And he drew mandalas.
 
 daimon
     Originally, a value-free, driving force, a
@@ -128,6 +149,27 @@ dream
     Spontaneous and natural manifestation of
     the psychic.
 
+dreamwork
+    Jung loved using dreams as the unconscious
+    works with images.
+
+    So for him, it was a necessary route to
+    understanding and processing our
+    unconscious mind.
+
+compensation
+    A natural process of maintaining a certain
+    balance in the psyche. -> See also
+    homeostasis.
+
+homeostasis
+    Concept borrowed by Jung from the biology
+    to define the compensatory function of
+    human psyche that aims at the maintaining
+    of a certain equilibrium in the psyche.
+    
+    See also: "compensation".
+
 enantiodromia
     According to Jung the path to
     individuation leads one through opposing
@@ -142,6 +184,18 @@ extroversion, extroverted
     concentration of interest on objects;
     easily susceptible to outer influences.
 
+free associations
+    Freudian method in dream interpretation
+    consisting in asking the dreamer to
+    provide his own ideas and memories related
+    to the fragments of the dream.
+    
+    The method has been used by Jung himself
+    and later on completed with his own
+    amplification approach.
+    
+    -> See also amplification.
+
 heretic
     (Greek-Latin) One who deviates from
     official Church dogma.
@@ -150,6 +204,9 @@ individuation
     Complex process of synthesis of the Self
     which consists mainly of the union of the
     unconscious with the conscious.
+
+    http://mlwi.magix.net/individuation.htm
+    https://www.harleytherapy.co.uk/counselling/what-is-individuation-carl-jung.htm
 
 inferior function
     In Jung's topology, that function of the
@@ -326,6 +383,11 @@ shadow
 
     The shadow is an archetypal content.
 
+shadow work
+    Facing up to the parts of ourselves we
+    deem unacceptable is necessary to achieve
+    individuation.
+
 subjective level
     A specific method of dream interpretation
     in which figures and situations that
@@ -357,9 +419,6 @@ tao
 theriomorphic
     (Greek) Animal-shaped.
 
-totality
-    See Wholeness.
-
 typology
     A model of classification based on the
     predominance of psychic activity of
@@ -377,6 +436,8 @@ typology
 
     Cf. C. G. Jung, Psychological Types.
 
+totality
+completeness
 wholeness
     Psychic stage in which the union of the
     unconscious with the conscious has been

@@ -16078,3 +16078,6 @@ recompence
     To pay for.
 
     To return in kind.
+
+manifold
+    Many and various.

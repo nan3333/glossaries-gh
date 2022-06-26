@@ -4772,51 +4772,8 @@ model weights pruning
     efficacy of pruning for model
     compression](https://arxiv.org/abs/1710.01878)
 
-Weight Quantization
-    Post Training
-
-    A general technique to reduce model size
-    while also providing up to 3x lower
-    latency with little degradation in model
-    accuracy.
-
-    Post-training quantization quantizes
-    weights from floating point to 8-bits of
-    precision.
-
-bloom filter
-    [space-efficient probabilistic data structure]
-
-    Test whether an element is a member of a
-    set.
-
-    space-efficient.
-
 GNU arch
     Superceded by GNU Bazaar.
-
-correctness [of an algorithm]
-    asserted when it is said that the
-    algorithm is correct with respect to a
-    specification.
-
-Functional correctness
-    for each input it produces the expected output.
-
-partial correctness vs total correctness
-    They both mean if an answer is returned it will be correct.
-
-    Total means the algorithm also terminates.
-
-    ∵ No general solution to the halting
-    problem, a total correctness assertion may
-    lie much deeper.
-
-termination proof
-    A type of mathematical proof that plays a
-    critical role in formal verification
-    because total correctness of an algorithm
-    depends on termination.
 
 manifold
     (or
