@@ -1,3 +1,84 @@
+cognitive poetry
+    [#cognitive poetics]
+
+    A school of literary criticism that
+    applies the principles of cognitive
+    science, particularly cognitive
+    psychology, to the interpretation of
+    literary texts.
+    
+    It has ties to reader-response criticism,
+    and also has a grounding in modern
+    principles of cognitive linguistics.
+    
+    The research and focus on cognitive
+    poetics paves way for psychological,
+    sociocultural and indeed linguistic
+    dimensions to develop in relation to
+    stylistics.
+    
+    Topics addressed by cognitive poetics
+    include:
+    - deixis; text world theory (the feeling
+      of immersion within texts);
+    - schema, - script, and their role in
+      reading;
+    - attention;
+    - foregrounding; and
+    - genre.
+    
+    One of the main focal points of cognitive
+    literary analysis is conceptual metaphor,
+    an idea pioneered and popularized by the
+    works of Lakoff, as a tool for examining
+    texts.
+    
+    Rather than regarding metaphors as
+    ornamental figures of speech, cognitive
+    poetics examines how the conceptual bases
+    of such metaphors interact with the text
+    as a whole.
+
+    Employs techniques developed in cognitive
+    psychology to explicitly address cognitive
+    processes underlying the construction of
+    multiple conceptual planes.
+    
+    Techniques:
+    - priming,
+    - the Stroop effect,
+    - multimodal presentation,
+    - multilingual presentation.
+
+mind-modelling
+mind-reading
+    [#surrealism]
+    [#cognitive poetics]
+
+    A cognitive poetic term referring to the
+    natural, everyday ability to run a 'Theory
+    of Mind' assumption about another person's
+    status as a person, and then fill that
+    mental model out with presumptions about
+    belief, perspective, intended actions,
+    motivations, memories, outlook, and so on
+    (Stockwell 2009a, Stockwell and Mahlberg
+    2015).
+    
+    We engage in exactly the same process with
+    fictional characters, and with imag- ined
+    authors, as we deploy in everyday
+    experience.
+    
+    The mechanisms of mind-modelling, then,
+    are the basis for how literary
+    characterisation works, but they are also
+    the same basis for how readers relate to
+    authors - and furthermore, how a reader's
+    notion of a particular author will
+    influence an individual reading of a
+    specific text.
+
 René Magritte
 René François Ghislain Magritte
     [Belgian artist]

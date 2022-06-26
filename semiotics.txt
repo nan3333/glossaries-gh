@@ -1,3 +1,28 @@
+empty name
+    [#metaphysics]
+    [#philosophy of language]
+
+    An empty name is a proper name that has no
+    referent.
+
+    The problem of empty names is that empty
+    names have a meaning that it seems they
+    should not have.
+    
+    The name "Pegasus" is empty; there is
+    nothing to which it refers.
+    
+    Yet, though there is no Pegasus, we know
+    what the sentence "Pegasus has two wings"
+    means.
+    
+    We can even understand the sentence "There
+    is no such thing as Pegasus." But, what
+    can the meaning of a proper name be,
+    except the object to which it refers?
+
+    Coined by Quine.
+
 semiosphere
     Falls under biosemiotics and is an
     abstract, epiphenomenal, dialogic membrane

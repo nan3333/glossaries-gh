@@ -1,3 +1,15 @@
+deixis
+    [#linguistics]
+
+    The use of general words and phrases to
+    refer to a specific time, place, or person
+    in context, e.g., the words tomorrow,
+    there, and they.
+    
+    Words are deictic if their semantic
+    meaning is fixed but their denoted meaning
+    varies depending on time and/or place.
+
 major levels of linguistic structure
     - phoenetics
       - speech sounds
