@@ -1,3 +1,11 @@
+liturgy
+    The customary public worship performed by
+    a religious group.
+    
+    Liturgy can also be used to refer
+    specifically to public worship of
+    Christians.
+
 Gnosticism
     The result of Christianity spreading in
     the gentile world, where it crashed into
