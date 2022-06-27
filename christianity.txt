@@ -36,7 +36,8 @@ lacuna
     Eastern studies"
 
     [#ANATOMY]
-    a cavity or depression, especially in bone.
+    A cavity or depression, especially in
+    bone.
 
 Nicene Creed
     A confession of faith that expresses the
