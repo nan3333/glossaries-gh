@@ -8,17 +8,17 @@ atlantis alegory
     that besieges "Ancient Athens", the
     pseudo-historic embodiment of Plato's
     ideal state in The Republic.
-    
+
     In the story, Athens repels the Atlantean
     attack unlike any other nation of the
     known world, supposedly bearing witness to
     the superiority of Plato's concept of a
     state.
-    
+
     The story concludes with Atlantis falling
     out of favor with the deities and
     submerging into the Atlantic Ocean.
-    
+
     https://en.wikipedia.org/wiki/Atlantis
 
 the cave
@@ -28,10 +28,10 @@ Ring of Gyges
     A mythical magic ring mentioned by the
     philosopher Plato in Book 2 of his
     Republic (2:359a–2:360d).
-    
+
     It grants its owner the power to become
     invisible at will.
-    
+
     Through the story of the ring, Republic
     considers whether an intelligent person
     would be just if one did not have to fear
@@ -40,51 +40,59 @@ Ring of Gyges
 
     https://en.wikipedia.org/wiki/Ring_of_Gyges
 
-    Suppose now that there were two such magic
-    rings, and the just put on one of them and
-    the unjust the other; no man can be
-    imagined to be of such an iron nature that
-    he would stand fast in justice. No man
-    would keep his hands off what was not his
-    own when he could safely take what he
-    liked out of the market, or go into houses
-    and lie with any one at his pleasure, or
-    kill or release from prison whom he would,
-    and in all respects be like a god among
-    men.
-
-    Then the actions of the just would be as
-    the actions of the unjust; they would both
-    come at last to the same point. And this
-    we may truly affirm to be a great proof
-    that a man is just, not willingly or
-    because he thinks that justice is any good
-    to him individually, but of necessity, for
-    wherever any one thinks that he can safely
-    be unjust, there he is unjust.
-
-    For all men believe in their hearts that
-    injustice is far more profitable to the
-    individual than justice, and he who argues
-    as I have been supposing, will say that
-    they are right. If you could imagine any
-    one obtaining this power of becoming
-    invisible, and never doing any wrong or
-    touching what was another's, he would be
-    thought by the lookers-on to be a most
-    wretched idiot, although they would praise
-    him to one another's faces, and keep up
-    appearances with one another from a fear
-    that they too might suffer injustice.
-
-    — Plato, Republic, 360b–d (Jowett trans.)
+    |   Suppose now that there were two such
+    |   magic rings, and the just put on one
+    |   of them and the unjust the other; no
+    |   man can be imagined to be of such an
+    |   iron nature that he would stand fast
+    |   in justice.
+    |
+    |   No man would keep his hands off what
+    |   was not his own when he could safely
+    |   take what he liked out of the market,
+    |   or go into houses and lie with any one
+    |   at his pleasure, or kill or release
+    |   from prison whom he would, and in all
+    |   respects be like a god among men.
+    |
+    |   Then the actions of the just would be
+    |   as the actions of the unjust; they
+    |   would both come at last to the same
+    |   point.
+    |
+    |   And this we may truly affirm to be a
+    |   great proof that a man is just, not
+    |   willingly or because he thinks that
+    |   justice is any good to him
+    |   individually, but of necessity, for
+    |   wherever any one thinks that he can
+    |   safely be unjust, there he is unjust.
+    |
+    |   For all men believe in their hearts
+    |   that injustice is far more profitable
+    |   to the individual than justice, and he
+    |   who argues as I have been supposing,
+    |   will say that they are right.
+    |
+    |   If you could imagine any one obtaining
+    |   this power of becoming invisible, and
+    |   never doing any wrong or touching what
+    |   was another's, he would be thought by
+    |   the lookers-on to be a most wretched
+    |   idiot, although they would praise him
+    |   to one another's faces, and keep up
+    |   appearances with one another from a
+    |   fear that they too might suffer
+    |   injustice.
+    |
+    |   — Plato, Republic, 360b–d (Jowett trans.)
 
 Timaeus
     One of Plato's dialogues, mostly in the
     form of a long monologue given by the
     title character Timaeus of Locri, written
     c. 360 BC.
-    
+
     The work puts forward speculation on the
     nature of the physical world and human
     beings and is followed by the dialogue
@@ -95,39 +103,39 @@ Platonism
     systems closely derived from it, though
     contemporary platonists do not necessarily
     accept all of the doctrines of Plato.
-    
+
     Platonism had a profound effect on Western
     thought.
-    
+
     Platonism at least affirms the existence
     of abstract objects, which are asserted to
     exist in a third realm distinct from both
     the sensible external world and from the
     internal world of consciousness, and is
     the opposite of nominalism.
-    
+
     This can apply to properties, types,
     propositions, meanings, numbers, sets,
     truth values, and so on (see abstract
     object theory).
-    
+
     Philosophers who affirm the existence of
     abstract objects are sometimes called
     platonists; those who deny their existence
     are sometimes called nominalists.
-    
+
     The terms "platonism" and "nominalism"
     also have established senses in the
     history of philosophy.
-    
+
     They denote positions that have little to
     do with the modern notion of an abstract
     object.
-    
+
     In a narrower sense, the term might
     indicate the doctrine of Platonic realism,
     a form of mysticism.
-    
+
     The central concept of Platonism, a
     distinction essential to the Theory of
     Forms, is the distinction between the
@@ -138,42 +146,42 @@ Platonism
     imperceptible but intelligible, associated
     with the unchanging being of Parmenides
     and studied by the likes of mathematics.
-    
+
     Geometry was the main motivation of Plato,
     and this also shows the influence of
     Pythagoras.
-    
+
     The Forms are typically described in
     dialogues such as the Phaedo, Symposium
     and Republic as perfect archetypes of
     which objects in the everyday world are
     imperfect copies.
-    
+
     Aristotle's Third Man Argument is its most
     famous criticism in antiquity.
 
     Platonism has had some influence on
     Christianity through Clement of Alexandria
     and Origen, and the Cappadocian Fathers.
-    
+
     St. Augustine was heavily influenced by
     Platonism as well, which he encountered
     through the Latin translations of Marius
     Victorinus of the works of Porphyry and/or
     Plotinus.
-    
+
     Platonism was considered authoritative in
     the Middle Ages.
-    
+
     Platonism also influenced both Eastern and
     Western mysticism.
-    
+
     Meanwhile, Platonism influenced various
     philosophers.
-    
+
     While Aristotle became more influential
     than Plato in the 13th century, St.
-    
+
     Thomas Aquinas's philosophy was still in
     certain respects fundamentally Platonic.
 
