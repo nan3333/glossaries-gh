@@ -1,3 +1,20 @@
+catechism
+    A summary or exposition of doctrine and
+    serves as a learning introduction to the
+    Sacraments traditionally used in
+    catechesis, or Christian religious
+    teaching of children and adult converts.
+
+doctrine
+    A codification of beliefs or a body of
+    teachings or instructions, taught
+    principles or positions, as the essence of
+    teachings in a given branch of knowledge
+    or in a belief system.
+    
+    The etymological Greek analogue is
+    "catechism".
+
 Septuagint
     A Greek version of the Hebrew Bible (or
     Old Testament), including the Apocrypha,
