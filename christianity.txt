@@ -5,6 +5,17 @@ catechism
     catechesis, or Christian religious
     teaching of children and adult converts.
 
+catechesis
+    Basic Christian religious education of
+    children and adults, often from a
+    catechism book.
+    
+    It started as education of converts to
+    Christianity, but as the religion became
+    institutionalized, catechesis was used for
+    education of members who had been baptized
+    as infants.
+
 doctrine
     A codification of beliefs or a body of
     teachings or instructions, taught
