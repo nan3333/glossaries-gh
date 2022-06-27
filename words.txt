@@ -16122,3 +16122,17 @@ reconciliation
     compatible with another.
     "any possibility of reconciliation between
     such clearly opposed positions"
+
+expostulate
+    Express strong disapproval or
+    disagreement.
+    "he found Fox expostulating with a young
+    man"
+
+praxis
+    The process by which a theory, lesson, or
+    skill is enacted, embodied, or realized.
+    
+    "Praxis" may also refer to the act of
+    engaging, applying, exercising, realizing,
+    or practicing ideas.
