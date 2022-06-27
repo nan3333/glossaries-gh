@@ -16136,3 +16136,13 @@ praxis
     "Praxis" may also refer to the act of
     engaging, applying, exercising, realizing,
     or practicing ideas.
+
+epithet
+    A byname, or a descriptive term,
+    accompanying or occurring in place of a
+    name and having entered common usage.
+    
+    It has various shades of meaning when
+    applied to seemingly real or fictitious
+    people, divinities, objects, and binomial
+    nomenclature.
