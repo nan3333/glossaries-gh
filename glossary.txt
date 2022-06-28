@@ -2041,10 +2041,22 @@ The degree of relationship
         many-to-many (M:N)
 
 a priori
-    from the earlier
-
 a posteriori
-    from the later
+    "a priori" means 'from the earlier'.
+
+    "a posteriori" means 'from the later'.
+
+    A priori and a posteriori are Latin
+    phrases used in philosophy to distinguish
+    types of knowledge, justification, or
+    argument by their reliance on empirical
+    evidence or experience.
+    
+    A priori knowledge is independent from
+    current experience.
+    
+    Examples include mathematics, tautologies,
+    and deduction from pure reason.
 
 Nautical twilight
     The second twilight phase. Both the
