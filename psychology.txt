@@ -1,3 +1,14 @@
+sensorium
+    The apparatus of an organism's perception
+    considered as a whole, the "seat of
+    sensation" where it experiences, perceives
+    and interprets the environments within
+    which it lives.
+    
+    The term originally entered English from
+    the Late Latin in the mid-17th century,
+    from the stem sens-.
+
 Stroop effect
     The delay in reaction time between
     congruent and incongruent stimuli.

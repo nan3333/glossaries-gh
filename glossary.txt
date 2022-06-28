@@ -12246,36 +12246,6 @@ kick the tyres
     "borrowers should be sure to kick the
     tyres on that offer before signing up"
 
-parlour
-parlor game
-    A group game played indoors using speech
-    (from French Parler).
-    
-    They were often played in a parlour.
-    
-    These games were extremely popular among
-    the upper and middle classes in Great
-    Britain and in the United States during
-    the Victorian era.
-
-    Examples:
-    - Aesop's Mission
-    - Are you there, Moriarty?
-    - Carnelli
-    - Charades
-    - Consequences
-    - Fictionary
-    - Huckle buckle beanstalk
-    - Hunt the thimble
-    - I packed my bag
-    - I spy
-    - Kim's Game
-    - Mafia
-    - The Minister's Cat
-    - Six Degrees of Kevin Bacon
-    - Twenty questions[6]
-    - Wink murder
-
 pantone
     All colors.
 
