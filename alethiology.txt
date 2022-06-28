@@ -1,3 +1,11 @@
+self-evident
+    [#epistemology]
+
+    A self-evident proposition is a
+    proposition that is known to be true by
+    understanding its meaning without
+    proof, and/or by ordinary human reason.
+
 dialectic
     See "dialectic#argumentation".
 
