@@ -1,3 +1,6 @@
+dialectic
+    See "dialectic#argumentation".
+
 aletheia
     [#philosophy]
 
@@ -263,14 +266,6 @@ supervaluationism
     describes it as "supertrue", while
     something false in all precisifications is
     described as "superfalse".
-
-dialectic
-dialectics
-dialectical method
-    A discourse between two or more people
-    holding different points of view about a
-    subject but wishing to establish the truth
-    through reasoned argumentation.
 
 alethiology
     Means the study of truth, but can more

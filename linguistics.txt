@@ -759,16 +759,6 @@ modality
     convey that something is likely,
     desirable, or permissible.
 
-dialectic
-    The art of investigating or discussing the
-    truth of opinions.
-
-    Inquiry into metaphysical contradictions
-    and their solutions.
-
-    Relating to dialectic or dialectics;
-    dialectical.
-
 coreference
 co-reference
     Sometimes written co-reference, occurs
@@ -778,14 +768,6 @@ co-reference
     would come; the proper noun Bill and the
     pronoun he refer to the same person,
     namely to Bill.
-
-dialectic
-dialectics
-dialectical method
-    A discourse between two or more people
-    holding different points of view about a
-    subject but wishing to establish the truth
-    through reasoned argumentation.
 
 Affix
     [#linguistics]

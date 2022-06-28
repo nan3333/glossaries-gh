@@ -12167,19 +12167,6 @@ indemnify
     for all reasonable costs of defending such
     actions and proceedings"
 
-lacunae
-    An unfilled space; a gap.
-    "the journal has filled a lacuna in Middle
-    Eastern studies"
-
-    A cavity or depression, especially in
-    bone.
-
-    "We provide an overview of the various
-    formats and domains of the current
-    resources, highlighting the current
-    lacunae for future work."
-
 antagonistic
     Showing or feeling active opposition or
     hostility towards someone or something.
@@ -16146,3 +16133,8 @@ epithet
     applied to seemingly real or fictitious
     people, divinities, objects, and binomial
     nomenclature.
+
+masticate
+    Chew (food).
+    "dentition affects how well food is
+    masticated and absorbed"

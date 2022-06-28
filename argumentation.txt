@@ -41,6 +41,8 @@ dialectic
 dialectics
 dialectical method
 minor logic
+    [#alethiology]
+
     A discourse between two or more people
     holding different points of view about a
     subject but wishing to establish the truth
@@ -62,6 +64,15 @@ minor logic
     Dialectic is alternatively known as minor
     logic, as opposed to major logic or
     critique.
+
+    The art of investigating or discussing the
+    truth of opinions.
+
+    Inquiry into metaphysical contradictions
+    and their solutions.
+
+    Relating to dialectic or dialectics;
+    dialectical.
 
 eristic
     A type of "question-and-answer" teaching
