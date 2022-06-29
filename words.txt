@@ -16145,3 +16145,13 @@ incipient
 
 vesture
     Clothing; dress.
+
+sundry
+    Of various kinds; several.
+    "prawn and garlic vol-au-vents and sundry
+    other delicacies"
+
+    Various items not important enough to be
+    mentioned individually.
+    "a drugstore selling magazines,
+    newspapers, and sundries"
