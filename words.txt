@@ -16138,3 +16138,10 @@ masticate
     Chew (food).
     "dentition affects how well food is
     masticated and absorbed"
+
+incipient
+    In an initial stage; beginning to happen
+    or develop.
+
+vesture
+    Clothing; dress.

@@ -1,3 +1,6 @@
+theosis
+    Spiritual union with God.
+
 profession of faith
     [#Baptist]
     [#Pentecostal]
@@ -778,3 +781,7 @@ fruit of repentance
         working honestly, then giving to him
         tsinhat need.
         - Ephesians 4:28-29
+
+treatise
+    A written work dealing formally and
+    systematically with a subject.
