@@ -16155,3 +16155,11 @@ sundry
     mentioned individually.
     "a drugstore selling magazines,
     newspapers, and sundries"
+
+indignation
+    Anger or annoyance provoked by what is
+    perceived as unfair treatment.
+
+contemplation
+    The action of looking thoughtfully at
+    something for a long time.
