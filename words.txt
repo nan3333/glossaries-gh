@@ -16163,3 +16163,13 @@ indignation
 contemplation
     The action of looking thoughtfully at
     something for a long time.
+
+scourge
+scourged
+    Whip (someone) as a punishment.
+    "our people did scourge him severely"
+
+sepulchre
+    A small room or monument, cut in rock or
+    built of stone, in which a dead person is
+    laid or buried.
