@@ -16173,3 +16173,11 @@ sepulchre
     A small room or monument, cut in rock or
     built of stone, in which a dead person is
     laid or buried.
+
+obeisance
+    Deferential respect.
+    "they paid obeisance to the Prince"
+
+    A gesture expressing deferential respect,
+    such as a bow or curtsy.
+    "she made a deep obeisance"
