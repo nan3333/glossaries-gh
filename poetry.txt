@@ -130,3 +130,302 @@ quatrain
     There are fifteen possible rhyme schemes,
     but the most traditional and common are:
     ABAA, AAAA, ABAB, and ABBA.
+
+abecedarian 
+    Related to acrostic, a poem in which the
+    first letter of each line or stanza
+    follows sequentially through the alphabet.
+    
+    See Jessica Greenbaum, “A Poem for S.” Tom
+    Disch’s “Abecedary” adapts the principles
+    of an abecedarian poem, while Matthea
+    Harvey’s “The Future of Terror/The Terror
+    of Future” sequence also uses the alphabet
+    as an organizing principle.
+    
+    Poets who have used the abecedarian across
+    whole collections include Mary Jo Bang, in
+    The Bride of E, and Harryette Mullen, in
+    Sleeping with the Dictionary.
+
+accentual verse 
+    Verse whose meter is determined by the
+    number of stressed (accented)
+    syllables—regardless of the total number
+    of syllables—in each line.
+    
+    Many Old English poems, including Beowulf,
+    are accentual; see Ezra Pound’s modern
+    translation of “The Seafarer.” More
+    recently, Richard Wilbur employed this
+    same Anglo-Saxon meter in his poem “Junk.”
+    Traditional nursery rhymes, such as “Pat-
+    a-cake, pat-a-cake,” are often accentual.
+
+accentual-syllabic verse 
+    Verse whose meter is determined by the
+    number and alternation of its stressed and
+    unstressed syllables, organized into feet.
+    
+    From line to line, the number of stresses
+    (accents) may vary, but the total number
+    of syllables within each line is fixed.
+    
+    The majority of English poems from the
+    Renaissance to the 19th century are
+    written according to this metrical system.
+
+acmeism 
+    An early 20th-century Russian school of
+    poetry that rejected the vagueness and
+    emotionality of Symbolism in favor of
+    Imagist clarity and texture.
+    
+    Its proponents included Osip Mandelstam
+    and Anna Akhmatova.
+
+acrostic 
+    A poem in which the first letter of each
+    line spells out a word, name, or phrase
+    when read vertically.
+    
+    See Lewis Carroll’s “A Boat beneath a
+    Sunny Sky.”
+
+alcaic 
+    A four-line stanza invented by the
+    Classical Greek poet Alcaeus that employs
+    a specific syllabic count per line and a
+    predominantly dactylic meter.
+    
+    Alfred, Lord Tennyson imitated its form in
+    his poem “Milton.”
+
+alexandrine 
+    In English, a 12-syllable iambic line
+    adapted from French heroic verse.
+    
+    The last line of each stanza in Thomas
+    Hardy’s “The Convergence of the Twain” and
+    Percy Bysshe Shelley’s “To a Skylark” is
+    an alexandrine.
+
+allegory 
+    An extended metaphor in which the
+    characters, places, and objects in a
+    narrative carry figurative meaning.
+    
+    Often an allegory’s meaning is religious,
+    moral, or historical in nature.
+    
+    John Bunyan’s The Pilgrim’s Progress and
+    Edmund Spenser’s The Faerie Queene are two
+    major allegorical works in English.
+
+alliteration 
+    The repetition of initial stressed,
+    consonant sounds in a series of words
+    within a phrase or verse line.
+    
+    Alliteration need not reuse all initial
+    consonants; “pizza” and “place”
+    alliterate.
+    
+    Example: “With swift, slow; sweet, sour;
+    adazzle, dim” from Gerard Manley Hopkins’s
+    “Pied Beauty.” Browse poems with
+    alliteration.
+
+allusion 
+    A brief, intentional reference to a
+    historical, mythic, or literary person,
+    place, event, or movement.
+    
+    “The Waste Land,” T.  S.  Eliot’s
+    influential long poem is dense with
+    allusions.
+    
+    The title of Seamus Heaney’s
+    autobiographical poem “Singing School”
+    alludes to a line from W.B.
+    
+    Yeats’s “Sailing to Byzantium” (“Nor is
+    there singing school but studying
+    /Monuments of its own magnificence”).
+    
+    Browse poems with allusions.
+
+ambiguity 
+    A word, statement, or situation with two
+    or more possible meanings is said to be
+    ambiguous.
+    
+    As poet and critic William Empson wrote in
+    his influential book Seven Types of
+    Ambiguity (1930), “The machinations of
+    ambiguity are among the very roots of
+    poetry.” A poet may consciously join
+    together incompatible words to disrupt the
+    reader’s expectation of meaning, as e.e.
+    cummings does in [anyone lived in a pretty
+    how town].
+    
+    The ambiguity may be less deliberate,
+    steered more by the poet’s attempts to
+    express something ineffable, as in Gerard
+    Manley Hopkins’s “The Windhover.” At the
+    sight of a bird diving through the air,
+    the speaker marvels, “Brute beauty and
+    valor and act, oh, air, pride, plume here
+    / Buckle!” The ambiguity of this phrase
+    lies in the exclamation of “buckle”: The
+    verb could be descriptive of the action,
+    or it could be the speaker’s imperative.
+    
+    In both cases, the meaning of the word is
+    not obvious from its context.
+    
+    “Buckle” could mean “fall” or “crumple,”
+    or it could describe the act of clasping
+    armor and bracing for battle.
+
+anachronism 
+    Someone or something placed in an
+    inappropriate period of time.
+    
+    Shakespeare’s placing of a clock in Julius
+    Caesar is an anachronism, because clocks
+    had not yet been invented in the period
+    when the play is set.
+    
+    In Charles Olson’s epic The Maximus Poems,
+    the central figure encompasses the poet’s
+    alter ego, the second-century Greek
+    philosopher Maximus of Tyre, and the
+    fourth-century Phoenician mystic Maximus.
+    
+    This persona arises from outside of time
+    to reflect on the state of American
+    culture by recounting the history of
+    Gloucester, Massachusetts.
+
+anagram 
+    A word spelled out by rearranging the
+    letters of another word; for example, “The
+    teacher gapes at the mounds of exam pages
+    lying before her.” 
+
+anapest 
+    A metrical foot consisting of two
+    unaccented syllables followed by an
+    accented syllable.
+    
+    The words “underfoot” and “overcome” are
+    anapestic.
+    
+    Lord Byron’s “The Destruction of
+    Sennacherib” is written in anapestic
+    meter.
+
+anaphora 
+    Often used in political speeches and
+    occasionally in prose and poetry, anaphora
+    is the repetition of a word or words at
+    the beginning of successive phrases,
+    clauses, or lines to create a sonic
+    effect.
+
+    Dr. Martin Luther King Jr.’s famous “I
+    Have a Dream” speech, which uses anaphora
+    not only in its oft-quoted “I have a
+    dream” refrain but throughout, as in this
+    passage when he repeats the phrase “go
+    back to”:
+
+        Go back to Mississippi, go back to Alabama, go back to South Carolina, 
+        go back to Georgia, go back to Louisiana, go back to the slums and
+        ghettos of our northern cities, knowing that somehow this situation can
+        and will be changed.
+
+    In Joanna Klink's poem “Some Feel Rain,”
+    the phrase "some feel" is repeated, which
+    creates a rhythm and a sense of an
+    accumulating emotions and meanings:
+
+        Some feel rain. Some feel the beetle startle
+        in its ghost-part when the bark
+        slips. Some feel musk. Asleep against
+        each other in the whiskey dark, scarcely there.
+
+    See Paul Muldoon’s “As,” William Blake’s
+    “The Tyger,” or much of Walt Whitman’s
+    poetry, including “I Sing the Body
+    Electric.” See also Rebecca Hazelton's
+    explanatory essay, “Adventures in
+    Anaphora.”
+
+anthropomorphism 
+    A form of personification in which human
+    qualities are attributed to anything
+    inhuman, usually a god, animal, object, or
+    concept.
+    
+    In Vachel Lindsay’s “What the Rattlesnake
+    Said,” for example, a snake describes the
+    fears of his imagined prey.
+    
+    John Keats admires a star’s loving
+    watchfulness (“with eternal lids apart”)
+    in his sonnet “Bright Star, Would I Were
+    as Steadfast as Thou Art.”
+
+antithesis 
+    Contrasting or combining two terms,
+    phrases, or clauses with opposite
+    meanings.
+    
+    William Blake pits love’s competing
+    impulses—selflessness and self-
+    interest—against each other in his poem
+    “The Clod and the Pebble.” Love “builds a
+    Heaven in Hell’s despair,” or,
+    antithetically, it “builds a Hell in
+    Heaven’s despite.”
+
+aphorism 
+    A pithy, instructive statement or truism,
+    like a maxim or adage.
+
+    See Benjamin Franklin’s “How to get
+    RICHES.”
+
+apostrophe 
+    An address to a dead or absent person, or
+    personification as if he or she were
+    present. In his Holy Sonnet “Death, be not
+    proud,” John Donne denies death’s power by
+    directly admonishing it. Emily Dickinson
+    addresses her absent object of passion in
+    “Wild nights!—Wild nights!” 
+
+archetype 
+    A basic model from which copies are made;
+    a prototype.
+    
+    According to psychologist Carl Jung,
+    archetypes emerge in literature from the
+    “collective unconscious” of the human
+    race.
+    
+    Northrop Frye, in his Anatomy of
+    Criticism, explores archetypes as the
+    symbolic patterns that recur within the
+    world of literature itself.
+    
+    In both approaches, archetypical themes
+    include birth, death, sibling rivalry, and
+    the individual versus society.
+    
+    Archetypes may also be images or
+    characters, such as the hero, the lover,
+    the wanderer, or the matriarch.
