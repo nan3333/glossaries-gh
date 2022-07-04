@@ -54,6 +54,16 @@ iambic
     of William Shakespeare), as it is closest
     to the rhythms of English speech.
 
+    Examples:
+    - exist
+    - belong
+    - predict
+    - away
+    - the one
+    - we played
+    - you know
+    - I can’t
+
 trochee
     Pronounced DUH-duh, as in “ladder.”
 
