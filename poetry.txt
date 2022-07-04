@@ -1,12 +1,43 @@
 https://www.poetryfoundation.org/learn/glossary-terms
 
+iambic dimeter
+    A line of poetry with two iambs.
+
+iambic trimeter
+    A line of poetry with three iambs.
+
+iambic tetrameter
+    A line of poetry with four iambs.
+
+iambic pentameter
+    A line of poetry with five iambs.
+
+iambic hexameter
+    A line of poetry with six iambs.
+
+iambic heptameter
+    A line of poetry with seven iambs.
+
 iambic meter
     The pattern of a poetic line made up of
     iambs.
 
-    https://www.masterclass.com/articles/understanding-iambic-meter
+    Poetic verse that is made up of iambs,
+    which are metrical "feet" with two
+    syllables.
+    
+    In iambic verse, each line consists of one
+    or more iambs.
+    
+    Iambic pentameter is the most common type
+    of iambic meter but there are several
+    others, as you'll see in the examples
+    below.
+
+    https://examples.yourdictionary.com/examples-of-iambic.html
     
 iamb
+iambic
     A metrical foot of poetry consisting of
     two syllables—an unstressed syllable
     followed by a stressed syllable,
@@ -14,6 +45,14 @@ iamb
     
     An iamb can be made up of one word with
     two syllables or two different words.
+
+    The words “unite” and “provide” are both
+    iambic.
+    
+    It is the most common meter of poetry in
+    English (including all the plays and poems
+    of William Shakespeare), as it is closest
+    to the rhythms of English speech.
 
 trochee
     Pronounced DUH-duh, as in “ladder.”
