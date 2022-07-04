@@ -15273,12 +15273,6 @@ licentiousness
     restraint; having no regard for accepted
     rules or standards.
 
-temerity
-    Excessive confidence or boldness;
-    audacity.
-    "no one had the temerity to question his
-    conclusions"
-
 decontextualized
     Considered in isolation from the context.
     "coffee-table photo books with their
@@ -16181,3 +16175,14 @@ obeisance
     A gesture expressing deferential respect,
     such as a bow or curtsy.
     "she made a deep obeisance"
+
+temerity
+    Excessive confidence or boldness;
+    audacity.
+    "no one had the temerity to question his
+    conclusions"
+
+audacious
+    Showing a willingness to take surprisingly
+    bold risks.
+    "a series of audacious takeovers"
