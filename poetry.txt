@@ -1,4 +1,5 @@
 https://www.poetryfoundation.org/learn/glossary-terms
+https://examples.yourdictionary.com/examples-of-iambic.html
 
 iambic dimeter
     A line of poetry with two iambs.
@@ -8,6 +9,12 @@ iambic trimeter
 
 iambic tetrameter
     A line of poetry with four iambs.
+
+    - William Wordsworth, "I Wandered Lonely as a Cloud"
+        I wandered, lonely as a cloud
+        That floats on high o’er dales and hills
+        When, all at once, I saw a crowd
+        A host of golden daffodils.
 
 iambic pentameter
     A line of poetry with five iambs.
