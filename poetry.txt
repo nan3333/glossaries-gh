@@ -1,5 +1,8 @@
 https://www.poetryfoundation.org/learn/glossary-terms
 https://examples.yourdictionary.com/examples-of-iambic.html
+https://www.poetryfoundation.org/learn/glossary-terms?letter=A
+https://www.poetryfoundation.org/learn/glossary-terms?letter=A&page=2
+https://www.poetryfoundation.org/learn/glossary-terms?letter=B
 
 iambic dimeter
     A line of poetry with two iambs.
@@ -429,3 +432,58 @@ archetype
     Archetypes may also be images or
     characters, such as the hero, the lover,
     the wanderer, or the matriarch.
+
+ars Poetica
+    A poem that explains the “art of poetry,”
+    or a meditation on poetry using the form
+    and techniques of a poem.
+    
+    Horace’s Ars Poetica is an early example,
+    and the foundation for the tradition.
+    
+    While Horace writes of the importance of
+    delighting and instructing audiences,
+    modernist ars poetica poets argue that
+    poems should be written for their own
+    sake, as art for the sake of art.
+    
+    Archibald MacLeish’s famous “Ars Poetica”
+    sums up the argument: “A poem should not
+    mean / But be.” See also Alexander Pope’s
+    “An Essay on Criticism,” William
+    Wordsworth’s Prelude, and Wallace
+    Stevens’s “Of Modern Poetry.”
+
+assonance
+    The repetition of vowel sounds without
+    repeating consonants; sometimes called
+    vowel rhyme.
+    
+    See Amy Lowell’s “In a Garden” (“With its
+    leaping, and deep, cool murmur”) or “The
+    Taxi” (“And shout into the ridges of the
+    wind”).
+
+aubade
+    A love poem or song welcoming or lamenting
+    the arrival of the dawn.
+    
+    The form originated in medieval France.
+    
+    See John Donne’s “The Sun Rising” and
+    Louise Bogan’s “Leave-Taking.” Browse more
+    aubade poems.
+
+augustan Age
+    The first half of the 18th century, during
+    which English poets such as Alexander Pope
+    and Jonathan Swift emulated Virgil, Ovid,
+    and Horace—the great Latin poets of the
+    reign of the Emperor Augustus (27 BCE to
+    14 CE).
+    
+    Like the classical poets who inspired
+    them, the English Augustan writers engaged
+    the political and philosophical ideas of
+    their day through urbane, often satirical
+    verse.
