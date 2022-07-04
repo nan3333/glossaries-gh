@@ -1,5 +1,44 @@
 https://www.poetryfoundation.org/learn/glossary-terms
 
+iambic meter
+    The pattern of a poetic line made up of
+    iambs.
+
+    https://www.masterclass.com/articles/understanding-iambic-meter
+    
+iamb
+    A metrical foot of poetry consisting of
+    two syllables—an unstressed syllable
+    followed by a stressed syllable,
+    pronounced duh-DUH.
+    
+    An iamb can be made up of one word with
+    two syllables or two different words.
+
+trochee
+    Pronounced DUH-duh, as in “ladder.”
+
+    A line of verse with one or more trochees
+    is said to have a trochaic meter. This
+    stress pattern is the opposite of iambic
+    meter.
+
+spondee
+    Spondees have two stressed syllables,
+    pronounced DUH-DUH, as in “TV.” Learn more
+    about spondee in our guide here.
+
+dactyl
+    Dactyls are pronounced DUH-duh-duh, as in
+    “certainly.” This foot has a stressed
+    syllable followed by two unstressed
+    syllables.
+
+anapest
+    Pronounced duh-duh-DUH, as in “what the
+    heck!” Anapestic meter typically divides
+    its syllables across multiple words.
+
 allegory
     A story, poem, or picture that can be
     interpreted to reveal a hidden meaning,
