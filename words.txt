@@ -16186,3 +16186,23 @@ audacious
     Showing a willingness to take surprisingly
     bold risks.
     "a series of audacious takeovers"
+
+indignant
+    Feeling or showing anger or annoyance at
+    what is perceived as unfair treatment.
+    "he was indignant at being the object of
+    suspicion"
+
+patronymic
+patronym
+    [surname]
+
+    A component of a personal name based on
+    the given name of one's father,
+    grandfather, or an earlier male ancestor.
+    
+    Patronymics are still in use, including
+    mandatory use, in many countries
+    worldwide, although their use has largely
+    been replaced by or transformed into
+    patronymic surnames.
