@@ -16215,3 +16215,12 @@ ineffable
 diadem
     A jeweled crown or headband worn as a
     symbol of sovereignty.
+
+noisome
+    Having an extremely offensive smell.
+    "noisome vapours from the smouldering
+    waste"
+
+    Very disagreeable or unpleasant.
+    "a noisome concoction of which cheap port
+    is the basis"
