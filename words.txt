@@ -16206,3 +16206,12 @@ patronym
     worldwide, although their use has largely
     been replaced by or transformed into
     patronymic surnames.
+
+ineffable
+    Too great or extreme to be expressed or
+    described in words.
+    "the ineffable mysteries of the soul"
+
+diadem
+    A jeweled crown or headband worn as a
+    symbol of sovereignty.
