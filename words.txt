@@ -16232,3 +16232,7 @@ pre-eminence
     "the Edinburgh Festival maintains its
     pre-eminence because of the quality of its
     programming"
+
+divers
+    Of varying types; several.
+    "in divers places"
