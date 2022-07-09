@@ -16224,3 +16224,11 @@ noisome
     Very disagreeable or unpleasant.
     "a noisome concoction of which cheap port
     is the basis"
+
+preeminance
+pre-eminence
+    The fact of surpassing all others;
+    superiority.
+    "the Edinburgh Festival maintains its
+    pre-eminence because of the quality of its
+    programming"
