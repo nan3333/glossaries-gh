@@ -1,3 +1,9 @@
+heart murmur
+    Sound of blood flowing through the heart,
+    due to anything from healthy heart
+    exertion during exercise to a diseased
+    heart valve or other abnormality.
+
 heart arrhythmia
     An irregular heartbeat.
     
