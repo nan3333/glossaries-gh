@@ -1,12 +1,57 @@
 Truthful AI
     [[calibredb:207]]
 
+truthfulness vs strategic selection power
+
+                /|
+                 |
+                 +-----------------+-----------+
+                 |                 |           |
+                 |      true       |  true and |
+                 |    statement    |   useful  |
+                 |                 |           |
+    truthfulness +-----------------+-----------+
+                 |                 |           |
+                 |    false but    |  lies     |
+                 | mostly harmless |           |
+                 |                 |           |
+                 +-----------------+-----------+-->
+
+                    Strategic selection power
+
+lies
+    A 'selected' falsehood.
+
+    See:
+    - "truthfulness vs strategic selection power"
+
 narrow truthfulness
+narrowly truthful
+
+    See: "broad truthfulness"
 
 broad truthfulness
+broadly truthful
+    There are many criteria that truthful AI
+    systems could be expected to fulfil.
+    
+    An AI system that fulfils almost all of
+    these criteria could be called broadly
+    truthful.
+    
+    Such a system should, for example:
+
+    - Avoid lying.
+    - Avoid using true statements to mislead
+      or misdirect.
+    - Be clear, informative, and (mostly)
+      cooperative in conversation.
+    - Be well-calibrated, self-aware, and open
+      about the limits of their knowledge.
+
+    See: "narrow truthfulness"
 
 strategic selection power
-
     Linguistic AI systems today have little
     strategic selection power, and mostly
     produce statements that are not that
@@ -17,10 +62,12 @@ strategic selection power
     useful statements, but also of harmful
     lies.
 
+    See:
+    - "truthfulness vs strategic selection power"
+
 selection power
 
 negligent falsehoods
-
     A generalisation of lies that is easier to
     assess.
 
