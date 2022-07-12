@@ -16324,3 +16324,14 @@ conceited
     Excessively proud of oneself; vain.
     "Fred's so conceited he'd never believe
     anyone would refuse him"
+
+chastisement
+    A severe criticism or punishment.
+
+scourge
+    A whip used as an instrument of
+    punishment.
+
+languish
+    (of a person or other living thing) lose
+    or lack vitality; grow weak or feeble.
