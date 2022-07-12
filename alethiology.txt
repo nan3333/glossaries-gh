@@ -1,7 +1,36 @@
+strategic selection power
+    [#AI truth]
+
+    [[calibredb:207]]
+
+    Linguistic AI systems today have little
+    strategic selection power, and mostly
+    produce statements that are not that
+    useful (whether true or false).
+    
+    More strategic selection power on
+    statements provides the possibility of
+    useful statements, but also of harmful
+    lies.
+
+selection power
+    [#AI truth]
+
+    [[calibredb:207]]
+
+negligent falsehoods
+    [#AI truth]
+
+    [[calibredb:207]]
+
+    A generalisation of lies that is easier to
+    assess.
+
 standard
 truthfulness standard
-    [#AI]
-    [calibre:truthful ai]
+    [#AI truth]
+
+    [[calibredb:207]]
 
     Standards can be domain-specific.
     
