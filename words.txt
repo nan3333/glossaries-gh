@@ -16373,11 +16373,34 @@ sagacious
     outright confrontation"
 
 otiose
+    Serving no practical purpose or result.
+    "there were occasions when I felt my
+    efforts were rather otiose"
 
 monograph
+    A detailed written study of a single
+    specialized subject or an aspect of it.
+    "they are publishing a series of
+    monographs on music in late medieval and
+    Renaissance cities"
 
 poignantly
+    In a way that evokes a keen sense of
+    sadness or regret.
+    "the experiences of the war are poignantly
+    described"
 
 farcical
+    Relating to or resembling farce,
+    especially because of absurd or ridiculous
+    aspects.
+    "he considered the whole idea farcical"
 
-(ˌpærɪˈnɛtɪk ) or paraenetical (ˌpærɪˈnɛtɪkəl ) adjective. of or relating to moral and ethical instruction or paraenesis. Collins English Dictionary.
+parenesis
+paraenesis
+    An address or communication strongly
+    urging someone to do something.
+
+paraenetical
+    Relating to moral and ethical instruction
+    or paraenesis.
