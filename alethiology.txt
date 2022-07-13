@@ -1,3 +1,6 @@
+lie
+    An 'intentional' falsehood.
+
 falsity
     The fact of being untrue, incorrect, or
     insincere.
