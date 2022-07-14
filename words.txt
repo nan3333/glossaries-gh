@@ -16442,3 +16442,7 @@ precosmic
 theogonic
     An account of the origin and genealogy of
     the gods.
+
+monachos
+    From Ancient Greek μοναχός ("single,
+    solitary"), from μόνος ("alone")
