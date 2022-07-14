@@ -16438,3 +16438,7 @@ devolution
 precosmic
     Occurring or existing before the existence
     of the universe.
+
+theogonic
+    An account of the origin and genealogy of
+    the gods.
