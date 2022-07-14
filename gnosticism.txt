@@ -7,13 +7,21 @@ Proarchē (Before the Beginning, προαρχή)
 Hē Archē (The Beginning, ἡ ἀρχή)
 the Ineffable Parent
 the primal Father
-    Prominent early Christian gnostics like
-    Valentinus taught that the Monad is the
-    high source of the Pleroma, the region of
-    light constituting "the fullness of the
-    Godhead." Through a process of emanation,
-    various divine entities and realms emerge
-    from the One.
+Monad
+the One
+    In many Gnostic systems, God is known as
+    the Monad, the One.
+    
+    God is the high source of the pleroma, the
+    region of light constituting "the fullness
+    of the Godhead."
+    
+    The various emanations of God are called
+    æons.
+
+    Through a process of emanation, various
+    divine entities and realms emerge from the
+    One.
     
     Arranged hierarchically, they become
     progressively degraded due to their
@@ -61,16 +69,13 @@ Pleroma
     the abode of God and of the totality of
     the divine powers and emanations.
 
-Monad
-the One
-    In many Gnostic systems, God is known as
-    the Monad, the One.
-    
-    God is the high source of the pleroma, the
-    region of light.
-    
-    The various emanations of God are called
-    æons.
+Pistis Sophia
+    The expression Pístis Sophía is obscure,
+    and its English translations varied:
+    - The Wisdom of Faith,
+    - Faith Wisdom,
+    - Wisdom in Faith, or
+    - Faith in Wisdom
 
 aeon
 æon
@@ -236,3 +241,12 @@ metanoia
     and atonement; but "conversion" and
     "reformation" may best approximate its
     connotation.
+
+Simonians
+    The Simonians were a Gnostic sect of the
+    2nd century which regarded Simon Magus as
+    its founder and traced its doctrines,
+    known as Simonianism, back to him.
+    
+    The sect flourished in Syria, in various
+    districts of Asia Minor and at Rome.
