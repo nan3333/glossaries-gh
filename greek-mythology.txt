@@ -17,3 +17,10 @@ Labyrinth
     Its function was to hold the Minotaur, the
     monster eventually killed by the hero
     Theseus.
+
+daemon
+daimons
+    (in ancient Greek belief)
+
+    A divinity or supernatural being of a
+    nature between gods and humans.
