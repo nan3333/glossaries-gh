@@ -8,3 +8,12 @@ polemic
     
     The practice of such argumentation is
     called polemics.
+
+apophasis
+    A rhetorical device wherein the speaker or
+    writer brings up a subject by either
+    denying it, or denying that it should be
+    brought up.
+    
+    Accordingly, it can be seen as a
+    rhetorical relative of irony.
