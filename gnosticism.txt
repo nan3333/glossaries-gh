@@ -250,3 +250,7 @@ Simonians
     
     The sect flourished in Syria, in various
     districts of Asia Minor and at Rome.
+
+precosmic
+    Occurring or existing before the existence
+    of the universe.

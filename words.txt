@@ -16425,3 +16425,16 @@ motley
     (of clothing) made up of a variety of
     colours.
     "they wore the motley coat of jesters"
+
+devolution
+    The statutory delegation of powers from
+    the central government of a sovereign
+    state to govern at a subnational level,
+    such as a regional or local level.
+    
+    It is a form of administrative
+    decentralization.
+
+precosmic
+    Occurring or existing before the existence
+    of the universe.
