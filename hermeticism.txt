@@ -5,3 +5,15 @@ Hermetism
     A label used to designate a philosophical
     system that is primarily based on the
     purported teachings of Hermes Trismegistus
+
+hermetic
+    (of a seal or closure) complete and
+    airtight.
+    "a hermetic seal that ensures perfect
+    waterproofing"
+
+    Relating to an ancient occult tradition
+    encompassing alchemy, astrology, and
+    theosophy.
+    "some saw in the Hermetic texts an
+    anticipation of Christianity"
