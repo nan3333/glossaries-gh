@@ -23,6 +23,10 @@ psych
 
     The totality of elements forming the
     mind specifically, in Freudian
-    psychoanalytic theory : the id, ego, and
-    superego including both conscious and
-    unconscious components.
+    psychoanalytic theory:
+    - the id,
+    - ego, and
+    - superego
+
+    including both conscious and unconscious
+    components.

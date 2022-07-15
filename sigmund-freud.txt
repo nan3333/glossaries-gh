@@ -1,0 +1,8 @@
+id
+    Instincts.
+
+ego
+    Reality.
+
+superego
+    Morality.
