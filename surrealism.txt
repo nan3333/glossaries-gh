@@ -1,10 +1,36 @@
 atmospherics
+    Effects intended to create a particular
+    atmosphere or mood, especially in music.
+    "a smoky jazz sound with spooky
+    atmospherics"
+
+metaphorist
+    A creator or user of metaphors.
+
+literalism
+    The interpretation of words in their
+    literal sense.
+    "biblical literalism"
+
+    Literal representation in literature or
+    art.
 
 metaphorism
 
 defamiliarisation
+    The representation of objects anew, in a
+    way that we do not recognize, or that
+    changes our reading of them.
 
 automaticity
+    The quality or fact of being performed
+    involuntarily or unconsciously, as a
+    reflex, innate process, or ingrained
+    habit.
+
+    "This online math program helps students
+    achieve automaticity in the basic facts of
+    addition and subtraction."
 
 dialectics
     Types:
