@@ -1,3 +1,25 @@
+atmospherics
+
+metaphorism
+
+defamiliarisation
+
+automaticity
+
+dialectics
+    Types:
+    - creative
+    - destructive
+
+chain verse
+    Two known forms:
+    - one repeats the last work or syllable of
+      a line with the first word or syllable
+      of the next line, while
+    - the other repeats the last line of each
+      stanza with the first line of the
+      following stanza.
+
 cognitive poetry
     [#cognitive poetics]
 

@@ -4,6 +4,15 @@ https://www.poetryfoundation.org/learn/glossary-terms?letter=A
 https://www.poetryfoundation.org/learn/glossary-terms?letter=A&page=2
 https://www.poetryfoundation.org/learn/glossary-terms?letter=B
 
+chain verse
+    Two known forms:
+    - one repeats the last work or syllable of
+      a line with the first word or syllable
+      of the next line, while
+    - the other repeats the last line of each
+      stanza with the first line of the
+      following stanza.
+
 iambic dimeter
     A line of poetry with two iambs.
 
