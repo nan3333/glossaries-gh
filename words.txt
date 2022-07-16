@@ -16495,3 +16495,8 @@ irredeemably
     
     (of paper money) not convertible into gold
     or silver.
+
+foregoing
+    Just mentioned or stated; preceding.
+    "the foregoing analysis of the economic
+    class structure"
