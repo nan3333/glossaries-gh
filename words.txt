@@ -16483,3 +16483,8 @@ lecherous
 permanence
     The state or quality of lasting or
     remaining unchanged indefinitely.
+
+excoriated
+    Criticize (someone) severely.
+    "he excoriated the government for
+    censorship"
