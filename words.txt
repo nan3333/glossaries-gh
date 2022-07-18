@@ -16485,4 +16485,30 @@ foregoing
     "the foregoing analysis of the economic
     class structure"
 
+primate
+    [#Western Church]
+
+    An archbishop—or, rarely, a suffragan or
+    exempt bishop—of a specific (mostly
+    metropolitan) episcopal see (called a
+    primatial see) who has precedence over the
+    bishoprics of one or more ecclesiastical
+    provinces of a particular historical,
+    political or cultural area.
+
 primacy
+    The fact of being pre-eminent or most
+    important.
+    "London's primacy as a financial centre"
+
+    The office, period of office, or authority
+    of a primate of the Church.
+    "the first years of his primacy were
+    tranquil"
+
+inveigh
+inveighing
+    Speak or write about (something) with
+    great hostility.
+    "he liked to inveigh against all forms of
+    academic training"
