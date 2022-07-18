@@ -15336,22 +15336,6 @@ seraphim
     fifth rank of ten in the Jewish angelic
     hierarchy.
 
-immanence
-    [#philosophy]
-    [#theology]
-
-    The doctrine or theory of immanence holds
-    that the divine encompasses or is
-    manifested in the material world.
-
-    It is held by some philosophical and
-    metaphysical theories of divine presence.
-
-    A term applied, in contradistinction to
-    “transcendence,” to the fact or condition
-    of being entirely within something (from
-    Latin immanere, “to dwell in, remain”).
-
 accentuation
     The action or fact of accentuating or of
     being accentuated.
@@ -16500,3 +16484,5 @@ foregoing
     Just mentioned or stated; preceding.
     "the foregoing analysis of the economic
     class structure"
+
+primacy
