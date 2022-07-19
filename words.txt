@@ -16553,3 +16553,8 @@ adherent
     Someone who supports a particular party,
     person, or set of ideas.
     "he was a strong adherent of monetarism"
+
+guile
+    Sly or cunning intelligence.
+    "he used all his guile and guts to free
+    himself from the muddle he was in"
