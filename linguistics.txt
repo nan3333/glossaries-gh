@@ -1,3 +1,11 @@
+creole
+    A creole language arises if a pidgin,
+    developed by adults for use as a second
+    language, becomes the native and primary
+    language of their children.
+
+    https://aclanthology.org/2021.conll-1.5.pdf
+
 preposition
     Literally, "pre-position" -- it's a word
     that expects another word to follow.
