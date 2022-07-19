@@ -16512,3 +16512,8 @@ inveighing
     great hostility.
     "he liked to inveigh against all forms of
     academic training"
+
+busybody
+    A busybody, do-gooder, meddler, or marplot
+    is someone who meddles in the affairs of
+    others.
