@@ -61,7 +61,7 @@ evildoer
 knave
     A dishonest or unscrupulous man.
 
-dishonestly
+dishonesty
 
 unscrupulous
     Having or showing no moral principles; not

@@ -16517,3 +16517,34 @@ busybody
     A busybody, do-gooder, meddler, or marplot
     is someone who meddles in the affairs of
     others.
+
+shameless
+    (of a person or their conduct)
+    characterized by or showing a lack of
+    shame; barefaced or brazen.
+    "his shameless hypocrisy"
+
+tractate
+    A written work dealing formally and
+    systematically with a subject; the word
+    derives from the Latin tractatus, meaning
+    treatise.
+
+treatise
+    A formal and systematic written discourse
+    on some subject, generally longer and
+    treating it in greater depth than an
+    essay, and more concerned with
+    investigating or exposing the principles
+    of the subject and its conclusions.
+    
+    A monograph is a treatise on a specialized
+    topic.
+
+cogent
+cogently
+    Appealing forcibly to the mind or reason.
+
+    Convincing.
+
+    "talk cogently"
