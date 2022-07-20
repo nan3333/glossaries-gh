@@ -16565,3 +16565,8 @@ recantation
     retraction.
     "every writer interprets Galileo's
     recantation in a different way"
+
+vainglory
+    Excessive pride in oneself or one's
+    achievements; excessive vanity.
+    "his vainglory put the Republic at risk"
