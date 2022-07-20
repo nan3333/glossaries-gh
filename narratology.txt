@@ -199,10 +199,10 @@ fiction
     partially imagined) characters, events,
     and environments.
 
+figure of speech
 figurative language
-    See Figure of speech.
-
-figure of speech (also, Figurative language, Rhetorical device, Trope)
+rhetorical device
+trope
     The use of language in ways that deviate
     from the literal meaning of words and
     sentences, exploiting connotations and
@@ -316,9 +316,6 @@ mise en abyme (from French, ‘placed into an abyss’)
     reflecting or recursive images to create
     paradoxical narrations.
 
-moral
-    See Thesis.
-
 motif
     An existent that recurs throughout the
     story and often has a symbolic
@@ -423,9 +420,6 @@ resolution
 rhetoric
     The art of crafting effective or
     persuasive discourse.
-
-rhetorical device
-    See Figure of speech.
 
 rising action
     Stage in the evolution of a plot where the
@@ -535,7 +529,8 @@ theme
     A relevant meaning identified by an
     interpreter in narrative discourse.
 
-thesis (also, Moral)
+thesis
+moral
     A message or lesson explicitly or
     implicitly conveyed by narrative
     discourse.
@@ -544,13 +539,8 @@ topography
     The arrangement of natural and artificial
     things laid out in space.
 
-trope
-    See Figure of speech.
-
+typical character
 type
-    See Typical character.
-
-typical character (also, Type)
     A character that represents a particular
     aspect of humanity or a particular group
     of humans.
