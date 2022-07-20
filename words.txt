@@ -14352,6 +14352,17 @@ exegesis
     a text, especially of scripture.
     "the task of biblical exegesis"
 
+eisegesis
+    (to draw in)
+
+    In the sense of an eisegetic commentator
+    "importing" or "drawing in" their own
+    subjective interpretations into the text,
+    unsupported by the text itself.
+    
+    Eisegesis is often used as a derogatory
+    term.
+
 asceticism
     Severe self-discipline and avoiding of all
     forms of indulgence, typically for
