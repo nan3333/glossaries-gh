@@ -5,6 +5,9 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+StateVar
+    https://hackage.haskell.org/package/StateVar
+
 $=
 ($=)
     In the StateVar package, the following is
