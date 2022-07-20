@@ -5,6 +5,32 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+$=
+($=)
+    In the StateVar package, the following is
+    defined:
+
+        class HasSetter s where -- class of all
+        writable state variables.
+
+        ($=) :: s a -> a -> IO ()
+
+    Write a new value into a state variable.
+
+    So it is the 'write' operator for settable
+    (mutable) values. Particularly as used in
+    OpenGL.
+
+    https://youtu.be/1MNTerD8IuI?t=308
+
+        initGL width height = do
+        clearColor $= Color4 1 1 1 1
+        viewport $= (Position 0 0,
+                    Size (fromIntegral width)
+                         (fromIntegral height))
+        ortho 0 (fromIntegral width)
+              0 (fromIntegral height) (-1) 1
+
 partial function [haskell]
     A function that is not defined for all
     possible arguments of the specified type.
