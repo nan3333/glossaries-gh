@@ -16558,3 +16558,10 @@ guile
     Sly or cunning intelligence.
     "he used all his guile and guts to free
     himself from the muddle he was in"
+
+recantation
+    A statement that one no longer holds a
+    particular opinion or belief; a
+    retraction.
+    "every writer interprets Galileo's
+    recantation in a different way"
