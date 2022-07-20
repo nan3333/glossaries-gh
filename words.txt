@@ -16570,3 +16570,20 @@ vainglory
     Excessive pride in oneself or one's
     achievements; excessive vanity.
     "his vainglory put the Republic at risk"
+
+peripeteia
+    A sudden reversal of fortune or change in
+    circumstances, especially in reference to
+    fictional narrative.
+
+    Example:
+    - The instantaneous conversion of Paul on
+      the road to Damascus is a classic
+      example of peripeteia, which Eusebius
+      presented in his Life of Constantine as
+      a pattern for the equally revelatory
+      conversion of Constantine. Modern
+      biographers of Constantine see his
+      conversion less as a momentary
+      phenomenon than as a step in a lifelong
+      process.
