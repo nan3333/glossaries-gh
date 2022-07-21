@@ -2202,6 +2202,7 @@ do
     in the following statements.
 
 let
+let expression
     form:
         let <bindings> in <expression>
 
@@ -2221,6 +2222,36 @@ let
     'let' allows you to combine the
     readability of a 'where' clause with the
     power of a lambda function.
+
+    Haskell's let expressions are useful
+    whenever a nested set of bindings is
+    required. As a simple example, consider:
+
+        let y   = a*b
+            f x = (x+y)/y
+        in f c + f d
+
+    The set of bindings created by a let
+    expression is mutually recursive, and
+    pattern bindings are treated as lazy
+    patterns (i.e. they carry an implicit ~).
+    The only kind of declarations permitted
+    are type signatures, function bindings,
+    and pattern bindings.
+
+let
+    [ghci keyword]
+
+    Note: We can use the let keyword to define
+    a name right in GHCI.
+
+    Doing let a = 1 inside GHCI is the
+    equivalent of writing a = 1 in a script
+    and then loading it.
+
+    ghci> let lostNumbers = [4,8,15,16,23,42]
+    ghci> lostNumbers
+    [4,8,15,16,23,42]
 
 let vs where
     ewwlinks +/"Very similar to where bindings are let bindings" "http://learnyouahaskell.com/syntax-in-functions"
@@ -3317,20 +3348,6 @@ comparing lists
     ['w','o'] ++ ['o','t']
     'A':" SMALL CAT"
     ( [6,6,6]:[[1,2,3,4],[5,3,3,3],[1,2,2,3,4],[1,2,3]] ++ [[1,1,1,1]] ) !! 2
-
-let
-    [ghci keyword]
-
-    Note: We can use the let keyword to define
-    a name right in GHCI.
-
-    Doing let a = 1 inside GHCI is the
-    equivalent of writing a = 1 in a script
-    and then loading it.
-
-    ghci> let lostNumbers = [4,8,15,16,23,42]
-    ghci> lostNumbers
-    [4,8,15,16,23,42]
 
 '
     doubleSmallNumber' x = (if x > 100 then x else x*2) + 1
@@ -4850,24 +4867,6 @@ block-structuring
     Examples:
     - let expressions
     - where clauses
-
-let
-Let expression
-    Haskell's let expressions are useful
-    whenever a nested set of bindings is
-    required. As a simple example, consider:
-
-        let y   = a*b
-            f x = (x+y)/y
-        in f c + f d
-
-    The set of bindings created by a let
-    expression is mutually recursive, and
-    pattern bindings are treated as lazy
-    patterns (i.e. they carry an implicit ~).
-    The only kind of declarations permitted
-    are type signatures, function bindings,
-    and pattern bindings.
 
 mutually recursive
     A form of recursion where two mathematical
