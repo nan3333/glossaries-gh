@@ -16616,3 +16616,11 @@ sermonette
     five minutes in length, and featured
     religious clergy from churches in the
     local station's coverage area.
+
+reprisal
+retaliation
+    An act of retaliation.
+    "three youths died in the reprisals which
+    followed"
+
+    "in reprisal, I have destroyed"
