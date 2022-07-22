@@ -16624,3 +16624,11 @@ retaliation
     followed"
 
     "in reprisal, I have destroyed"
+
+beguile
+    Charm or enchant (someone), sometimes in a
+    deceptive way.
+
+asinine
+    Extremely stupid or foolish.
+    "Lydia ignored his asinine remark"
