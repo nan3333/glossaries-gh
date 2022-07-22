@@ -16632,3 +16632,13 @@ beguile
 asinine
     Extremely stupid or foolish.
     "Lydia ignored his asinine remark"
+
+nymph
+    A nymph in ancient Greek folklore is a
+    minor female nature deity.
+    
+    Different from Greek goddesses, nymphs are
+    generally regarded as personifications of
+    nature, are typically tied to a specific
+    place or landform, and are usually
+    depicted as beautiful maidens.
