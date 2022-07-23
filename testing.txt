@@ -1,3 +1,14 @@
+Shift-left testing
+    An approach to software testing and system
+    testing in which testing is performed
+    earlier in the lifecycle (i.e. moved left
+    on the project timeline).
+    
+    It is the first half of the maxim "test
+    early and often".
+    
+    It was coined by Larry Smith in 2001.
+
 Wizard of Oz testing
     Testing in which the automated machine
     component is substituted by some form of
