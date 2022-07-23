@@ -1,3 +1,11 @@
+senior staff engineer
+
+principal engineer
+
+staff engineers
+    Tasked with identifying problems
+    themselves that need to be solved.
+
 archivist
     An information professional who assesses,
     collects, organizes, preserves, maintains
