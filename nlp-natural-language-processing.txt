@@ -3,6 +3,28 @@ $NOTES/ws/linguistics/glossary.txt
 http://learnthesewordsfirst.com/about/what-is-a-multi-layer-dictionary.html
 https://github.com/explosion/spaCy/blob/master/spacy/glossary.py
 
+Semantic parsing
+    The task of converting a NL utterance to a
+    logical form: a machine-understandable
+    representation of its meaning.
+    
+    Semantic parsing can thus be understood as
+    extracting the precise meaning of an
+    utterance.
+    
+    Applications of semantic parsing include
+    machine translation, QA, ontology
+    induction, automated reasoning, and code
+    generation.
+    
+    The phrase was first used in the 1970s by
+    Yorick Wilks as the basis for machine
+    translation programs working with only
+    semantic representations.
+    
+    In CV, semantic parsing is a process of
+    segmentation for 3D objects.
+
 Large Language Model
 Large LM
 LLM

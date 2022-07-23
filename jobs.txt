@@ -1,8 +1,31 @@
+manager of one
+    https://about.gitlab.com/handbook/engineering/ic-leadership/
+
 senior staff engineer
+    [IC]
+
 
 principal engineer
+    [IC]
 
-staff engineers
+
+IC
+Individual Contributor
+    If anyone else isn't familiar with 'IC',
+    it seems it stands for “individual
+    contributor” (as opposed to a role where
+    you're managing others).
+
+staff engineer
+    [IC]
+
+    The first IC leadership position, a level
+    above senior engineer. As well as
+    technical strength, core leadership skills
+    such as critical thinking, judgment,
+    listening, empathy, and communication are
+    essential at this level of seniority.
+
     Tasked with identifying problems
     themselves that need to be solved.
 
@@ -72,3 +95,13 @@ Site reliability engineer
     operations by applying a software
     engineering mindset to system
     administration topics.
+
+CISO
+Chief information security officer
+    A hief information security officer is the
+    senior-level executive within an
+    organization responsible for establishing
+    and maintaining the enterprise vision,
+    strategy, and program to ensure
+    information assets and technologies are
+    adequately protected.
