@@ -2201,6 +2201,9 @@ do
     variables defined by <- are only in scope
     in the following statements.
 
+    Embedded do:
+    - https://youtu.be/AtsPtAf2avQ?t=287
+
 let
 let expression
     form:
