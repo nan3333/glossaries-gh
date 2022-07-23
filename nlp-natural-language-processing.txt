@@ -3047,6 +3047,14 @@ machine reading
 
 
 machine translation
+MT
+    A sub-field of computational linguistics
+    that investigates the use of software to
+    translate text or speech from one language
+    to another.
+
+    See:
+    - Neural Machine Translation
 
 
 mathematical knowledge management
