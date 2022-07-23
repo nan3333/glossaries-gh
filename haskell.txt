@@ -3217,6 +3217,9 @@ Maybe
 read
     [function]
 
+    Example:
+    - https://youtu.be/4x_ARIVLdLw?list=PLmTgnNwroyn8TnF26YRvW-hvQF1ypztzg&t=266
+
     https://www.snoyman.com/blog/2017/01/functors-applicatives-and-monads
 
     read is trying to parse it into an
