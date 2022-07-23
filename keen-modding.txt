@@ -8,3 +8,11 @@ Keengraph
     Linux do exist.
 
     https://keenwiki.shikadi.net/wiki/Keengraph
+
+ModKeen
+    [outmoded]
+
+    A Keen graphics importing/exporting utility
+    written by Andrew Durdin.
+
+    https://keenwiki.shikadi.net/wiki/ModKeen

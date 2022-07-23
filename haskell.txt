@@ -2206,8 +2206,11 @@ do
 
 let
 let expression
-    form:
+    form 1:
         let <bindings> in <expression>
+
+    form 2:
+        let <bindings>
 
     ewwlinks +/"Let it be" "http://learnyouahaskell.com/syntax-in-functions"
 
@@ -2243,6 +2246,7 @@ let expression
     and pattern bindings.
 
 let
+let keyword
     [ghci keyword]
 
     Note: We can use the let keyword to define
