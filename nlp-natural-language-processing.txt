@@ -2948,8 +2948,33 @@ example-based machine translation
 facebook client
 
 
+knowledge extraction
 fact extraction
+    Creation of knowledge from structured
+    (relational databases, XML) and
+    unstructured (text, documents, images)
+    sources.
+    
+    The resulting knowledge needs to be in a
+    machine-readable and machine-interpretable
+    format and must represent knowledge in a
+    manner that facilitates inferencing.
+    
+    Although it is methodically similar to
+    information extraction (NLP) and ETL (data
+    warehouse), the main criterion is that the
+    extraction result goes beyond the creation
+    of structured information or the
+    transformation into a relational schema.
+    
+    It requires either the reuse of existing
+    formal knowledge (reusing identifiers or
+    ontologies) or the generation of a schema
+    based on the source data. 
 
+    https://en.wikipedia.org/wiki/Knowledge_extraction
+
+    https://github.com/dbpedia/fact-extractor
 
 general game playing
 
