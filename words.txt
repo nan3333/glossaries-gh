@@ -16652,3 +16652,22 @@ fabulist
     "a born fabulist, with an imagination
     unfettered by the laws of logic and
     probability"
+
+unfettered
+    Unrestrained or uninhibited.
+    "unfettered artistic genius"
+
+effeminate
+    The embodiment of traits in a boy or man
+    that are more often associated with
+    feminine behavior, mannerism, style, or
+    gender roles rather than with
+    traditionally masculine behavior,
+    mannerisms, style or roles.
+
+solipsistically
+    With consideration only for one's own
+    interest.
+    
+    Of course, solipsistically, an actor wants
+    to do projects that are good for him.
