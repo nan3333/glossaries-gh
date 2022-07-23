@@ -2277,6 +2277,7 @@ let vs where
         topArea = pi * r ^2
         in  sideArea + 2 * topArea
 
+case
 Case expressions
     ewwlinks +/"Case expressions" "http://learnyouahaskell.com/syntax-in-functions#case-expressions"
     ewwlinks +/"case, of" "https://wiki.haskell.org/Keywords#case.2C_of"
@@ -2292,6 +2293,8 @@ Case expressions
         head' :: [a] -> a
         head' xs = case xs of [] -> error "No head for empty lists!"
                               (x:_) -> x
+
+    https://youtu.be/BK1VFLfEigM?list=PLmTgnNwroyn8TnF26YRvW-hvQF1ypztzg&t=160
 
 sequence
 sequence_
