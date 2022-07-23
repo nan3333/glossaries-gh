@@ -1,4 +1,4 @@
-syntactic_parsing
+syntactic parsing
     The automatic analysis of syntactic
     structure of NL, especially syntactic
     relations (in dependency grammar) and
