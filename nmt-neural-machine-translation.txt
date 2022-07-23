@@ -1,3 +1,20 @@
+Multi-document summarization
+    An automatic procedure aimed at extraction
+    of information from multiple texts written
+    about the same topic.
+    
+    The resulting summary report allows
+    individual users, such as professional
+    information consumers, to quickly
+    familiarize themselves with information
+    contained in a large cluster of documents.
+    
+    In such a way, multi-document
+    summarization systems are complementing
+    the news aggregators performing the next
+    step down the road of coping with
+    information overload.
+
 Neural machine translation
 NMT
     One approach to machine translation.
