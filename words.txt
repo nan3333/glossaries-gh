@@ -16642,3 +16642,13 @@ nymph
     nature, are typically tied to a specific
     place or landform, and are usually
     depicted as beautiful maidens.
+
+fabulist
+    A person who composes or relates fables.
+
+    A liar, especially one who invents
+    elaborately dishonest stories.
+
+    "a born fabulist, with an imagination
+    unfettered by the laws of logic and
+    probability"
