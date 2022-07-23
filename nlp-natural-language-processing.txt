@@ -899,6 +899,26 @@ Question Answering
 
     Use "Strongly Supervised End-to-End Memory Networks".
 
+Query understanding
+    The process of inferring the intent of a
+    search engine user by extracting semantic
+    meaning from the searcher’s keywords.
+    
+    Query understanding methods generally take
+    place before the search engine retrieves
+    and ranks results.
+    
+    It is related to NLP but specifically
+    focused on the understanding of search
+    queries.
+    
+    Query understanding is at the heart of
+    technologies like Amazon Alexa, Apple's
+    Siri.
+    
+    Google Assistant, IBM's Watson, and
+    Microsoft's Cortana.
+
 Sentiment Analysis
     [task]
 
