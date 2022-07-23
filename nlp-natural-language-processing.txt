@@ -899,7 +899,7 @@ Question Answering
 
     Use "Strongly Supervised End-to-End Memory Networks".
 
-Query understanding
+Query Understanding
     The process of inferring the intent of a
     search engine user by extracting semantic
     meaning from the searcher’s keywords.
