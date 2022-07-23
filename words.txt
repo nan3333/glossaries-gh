@@ -16421,6 +16421,16 @@ motley
     colours.
     "they wore the motley coat of jesters"
 
+statutory
+    Required, permitted, or enacted by
+    statute.
+    "statutory controls over prices"
+
+    Having come to be required or expected
+    through being done or made regularly.
+    "the statutory Christmas phone call to his
+    mother"
+
 devolution
     The statutory delegation of powers from
     the central government of a sovereign
@@ -16429,6 +16439,15 @@ devolution
     
     It is a form of administrative
     decentralization.
+
+delegation of powers
+    [#U.S. constitutional law]
+
+    The transfer of a specific authority by
+    one of the three branches of government
+    (executive, legislative, and judicial) to
+    another branch or to an independent
+    agency.
 
 precosmic
     Occurring or existing before the existence
