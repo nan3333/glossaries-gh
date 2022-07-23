@@ -1538,6 +1538,8 @@ data record
         :t b
         -- b :: Prod -> Bool
 
+    https://youtu.be/BMF6z88xiYw?list=PLmTgnNwroyn8TnF26YRvW-hvQF1ypztzg&t=231
+
 product type
     [#haskell]
     [constructor]
@@ -2936,6 +2938,9 @@ deriving
         Circle 10.0 20.0 5.0
         ghci> Rectangle 50 230 60 90
         Rectangle 50.0 230.0 60.0 90.0
+
+deriving show
+    https://youtu.be/BMF6z88xiYw?list=PLmTgnNwroyn8TnF26YRvW-hvQF1ypztzg&t=329
 
 newtype
 newtype declaration
