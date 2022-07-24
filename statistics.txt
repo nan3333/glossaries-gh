@@ -1,3 +1,14 @@
+power law
+    The term power law describes a functional
+    relationship between two quantities where
+    one quantity varies as a power of the
+    other.
+
+    [[https://www.youtube.com/watch?v=7jUp1rR-Q4I][Exponentials & Power Laws - YouTube]]
+
+exponential
+power
+
 covariance
     A measure of the joint variability of two
     random variables.
