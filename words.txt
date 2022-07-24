@@ -2481,20 +2481,6 @@ anisotropy
 galling
     Causing annoyance or resentment; annoying.
 
-solipsistic
-    A theory holding that the self can know
-    nothing but its own modifications and that
-    the self is the only existent thing also :
-    extreme egocentrism.
-
-    Only one's mind is sure to exist.
-
-    As an epistemological position, solipsism
-    holds that knowledge of anything outside
-    one's own mind is unsure; the external
-    world and other minds cannot be known and
-    might not exist outside the mind.
-
 deterrent
     A thing that discourages or is intended to
     discourage someone from doing something.
