@@ -67,3 +67,6 @@ Paravirtualization
 
 Amazon Machine Images
 AWS AMI
+    A supported and maintained image provided
+    by AWS that provides the information
+    required to launch an instance.

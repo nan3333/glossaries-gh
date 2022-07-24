@@ -4429,6 +4429,16 @@ bind
     container to the first argument of a
     function.
 
+    https://wiki.haskell.org/Simple_monad_examples
+    
+    All you really need to know, is that the
+    (>>=) operator either returns Nothing if
+    it is passed Nothing on its left-hand
+    side; or if its left-hand side is a Just
+    x, for example, it strips off the Just,
+    and passes the contents into the function
+    supplied on its right-hand side. Simple!
+
     One of the operators of Monad; Another is
     'return', which is rather simple, it just
     containerizes a value.
