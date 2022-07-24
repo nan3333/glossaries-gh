@@ -4260,6 +4260,12 @@ Either
     and the Right constructor is used to hold
     a correct value (mnemonic: "right" also
     means "correct").
+
+    The type Either String Int is the type of
+    values which can be either a String or an
+    Int. The Left constructor can be used only
+    on Strings, and the Right constructor can
+    be used only on Ints.
     
     Constructors:
     - Left a
