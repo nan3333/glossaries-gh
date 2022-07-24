@@ -4275,8 +4275,9 @@ fmap
     this operator is an allusion to $. Note
     the similarities between their types:
 
-    ($)  ::              (a -> b) ->   a ->   b
-    (<$>) :: Functor f => (a -> b) -> f a -> f b
+        ($)  ::              (a -> b) ->   a ->   b
+        (<$>) :: Functor f => (a -> b) -> f a -> f b
+
     Whereas $ is function application, <$> is
     function application lifted over a
     Functor.
