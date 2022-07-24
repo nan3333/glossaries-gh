@@ -1,0 +1,29 @@
+computationalism
+    A philosophy of mind theory stating that
+    cognition is a form of computation.
+    
+    It is relevant to the simulation
+    hypothesis in that it illustrates how a
+    simulation could contain conscious
+    subjects, as required by a "virtual
+    people" simulation.
+    
+    For example, it is well known that
+    physical systems can be simulated to some
+    degree of accuracy.
+    
+    If computationalism is correct and if
+    there is no problem in generating
+    artificial consciousness or cognition, it
+    would establish the theoretical
+    possibility of a simulated reality.
+    
+    Nevertheless, the relationship between
+    cognition and phenomenal qualia of
+    consciousness is disputed.
+    
+    It is possible that consciousness requires
+    a vital substrate that a computer cannot
+    provide and that simulated people, while
+    behaving appropriately, would be
+    philosophical zombies.
