@@ -26,7 +26,3 @@ Strength to Weight Ratio
 
     https://youtu.be/f1Ln7X_MbHs?t=251
 
-neural scaling law
-
-scaling laws for neural language models
-    https://arxiv.org/abs/2001.08361
