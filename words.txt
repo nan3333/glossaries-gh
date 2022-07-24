@@ -16746,3 +16746,9 @@ death wail
     Celts of Europe; and various indigenous
     peoples of Asia, the Americas, Africa, and
     Australia.
+
+stultifying
+    Tending to stifle enthusiasm, initiative,
+    or freedom of action.
+    "the stultifying conformity of provincial
+    life"
