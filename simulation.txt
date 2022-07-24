@@ -27,3 +27,12 @@ computationalism
     provide and that simulated people, while
     behaving appropriately, would be
     philosophical zombies.
+
+philosophical zombie
+p-zombie
+    A thought experiment in philosophy of mind
+    that imagines a hypothetical being that is
+    physically identical to and
+    indistinguishable from a normal person but
+    does not have conscious experience,
+    qualia, or sentience.
