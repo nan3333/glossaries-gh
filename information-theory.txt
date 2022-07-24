@@ -49,11 +49,6 @@ Sh
     shannons is equal to the number of bits in
     the sequence.
 
-cross entropy
-    [[https://www.youtube.com/watch?v=tRsSi_sqXjI][Cross Entropy - YouTube]]
-
-    [[https://www.youtube.com/watch?v=ErfnhcEV1O8][A Short Introduction to Entropy, Cross-Entropy and KL-Divergence - YouTube]]
-
 feature selection
 variable selection
 attribute selection
@@ -179,6 +174,7 @@ cross entropy
 cross-entropy
     [#information theory]
 
+    [[https://www.youtube.com/watch?v=tRsSi_sqXjI][Cross Entropy - YouTube]]
     [[https://www.youtube.com/watch?v=ErfnhcEV1O8][A Short Introduction to Entropy, Cross-Entropy and KL-Divergence - YouTube]]
 
     readsubs "https://www.youtube.com/watch?v=ErfnhcEV1O8" | v +/"average message length"
@@ -192,8 +188,6 @@ cross-entropy
     message length will of course be 3 bits,
     and that’s the cross-entropy.
 
-cross entropy
-cross-entropy
     [#probability]
     [#deep learning]
 
