@@ -1110,6 +1110,30 @@ transformer
     - encoder self-attention
     - decoder self-attention
 
+Perceiver
+    A transformer adapted to be able to
+    process non-textual data, such as images,
+    sounds and video, and spatial data.
+    
+    Transformers underlie other notable
+    systems such as BERT and GPT-3, which
+    preceded Perceiver.
+    
+    It adopts an asymmetric attention
+    mechanism to distill inputs into a latent
+    bottleneck, allowing it to learn from
+    large amounts of heterogeneous data.
+    
+    Perceiver matches or outperforms
+    specialized models on classification
+    tasks.
+
+   Perceiver was introduced in June 2021 by
+   DeepMind.
+   
+   It was followed by Perceiver IO in August
+   2021.
+
 residual neural network
 resnet
     [ANN]
