@@ -4437,7 +4437,8 @@ bind
     side; or if its left-hand side is a Just
     x, for example, it strips off the Just,
     and passes the contents into the function
-    supplied on its right-hand side. Simple!
+    supplied on its right-hand side, which
+    rewraps it. Simple!
 
     One of the operators of Monad; Another is
     'return', which is rather simple, it just
