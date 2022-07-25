@@ -1439,6 +1439,11 @@ non sequitur
     irrelevant, often humorous comment to a
     preceding topic or statement.
 
+    A conclusion or statement that does not
+    logically follow from the previous
+    argument or statement.
+    "his weird mixed metaphors and non sequiturs"
+
 thread-safe
     Concerns safety with respect to shared
     data.
