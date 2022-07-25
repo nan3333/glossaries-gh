@@ -1,3 +1,24 @@
+Turing machine
+    An abstract model of a computer developed
+    by the famous com- puter scientist Alan
+    Turing.
+    
+    From a theoretical standpoint, the Turing
+    machine is useful because it allows you to
+    reason about what can and can’t be
+    computed, not just on a digital computer,
+    but any possible computer.
+    
+    This model also allows computer scientists
+    to show equivalence between computing
+    systems if they can each simulate a Turing
+    machine.
+    
+    You can use this to show, for example,
+    that there’s nothing that you can com-
+    pute in Java that you can’t also compute
+    in assembly language.
+
 Gödel machine
     Theoretical self-improving computer
     program that solves problems in an optimal
