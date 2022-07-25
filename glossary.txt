@@ -645,31 +645,17 @@ Extreme learning machine
     amounts to learning a linear model. The name "extreme learning machine"
     (ELM) was given to such models by its main inventor Guang-Bin Huang.
 
-Kohonen Network
-Self-Organising Map
+Kohonen network
+self-organising map
 SOM
+self-organizing feature map
+    An unsupervised ML technique used to
+    produce a low-dimensional representation
+    of a higher dimensional data set while
+    preserving the topological structure of
+    the data.
 
-neural Turing machines
-NTM
-
-Differentiable Neural Computer
-DNC
-    [ANN]
-
-    An outgrowth of NTM.
-
-    NTM + attention mechanisms that control
-    where the memory is active, and improved
-    performance.
-
-    Takes advantage of memory augmentation
-    and, at the same time, the attention
-    mechanism.
-
-LSTM
-Long Short-term Memory
-
-Neural Turing Machine
+Turing Neural Machine
 NTM
     Combines the fuzzy pattern matching
     capabilities of neural networks with the
@@ -703,6 +689,23 @@ NTM
             algorithms such as copying,
             sorting, and associative recall
             from input and output examples.
+
+Differentiable Neural Computer
+DNC
+    [ANN]
+
+    An outgrowth of NTM.
+
+    NTM + attention mechanisms that control
+    where the memory is active, and improved
+    performance.
+
+    Takes advantage of memory augmentation
+    and, at the same time, the attention
+    mechanism.
+
+LSTM
+Long Short-term Memory
 
 Homomorphic encryption
     A form of encryption that allows
