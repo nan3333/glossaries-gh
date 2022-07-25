@@ -698,9 +698,17 @@ ultratask
     "ultratask".
     
 interpellate
-    (of an ideology or discourse) bring into
-    being or give identity to (an individual
-    or category).
+    [#philosophy]
+
+    (of an ideology or discourse)
+    bring into being or give identity to (an
+    individual or category).
+
+    [#Marxism]
+
+    The process by which we encounter a
+    culture's or ideology's values and
+    internalize them.
 
 infinite regress
     An infinite series of entities governed by

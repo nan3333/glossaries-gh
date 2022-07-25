@@ -16772,3 +16772,7 @@ Supernal
 recapitulation
     An act or instance of summarizing and
     restating the main points of something.
+
+arborescent
+    Resembling a tree in growth or appearance.
+    "arborescent succulents"
