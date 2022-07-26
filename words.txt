@@ -16797,3 +16797,8 @@ paunchy
     A large or protruding belly.
     "his body was powerful and square, with
     the beginnings of a paunch"
+
+stature
+    Importance or reputation gained by ability
+    or achievement.
+    "an architect of international stature"
