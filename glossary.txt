@@ -2049,7 +2049,9 @@ The degree of relationship
         many-to-many (M:N)
 
 a priori
+priori
 a posteriori
+posteriori
     "a priori" means 'from the earlier'.
 
     "a posteriori" means 'from the later'.
