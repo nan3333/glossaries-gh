@@ -16786,3 +16786,14 @@ eviscerated
 underclassman
     A member of the freshman or sophomore
     class in a school or college.
+
+accentuate
+    Make more noticeable or prominent.
+    "his jacket unfortunately accentuated his
+    paunch"
+
+paunch
+paunchy
+    A large or protruding belly.
+    "his body was powerful and square, with
+    the beginnings of a paunch"
