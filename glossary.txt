@@ -2062,11 +2062,13 @@ posteriori
     argument by their reliance on empirical
     evidence or experience.
     
-    A priori knowledge is independent from
-    current experience.
-    
-    Examples include mathematics, tautologies,
-    and deduction from pure reason.
+    a priori:
+        A priori knowledge is independent from
+        current experience.
+        
+        Examples include mathematics,
+        tautologies, and deduction from pure
+        reason.
 
 Nautical twilight
     The second twilight phase. Both the
