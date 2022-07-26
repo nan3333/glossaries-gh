@@ -16776,3 +16776,13 @@ recapitulation
 arborescent
     Resembling a tree in growth or appearance.
     "arborescent succulents"
+
+eviscerated
+    Deprive (something) of its essential
+    content.
+    "myriad little concessions that would
+    eviscerate the project"
+
+underclassman
+    A member of the freshman or sophomore
+    class in a school or college.
