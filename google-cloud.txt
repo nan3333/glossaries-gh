@@ -1,3 +1,11 @@
+https://ai.google/tools/
+
+Document AI
+    https://youtu.be/F_jyoe1lQhg?t=145
+
+    It may take a photo of a document, and
+    read in all the data.
+
 Lighthouse
     An open-source, automated tool for
     improving the quality of web pages. You

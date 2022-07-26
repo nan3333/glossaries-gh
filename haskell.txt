@@ -2271,6 +2271,10 @@ let expression
     are type signatures, function bindings,
     and pattern bindings.
 
+    The body (after the 'in') of the let
+    clause needs to be indented if it's
+    multilined, I think.
+
 let
 let keyword
     [ghci keyword]

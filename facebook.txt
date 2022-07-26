@@ -27,3 +27,23 @@ Hydra
     Elegantly configure complex applications.
 
     https://hydra.cc
+
+grey circle around a white dot
+    [#messenger]
+
+    Message not sent.
+
+grey circle around a white dot with a grey tick inside
+    [#messenger]
+
+    Message sent but not delivered.
+
+filled grey circle with white tick inside
+    [#messenger]
+
+    Sent and delivered but not seen.
+
+filled photo circle
+    [#messenger]
+
+    Seen.
