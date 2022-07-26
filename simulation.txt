@@ -36,3 +36,21 @@ p-zombie
     indistinguishable from a normal person but
     does not have conscious experience,
     qualia, or sentience.
+
+    Zombies in philosophy are imaginary
+    creatures designed to illuminate problems
+    about consciousness and its relation to
+    the physical world.
+    
+    Unlike the ones in films or witchcraft,
+    they are exactly like us in all physical
+    respects but without conscious
+    experiences: by definition there is
+    ‘nothing it is like’ to be a zombie.
+    
+    Yet zombies behave just like us, and some
+    even spend a lot of time discussing
+    consciousness.
+
+    https://plato.stanford.edu/entries/zombies/
+
