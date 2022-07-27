@@ -16824,3 +16824,17 @@ ceiled
     To set a higher bound.
 
 unceiled
+    Not ceiled.
+
+implore
+    Beg someone earnestly or desperately to do
+    something.
+    "he implored her to change her mind"
+
+illumines
+    Light up; brighten.
+    "he moved her lamp so that her face was
+    illumined"
+
+    Enlighten (someone) spiritually or
+    intellectually.
