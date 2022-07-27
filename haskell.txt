@@ -5,6 +5,20 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+GT
+LT
+EQ
+    Special values representing:
+    - Greater-than
+    - Less-than
+    - Equal-to
+
+    Used within a comparator.
+
+    In order languages they would be:
+    - -1, 0 and 1, or
+    - True and False
+
 StateVar
     https://hackage.haskell.org/package/StateVar
 

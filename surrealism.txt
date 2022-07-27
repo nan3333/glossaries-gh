@@ -392,6 +392,8 @@ biomorphic
     associations with living forms such as
     plants and the human body.
 
+    [[gi:biomorphic art]]
+
 brushwork
     Brushwork refers to the way a painter
     applies paint to a surface.
@@ -415,6 +417,8 @@ chiaroscuro
     the Italian Renaissance by Leonard da
     Vinci, the Baroque period by Caravaggio,
     and the Dutch Golden Age by Rembrandt.
+
+    gi:chiaroscuro
 
 dada
     An artistic and literary movement formed
