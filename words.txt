@@ -16897,3 +16897,9 @@ exceptionalism
     The term carries the implication, whether
     or not specified, that the referent is
     superior in some way.
+
+unfurl
+unfurled
+    Make or become spread out from a rolled or
+    folded state, especially in order to be
+    open to the wind.
