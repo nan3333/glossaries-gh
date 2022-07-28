@@ -16861,3 +16861,6 @@ synergism
     agents to produce a combined effect
     greater than the sum of their separate
     effects.
+
+prethought
+    Having a thought before actually thinking.
