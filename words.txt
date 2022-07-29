@@ -16903,3 +16903,12 @@ unfurled
     Make or become spread out from a rolled or
     folded state, especially in order to be
     open to the wind.
+
+abase
+abasing
+    Behave in a way that belittles or degrades
+    (someone).
+
+amble
+ambling
+    Walk or move at a slow, relaxed pace.
