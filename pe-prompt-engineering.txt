@@ -1,3 +1,18 @@
+mode signature
+    [neologism]
+
+    It's like a type signature, but for the
+    modes of a multi-modal prompt.
+
+    i.e.
+    image -> (image text)
+
+    This would define a prompt function which
+    takes an image and returns a different
+    image together with some text; Perhaps
+    it's a variation of the image and a
+    description of the variation.
+
 self-diagnosis
 self-debiasing
     [[calibre:Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP]]
