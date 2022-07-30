@@ -1,3 +1,6 @@
+module
+    https://en.wikipedia.org/wiki/Module_(mathematics)
+
 transcendental function
     An analytic function that does not satisfy
     a polynomial equation, in contrast to an

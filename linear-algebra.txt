@@ -1,3 +1,9 @@
+syzygy module 
+    https://en.wikipedia.org/wiki/Linear_relation
+
+linear relation
+    https://en.wikipedia.org/wiki/Linear_relation
+
 spectrum [of a matrix]
     [#math]
 
