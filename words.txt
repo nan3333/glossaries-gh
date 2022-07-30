@@ -16912,3 +16912,10 @@ abasing
 amble
 ambling
     Walk or move at a slow, relaxed pace.
+
+tipi
+lodge
+    A conical tent, historically made of
+    animal hides or pelts, and in more recent
+    generations of canvas, stretched on a
+    framework of wooden poles.
