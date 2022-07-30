@@ -1912,6 +1912,77 @@ monad functor
 
     See "monad transformer".
 
+    An algebraic structure from mathematics
+    that has proved useful for addressing a
+    number of computational problems.
+
+    Provide a powerful way to build
+    computations with effects.
+
+    Each of the standard monads is specialised
+    to do exactly one thing.
+
+    In real code, we often need to be able to
+    use several effects at once.
+
+    Bind and unit define a monad.
+
+    In the Haskell standard library bind and
+    unit are called the Writer monad.
+
+    In Haskell, monads play a central role in
+    the I/O system. It is not essential to
+    understand monads to do I/O in Haskell,
+    but understanding the I/O monad will
+    improve your code and extend your
+    capabilities.
+
+    For the programmer, monads are useful
+    tools for structuring functional programs.
+    They have three properties that make them
+    especially useful:
+
+    Modularity
+    - They allow computations to be composed
+      from simpler computations and separate
+      the combination strategy from the actual
+      computations being performed.
+    Flexibility
+    - They allow functional programs to be
+      much more adaptable than equivalent
+      programs written without monads. This is
+      because the monad distills the
+      computational strategy into a single
+      place instead of requiring it be
+      distributed throughout the entire
+      program.
+    Isolation
+    - They can be used to create
+      imperative-style computational
+      structures which remain safely isolated
+      from the main body of the functional
+      program. This is useful for
+      incorporating side-effects (such as I/O)
+      and state (which violates referential
+      transparency) into a pure functional
+      language like Haskell.
+
+    A monoid in the category of endofunctors.
+
+    http://blog.klipse.tech/javascript/2016/08/31/monads-javascript.html
+
+    Prevalent in Haskell because it only
+    allows pure functions, that is functions
+    that do not have side effects.
+
+    The typical monad introduction will tell
+    you that monads are all about sneaking
+    side effects into this model so you can do
+    I/O.  
+        But that’s just one application.
+        Monads are really about composing
+        functions, as we’ll see.
+
 The three fundamental laws of monads
     The concept of a monad comes from a branch
     of mathematics called category theory.

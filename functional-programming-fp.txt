@@ -267,44 +267,6 @@ bind
     Convert a debuggable function into a
     composable form.
 
-monad
-    An algebraic structure from mathematics
-    that has proved useful for addressing a
-    number of computational problems.
-
-    Provide a powerful way to build
-    computations with effects.
-
-    Each of the standard monads is specialised
-    to do exactly one thing.
-
-    In real code, we often need to be able to
-    use several effects at once.
-
-    Bind and unit define a monad.
-
-    In the Haskell standard library bind and
-    unit are called the Writer monad.
-
-    from the actual computations being
-    performed.
-
-    A monoid in the category of endofunctors.
-
-    http://blog.klipse.tech/javascript/2016/08/31/monads-javascript.html
-
-    Prevalent in Haskell because it only
-    allows pure functions, that is functions
-    that do not have side effects.
-
-    The typical monad introduction will tell
-    you that monads are all about sneaking
-    side effects into this model so you can do
-    I/O.  
-        But that’s just one application.
-        Monads are really about composing
-        functions, as we’ll see.
-
 side effect
     console.log() is neither an argument nor a
     return value of the function, it is a side
