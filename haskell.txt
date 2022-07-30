@@ -5739,3 +5739,11 @@ instance Alternative
     [typeclass]]
 
     https://stackoverflow.com/questions/13080606/confused-by-the-meaning-of-the-alternative-type-class-and-its-relationship-to
+
+closure
+    Example:
+
+        -- The host argument is captured in
+        -- the lambda function:
+
+        genHostRequestBuilder host = (\apiKey resource id -> getRequestUrl host apikey resource id)
