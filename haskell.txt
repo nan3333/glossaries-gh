@@ -2413,6 +2413,17 @@ Case expressions
 
     https://youtu.be/BK1VFLfEigM?list=PLmTgnNwroyn8TnF26YRvW-hvQF1ypztzg&t=160
 
+    otherwise (or _)
+
+        -- These two are equivalent
+        case var of
+             cond -> value
+             otherwise -> other
+
+        case var of
+             cond -> value
+             _ -> other
+
 sequence
 sequence_
     ewwlinks +/"sequence \[(> 4), (< 10), odd\] 7" "http://derekwyatt.org/2012/01/25/haskell-sequence-over-functions-explained/"
