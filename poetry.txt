@@ -5126,3 +5126,10 @@ Zeugma
     dust.” Here, “coming to dust” refers to
     the chimney-sweeper’s trade as well as the
     body’s decay.
+
+Adjective-noun pairs
+ANP
+    A popular mid-level semantic construct for
+    capturing affect via visually detectable
+    concepts such as “cute dog" or “beautiful
+    landscape".
