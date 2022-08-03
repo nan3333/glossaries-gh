@@ -16937,3 +16937,6 @@ retinue
 doe
     A female deer, especially a female roe,
     fallow deer, or reindeer.
+
+dodecad
+    A group or set of twelve.
