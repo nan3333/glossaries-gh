@@ -1,0 +1,74 @@
+#+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
+#+OPTIONS: toc:nil
+
+#+HUGO_BASE_DIR: /home/shane/dump/home/shane/notes/ws/blog/blog
+#+HUGO_SECTION: ./posts
+
+#+TITLE: Journal: I dreamed of Melee
+#+DATE: <2022-07-02>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: melee journal surreal
+
+** My dream
+Melee changed her cover photo to a picture of
+a computer terminal. In my dream I knew she
+responded in kind to me.
+
+Specifically, she changed it to my pinterest photo.
+
+https://github.com/eleleth/photos/raw/master/melee/pinterest.jpg
+
++ My pinterest :: https://www.pinterest.nz/mullikine/
+
+This was already in my heart, but after this she has been in absolutely everything I am doing.
+
+| ID | Date        | Lucidity              | Prophetic  | Holy Spirit | Surreal |
+|----+-------------+-----------------------+------------+-------------+---------|
+| 16 | [[https://mullikine.github.io/posts/i-dreamed-of-melee/][Jul 2, 2022]] | Semiotic μVision (μV) | I hope so! | Yes         | ✓       |
+
+** Interpretation
+LOL 2s again. Since it happened on the 2nd without me planning it, it's evidence.
+I had been trying to do something for Melee [[https://mullikine.github.io/tags/melee/][on days with lots of 2s]] in the date because it's the angel number for happiness.
+Anyway, dreaming about her on the 2nd is confirmation.
+
+I put it in my [[https://mullikine.github.io/posts/dream-resume/][dream resume]].
+
+*** The image is also significant
++ Glossary :: [[http://github.com/semiosis/glossaries-gh/blob/master/functional-programming-fp.txt][functional programming (FP)]]
+
+I think this means that Melee has to be part
+of my closure; I have to capture her in my
+state.
+
+No way I'm letting go!
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  closure
+      Function objects which retain information
+      from the scope they were constructed in.
+  
+      Example:
+  
+          (defun foo (x) (lambda (y) (+ x y)))
+  
+          (let ((bar (foo 10)))
+             (funcall bar 20))
+  
+      My loose definition:
+  
+      16:58 <libertyprime> you can invoke a subshell ()
+      16:58 <libertyprime> the subshell has a copy of all the variables in its environment
+      16:58 <gargantua> yeah
+      16:58 <libertyprime> thats a closure apparently
+  
+      A function with a copy of the variables /
+      references to variables what were in its
+      environment.
+  
+      But more specifically, it is a function
+      which can be passed around while
+      containing the environment.
+  
+      An example:
+          v +/"closure" "$NOTES/ws/glossaries/emacs-lisp.txt"
+#+END_SRC
