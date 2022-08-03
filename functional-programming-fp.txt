@@ -441,3 +441,32 @@ beta normal form
     It’s also valuable to have an appreciation
     for evaluation as a form of simplification
     when you get to the Haskell code as well.
+
+closure
+    Function objects which retain information
+    from the scope they were constructed in.
+
+    Example:
+
+        (defun foo (x) (lambda (y) (+ x y)))
+
+        (let ((bar (foo 10)))
+           (funcall bar 20))
+
+    My loose definition:
+
+    16:58 <libertyprime> you can invoke a subshell ()
+    16:58 <libertyprime> the subshell has a copy of all the variables in its environment
+    16:58 <gargantua> yeah
+    16:58 <libertyprime> thats a closure apparently
+
+    A function with a copy of the variables /
+    references to variables what were in its
+    environment.
+
+    But more specifically, it is a function
+    which can be passed around while
+    containing the environment.
+
+    An example:
+        v +/"closure" "$NOTES/ws/glossaries/emacs-lisp.txt"
