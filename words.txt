@@ -16933,3 +16933,7 @@ retinue
     accompanying an important person.
     "the rock star's retinue of security
     guards and personal cooks"
+
+doe
+    A female deer, especially a female roe,
+    fallow deer, or reindeer.
