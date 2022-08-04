@@ -16940,3 +16940,6 @@ doe
 
 dodecad
     A group or set of twelve.
+
+inimical
+    Tending to obstruct or harm.

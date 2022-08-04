@@ -1,3 +1,24 @@
+censer
+incense burner
+perfume burner
+pastille burner
+    A vessel made for burning incense or
+    perfume in some solid form.
+    
+    They vary greatly in size, form, and
+    material of construction, and have been in
+    use since ancient times throughout the
+    world.
+
+golden censer
+    Revelation 8:3
+        3 Another angel, who had a golden
+        censer, came and stood at the altar.
+        He was given much incense to offer,
+        with the prayers of all God’s people,
+        on the golden altar in front of the
+        throne.
+
 angelolatry
 worship of angels
     Primarily relates to either excessive

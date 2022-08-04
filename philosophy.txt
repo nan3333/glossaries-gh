@@ -1,5 +1,28 @@
 https://plato.stanford.edu/contents.html
 
+potentiality
+actuality
+    [#philosophy]
+
+    Potentiality and actuality are a pair of
+    closely connected principles which
+    Aristotle used to analyze motion,
+    causality, ethics, and physiology in his
+    Physics, Metaphysics, Nicomachean Ethics,
+    and De Anima.
+
+potentiality
+dynamis
+    By contrast, potentiality (dynamis in
+    Greek) is not a mode in which a thing
+    exists, but rather the power to effect
+    change, the capacity of a think to make
+    transitions into different states.
+    
+    Later, in the philosophy of Husserl,
+    actuality means existence in space and
+    time, as opposed to possibility.
+
 solipsistic
     A theory holding that the self can know
     nothing but its own modifications and that
