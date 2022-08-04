@@ -16943,3 +16943,20 @@ dodecad
 
 inimical
     Tending to obstruct or harm.
+
+artifice
+    Clever or cunning devices or expedients,
+    especially as used to trick or deceive
+    others.
+    "an industry dominated by artifice"
+
+mesmerize
+    Capture the complete attention of
+    (someone); transfix.
+    "they were mesmerized by his story"
+
+inception
+    The establishment or starting point of an
+    institution or activity.
+    "she has been on the board since its
+    inception two years ago"
