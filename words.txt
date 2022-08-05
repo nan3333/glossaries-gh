@@ -16981,3 +16981,11 @@ quisling
     force occupying their country.
     "he had the Quisling owner of the factory
     arrested"
+
+phlegmatic
+    (of a person) having an unemotional and
+    stolidly calm disposition.
+
+vouchsafe
+    Give or grant (something) to (someone) in
+    a gracious or condescending manner.
