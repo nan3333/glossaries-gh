@@ -1,3 +1,15 @@
+logogram
+logograph
+lexigraph
+    [#Language writing type]
+
+    A written character that represents a word
+    or morpheme.
+    
+    Chinese characters are generally
+    logograms, as are many hieroglyphic and
+    cuneiform characters.
+
 referent
     A person or thing to which a name - a
     linguistic expression or other symbol -
