@@ -12500,3 +12500,27 @@ cauldron
     
     There is a rich history of cauldron lore
     in religion, mythology, and folklore.
+
+lunisolar
+    Of or concerning the combined motions or
+    effects of the sun and moon.
+
+    Of or employing a calendar year divided
+    according to the phases of the moon, but
+    adjusted in average length to fit the
+    length of the solar cycle.
+
+    Of or denoting a 532-year period over
+    which both the lunar months and the days
+    of the week return to the same point in
+    relation to the solar year.
+
+Lunisolar calendar
+    A lunisolar calendar is a calendar in many
+    cultures, combining lunar calendars and
+    solar calendars.
+    
+    The date of Lunisolar calendars therefore
+    indicates both the Moon phase and the time
+    of the solar year, that is the position of
+    the Sun in the Earth's sky.
