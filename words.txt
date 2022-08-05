@@ -16966,3 +16966,12 @@ eucatastrophe
     ensures that the protagonist does not meet
     some terrible, impending, and very
     plausible and probable doom.
+
+palimpsest
+    [#textual studies]
+
+    A palimpsest is a manuscript page, either
+    from a scroll or a book, from which the
+    text has been scraped or washed off so
+    that the page can be reused for another
+    document.
