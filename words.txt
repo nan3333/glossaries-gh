@@ -16975,3 +16975,9 @@ palimpsest
     text has been scraped or washed off so
     that the page can be reused for another
     document.
+
+quisling
+    A traitor who collaborates with an enemy
+    force occupying their country.
+    "he had the Quisling owner of the factory
+    arrested"
