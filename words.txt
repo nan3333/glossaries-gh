@@ -16960,3 +16960,9 @@ inception
     institution or activity.
     "she has been on the board since its
     inception two years ago"
+
+eucatastrophe
+    A sudden turn of events in a story which
+    ensures that the protagonist does not meet
+    some terrible, impending, and very
+    plausible and probable doom.
