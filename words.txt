@@ -17005,3 +17005,13 @@ selfsame
     Exactly the same.
     "he was standing in the selfsame spot
     you're filling now"
+
+Brimstone
+    An archaic term synonymous with sulfur,
+    evokes the acrid odor of sulfur dioxide
+    given off by lightning strikes.
+    
+    Lightning was understood as divine
+    punishment by many ancient religions; the
+    association of sulfur with divine
+    retribution is common in the Bible.
