@@ -463,9 +463,14 @@ Archons
     those of beasts.
 
 secretarian
-Of, relating to, or characteristic of a sect. 2. Adhering or confined to the dogmatic limits of a sect or denomination; partisan.
 
 sectarian
+    Of, relating to, or characteristic of a
+    sect.
+
+    Adhering or confined to the dogmatic
+    limits of a sect or denomination;
+    partisan.
 
 Archontic
 Archontics
