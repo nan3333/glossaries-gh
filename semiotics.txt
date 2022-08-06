@@ -734,3 +734,43 @@ S^r
 S^d
     Example:
     - A specific tree.
+
+freeplay
+    A reference by Derrida (originally in the
+    1960s) to signifiers not being fixed to
+    their signifieds but pointing beyond
+    themselves to other signifiers in an
+    ‘indefinite referral of signifier to
+    signified’.
+    
+    Signs thus always refer to other signs,
+    and there is no final sign referring only
+    to itself—no transcendent signified.
+    
+    Meaning is endlessly deferred (see
+    difference).
+    
+    Denying that there were any ultimate
+    determinable meanings (see also
+    indeterminacy), Derrida championed the
+    deconstruction of Western semiotic
+    systems.
+    
+unlimited semiosis
+    The term coined by Eco to refer to the way
+    in which, for Peirce (via the
+    interpretant), for Barthes (via
+    connotation), for Derrida (via freeplay),
+    and for Lacan (via ‘the sliding
+    signified’; see slippage of meaning), the
+    signified is endlessly
+    commutable—functioning in its turn as a
+    signifier for a further signified.
+    
+    In contrast, while Saussure established
+    the general principle that signs always
+    relate to other signs (see relational
+    model), within his structuralist model the
+    relationship between signifier and
+    signified is portrayed as stable and
+    predictable.
