@@ -462,10 +462,16 @@ Archons
     hermaphroditic, with their faces being
     those of beasts.
 
-archontic
+secretarian
+Of, relating to, or characteristic of a sect. 2. Adhering or confined to the dogmatic limits of a sect or denomination; partisan.
 
+sectarian
+
+Archontic
 Archontics
 Archontici
+    [Gnostic secretarians]
+
     A Gnostic sect that existed in Palestine
     and Armenia, who arose towards the mid 4th
     century CE.
@@ -475,3 +481,6 @@ Archontici
     by reason that they held the world to have
     been created and ruled by malevolent
     Archons.
+
+    Gnostic secretarians whom Epiphanius calls
+    Archontics

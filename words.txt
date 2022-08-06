@@ -16989,3 +16989,19 @@ phlegmatic
 vouchsafe
     Give or grant (something) to (someone) in
     a gracious or condescending manner.
+
+fetter
+    A chain or manacle used to restrain a
+    prisoner, typically placed around the
+    ankles.
+    "he lay bound with fetters of iron"
+
+    Restrain with chains or manacles,
+    typically around the ankles.
+    "there were no chains immediately
+    available to fetter the prisoners"
+
+selfsame
+    Exactly the same.
+    "he was standing in the selfsame spot
+    you're filling now"

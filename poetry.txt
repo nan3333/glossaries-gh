@@ -528,10 +528,44 @@ augustan Age
     verse.
 
 Ballad
-A popular narrative song passed down orally. In the English tradition, it usually follows a form of rhymed (abcb) quatrains alternating four-stress and three-stress lines. Folk (or traditional) ballads are anonymous and recount tragic, comic, or heroic stories with emphasis on a central dramatic event; examples include “Barbara Allen” and “John Henry.” Beginning in the Renaissance, poets have adapted the conventions of the folk ballad for their own original compositions. Examples of this “literary” ballad form include John Keats’s “La Belle Dame sans Merci,” Thomas Hardy’s “During Wind and Rain,” and Edgar Allan Poe’s “Annabel Lee.” Browse more ballads.
+    A popular narrative song passed down
+    orally.
+    
+    In the English tradition, it usually
+    follows a form of rhymed (abcb) quatrains
+    alternating four-stress and three-stress
+    lines.
+    
+    Folk (or traditional) ballads are
+    anonymous and recount tragic, comic, or
+    heroic stories with emphasis on a central
+    dramatic event; examples include “Barbara
+    Allen” and “John Henry.” Beginning in the
+    Renaissance, poets have adapted the
+    conventions of the folk ballad for their
+    own original compositions.
+    
+    Examples of this “literary” ballad form
+    include John Keats’s “La Belle Dame sans
+    Merci,” Thomas Hardy’s “During Wind and
+    Rain,” and Edgar Allan Poe’s “Annabel
+    Lee.” Browse more ballads.
 
 Ballade
-An Old French verse form that usually consists of three eight-line stanzas and a four-line envoy, with a rhyme scheme of ababbcbc bcbc. The last line of the first stanza is repeated at the end of subsequent stanzas and the envoy. See Hilaire Belloc’s “Ballade of Modest Confession” and Algernon Charles Swinburne’s translation of François Villon’s “Ballade des Pendus” (Ballade of the Hanged).
+    An Old French verse form that usually
+    consists of three eight-line stanzas and a
+    four-line envoy, with a rhyme scheme of
+    ababbcbc bcbc.
+    
+    The last line of the first stanza is
+    repeated at the end of subsequent stanzas
+    and the envoy.
+    
+    See Hilaire Belloc’s “Ballade of Modest
+    Confession” and Algernon Charles
+    Swinburne’s translation of François
+    Villon’s “Ballade des Pendus” (Ballade of
+    the Hanged).
 
 Beat poets
 A national group of poets who emerged from San Francisco’s literary counterculture in the 1950s. Its ranks included Allen Ginsberg, Lawrence Ferlinghetti, Gregory Corso, and Gary Snyder. Poet and essayist Kenneth Rexroth influenced the development of the “Beat” aesthetic, which rejected academic formalism and the materialism and conformity of the American middle class. Beat poetry is largely free verse, often surrealistic, and influenced by the cadences of jazz, as well by Zen and Native American spirituality. Browse more Beat poets.
