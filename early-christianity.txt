@@ -68,6 +68,53 @@ teleioi
     the New Test., not indeed in this sense,
     but in relation to Christian perfection.
 
+dunamis
+dynamei
+dynameis
+    https://www.billmounce.com/greek-dictionary/dynamis
+
+    Power, ability.
+
+    Miracle.
+
+    Ruler, an extended meaning of a person or
+    supernatural being who has administrative
+    power.
+
+    Potentiality.
+
+potentiality
+actuality
+    [#philosophy]
+
+    Potentiality and actuality are a pair of
+    closely connected principles which
+    Aristotle used to analyze motion,
+    causality, ethics, and physiology in his
+    Physics, Metaphysics, Nicomachean Ethics,
+    and De Anima.
+
+potentiality
+dunamis
+    By contrast, potentiality (dunamis in
+    Greek) is not a mode in which a thing
+    exists, but rather the power to effect
+    change, the capacity of a think to make
+    transitions into different states.
+
+    Later, in the philosophy of Husserl,
+    actuality means existence in space and
+    time, as opposed to possibility.
+
+energeia
+    A word based upon ἔργον (ergon), meaning
+    'work'. It is the source of the modern
+    word energy but the term has evolved so
+    much over the course of the history of
+    science that reference to the modern term
+    is not very helpful in understanding the
+    original as used by Aristotle.
+
 paston
 bridal chamber
 nuptial chamber
