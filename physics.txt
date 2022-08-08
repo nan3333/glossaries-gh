@@ -1168,3 +1168,35 @@ Foucault's pendulum
     The pendulum was introduced in 1851 and
     was the first experiment to give simple,
     direct evidence of the Earth's rotation
+
+time crystal
+    [#condensed matter physics]
+
+    A quantum system of particles whose
+    lowest-energy state is one in which the
+    particles are in repetitive motion.
+    
+    The system cannot lose energy to the
+    environment and come to rest because it is
+    already in its quantum ground state.
+    
+    Because of this, the motion of the
+    particles does not really represent
+    kinetic energy like other motion; it has
+    "motion without energy".
+    
+    Time crystals were first proposed
+    theoretically by Frank Wilczek in 2012 as
+    a time-based analogue to common crystals —
+    whereas the atoms in crystals are arranged
+    periodically in space, the atoms in a time
+    crystal are arranged periodically in both
+    space and time.
+    
+    Several different groups have demonstrated
+    matter with stable periodic evolution in
+    systems that are periodically driven.
+    
+    In terms of practical use, time crystals
+    may one day be used as quantum computer
+    memory.
