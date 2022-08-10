@@ -5167,3 +5167,9 @@ ANP
     capturing affect via visually detectable
     concepts such as “cute dog" or “beautiful
     landscape".
+
+Poetic effects
+    The ways by which the different poetic
+    levels (as those postulated in this text:
+    Poetics I, Poetics II) are perceived,
+    cognized, and/or experienced.
