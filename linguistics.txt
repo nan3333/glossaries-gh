@@ -1604,8 +1604,29 @@ Two-dimensionalism
     numerous philosophers since, including
     David Chalmers.
 
+finite verb
+    The form "to which number and person
+    appertain", in other words, those
+    inflected for number and person.
+
+    Verbs were originally said to be finite if
+    their form limited the possible person and
+    number of the subject.
+
+nonfinite verb
+    A derivative form of a verb unlike finite
+    verbs.
+    
+    Accordingly, nonfinite verb forms are
+    inflected for neither number nor person,
+    and they cannot perform action as the root
+    of an independent clause.
+    
+    In English, nonfinite verbs include
+    infinitives, participles and gerunds.
+
 participle
-    [linguistics]
+    [#linguistics]
 
     A nonfinite verb form that has some of the
     characteristics and functions of both
