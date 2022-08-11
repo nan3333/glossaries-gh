@@ -1654,6 +1654,19 @@ past participle
     - hoped, and
     - broken.
 
+    Three forms:
+    - regular,
+    - irregular, and
+    - adjective.
+
+    The regular form of the past participle
+    ends in -ed, demonstrating a past action.
+    
+    The irregular form of the past participle
+    includes the word has' and puts the verb
+    into its past tense form, also
+    demonstrating a past action.
+
 cloze
     Pertaining to or being a procedure used to
     measure comprehension or text difficulty,
