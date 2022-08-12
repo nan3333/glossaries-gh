@@ -17049,3 +17049,37 @@ impute
     undesirable) as being done or possessed by
     someone; attribute.
     "the crimes imputed to Richard"
+
+constituency
+    A group of voters in a specified area who
+    elect a representative to a legislative
+    body.
+    "most politicians are more interested in
+    the voice of their constituency"
+
+legislator
+    A person who writes and passes laws,
+    especially someone who is a member of a
+    legislature.
+    
+    Legislators are often elected by the
+    people of the state.
+    
+    Legislatures may be supra-national,
+    national, or local.
+
+gerund
+present participle
+    Examples:
+    - toadying
+
+toady
+toadying
+    Act in an obsequious way.
+    "she imagined him toadying to his rich
+    clients"
+
+obsequious
+    Obedient or attentive to an excessive or
+    servile degree.
+    "they were served by obsequious waiters"
