@@ -978,11 +978,19 @@ mince
 
 mise en place
     [verb]
-     -the preparation of ingredients, such as dicing onions or measuring spices, before starting cooking
+
+    The preparation of ingredients, such as
+    dicing onions or measuring spices, before
+    starting cooking
+
 mother
     [noun]
 
-    the base sauce used to make other variations of the original sauce; there are five variations: brown or espagnole, velouté, béchamel, tomato sauce, and emulsions
+    The base sauce used to make other
+    variations of the original sauce; there
+    are five variations: brown or espagnole,
+    velouté, béchamel, tomato sauce, and
+    emulsions
 
 nappe
     [noun]
@@ -1174,11 +1182,20 @@ tempering
 
 tourner
     [verb]
-     -to cut ingredients such as carrots or potatoes into a barrel-like shape that form six or seven sides on the length of the item being cut, using a Tourner knife or a paring knife
+
+    To cut ingredients such as carrots or
+    potatoes into a barrel-like shape that
+    form six or seven sides on the length of
+    the item being cut, using a Tourner knife
+    or a paring knife
+
 trussing
     [verb]
 
-    to tie meat or poultry, such as turkey with a string, woven through the bird parts by using a needle, in order to create a more compact shape before cooking
+    To tie meat or poultry, such as turkey
+    with a string, woven through the bird
+    parts by using a needle, in order to
+    create a more compact shape before cooking
 
 ultra-pasteurization
     [noun]
