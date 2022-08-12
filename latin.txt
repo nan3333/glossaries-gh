@@ -87,3 +87,13 @@ ab initio
     However, this is rarely achieved, owing to
     man's unique ability to be distracted from
     spiritual matters by everyday trivia."
+
+pari passu
+    Literally:
+    - With an equal step.
+    - On equal footing.
+
+    It is sometimes translated as "ranking
+    equally", "hand-in-hand", "with equal
+    force", or "moving together", and by
+    extension, "fairly", "without partiality".
