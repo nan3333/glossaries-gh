@@ -17083,3 +17083,11 @@ obsequious
     Obedient or attentive to an excessive or
     servile degree.
     "they were served by obsequious waiters"
+
+gratuitous
+    Done without good reason; uncalled for.
+    "gratuitous violence"
+
+    Given or done free of charge.
+    "solicitors provide a form of gratuitous
+    legal advice"

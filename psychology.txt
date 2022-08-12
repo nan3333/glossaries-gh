@@ -1306,3 +1306,13 @@ personal distress
 emotional contagion
     A phenomenon of an automatic adoption of
     an emotional state of another person.
+
+ambivert
+    A person who has a balance of extrovert
+    and introvert features in their
+    personality.
+    "Dr. Brian Little had attendees roaring
+    with laughter with his psychological
+    analysis of extraverts, introverts and
+    ambiverts and how we are more efficient
+    together."
