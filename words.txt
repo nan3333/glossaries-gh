@@ -5510,9 +5510,6 @@ belligerent
 rescinded
     Revoke, cancel or repeal.
 
-countenance
-    A person's face or facial expression.
-
 redressed
     Remedy or set right (an undesirable or
     unfair situation).
@@ -7044,14 +7041,6 @@ propound
 
 imperishable
     Enduring forever.
-
-countenance
-    A person's face or facial expression.
-
-    "his impenetrable eyes and inscrutable
-    countenance give little away"
-
-    "His countenance was stern"
 
 bray
     (of a person) speak or laugh loudly and
@@ -14286,11 +14275,6 @@ rending
 
     "a rending in the fabric of reality"
 
-countenance
-    A person's face or facial expression.
-    "his impenetrable eyes and inscrutable
-    countenance give little away"
-
 sanctification
     The action of making or declaring
     something holy.
@@ -17032,3 +17016,24 @@ windowdressing
 
     Something used to create a deceptively
     favorable or attractive impression.
+
+languished
+    (of a person, animal, or plant) lose or
+    lack vitality; grow weak.
+    "plants may appear to be languishing
+    simply because they are dormant"
+
+countenance
+    A person's face or facial expression.
+
+    "his impenetrable eyes and inscrutable
+    countenance give little away"
+
+    "His countenance was stern"
+
+    Indicate moral support.
+
+    Bearing or expression that offers approval
+    or sanction.
+    "her countenance of their unsafe
+    amusements"
