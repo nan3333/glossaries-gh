@@ -17037,3 +17037,15 @@ countenance
     or sanction.
     "her countenance of their unsafe
     amusements"
+
+repute
+    The opinion generally held of someone or
+    something; the state of being regarded in
+    a particular way.
+    "pollution could bring the authority's name into bad repute"
+
+impute
+    Represent (something, especially something
+    undesirable) as being done or possessed by
+    someone; attribute.
+    "the crimes imputed to Richard"
