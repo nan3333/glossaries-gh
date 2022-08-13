@@ -1,3 +1,14 @@
+metaphysician
+    Investigate questions about the ways the
+    world could have been.
+    
+    David Lewis, in On the Plurality of
+    Worlds, endorsed a view called concrete
+    modal realism, according to which facts
+    about how things could have been are made
+    true by other concrete worlds in which
+    things are different.
+
 abstract
 concrete
     [#metaphysics]
@@ -90,3 +101,19 @@ essence
     or substance what it fundamentally is, and
     which it has by necessity, and without
     which it loses its identity.
+
+modal realism
+    The view propounded by David Kellogg Lewis
+    that all possible worlds are real in the
+    same way as is the actual world: they are
+    "of a kind with this world of ours."
+
+    It is based on the following tenets:
+    possible worlds exist; possible worlds are
+    not different in kind from the actual
+    world; possible worlds are irreducible
+    entities; the term actual in actual world
+    is indexical, i.e. any subject can declare
+    their world to be the actual one, much as
+    they label the place they are "here" and
+    the time they are "now".
