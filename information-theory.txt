@@ -382,3 +382,11 @@ Levenshtein distance
     
     It is closely related to pairwise string
     alignments.
+
+Kolmogorov complexity
+    [#algorithmic information theory]
+
+    The Kolmogorov complexity of an object,
+    such as a piece of text, is the length of
+    a shortest computer program that produces
+    the object as output.
