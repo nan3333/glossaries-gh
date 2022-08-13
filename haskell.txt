@@ -5747,3 +5747,12 @@ closure
         -- the lambda function:
 
         genHostRequestBuilder host = (\apiKey resource id -> getRequestUrl host apikey resource id)
+
+fromMaybe
+    -- Read an integer from a string using 'Text.Read.readMaybe'. If we fail to
+    -- parse an integer, we want to return @0@ by default:
+    --
+    -- >>> import Text.Read ( readMaybe )
+    -- >>> fromMaybe 0 (readMaybe "5")
+    -- 5
+    -- >>> fromMaybe 0 (readMaybe "")
