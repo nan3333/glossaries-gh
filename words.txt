@@ -17091,3 +17091,20 @@ gratuitous
     Given or done free of charge.
     "solicitors provide a form of gratuitous
     legal advice"
+
+indisputable
+    Unable to be challenged or denied.
+    "a far from indisputable fact"
+
+requital
+    Something given in return, compensation,
+    or retaliation.
+
+    The act or action of requiting : the state
+    of being requited.
+
+brevity
+    Concise and exact use of words in writing
+    or speech.
+    "the staff will edit manuscripts with a
+    view to brevity and clarity"
