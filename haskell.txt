@@ -1479,6 +1479,12 @@ Identity
     import Data.Functor.Identity
     Identity 5
 
+id
+identity function
+    The id function returns what it is given.
+
+        fmap (\x -> map id x) $ Just ["Full house", "Shane"]
+
 sum type
     [#haskell]
     [constructor]
