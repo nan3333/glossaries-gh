@@ -2024,7 +2024,113 @@ The three fundamental laws of monads
     Monad instance they create satisfies the
     monad laws.
 
+lens
+    Well-behaved bidirectional transformation.
+
+    Operates on ad-hoc, textual data formats.
+
+    Every lens program, when read from left to
+    right, describes a function that maps an
+    input to an output; when read from right
+    to left, the very same program describes a
+    "backwards" function that maps a modified
+    output, together with the original input,
+    back to a modified input.
+
+lens
+lenses
+    [haskell/fp concept]
+
+    https://github.com/ekmett/lens#lens-lenses-folds-and-traversals
+
+Control.Lens
+    The combinators in Control.Lens provide a
+    highly generic toolbox for composing
+    families of getters, folds, isomorphisms,
+    traversals, setters and lenses and their
+    indexed variants.
+
+arrow
+    [#haskell]
+
+    A new abstract view of computation.
+
+    They serve much the same purpose as
+    monads -- providing a common structure for
+    libraries -- but are more general.
+
+    In particular they allow notions of
+    computation that may be partially static
+    (independent of the input) or may take
+    multiple inputs.
+
+    If your application works fine with
+    monads, you might as well stick with
+    them.
+
+    But if you're using a structure that's
+    very like a monad, but isn't one, maybe
+    it's an arrow.
+
+monad vs arrow
+    Most importantly:
+        There are more things which are arrows
+        than there are things which are
+        monads.
+
+    Monads are strictly more powerful than
+    arrows.
+
+    Monad
+        Is an arrow equipped with an apply
+        function of type
+
+            (a ~> b, a) ~> b
+
+        where (~>) is the constructor for a
+        given arrow.
+
+        This destroys the meticulous
+        distinction arrows maintain between
+        terms and commands (or, if you prefer,
+        objects and morphisms).
+
+
 monad transformer
+    https://wiki.haskell.org/Monad_Transformers_Explained
+
+    Explanation:
+        You have an innermost monad (usually
+        Identity or IO but you can use any
+        monad).
+
+        You then wrap monad transformers
+        around this monad to make bigger,
+        better monads.
+
+    Similar to a regular monad, but it's not a
+    standalone entity: instead, it modifies
+    the behaviour of an underlying monad.
+
+    Most of the monads in the mtl library have
+    transformer equivalents.
+
+    By convention, the transformer version of
+    a monad has the same name, with a T stuck
+    on the end.
+
+    For example, the transformer equivalent of
+    State is StateT; it adds mutable state to
+    an underlying monad.
+
+    The WriterT monad transformer makes it
+    possible to write data when stacked on top
+    of another monad.
+
+    "The default implementation of MonadMemo
+    is also monad transformer so it can be
+    "mixed" with other monads."
+
     https://wiki.haskell.org/Monad_Transformers_Explained
 
     You have an innermost monad (usually

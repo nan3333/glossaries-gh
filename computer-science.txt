@@ -53,7 +53,8 @@ termination proof
 
 finite map
 associative array
-
+    A finite map is a synonym for an
+    associative array.
 
 affine
 
