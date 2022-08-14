@@ -17108,3 +17108,17 @@ brevity
     or speech.
     "the staff will edit manuscripts with a
     view to brevity and clarity"
+
+inscrutable
+    Impossible to understand or interpret.
+    "Guy looked blankly inscrutable"
+
+malice
+    The desire to harm someone; ill will.
+    "I bear no malice towards anybody"
+
+subsist
+    Maintain or support oneself, especially at
+    a minimal level.
+    "he subsisted on welfare and casual
+    labour"
