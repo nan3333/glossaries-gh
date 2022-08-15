@@ -10712,6 +10712,12 @@ perforce
     Used to express necessity or
     inevitability.
 
+subvert
+    Undermine the power and authority of (an
+    established system or institution).
+    "Are we to save our democratic systems by
+    subverting them?"
+
 subversive
     Seeking or intended to subvert an
     established system or institution.
@@ -17122,3 +17128,8 @@ subsist
     a minimal level.
     "he subsisted on welfare and casual
     labour"
+
+caprice
+    A sudden and unaccountable change of mood
+    or behaviour.
+    "the caprices of the electorate"
