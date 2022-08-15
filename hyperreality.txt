@@ -1,3 +1,4 @@
+hyperreal
 hyperreality
     [#semiotics]
     [#postmodernism]
@@ -6,6 +7,11 @@ hyperreality
     distinguish reality from a simulation of
     reality, especially in technologically
     advanced postmodern societies.
+
+    Proposed by Jean Baudrillard.
+
+    This is more prominent in technologically
+    advanced societies.
 
 simulacra and simulation
     News may be a simulation.
