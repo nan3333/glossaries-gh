@@ -1673,3 +1673,23 @@ cloze
     in which a person is called upon to supply
     elements that have been systematically
     deleted from a text.
+
+phonetics
+    The study of speech sounds in their
+    physical aspects.
+
+phonology
+    The study of speech sounds in their
+    cognitive aspects.
+
+morphology
+    The study of the formation of words.
+
+syntax
+    The study of the formation of sentences.
+
+semantics
+    The study of meaning.
+
+pragmatics
+    The study of language use.
