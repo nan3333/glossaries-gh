@@ -17133,3 +17133,9 @@ caprice
     A sudden and unaccountable change of mood
     or behaviour.
     "the caprices of the electorate"
+
+non-committal
+    Not expressing or revealing commitment to
+    a definite opinion or course of action.
+    "her tone was non-committal, and her face
+    gave nothing away"
