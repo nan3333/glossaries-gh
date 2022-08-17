@@ -1,3 +1,6 @@
+distributed consensus
+    https://thesecretlivesofdata.com/raft/
+
 Fault tolerance
     The property that enables a system to
     continue operating properly in the event
@@ -11,6 +14,8 @@ Fault tolerance
 
 Raft
     [consensus algorithm]
+
+    https://thesecretlivesofdata.com/raft/
 
     https://raft.github.io/
 
@@ -77,3 +82,6 @@ Raft
     the same series of commands and thus
     produces the same series of results and
     arrives at the same series of states.
+
+    See:
+    - distributed consensus
