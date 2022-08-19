@@ -22,6 +22,51 @@ multigraph
     When multiple edges connect two nodes,
     these are different edges.
 
+factor graph
+    A bipartite graph representing the
+    factorization of a function.
+    
+    In probability theory and its
+    applications, factor graphs are used to
+    represent factorization of a probability
+    distribution function, enabling efficient
+    computations, such as the computation of
+    marginal distributions through the sum-
+    product algorithm.
+    
+    One of the important success stories of
+    factor graphs and the sum-product
+    algorithm is the decoding of capacity-
+    approaching error-correcting codes, such
+    as LDPC and turbo codes.
+    
+    Factor graphs generalize constraint
+    graphs.
+    
+    A factor whose value is either 0 or 1 is
+    called a constraint.
+    
+    A constraint graph is a factor graph where
+    all factors are constraints.
+    
+    The max-product algorithm for factor
+    graphs can be viewed as a generalization
+    of the arc-consistency algorithm for
+    constraint processing.
+
+constraint graph
+    [#constraint satisfaction research]
+    [#artificial intelligence]
+    [#operations research]
+
+    Constraint graphs and hypergraphs are used
+    to represent relations among constraints
+    in a constraint satisfaction problem.
+    
+    A constraint graph is a special case of a
+    factor graph, which allows for the
+    existence of free variables.
+
 tree
     An undirected graph in which any two
     vertices are connected by exactly one
