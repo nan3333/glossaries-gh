@@ -17344,3 +17344,8 @@ ciborium
     large covered cup designed to hold hosts
     for, and after, the Eucharist, thus the
     counterpart of the chalice.
+
+accost
+    Approach and address (someone) boldly or
+    aggressively.
+    "reporters accosted him in the street"

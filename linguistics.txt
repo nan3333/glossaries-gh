@@ -1693,3 +1693,17 @@ semantics
 
 pragmatics
     The study of language use.
+
+monosyllable
+    A word or utterance of only one syllable.
+    
+    It is most commonly studied in the fields
+    of phonology and morphology and it has no
+    semantic content.
+    
+    The word has originated from the Greek
+    language.
+    
+    "Yes", "no", "jump", "buy", "heat",
+    "sure", and "and" are examples of
+    monosyllables.
