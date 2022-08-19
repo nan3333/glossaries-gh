@@ -1,6 +1,15 @@
+hypergraph
+    [#mathematics]
+
+    A generalization of a graph in which an
+    edge can join any number of vertices.
+
+    In contrast, in an ordinary graph, an edge
+    connects exactly two vertices.
+
 multigraph
     [#mathematics]
-    [#graph theory
+    [#graph theory]
 
     A graph which is permitted to have
     multiple edges (also called parallel
