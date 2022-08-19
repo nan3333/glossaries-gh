@@ -17313,3 +17313,13 @@ inhumane
     Without compassion for misery or
     suffering; cruel.
     "confining wild horses is inhumane"
+
+expound
+    Present and explain (a theory or idea) in
+    detail.
+    "he was expounding a powerful argument"
+
+    Explain the meaning of (a literary or
+    doctrinal work).
+    "the abbess expounded the scriptures to
+    her nuns"
