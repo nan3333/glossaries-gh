@@ -352,7 +352,12 @@ C_n(A)
     Number of occurrences of event A in n
     trials.
 
-Sample space
+sample space
+    The set of possible values taken by the
+    random variable.
+
+    See "https://en.wikipedia.org/wiki/Probability_density_function"
+
     The sample space S of a random process is
     the set of all possible outcomes of that
     process.
