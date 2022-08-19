@@ -17334,3 +17334,13 @@ grail
     described as a dish, a ciborium, a
     chalice, a platter, a goblet and even a
     stone.
+
+ciborium
+    A vessel, normally in metal.
+    
+    It was originally a particular shape of
+    drinking cup in Ancient Greece and Rome,
+    but the word later came to refer to a
+    large covered cup designed to hold hosts
+    for, and after, the Eucharist, thus the
+    counterpart of the chalice.
