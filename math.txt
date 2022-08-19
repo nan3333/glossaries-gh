@@ -1,3 +1,11 @@
+factorization
+factorisation
+factoring
+    Consists of writing a number or another
+    mathematical object as a product of
+    several factors, usually smaller or
+    simpler objects of the same kind.
+
 module
     https://en.wikipedia.org/wiki/Module_(mathematics)
 

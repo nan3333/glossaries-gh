@@ -155,10 +155,23 @@ discrete variable
     continuous variable.
 
 probability distribution
+probability distribution function
     A function of a discrete variable whose
     integral over any interval is the
     probability that the variate specified by
     it will lie within that interval.
+
+probability density function
+probability distribution function
+    The probability distribution function is
+    defined for discrete random variables.
+
+    Probability density function is the
+    equivalent of the probability distribution
+    function for the continuous random
+    variables, gives the likelihood of a
+    certain random variable to assume a
+    certain value.
 
 prior
 prior probability of an event
