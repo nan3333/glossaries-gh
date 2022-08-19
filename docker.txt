@@ -182,9 +182,12 @@ Docker Swarm
 
         You need to do 
         - Health check on every container
-        - Ensure all containers are up on every system
-        - Scaling the containers up or down depending on the load
-        - Adding updates/changes to all the containers
+        - Ensure all containers are up on
+          every system
+        - Scaling the containers up or down
+          depending on the load
+        - Adding updates/changes to all the
+          containers
 
         Orchestration
         - managing and controlling multiple
