@@ -1152,3 +1152,10 @@ Lord's Supper
     A Christian rite that is considered a
     sacrament in most churches, and as an
     ordinance in others.
+
+sacrament
+ordinance
+    While a sacrament is seen as a means of
+    grace from God, an ordinance is a practice
+    that rather demonstrates the participants'
+    faith.
