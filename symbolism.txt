@@ -12,3 +12,15 @@ Fae
     Two types:
     - Trooping faeries
     - Solitary faeries
+
+rose
+    The red rose symbolizes romance, love,
+    beauty, and courage.
+    
+    A red rosebud signifies beauty and purity.
+    
+    A thornless red rose means love at first
+    sight.
+    
+    Yellow roses symbolize friendship and joy,
+    and new beginnings.

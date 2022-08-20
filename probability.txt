@@ -1,3 +1,13 @@
+frequentism
+frequentist probability
+    An interpretation of probability; it
+    defines an event's probability as the
+    limit of its relative frequency in many
+    trials.
+    
+    Probabilities can be found by a repeatable
+    objective process.
+
 bayesian network
     https://youtu.be/TuGDMj43ehw?t=409
 
