@@ -17355,3 +17355,17 @@ maladies
     A disease or ailment.
 
     "spiritual maladies"
+
+husbandman
+    (In England in the Middle Ages and the
+    early modern period)
+
+    A free tenant farmer, or a small
+    landowner.
+    
+    The social status of a husbandman was
+    below that of a yeoman.
+    
+    The meaning of "husband" in this term is
+    "master of house" rather than "married
+    man".
