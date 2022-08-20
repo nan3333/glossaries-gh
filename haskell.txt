@@ -5862,3 +5862,9 @@ fromMaybe
     -- >>> fromMaybe 0 (readMaybe "5")
     -- 5
     -- >>> fromMaybe 0 (readMaybe "")
+
+singleton list
+    A list with only one element.
+
+    Example:
+      [(v,inp)]
