@@ -199,7 +199,7 @@ euphemism
     - ‘Gardening leave’ for suspension from
       work.
 
-Parataxis
+parataxis
     [literary technique]
 
     Favors short, simple sentences, without
@@ -278,3 +278,22 @@ extended metaphor
     metaphor.
     "the idea of the wind's singing is a prime
     romantic conceit"
+
+pentalogy
+    (from Greek πεντα- penta-, "five" and
+    -λογία -logia, "discourse")
+
+    A compound literary or narrative work that
+    is explicitly divided into five parts.
+    
+    Although modern use of the word implies
+    both that the parts are reasonably self-
+    contained and that the structure was
+    intended by the author, historically,
+    neither was necessarily true: in fact, a
+    pentalogia could be assembled by a later
+    editor, just as Plotinus's Enneads were
+    arranged in nines by Porphyry in order to
+    create an overarching structure of six
+    which would express the idea of
+    perfection.
