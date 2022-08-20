@@ -17349,3 +17349,9 @@ accost
     Approach and address (someone) boldly or
     aggressively.
     "reporters accosted him in the street"
+
+malady
+maladies
+    A disease or ailment.
+
+    "spiritual maladies"
