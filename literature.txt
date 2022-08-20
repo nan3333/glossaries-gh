@@ -199,6 +199,18 @@ euphemism
     - ‘Gardening leave’ for suspension from
       work.
 
+syntaxis
+    A style in writing or in rhetoric that
+    favors complex syntax, in contrast to the
+    simple sentence structures of parataxis.
+    
+    For example, 19th-century German academic
+    prose, and John Milton's Paradise Lost
+    poetry in English are notably syntactic.
+    
+    Syntaxis, depending on the author, may
+    also contrast with or include hypotaxis.
+
 parataxis
     [literary technique]
 
@@ -242,6 +254,43 @@ parataxis
     
     It says, "And God said, "Let there be
     light," and there was light."
+
+hypotaxis
+    The grammatical arrangement of
+    functionally similar but "unequal"
+    constructs; certain constructs have more
+    importance than others inside a sentence.
+    
+    A common example of syntactic expression
+    of hypotaxis is the subordination of one
+    syntactic unit to another in a complex
+    sentence.
+
+    Hypotaxis is a formal way of saying that a
+    sentence contains subordinate clauses or
+    phrases that merely build on and add to
+    the main clause.
+    
+    In a complex sentence, there is one main
+    clause, and one or more subordinate
+    clauses.
+    
+    These clauses are not independent.
+
+    Instead, they provide additional
+    information that clarifies the main clause
+    of the sentence.
+    
+    Examples of Hypotaxis:
+    - Sarah was awarded first prize
+      - after she wowed the audience with her
+        singing.
+    - Everything is going to be alright
+      - because mother said so.
+    - Mrs. Taylor is my English teacher
+      - who lets us write about fairy tales
+        and reads to us from fascinating
+        books.
 
 conceit
 sustained metaphor
