@@ -3852,7 +3852,10 @@ or
 xs
     xs hs "foldl (/) 64 [4,2,4]"
 
+λ
 lambda
+lambda abstraction
+λ-abstraction
     Instead of using equations to define
     functions, we can also define them
     "anonymously" via a lambda abstraction.

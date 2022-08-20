@@ -17369,3 +17369,12 @@ husbandman
     The meaning of "husband" in this term is
     "master of house" rather than "married
     man".
+
+dually
+    In a way that relates to or involves two
+    people, items, parts, etc.
+
+    "Only one program in the region offers
+    graduates the option to be dually licensed
+    as both mental health and substance abuse
+    counselors."
