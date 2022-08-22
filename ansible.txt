@@ -112,3 +112,9 @@ playbook
     
     We will need to write a YAML file
     describing the tasks of our deploy.
+
+control station
+    https://youtu.be/5hycyr-8EKs?t=140
+
+    Change all your servers through the
+    control station.

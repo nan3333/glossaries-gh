@@ -4656,6 +4656,7 @@ hie.yaml
 
     https://www.reddit.com/r/haskell/comments/hcu5sf/mystified_by_hieyaml/
 
+(>>=)
 >>=
 >>
 bind
@@ -5918,3 +5919,8 @@ intercalate
     We point this out here because for us it
     was a helpful mnemonic – inserting strings
     such as “like” into lists of strings.
+
+Kleisli composition operator
+(>=>)
+>=>
+    https://typeclasses.com/beginner-crash-course/monad

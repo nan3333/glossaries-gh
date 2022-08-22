@@ -1,3 +1,20 @@
+primorial
+#
+    [#mathematics]
+    [#number theory]
+
+    A function from natural numbers to natural
+    numbers similar to the factorial function,
+    but rather than successively multiplying
+    positive integers, the function only
+    multiplies prime numbers.
+
+    Factorial:
+    4! = 1*2*3*4=24
+
+    Primorial:
+    p4# = Π4 = 2*3*5*7=210
+
 factorization
 factorisation
 factoring
