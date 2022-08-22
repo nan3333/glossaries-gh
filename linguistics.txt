@@ -1,3 +1,12 @@
+cognate
+lexical cognate
+    [#historical linguistics]
+
+    Cognates are sets of words in different
+    languages that have been inherited in
+    direct descent from an etymological
+    ancestor in a common parent language.
+
 creole
     A creole language arises if a pidgin,
     developed by adults for use as a second
