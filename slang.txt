@@ -26,3 +26,8 @@ over-the-top
     which implies that a content provider is
     going over the top of existing internet
     services.
+
+smh
+shaking my head
+    Typically used when something is obvious,
+    plain old stupid, or disappointment.

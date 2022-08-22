@@ -67,3 +67,10 @@ Systems Theory
 
 Mordernism
     [sociological theory]
+
+shibboleth
+    A custom, principle, or belief
+    distinguishing a particular class or group
+    of people, especially a long-standing one
+    regarded as outmoded or no longer
+    important.

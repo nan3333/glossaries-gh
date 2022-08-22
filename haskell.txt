@@ -5894,3 +5894,27 @@ singleton list
 
     Example:
       [(v,inp)]
+
+intercalate
+    [#haskell]
+
+    v +/"intercalate" "$HOME/blog/posts/haskell-functions.org"
+
+    The words ‘intersperse’ and ‘intercalate’
+    are near synonyms in English, although
+    ‘intercalate’ has a few specialized uses.
+    
+    ‘Intercalate’ is pronounced “in-ter’-kuh-
+    late” with the main stress on the ter.
+    
+    Cognate words such as intercalar in
+    Spanish may be more commonly used than
+    ‘intercalate’ is in English; we’ve been
+    told the Italian version sometimes has the
+    specialized meaning of inserting
+    meaningless words and phrases such as “I
+    mean” or “like” between sentences.
+    
+    We point this out here because for us it
+    was a helpful mnemonic – inserting strings
+    such as “like” into lists of strings.

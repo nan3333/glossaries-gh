@@ -2419,20 +2419,25 @@ conflate
 irrefutable
     Impossible to deny or disprove.
 
+intercalation
+embolism
 intercalate
+    [#timekeeping]
+
+    The insertion of a leap day, week, or
+    month into some calendar years to make the
+    calendar follow the seasons or moon
+    phases.
+    
+    Lunisolar calendars may require
+    intercalations of both days and months.
+
     Interpolate (an intercalary period) in a
     calendar.
-
-    v +/"intercalate" "$HOME/blog/posts/haskell-functions.org"
 
 strict
     Demanding that rules concerning behaviour
     are obeyed and observed.
-
-smh
-shaking my head
-    Typically used when something is obvious,
-    plain old stupid, or disappointment.
 
 formulation
     A material or mixture prepared according
@@ -2507,13 +2512,6 @@ candor
 candour
     The quality of being open and honest;
     frankness.
-
-shibboleth
-    A custom, principle, or belief
-    distinguishing a particular class or group
-    of people, especially a long-standing one
-    regarded as outmoded or no longer
-    important.
 
 contrivance
     The use of skill to create or bring about
