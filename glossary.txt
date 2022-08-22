@@ -8508,44 +8508,6 @@ bayesian filter
 
     https://leimao.github.io/article/Introduction-to-Bayesian-Filter/
 
-AI-GA
-AI-generating algorithms
-    An alternate paradigm for producing
-    general artificial intelligence.
-
-    https://arxiv.org/abs/1905.10985
-
-Big O
-    [algorithmic complexity]
-
-    Tells us what an algorithm is guarantied
-    to run within, an upper bound.
-
-Big Omega
-    [algorithmic complexity]
-
-    Far less often discussed.
-
-    Tells us the minimum time an algorithm is
-    guarantied to run, a lower bound.
-
-Big Theta
-    [algorithmic complexity]
-
-    Tells us that both Big O annd Big Omega are in fact the same for a given analysis.
-
-time complexity
-    [algorithmic complexity]
-
-    An algorithm's input to the number of
-    steps it takes.
-
-space complexity
-    [algorithmic complexity]
-
-    An algorithm's input to the number of
-    storage locations it uses.
-
 CNF
 
 Association for Computational Linguistics

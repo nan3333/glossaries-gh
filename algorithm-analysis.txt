@@ -5,11 +5,46 @@ ifl little theta vs big theta
 ewwlinks +/"Family of Bachmann–Landau notations" "https://en.wikipedia.org/wiki/Big_O_notation#Little-o_notation"
 
 Big-O
+Big O
+    [algorithmic complexity]
+
     Only necessary that you find a particular
     multiplier k for which the inequality
     holds beyond some minimum x. 
 
-Little-o
+    vs +/"^import Data.Set (fromList, toList, intersection)" "$MYGIT/mark-watson/haskell_tutorial_cookbook_examples/ImPure/CommonWords.hs"
+    pin "$MYGIT/mark-watson/haskell_tutorial_cookbook_examples/ImPure/CommonWords.hs"
+
+    Tells us what an algorithm is guarantied
+    to run within, an upper bound.
+
+Big Omega
+    [algorithmic complexity]
+
+    Far less often discussed.
+
+    Tells us the minimum time an algorithm is
+    guarantied to run, a lower bound.
+
+Big Theta
+    [algorithmic complexity]
+
+    Tells us that both Big O annd Big Omega are in fact the same for a given analysis.
+
+time complexity
+    [algorithmic complexity]
+
+    An algorithm's input to the number of
+    steps it takes.
+
+space complexity
+    [algorithmic complexity]
+
+    An algorithm's input to the number of
+    storage locations it uses.
+
+Little-O
+Little O
     It must be that there is a minimum x after
     which the inequality holds no matter how
     small you make k, as long as it is not

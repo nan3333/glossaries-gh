@@ -1,3 +1,10 @@
+AI-GA
+AI-generating algorithms
+    An alternate paradigm for producing
+    general artificial intelligence.
+
+    https://arxiv.org/abs/1905.10985
+
 Psi-theory
     Developed by Dietrich Dörner at the
     University of Bamberg, is a systemic
