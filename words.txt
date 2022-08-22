@@ -17429,3 +17429,11 @@ glare
     Visually, a glaring person tends to have
     their eyes fixed and heavily focused on a
     subject.
+
+salve
+    An ointment used to promote healing of the
+    skin or as protection.
+
+    Soothe (wounded pride or one's
+    conscience).
+    "charity salves our conscience"
