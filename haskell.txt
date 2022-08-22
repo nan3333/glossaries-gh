@@ -5,6 +5,29 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+component
+    [#cabal]
+
+    https://kowainik.github.io/projects/awesome-cabal
+
+    A component is anything behind a stanza
+    with its own set of dependencies, etc.
+    
+    So it can be multiple sublibraries,
+    multiple executables, test-suites, etc.
+    
+    You can prefix component names with lib:
+    or exe: to specify if its an executable
+    component (like a test suite) or a library
+    component.
+    
+    Components are described a bit in the
+    users guide:
+    https://cabal.readthedocs.io/en/latest/setup-commands.html?highlight=component#runhaskell-setup-hs-configure
+
+    pin $MYGIT/mark-watson/haskell_tutorial_cookbook_examples/ImPure
+    /root/.ghcup/bin/cabal repl
+
 GT
 LT
 EQ
