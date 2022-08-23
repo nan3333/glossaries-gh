@@ -678,11 +678,16 @@ Associativity
     - "Commutativity, Associativity, Distributivity"
 
 Commutativity, Associativity, Distributivity
-    Commutative Laws:	a + b  =  b + a
-    a × b  =  b × a
-    Associative Laws:	(a + b) + c  =  a + (b + c)
-    (a × b) × c  =  a × (b × c)
-    Distributive Law:	a × (b + c)  =  a × b  +  a × c
+    Commutative Laws
+        a + b  =  b + a
+        a × b  =  b × a
+
+    Associative Laws
+        (a + b) + c  =  a + (b + c)
+        (a × b) × c  =  a × (b × c)
+
+    Distributive Law
+        a × (b + c)  =  a × b  +  a × c
 
 Binary operation
     A binary operation * on a set S is a
