@@ -2,6 +2,64 @@ https://docs.ansible.com/ansible/latest/network/getting_started/basic_concepts.h
 
 https://docs.ansible.com/ansible/latest/reference_appendices/glossary.html
 
+ansible-navigator
+    Bye Bye ansible-playbook, Hello
+    ansible-navigator.
+
+artifact
+    Ansible offers four distributed, re-usable
+    artifacts: variables files, task files,
+    playbooks, and roles.
+    - variables file
+      Contains only variables
+    - task file
+      Contains only tasks.
+    - playbook
+      Contains at least one play, and may
+      contain variables, tasks, and other
+      content. You can re-use tightly focused
+      playbooks, but you can only re-use them
+      statically, not dynamically.
+    - role
+      Contains a set of related tasks,
+      variables, defaults, handlers, and even
+      modules or other plugins in a defined
+      file-tree. Unlike variables files, task
+      files, or playbooks, roles can be easily
+      uploaded and shared via Ansible Galaxy.
+      See Roles for details about creating and
+      using roles.
+
+    https://docs.ansible.com/ansible/latest/user_guide/playbooks_reuse.html
+    
+    You can write a simple playbook in one
+    very large file, and most users learn the
+    one-file approach first.
+    
+    However, breaking your automation work up
+    into smaller files is an excellent way to
+    organize complex sets of tasks and reuse
+    them.
+    
+    Smaller, more distributed artifacts let
+    you re-use the same variables, tasks, and
+    plays in multiple playbooks to address
+    different use cases.
+    
+    You can use distributed artifacts across
+    multiple parent playbooks or even multiple
+    times within one playbook.
+    
+    For example, you might want to update your
+    customer database as part of several
+    different playbooks.
+    
+    If you put all the tasks related to
+    updating your database in a tasks file or
+    a role, you can re-use them in many
+    playbooks while only maintaining them in
+    one place.
+
 Fact
     Facts are simply things that are
     discovered about remote nodes.

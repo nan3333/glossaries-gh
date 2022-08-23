@@ -661,18 +661,22 @@ Associative
 Associativity
     Associativity may be familiar from
     elementary arithmetic, even if the name
-    isn’t. For example, you may recall that 2*
-    (3 * 4) and (2 * 3) * 4 always evaluate to
-    the same result, even though you simplify
-    the parts in parentheses first so the
+    isn’t.
+    
+    For example, you may recall that 2* (3 *
+    4) and (2 * 3) * 4 always evaluate to the
+    same result, even though you simplify the
+    parts in parentheses first so the
     parentheses change the order in which you
-    evaluate the expression. When the result
-    never depends on the order of
-    simplification, we say that a binary
-    operation is associative. More formally,
-    an operation * on a set S is associative
-    when for all x, y, and z in S, x * (y * z)
-    = (x * y) * z.
+    evaluate the expression.
+    
+    When the result never depends on the order
+    of simplification, we say that a binary
+    operation is associative.
+    
+    More formally, an operation * on a set S
+    is associative when for all x, y, and z in
+    S, x * (y * z) = (x * y) * z.
 
     See:
     - "Commutativity, Associativity, Distributivity"
