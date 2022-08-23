@@ -46,6 +46,8 @@ role
 
 Tower
 Red Hat Ansible Tower
+Automation Controller
+Automation Platform Controller
     Extend Ansible Automation.
 
     Centralize and control your Ansible
@@ -59,6 +61,9 @@ Red Hat Ansible Tower
     tooling and processes; further extending
     the capability and reach of Ansible
     Automation.
+
+    Usually controlled by someone in IT
+    Operations.
 
 Galaxy
 Ansible Galaxy
@@ -1122,3 +1127,9 @@ YAML
     libraries available for serialization in
     many languages (Python, Perl, Ruby, and so
     on).
+
+AAP
+Ansible Automation Platform
+    https://www.youtube.com/watch?v=EG9C7mVG3sQ
+
+    Scale your automation across the enterprise.
