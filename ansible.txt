@@ -1284,7 +1284,8 @@ When
     keyword evaluates to false, the task will
     be ignored.
 
-Vars (Variables)
+Vars
+Variables
     As opposed to Facts, variables are names
     of values (they can be simple scalar
     values - integers, booleans, strings) or
