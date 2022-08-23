@@ -32,18 +32,6 @@ Fact
     (These may also be disabled via
     gather_subset:)
 
-task
-role
-    It's like a package that you install but
-    gives the server a role.
-
-    Either/or:
-        ansible-galaxy search elasticsearch
-        ansible-galaxy role search elasticsearch --platforms Ubuntu
-
-    Then install it:
-        ansible-galaxy install 0x0i.elasticsearch
-
 Tower
 Red Hat Ansible Tower
 Automation Controller
@@ -125,6 +113,16 @@ Ansible Engine
 
 playbook
     [#ansible]
+
+    Playbooks are the language by which
+    Ansible orchestrates, configures,
+    administers, or deploys systems.
+    
+    They are called playbooks partially
+    because it's a sports analogy, and it's
+    supposed to be fun using them.
+    
+    They aren't workbooks :)
 
     A configuration for deployment and
     orchestration, that allows you to describe
@@ -850,18 +848,7 @@ paramiko
     in their playbooks, or using the -c ssh
     flag.
 
-Playbooks
-    Playbooks are the language by which
-    Ansible orchestrates, configures,
-    administers, or deploys systems.
-    
-    They are called playbooks partially
-    because it's a sports analogy, and it's
-    supposed to be fun using them.
-    
-    They aren't workbooks :)
-
-Plays
+Play
     A playbook is a list of plays.
     
     A play is minimally a mapping between a
@@ -956,7 +943,7 @@ Resource Model
     state - rather than you having to tell it
     how to get to the state.
 
-Roles
+Role
     Roles are units of organization in
     Ansible.
     
@@ -1072,6 +1059,16 @@ Task
     task reports an underlying change on a
     remote system.
 
+    It's like a package that you install but
+    gives the server a role.
+
+    Either/or:
+        ansible-galaxy search elasticsearch
+        ansible-galaxy role search elasticsearch --platforms Ubuntu
+
+    Then install it:
+        ansible-galaxy install 0x0i.elasticsearch
+
 Tasks
     A list of Task.
 
@@ -1150,3 +1147,29 @@ Ansible Automation Platform
 
     Scale your automation across the
     enterprise.
+
+internal setup module
+setup module
+
+remote node
+
+gather_subset
+    [option]
+
+    See "Fact"
+
+ohai
+    [tool]
+    [fact library]
+
+    Chef or Puppet?
+
+facter
+    [tool]
+    [fact library]
+
+    Chef or Puppet?
+
+Chef
+
+Puppet

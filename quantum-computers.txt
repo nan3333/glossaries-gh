@@ -954,3 +954,429 @@ Universal Quantum Computer
     the quantum circuit is a more common
     model. These models are computationally
     equivalent.
+
+amplitude
+    Amplitudes are complex numbers, and each
+    possible outcome has a corresponding
+    amplitude.
+    
+    Amplitudes are analogous to conventional
+    probabilities, as the magnitude of the
+    amplitude is correlated to the chance of
+    measuring that outcome.
+    
+    Unlike conventional probabilities,
+    amplitudes have phase and can interfere
+    with each other.
+
+auxiliary qubit
+    Certain quantum operations require, or can
+    be made more efficient using, extra qubits
+    that do not store the inputs or outputs of
+    the operation.
+    
+    Since these extra qubits do not contain
+    useful information before or after the
+    operation, their role is auxiliary.
+    
+    If the state of the auxiliary qubits is
+    known before the operation, they are known
+    as ‘clean’ qubits (and are usually set to
+    ).
+    
+    If the state is unknown, they are referred
+    to as ‘dirty’ qubits.
+
+backend
+    The term backend can refer to either a
+    quantum system or a high-performance
+    classical simulator of a quantum system.
+    
+    At our Compute resources page we list all
+    current IBM Quantum systems and
+    simulators.
+
+Bloch sphere
+    The Bloch sphere (named after Felix Bloch)
+    is a visual representation of the state of
+    a qubit.
+    
+    Note that the Bloch sphere is different
+    from the q-sphere; for more details, see
+    the q-sphere visualization topic in the
+    IBM Quantum Composer docs.
+    
+    Multiple states can also be simultaneously
+    displayed (see below).
+    
+    The components of the Bloch representation
+    of the qubit state are found from the
+    expectation values of the , , and gates.
+    
+    A qubit described by a statevector has
+    unit length and is found on the surface of
+    the Bloch sphere.
+    
+    Qubits characterized by a density matrix
+    will in general have length less than one,
+    as determined by the purity of the state,
+    and lie within the Bloch sphere.
+    
+    Evolution of a qubit statevector after
+    applying a series of gates.
+
+classical register
+    See register.
+
+CLOPS
+    CLOPS, or circuit layer operations per
+    second, is a measure of how many layers of
+    a QV circuit a QPU (quantum processing
+    unit) can execute per unit of time.
+    
+    Find more information about this metric in
+    the paper called Quality, Speed, and
+    Scale: three key attributes to measure the
+    performance of near-term quantum
+    computers.
+
+entanglement
+    Entanglement is a property of quantum
+    systems comprised of more than one
+    subsystem (i.e., qubits), where the
+    quantum state of any one subsystem cannot
+    be uniquely described independently of the
+    remaining subsystems.
+    
+    Mathematically an entangled state is one
+    that can not be written as as product of
+    subsystem states.
+    
+    Subsystems of entangled states are mixed
+    states requiring a density matrix
+    representation.
+    
+    For a bipartite quantum system, the
+    entanglement is equal to the entropy of
+    the subsystems.
+
+fair-share queue
+    Fair-share queuing executes jobs on a
+    quantum system in a dynamic order so that
+    no provider can monopolize the system.
+    
+    The shares in fair-share queuing represent
+    the fraction of system time that is
+    allocated to a given provider.
+    
+    Providers with the most device time have
+    the highest priority in the fair-share
+    algorithm.
+    
+    A provider’s dynamic priority depends on
+    how much of the provider’s allotted system
+    time has been consumed over a given
+    floating window of time.
+    
+    When you send a job, it will be executed
+    by the provider with the highest dynamic
+    priority (or lowest fraction of allotted
+    time used) at that moment.
+    
+    For more information, see the Fair-share
+    queuing section.
+
+global phase
+    A phase applied to a statevector as a
+    whole, .
+    
+    States related by a global phase are
+    equivalent in quantum mechanics; global
+    phases can be ignored.
+    
+    This is a consequence of the fact that
+    only energy differences, as opposed to
+    absolute values, matter in determining the
+    dynamics of physical systems.
+    
+    See An aside on global phase in the Field
+    Guide.
+
+job
+    A job ties together all of the relevant
+    information about a computation on IBM
+    Quantum: a quantum circuit, choice of
+    backend, the choice of how many shots to
+    execute on the backend, and the results
+    upon executing the quantum circuit on the
+    backend.
+
+OpenQASM
+    A quantum assembly language dialect (see
+    QASM).
+    
+    For more information, see the OpenQASM
+    code topic in the IBM Quantum Composer
+    docs.
+
+OpenQASM circuit
+    Quantum circuit format generated by the
+    Qiskit program.
+    
+    OpenQASM is the low-level language
+    consumed by the Quantum Processing Unit
+    (QPU).
+
+phase
+    See relative phase.
+
+provider
+    Access to the various services offered by
+    IBM Quantum is controlled by the providers
+    to which you are assigned.
+    
+    A provider is defined by a hierarchical
+    organization of hub, group, and project.
+    
+    A hub is the top level of a given
+    hierarchy (organization) and contains
+    within it one or more groups.
+    
+    These groups are in turn populated with
+    projects.
+    
+    The combination of hub/group/project is
+    called a provider.
+    
+    Users can belong to more than one provider
+    at any given time.
+
+QASM
+    QASM is an abbreviation for quantum
+    assembly language.
+    
+    It is a set of text-based instructions to
+    describe and visualize quantum circuits.
+    
+    IBM Quantum uses a dialect called
+    OpenQASM; see more in the OpenQASM code
+    topic in the IBM Quantum Composer docs.
+
+Qiskit program
+    Qiskit Python source code that describes
+    the problem to solve, combining classical
+    and quantum computation.
+    
+    It takes inputs from the users, makes the
+    calculation, and returns the results.
+    
+    Each instance of a Qiskit program
+    execution is similar to a computer process
+    and is represented as a runtime job.
+
+Qiskit program metadata
+    The data that defines your program.
+    
+    Critical components are name, maximum
+    execution time, version, backend
+    requirements, and input/output parameters.
+
+Qiskit Runtime
+    Qiskit Runtime is a cloud service that
+    runs the Qiskit program remotely as a
+    process, passing the input from the user,
+    and handling the connectivity between the
+    Qiskit program, the user, and the quantum
+    processing unit.
+    
+    You can repeat this multiple times with
+    the same or different Qiskit programs.
+
+Qiskit Runtime manager
+    The main task of this component of the
+    architecture is to prepare Qiskit Runtime,
+    load the Qiskit programs, and supervise
+    the correct execution.
+
+quantum circuit
+    A quantum circuit is a computational
+    routine consisting of coherent quantum
+    operations on quantum data, such as
+    qubits, and concurrent real-time classical
+    computation.
+    
+    It is an ordered sequence of quantum
+    gates, measurements, and resets, which may
+    be conditioned on and use data from the
+    real-time classical computation.
+    
+    A set of quantum gates is said to be
+    universal if any unitary transformation of
+    the quantum data can be efficiently
+    approximated arbitrarily well as a
+    sequence of gates in the set.
+    
+    Any quantum program can be represented by
+    a sequence of quantum circuits and non-
+    concurrent classical computation.
+
+quantum computer
+    A quantum computer is a device capable of
+    executing coherent controlled quantum
+    dynamics.
+
+quantum gate
+    A quantum gate is a reversible (unitary)
+    operation applied to one or more qubits.
+
+Quantum processing unit (QPU)
+    Part of the computational unit that
+    performs the quantum computation.
+
+quantum register
+    See register.
+
+qubit
+    A qubit (pronounced “cue-bit” and short
+    for quantum bit) is the basic unit of
+    quantum information.
+    
+    A qubit consists of two-levels that can be
+    expressed using the “computational basis”
+    states , and .
+    
+    Unlike a classical bit, the state of a
+    qubit can be a linear combination
+    (superposition) of both computational
+    states.
+    
+    Read more about the qubit in the Field
+    guide in the IBM Quantum Composer docs.
+
+register
+    A quantum register is a collection of
+    qubits on which gates and other operations
+    act.
+    
+    A classical register consists of bits that
+    can be written to and read within the
+    coherence time of the quantum circuit.
+
+relative phase
+    A phase difference between components of a
+    superposition state.
+    
+    By convention, the first term in a
+    superposition is made to be real, and the
+    remaining states have phase values
+    relative to this, e.g., .
+
+seed
+    A seed is the value introduced into the
+    algorithm that generates pseudorandom
+    numbers.
+    
+    The simulator creates randomness by
+    generating results based on the seed.
+
+shot
+    Because the measurement of a qubit in a
+    superposition state is random — the
+    outcome is sometimes 0 and sometimes 1 —
+    you must repeat the measurement multiple
+    times to determine the likelihood that a
+    qubit is in a particular state.
+    
+    When performing the experiment, you will
+    be asked how many shots, or executions, to
+    run in order to determine the qubit state
+    probabilities.
+
+simulator
+    For a quantum computer comprised of a
+    small number of qubits , we can simulate
+    its behavior on a classical computer.
+    
+    In general such a computation requires
+    storing complex numbers, where is the
+    number of qubits.
+    
+    For circuits composed solely of Clifford
+    gates, or circuits generating quantum
+    states that are weakly entangled, special
+    simulation techniques allow for simulating
+    a greater number of qubits.
+    
+    See the Simulators overview topic to learn
+    about the IBM Quantum simulators.
+
+statevector
+    Any single realization of a quantum system
+    can be described through a complex vector
+    known as its statevector.
+    
+    In a gate-based quantum computer the state
+    of qubits has elements; the dimension of
+    the statevector grows exponentially with .
+
+superposition
+    A superposition in quantum mechanics is a
+    weighted sum, or linear combination, of
+    two or more quantum states.
+    
+    A quantum computer with qubits can exist
+    in a superposition of all of its
+    computational basis states , through .
+    
+    Exploiting this ability is fundamental to
+    most quantum algorithms.
+
+transpilation
+    Transpilation is the process where a
+    quantum circuit is transformed into a new
+    quantum circuit that performs the same
+    task, but is restructured to be compatible
+    with the physical layout of a particular
+    quantum system and, where possible,
+    optimize its performance.
+
+uncertainty principle
+    In quantum physics, we cannot
+    simultaneously know two non-commuting
+    variables (like the position and momentum
+    of a particle).
+    
+    This implies that a quantum system in a
+    perfectly definite state can be certain
+    under one measurement and completely
+    random under another.
+    
+    Moreover, if a quantum system starts out
+    in an arbitrary unknown state, no
+    measurement can reveal complete
+    information about that state; the more
+    information the measurement reveals, the
+    more the state is disturbed.
+    
+    This is a underlying principle of quantum
+    cryptography.
+
+universal fault-tolerant quantum computer
+    A universal fault-tolerant quantum
+    computer is the grand challenge of quantum
+    computing.
+    
+    It is a device that can properly perform
+    universal quantum operations using
+    unreliable components.
+    
+    See also universal quantum computer.
+
+universal quantum computer
+    A universal quantum computer is a machine
+    that can simulate an arbitrary quantum
+    state from an arbitrary initial quantum
+    state.
+    
+    See also universal fault-tolerant quantum
+    computer.
