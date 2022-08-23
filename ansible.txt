@@ -1150,6 +1150,23 @@ Ansible Automation Platform
 
 internal setup module
 setup module
+    This module is automatically called by
+    playbooks to gather useful variables about
+    remote hosts that can be used in
+    playbooks.
+    
+    It can also be executed directly by
+    /usr/bin/ansible to check what variables
+    are available to a host.
+    
+    Ansible provides many facts about the
+    system, automatically.
+    
+    This module is also supported for Windows
+    targets.
+
+    https://docs.ansible.com/ansible/2.4/setup_module.html
+    https://docs.ansible.com/ansible/latest/collections/ansible/builtin/setup_module.html
 
 remote node
 
