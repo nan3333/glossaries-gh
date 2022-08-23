@@ -1,3 +1,11 @@
+caucus
+    A meeting of supporters or members of a
+    specific political party or movement.
+    
+    The exact definition varies between
+    different countries and political
+    cultures.
+
 populism
     A political approach that strives to
     appeal to ordinary people who feel that
