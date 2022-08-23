@@ -1,1368 +1,168 @@
-https://dictionary.apa.org/time-distortion
+bracketing
+    The preliminary step in the philosophical
+    movement of phenomenology describing an
+    act of suspending judgment about the
+    natural world to instead focus on analysis
+    of experience.
 
-flow
-flow state
-the zone
-being in the zone
-    The mental state in which a person
-    performing some activity is fully immersed
-    in a feeling of energized focus, full
-    involvement, and enjoyment in the process
-    of the activity.
+phenomenology
+    A philosophy of experience.
     
-    In essence, flow is characterized by the
-    complete absorption in what one does, and
-    a resulting transformation in one's sense
-    of time.
+    For phenomenology the ultimate source of
+    all meaning and value is the lived
+    experience of human beings.
+    
+    All philosophical systems, scientific
+    theories, or aesthetic judgments have the
+    status of abstractions from the ebb and
+    flow of the lived world.
 
-time distortion
-    A type of perceptual transformation,
-    sometimes experienced in altered states of
-    consciousness, in which time appears to
-    pass either with great rapidity or with
-    extreme slowness.
-    
-    Perception of past and future may also be
-    transformed.
+phenomenological intuition
 
-    In your differing levels of psychological
-    flow state, music will sound slower and
-    faster.
-    
-    Probably faster if it's just background,
-    and slower if you're focussed.
-    
-    Not only that, but your heart rate comes
-    into play too.
-    
-    The perceived tempo of a song depends a
-    lot on it.
+descriptive phenomenology
+descriptive phenomenological method
+    [method]
 
-tachysensia
-    A condition that can temporarily alter
-    sensations of time and sound in troubling
-    ways for people who experience symptoms.
+    A powerful way to understand subjective
+    experience and to gain insights around
+    people's actions and motivations, cutting
+    through long-held assumptions and
+    challenging conventional wisdom.
     
-    The cause of tachysensia is unknown but
-    there are certain conditions in which
-    symptoms can manifest, such as migraines
-    and epilepsy.
+    It may contribute to the development of
+    new theories, changes in policies, or
+    changes in responses.
 
-syzygy
-    [#psychology]
+    https://en.wikipedia.org/wiki/Descriptive_phenomenological_method_in_psychology
 
-    An archetypal pairing of contrasexual
-    opposites, symbolizing the communication
-    of the conscious and unconscious minds.
+    phenomenological intuition
 
-neurodiversity
-ND
-    Refers to variations in the human brain
-    and cognition, for instance in
-    sociability, learning, attention, mood and
-    other mental functions.
+    Involves neither deduction nor induction
+    in order to find meaning, but instead asks
+    the researcher to intuit what is essential
+    to the phenomenon being studied.
+    
+    Intuition, in this sense (going along with
+    the philosophy of phenomenology), simply
+    means that an object (or state of affairs,
+    structural whole, proposition etc.)
+    becomes presented to consciousness in a
+    certain mode of giveness.
+    
+    In the context of this research method,
+    therefore, intuition is used in order to
+    get a sense of the lived meaning of each
+    description so as to relate them to what
+    is known about the phenomenon of interest
+    in general These types of generalities are
+    not statistical probabilities nor
+    universally posited, but are dependent
+    upon the lived meaning of the descriptions
+    and the meaning of the phenomenon being
+    studied.
 
-    A term used to describe neurological
-    differences in the human brain.
-    
-    In other words, we are all wired
-    differently, and our natural differences
-    can have a direct impact on how we think
-    and learn.
+phenomenological reduction
+    The meditative practice described by
+    Edmund Husserl, the founder of
+    phenomenology, whereby one, as a
+    phenomenologist, is able to liberate
+    oneself from the captivation in which one
+    is held by all that one accepts as being
+    the case.
 
-inferiority complex
-    An unrealistic feeling of general
-    inadequacy caused by actual or supposed
-    inferiority in one sphere, sometimes
-    marked by aggressive behaviour in
-    compensation.
+    Three basic stages in phenomenological
+    reduction:
+    1. the epoche,
+    2. the eidetic reduction, and
+    3. the transcendental reduction.
 
-sensorium
-seat of sensation
-    The part of the consciousness which is on
-    the fringe.
+    https://www.sjsu.edu/people/anand.vaidya/courses/c2/s0/Phenomenological-Reduction-and-Yogic-Meditation-by-R.-Puligandla.pdf
 
-    The apparatus of an organism's perception
-    considered as a whole, the "seat of
-    sensation" where it experiences, perceives
-    and interprets the environments within
-    which it lives.
-    
-    The term originally entered English from
-    the Late Latin in the mid-17th century,
-    from the stem sens-.
+epoche
+    The epoche stage consists of setting aside
+    (bracketing) all the beliefs, theories,
+    and attitudes about oneself and the world
+    which have so far been taken for granted.
 
-    In earlier use it referred, in a broader
-    sense, to the brain as the mind's organ
-    (Oxford English Dictionary 1989).
+    Thus the belief in an independently
+    existing world of objects and qualities is
+    set aside; the laws of logic, mathematics,
+    and sciences, norms and values are all
+    brought into question and put aside.
     
-    In medical, psychological, and
-    physiological discourse it has come to
-    refer to the total character of the unique
-    and changing sensory environments
-    perceived by individuals.
-    
-    These include the sensation, perception,
-    and interpretation of information about
-    the world around us by using faculties of
-    the mind such as senses, phenomenal and
-    psychological perception, cognition, and
-    intelligence.
+    Phenomenology, according to Husserl, must
+    be a rigorous science; it must also be
+    presuppositionless, in the sense that it
+    must attain absolutely valid knowledge of
+    things.
 
-Stroop effect
-    The delay in reaction time between
-    congruent and incongruent stimuli.
-    
-    The effect has been used to create a
-    psychological test that is widely used in
-    clinical practice and investigation.
+    All nonphilosophical sciences are based on
+    various kinds of presuppositions which
+    cannot be validated within those sciences
+    themselves.
 
-ego
-    An infinitesimally small part of what Jung
-    referred to as psyche.
+eidetic reduction
+    One passes from facts to essences.
     
-    Psyche is the totality of all psychic
-    processes, both conscious and unconscious.
+    Thus one may choose anything whatever as
+    the object of eidetic reduction and
+    analyses.
     
-    The ego is more or less just the center of
-    consciousness.
+    The object may be a color, figure,
+    relation, feeling, perception, or a
+    principle.
     
-    Both consciousness and the ego are
-    latecomers in the evolution of psyche per
-    se.
+    Then the object is investigated from
+    various points of view; for instance,
+    modifications of perception, memory, and
+    fantasy.
     
-    Unconsciousness, however, was our original
-    state of being, and thus, all of its
-    underlying processes still have powerful
-    effects on us.
+    The role of fantasy in eidetic reduction
+    cannot be overemphasized, for the fully
+    arbitrary character of fantasy, without
+    any regard to the reality or unreality of
+    the object, brings out the essential
+    character of the object, those invariant,
+    necessary characteristics without which
+    the object cannot be what it is.
+    
+    Thus one grasps by intuition the
+    immediate, absolute, and unique essences
+    of all objects of that class.
+    
+    The essences so grasped are known as the
+    "eidos." The eidos, however, must not be
+    mistaken for generalities or general ideas
+    of empirical sciences.
+    
+    For Husserl the eidos are pure
+    generalities which put before our mind
+    pure possibilities whose validity is
+    independent of experience.
 
-egocentrism
-    The inability to differentiate between
-    self and other.
+transcendental reduction
+    It is common knowledge that the doctrine
+    of intentionality of consciousness is
+    central to phenomenology.
     
-    More specifically, it is the inability to
-    accurately assume or understand any
-    perspective other than one's own.
+    According to this doctrine, consciousness
+    is always the consciousness of something
+    (or other).
     
-    Egocentrism is found across the life span:
-    in infancy, early childhood, adolescence,
-    and adulthood.
-
-ego death
-psychic death
-death of consciousness
-    A "complete loss of subjective self-
-    identity".
-    
-    The term is used in various intertwined
-    contexts, with related meanings.
-    
-    Jungian psychology uses the synonymous
-    term psychic death, referring to a
-    fundamental transformation of the psyche.
-
-    https://exploremindfulness.wordpress.com/2015/12/11/what-is-ego-death/
-
-    Considered a spiritual experience, one
-    where you experience the cessation of
-    sense and feeling of control living your
-    life.
-
-    Jungian psychology, ego death is often
-    referred to as the death of consciousness,
-    which may be accompanied by panic.
-    
-    Jungian psychology refers to ego death as
-    psychic death, and goes on to explain it
-    as a “shift back to the existential
-    position of the natural self”.
-    
-    It is thought that after one experiences
-    the death of consciousness, the
-    consciousness is then resurrected.
-    
-    Carl Jung called this process the “the
-    transcendent function”, which he believed
-    led to a more “inclusive and synthetic
-    consciousness”.
-    
-    It is believed that this process is a
-    fundamental transformation of the psyche
-    as it allows individuals to develop
-    further understanding and peace of mind
-    with the world and its inhabitants.
-
-magical thinking
-superstitious thinking
-    The belief that unrelated events are
-    causally connected despite the absence of
-    any plausible causal link between them,
-    particularly as a result of supernatural
-    effects.
-
-quiescent
-    In a state or period of inactivity or
-    dormancy.
-    "strikes were headed by groups of workers
-    who had previously been quiescent"
-
-automatism
-    Refers to involuntary actions and
-    processes not under the control of the
-    conscious mind—for example, dreaming,
-    breathing, or a nervous tic.
-
-prodrome
-prodromal
-    A medical term for early signs or symptoms
-    of an illness or health problem that
-    appear before the major signs or symptoms
-    start.
-    
-    Psychosis, a group of symptoms found in
-    disorders like schizophrenia, is one
-    illness with a specific prodrome.
-
-apperception
-    [psychology]
-
-    The mental process by which a person makes
-    sense of an idea by assimilating it to the
-    body of ideas he or she already possesses.
-
-Free association
-    The expression of the content of
-    consciousness without censorship as an aid
-    in gaining access to unconscious
-    processes.
-    
-    The technique is used in psychoanalysis
-    which was originally devised by Sigmund
-    Freud out of the hypnotic method of his
-    mentor and colleague, Josef Breuer.
-
-conation
-    [#psychology]
-
-    The proactive (as opposed to habitual)
-    part of motivation that connects
-    knowledge, affect, drives, desires, and
-    instincts to behavior.
-    
-    The behavioral basis of attitudes is
-    sometimes referred to as the conative
-    component.
-
-counterfactual thinking
-    A concept in psychology that involves the
-    human tendency to create possible
-    alternatives to life events that have
-    already occurred; something that is
-    contrary to what actually happened.
-    
-    Counterfactual thinking is, as it states:
-    "counter to the facts".
-
-episodic memory
-    The memory of every day events (such as
-    times, location geography, associated
-    emotions, and other contextual
-    information) that can be explicitly stated
-    or conjured.
-    
-    It is the collection of past personal
-    experiences that occurred at particular
-    times and places; for example, the party
-    on one's 7th birthday.
-    
-    Along with semantic memory, it comprises
-    the category of explicit memory, one of
-    the two major divisions of long-term
-    memory (the other being implicit memory).
-    
-    The term "episodic memory" was coined by
-    Endel Tulving in 1972, referring to the
-    distinction between knowing and
-    remembering: knowing is factual
-    recollection (semantic) whereas
-    remembering is a feeling that is located
-    in the past (episodic).
-    
-    One of the main components of episodic
-    memory is the process of recollection,
-    which elicits the retrieval of contextual
-    information pertaining to a specific event
-    or experience that has occurred.
-    
-    Tulving seminally defined three key
-    properties of episodic memory recollection
-    as:
-    - A subjective sense of time (or mental
-      time travel).
-    - Connection to the self.
-    - Autonoetic consciousness, a special kind
-      of consciousness that accompanies the
-      act of remembering, which enables an
-      individual to be aware of the self in a
-      subjective time.
-
-mindblind
-mindblindness
-    A few unfortunates suffer from a puzzling
-    deficit, an inability to understand
-    another's point of view.
-    
-    This condition is sometimes referred to as
-    'mindblindness', and it is a major symptom
-    of autism.
-    
-    To 'mindblind' humans, the world is a
-    confusing place which they never 'get the
-    hang of'.
-
-volition
-will
-    [#psychology]
-
-    The cognitive process by which an
-    individual decides on and commits to a
-    particular course of action.
-    
-    It is defined as purposive striving and is
-    one of the primary human psychological
-    functions.
-    
-    Others include affect, motivation, and
-    cognition
-
-strive
-striving
-    Make great efforts to achieve or obtain
+    That is, every act of consciousness has an
+    object, or one may say equivalently that
+    every act of consciousness intends
     something.
-    "national movements were striving for
-    independence"
-
-    Struggle or fight vigorously.
-    "scholars must strive against bias"
-
-gerund
-    A gerund is any of various nonfinite verb
-    forms in various languages; most often,
-    but not exclusively, one that functions as
-    a noun.
     
-    In English, it has the properties of both
-    verb and noun, such as being modifiable by
-    an adverb and being able to take a direct
-    object
-
-retrieval-induced forgetting
-    Occurs when recalling certain memories
-    causes other related information to be
-    forgotten.
+    Once this is granted, it follows that if
+    an act of a certain structure is present,
+    then by that very fact a certain object is
+    also present; also, more importantly, the
+    character of this object is codetermined
+    by the character of the consciousness in
+    which it appears.
     
-    So repeatedly calling forth some memories
-    might lead other memories to become less
-    accessible.
-    
-    Traumatic or unwanted memories, for
-    example, might be forgotten by repeated
-    retrieval of more positive ones
-
-repression
-    The psychological attempt to direct one's
-    own desires and impulses toward
-    pleasurable instincts by excluding them
-    from one's consciousness and holding or
-    subduing them in the unconscious
-
-confabulation
-confabulate
-    [#psychology]
-
-    Fabricate imaginary experiences as
-    compensation for loss of memory.
-
-    "she has lapses in attention and
-    concentration—she may be confabulating a
-    little"
-
-    A memory error defined as the production
-    of fabricated, distorted, or
-    misinterpreted memories about oneself or
-    the world.
-    
-    People who confabulate present incorrect
-    memories ranging from "subtle alterations
-    to bizarre fabrications", and are
-    generally very confident about their
-    recollections, despite contradictory
-    evidence.
-
-    Confabulation is the creation of false
-    memories in the absence of intentions of
-    deception.
-    
-    Individuals who confabulate have no
-    recognition that the information being
-    relayed to others is fabricated.
-
-cognitive bias
-    A systematic pattern of deviation from
-    norm or rationality in judgment.
-    
-    Individuals create their own "subjective
-    reality" from their perception of the
-    input.
-    
-    An individual's construction of reality,
-    not the objective input, may dictate their
-    behavior in the world.
-
-    Shane: I think this term is contrived and
-    based on a false premise that there is
-    some kind of base reality. See simulation
-    and simulacra.
-
-tact
-    https://www.mit.edu/~jcb/tact.html
-
-promnesia
-déjà vu
-    This is the term in psychology that means
-    the feeling of having previously
-    experienced an event or place actually
-    being encountered for the first time.
-    
-    It is the same as the French phrase déjà
-    vu which can be translated as "seen
-    before".
-    
-    In parapsychology the same term is used
-    similarly to precognition, which means
-    knowing something and being able to
-    describe it before you encounter it.
-
-ineffable
-    Too great or extreme to be expressed or
-    described in words.
-
-    "the ineffable mysteries of the soul"
-
-qualia
-    [#philosophy]
-    [#psychology]
-
-    Individual instances of subjective,
-    conscious experience.
-
-    https://youtu.be/evQsOFQju08?t=165
-
-explanatory gap
-    Our inability to connect physical
-    phenomenon to these raw feelings, our
-    inability to explain and share our own
-    internal qualia.
-
-cognitive load
-    Refers to the used amount of working
-    memory resources.
-    
-    Cognitive load theory differentiates
-    cognitive load into three types:
-    intrinsic, extraneous, and germane.
-
-Dunning-Kruger Effect
-    The inability to understand one's own
-    incompetence leads to inflated self-
-    assessment.
-
-    An illusory superiority that people
-    believe (suffer from) in.
-    
-    This happens because of misjudging their
-    cognitive abilities as greater, than it
-    actually is.
-
-    A cognitive bias in which people
-    mistakenly assess their cognitive ability
-    as greater than it is.
-    
-    It is related to the cognitive bias of
-    illusory superiority and comes from the
-    inability of people to recognize their
-    lack of ability.
-
-Theory of mind
-    [#ai]
-    [#psychology]
-    [#philosophy]
-
-    Understands the needs of other intelligent
-    entities.
-
-    The ability to attribute mental states -
-    beliefs, intents, desires, emotions,
-    knowledge, etc. - to oneself, and to
-    others, and to understand that others have
-    beliefs, desires, intentions, and
-    perspectives that are different from one's
-    own.
-
-    Great apes possess the “theory of mind,”
-    which means they can attribute mental
-    states to themselves and others, and they
-    can also understand that others may
-    believe different information than they
-    do.
-
-Schizoid personality disorder
-    An uncommon condition in which people
-    avoid social activities and consistently
-    shy away from interaction with others.
-    
-    They also have a limited range of
-    emotional expression.
-
-resentment
-    A complex, multilayered emotion that has
-    been described as a mixture of
-    disappointment, disgust, anger, and fear.
-
-    Other psychologists consider it a mood or
-    as a secondary emotion that can be
-    elicited in the face of insult and/or
-    injury.
-
-dark empath
-    Have a greater ability to make sense of
-    others' motives and needs to help make
-    decisions while retaining the ability to
-    engage adaptive psychopathy when
-    necessary, paralleling the relationship
-    between Empaths and Typicals.
-
-machiavellianism
-    [psychology]
-
-    A personality trait which sees a person so
-    focused on their own interests they will
-    manipulate, deceive, and exploit others to
-    achieve their goals.
-    
-    Machiavellianism is one of the traits in
-    what is called the 'Dark Triad', the other
-    two being narcissism and psychopathy.
-
-narcissism
-    A state in which one interprets and
-    regards everything in relation to oneself
-    and not to other people or things.
-
-    Excessive preoccupation with or admiration
-    of oneself.
-
-    A personality disorder characterized by an
-    exaggerated sense of self-importance, need
-    for admiration, and lack of empathy.
-
-    Also called narcissistic personality
-    disorder.
-
-psychopathy
-sociopathy
-    Traditionally a personality disorder
-    characterized by persistent antisocial
-    behavior, impaired empathy and remorse,
-    and bold, disinhibited, and egotistical
-    traits.
-
-dark triad
-    3 menevolent personality traits.
-
-    - machiavellianism
-    - narcissism
-    - psychopathy
-
-attribution
-    [#psychology]
-
-    Humans are motivated to assign causes to
-    their actions and behaviors.
-    
-    Social psychology states that attribution
-    is the process by which individuals
-    explain the causes of behavior and events
-    as being either external or internal.
-    
-    Models to explain this process are called
-    attribution theory.
-
-charade
-    An absurd pretence intended to create a
-    pleasant or respectable appearance.
-    "talk of unity was nothing more than a
-    charade"
-
-cognitive biases
-    NLG: (Psychology) A judgmental error
-    characterized by deviations from standards
-    of rationality or good judgment, often
-    caused by information-processing
-    shortcuts which tend to simplify and save
-    cognitive effort.
-
-derealization
-    A mental state where you feel detached
-    from your surroundings.
-    
-    People and objects around you may seem
-    unreal.
-    
-    Even so, you're aware that this altered
-    state isn't normal.
-    
-    More than half of all people may have this
-    disconnection from reality once in their
-    lifetime.
-
-depersonalization
-    Described as feeling disconnected or
-    detached from one's self.
-    
-    Individuals may report feeling as if they
-    are an outside observer of their own
-    thoughts or body, and often report feeling
-    a loss of control over their thoughts or
-    actions.
-
-cognitive dissonance
-    [psychology]
-
-    The mental discomfort experienced by a
-    person who holds two or more contradictory
-    beliefs, ideas, or values.
-
-    This discomfort is triggered by a
-    situation in which a person's belief
-    clashes with new evidence perceived by the
-    person.
-
-anhedonia
-    The inability to feel pleasure during
-    pleasurable activities, occurs as a part
-    of a number of conditions.
-    
-    It is also considered a central feature of
-    depression.
-
-narcissist
-narcissism
-narcissistic
-    [personality disorder]
-
-    Involves a pattern of self-centered,
-    arrogant thinking and behavior, a lack of
-    empathy and consideration for other
-    people, and an excessive need for
-    admiration.
-    
-    Others often describe people with NPD as
-    cocky, manipulative, selfish, patronizing,
-    and demanding.
-
-affect
-    Refers to the underlying experience of
-    feeling, emotion or mood.
-
-mirroring
-    The behavior in which one person
-    unconsciously imitates the gesture, speech
-    pattern, or attitude of another.
-    
-    Mirroring often occurs in social
-    situations, particularly in the company of
-    close friends or family.
-    
-    The concept often affects other
-    individuals' notions about the individual
-    that is exhibiting mirroring behaviors,
-    which can lead to the individual building
-    rapport with others.
-
-    Mirroring is the subconscious replication
-    of another person's nonverbal signals.
-
-understanding
-    [psychological process]
-
-    Retated to an abstract or physical object,
-    such as a person, situation, or message
-    whereby one is able to use concepts to
-    model that object.
-
-    Understanding is a relation between the
-    knower and an object of understanding.
-
-emotional synchrony
-perceived emotional synchrony
-    A process that occurs when there is a
-    collective gathering, shared focused
-    attention, and behavioral synchrony that
-    potentially elicits a collective emotional
-    state.
-
-emotional contagion
-    A form of social contagion that involves
-    the spontaneous spread of emotions and
-    related behaviors.
-    
-    Such emotional convergence can happen from
-    one person to another, or in a larger
-    group.
-    
-    Emotions can be shared across individuals
-    in many ways, both implicitly or
-    explicitly.
-    
-    For instance, conscious reasoning,
-    analysis, and imagination have all been
-    found to contribute to the phenomenon.
-    
-    The behaviour has been found in humans,
-    other primates, dogs, and chickens.
-    
-    Emotional contagion is important to
-    personal relationships because it fosters
-    emotional synchrony between individuals.
-    
-    A broader definition of the phenomenon
-    suggested by Schoenewolf is "a process in
-    which a person or group influences the
-    emotions or behavior of another person or
-    group through the conscious or unconscious
-    induction of emotion states and behavioral
-    attitudes."
-
-    One view developed by Elaine Hatfield, et
-    al., is that this can be done through
-    automatic mimicry and synchronization of
-    one's expressions, vocalizations,
-    postures, and movements with those of
-    another person.
-    
-    When people unconsciously mirror their
-    companions' expressions of emotion, they
-    come to feel reflections of those
-    companions' emotions.
-
-apprehension
-    Anxiety or fear that something bad or
-    unpleasant will happen.
-    "he felt sick with apprehension"
-
-    Understanding; grasp.
-    "his first apprehension of such large
-    issues"
-
-    Opposite:
-    - confidence
-
-grok
-    A neologism coined by American writer
-    Robert A.  Heinlein for his 1961 science
-    fiction novel Stranger in a Strange Land.
-    
-    While the Oxford English Dictionary
-    summarizes the meaning of grok as "to
-    understand intuitively or by empathy, to
-    establish rapport with" and "to empathize
-    or communicate sympathetically (with);
-    also, to experience enjoyment", Heinlein's
-    concept is far more nuanced, with critic
-    Istvan Csicsery-Ronay Jr.
-    
-    observing that "the book's major theme can
-    be seen as an extended definition of the
-    term." The concept of grok garnered
-    significant critical scrutiny in the years
-    after the book's initial publication.
-    
-    The term and aspects of the underlying
-    concept have become part of communities
-    such as CS.
-
-rapport
-    A close and harmonious relationship in
-    which the people or groups concerned
-    understand each other's feelings or ideas
-    and communicate well.
-    "she was able to establish a good rapport
-    with the children"
-
-transcendent function
-the transcendent function
-    [#Jungian psychology]
-
-    Psychic death followed by psychic
-    resurrection.
-
-    An invitation/opening to the wholeness of
-    psyche.
-    
-    When connected with, the transcendent
-    function is like rising above, or
-    transcending the polarity of ego function
-    and moving into the vastness of our
-    embodied consciousness.
-
-magical thinking
-superstitious thinking
-    The belief that unrelated events are
-    causally connected despite the absence of
-    any plausible causal link between them,
-    particularly as a result of supernatural
-    effects.
-
-quiescent
-    In a state or period of inactivity or
-    dormancy.
-    "strikes were headed by groups of workers
-    who had previously been quiescent"
-
-automatism
-    Refers to involuntary actions and
-    processes not under the control of the
-    conscious mind—for example, dreaming,
-    breathing, or a nervous tic.
-
-prodrome
-prodromal
-    A medical term for early signs or symptoms
-    of an illness or health problem that
-    appear before the major signs or symptoms
-    start.
-
-    Psychosis, a group of symptoms found in
-    disorders like schizophrenia, is one
-    illness with a specific prodrome.
-
-apperception
-    [psychology]
-
-    The mental process by which a person makes
-    sense of an idea by assimilating it to the
-    body of ideas he or she already possesses.
-
-Free association
-    The expression of the content of
-    consciousness without censorship as an aid
-    in gaining access to unconscious
-    processes.
-
-    The technique is used in psychoanalysis
-    which was originally devised by Sigmund
-    Freud out of the hypnotic method of his
-    mentor and colleague, Josef Breuer.
-
-conation
-    [#psychology]
-
-    The proactive (as opposed to habitual)
-    part of motivation that connects
-    knowledge, affect, drives, desires, and
-    instincts to behavior.
-
-    The behavioral basis of attitudes is
-    sometimes referred to as the conative
-    component.
-
-counterfactual thinking
-    A concept in psychology that involves the
-    human tendency to create possible
-    alternatives to life events that have
-    already occurred; something that is
-    contrary to what actually happened.
-
-    Counterfactual thinking is, as it states:
-    "counter to the facts".
-
-episodic memory
-    The memory of every day events (such as
-    times, location geography, associated
-    emotions, and other contextual
-    information) that can be explicitly stated
-    or conjured.
-
-    It is the collection of past personal
-    experiences that occurred at particular
-    times and places; for example, the party
-    on one's 7th birthday.
-
-    Along with semantic memory, it comprises
-    the category of explicit memory, one of
-    the two major divisions of long-term
-    memory (the other being implicit memory).
-
-    The term "episodic memory" was coined by
-    Endel Tulving in 1972, referring to the
-    distinction between knowing and
-    remembering: knowing is factual
-    recollection (semantic) whereas
-    remembering is a feeling that is located
-    in the past (episodic).
-
-    One of the main components of episodic
-    memory is the process of recollection,
-    which elicits the retrieval of contextual
-    information pertaining to a specific event
-    or experience that has occurred.
-
-    Tulving seminally defined three key
-    properties of episodic memory recollection
-    as:
-    - A subjective sense of time (or mental
-      time travel).
-    - Connection to the self.
-    - Autonoetic consciousness, a special kind
-      of consciousness that accompanies the
-      act of remembering, which enables an
-      individual to be aware of the self in a
-      subjective time.
-
-mindblind
-mindblindness
-    A few unfortunates suffer from a puzzling
-    deficit, an inability to understand
-    another's point of view.
-
-    This condition is sometimes referred to as
-    'mindblindness', and it is a major symptom
-    of autism.
-
-    To 'mindblind' humans, the world is a
-    confusing place which they never 'get the
-    hang of'.
-
-volition
-will
-    [#psychology]
-
-    The cognitive process by which an
-    individual decides on and commits to a
-    particular course of action.
-
-    It is defined as purposive striving and is
-    one of the primary human psychological
-    functions.
-
-    Others include affect, motivation, and
-    cognition
-
-strive
-striving
-    Make great efforts to achieve or obtain
-    something.
-    "national movements were striving for
-    independence"
-
-    Struggle or fight vigorously.
-    "scholars must strive against bias"
-
-gerund
-    A gerund is any of various nonfinite verb
-    forms in various languages; most often,
-    but not exclusively, one that functions as
-    a noun.
-
-    In English, it has the properties of both
-    verb and noun, such as being modifiable by
-    an adverb and being able to take a direct
-    object
-
-retrieval-induced forgetting
-    Occurs when recalling certain memories
-    causes other related information to be
-    forgotten.
-
-    So repeatedly calling forth some memories
-    might lead other memories to become less
-    accessible.
-
-    Traumatic or unwanted memories, for
-    example, might be forgotten by repeated
-    retrieval of more positive ones
-
-repression
-    The psychological attempt to direct one's
-    own desires and impulses toward
-    pleasurable instincts by excluding them
-    from one's consciousness and holding or
-    subduing them in the unconscious
-
-confabulation
-confabulate
-    [#psychology]
-
-    Fabricate imaginary experiences as
-    compensation for loss of memory.
-
-    "she has lapses in attention and
-    concentration—she may be confabulating a
-    little"
-
-    A memory error defined as the production
-    of fabricated, distorted, or
-    misinterpreted memories about oneself or
-    the world.
-
-    People who confabulate present incorrect
-    memories ranging from "subtle alterations
-    to bizarre fabrications", and are
-    generally very confident about their
-    recollections, despite contradictory
-    evidence.
-
-    Confabulation is the creation of false
-    memories in the absence of intentions of
-    deception.
-
-    Individuals who confabulate have no
-    recognition that the information being
-    relayed to others is fabricated.
-
-cognitive bias
-    A systematic pattern of deviation from
-    norm or rationality in judgment.
-
-    Individuals create their own "subjective
-    reality" from their perception of the
-    input.
-
-    An individual's construction of reality,
-    not the objective input, may dictate their
-    behavior in the world.
-
-    Shane: I think this term is contrived and
-    based on a false premise that there is
-    some kind of base reality. See simulation
-    and simulacra.
-
-tact
-    https://www.mit.edu/~jcb/tact.html
-
-promnesia
-déjà vu
-    This is the term in psychology that means
-    the feeling of having previously
-    experienced an event or place actually
-    being encountered for the first time.
-
-    It is the same as the French phrase déjà
-    vu which can be translated as "seen
-    before".
-
-    In parapsychology the same term is used
-    similarly to precognition, which means
-    knowing something and being able to
-    describe it before you encounter it.
-
-ineffable
-    Too great or extreme to be expressed or
-    described in words.
-
-    "the ineffable mysteries of the soul"
-
-explanatory gap
-    Our inability to connect physical
-    phenomenon to these raw feelings, our
-    inability to explain and share our own
-    internal qualia.
-
-cognitive load
-    Refers to the used amount of working
-    memory resources.
-
-    Cognitive load theory differentiates
-    cognitive load into three types:
-    intrinsic, extraneous, and germane.
-
-Dunning-Kruger Effect
-    The inability to understand one's own
-    incompetence leads to inflated self-
-    assessment.
-
-    An illusory superiority that people
-    believe (suffer from) in.
-
-    This happens because of misjudging their
-    cognitive abilities as greater, than it
-    actually is.
-
-    A cognitive bias in which people
-    mistakenly assess their cognitive ability
-    as greater than it is.
-
-    It is related to the cognitive bias of
-    illusory superiority and comes from the
-    inability of people to recognize their
-    lack of ability.
-
-Theory of mind
-    [#ai]
-    [#psychology]
-    [#philosophy]
-
-    Understands the needs of other intelligent
-    entities.
-
-    The ability to attribute mental states -
-    beliefs, intents, desires, emotions,
-    knowledge, etc. - to oneself, and to
-    others, and to understand that others have
-    beliefs, desires, intentions, and
-    perspectives that are different from one's
-    own.
-
-    Great apes possess the “theory of mind,”
-    which means they can attribute mental
-    states to themselves and others, and they
-    can also understand that others may
-    believe different information than they
-    do.
-
-Schizoid personality disorder
-    An uncommon condition in which people
-    avoid social activities and consistently
-    shy away from interaction with others.
-
-    They also have a limited range of
-    emotional expression.
-
-resentment
-    A complex, multilayered emotion that has
-    been described as a mixture of
-    disappointment, disgust, anger, and fear.
-
-    Other psychologists consider it a mood or
-    as a secondary emotion that can be
-    elicited in the face of insult and/or
-    injury.
-
-dark empath
-    Have a greater ability to make sense of
-    others' motives and needs to help make
-    decisions while retaining the ability to
-    engage adaptive psychopathy when
-    necessary, paralleling the relationship
-    between Empaths and Typicals.
-
-machiavellianism
-    [psychology]
-
-    A personality trait which sees a person so
-    focused on their own interests they will
-    manipulate, deceive, and exploit others to
-    achieve their goals.
-
-    Machiavellianism is one of the traits in
-    what is called the 'Dark Triad', the other
-    two being narcissism and psychopathy.
-
-narcissism
-    A state in which one interprets and
-    regards everything in relation to oneself
-    and not to other people or things.
-
-    Excessive preoccupation with or admiration
-    of oneself.
-
-    A personality disorder characterized by an
-    exaggerated sense of self-importance, need
-    for admiration, and lack of empathy.
-
-    Also called narcissistic personality
-    disorder.
-
-psychopathy
-sociopathy
-    Traditionally a personality disorder
-    characterized by persistent antisocial
-    behavior, impaired empathy and remorse,
-    and bold, disinhibited, and egotistical
-    traits.
-
-dark triad
-    3 menevolent personality traits.
-
-    - machiavellianism
-    - narcissism
-    - psychopathy
-
-attribution
-    [#psychology]
-
-    Humans are motivated to assign causes to
-    their actions and behaviors.
-
-    Social psychology states that attribution
-    is the process by which individuals
-    explain the causes of behavior and events
-    as being either external or internal.
-
-    Models to explain this process are called
-    attribution theory.
-
-charade
-    An absurd pretence intended to create a
-    pleasant or respectable appearance.
-    "talk of unity was nothing more than a
-    charade"
-
-cognitive biases
-    NLG: (Psychology) A judgmental error
-    characterized by deviations from standards
-    of rationality or good judgment, often
-    caused by information-processing
-    shortcuts which tend to simplify and save
-    cognitive effort.
-
-derealization
-    A mental state where you feel detached
-    from your surroundings.
-
-    People and objects around you may seem
-    unreal.
-
-    Even so, you're aware that this altered
-    state isn't normal.
-
-    More than half of all people may have this
-    disconnection from reality once in their
-    lifetime.
-
-depersonalization
-    Described as feeling disconnected or
-    detached from one's self.
-
-    Individuals may report feeling as if they
-    are an outside observer of their own
-    thoughts or body, and often report feeling
-    a loss of control over their thoughts or
-    actions.
-
-cognitive dissonance
-    [psychology]
-
-    The mental discomfort experienced by a
-    person who holds two or more contradictory
-    beliefs, ideas, or values.
-
-    This discomfort is triggered by a
-    situation in which a person's belief
-    clashes with new evidence perceived by the
-    person.
-
-anhedonia
-    The inability to feel pleasure during
-    pleasurable activities, occurs as a part
-    of a number of conditions.
-
-    It is also considered a central feature of
-    depression.
-
-narcissist
-narcissism
-narcissistic
-    [personality disorder]
-
-    Involves a pattern of self-centered,
-    arrogant thinking and behavior, a lack of
-    empathy and consideration for other
-    people, and an excessive need for
-    admiration.
-
-    Others often describe people with NPD as
-    cocky, manipulative, selfish, patronizing,
-    and demanding.
-
-affect
-    Refers to the underlying experience of
-    feeling, emotion or mood.
-
-empathy
-    The capacity to understand or feel what
-    another person is experiencing from within
-    their frame of reference, that is, the
-    capacity to place oneself in another's
-    position.
-    
-    Definitions of empathy encompass a broad
-    range of social, cognitive, and emotional
-    processes primarily concerned with
-    understanding others (and others' emotions
-    in particular).
-    
-    Types of empathy include cognitive
-    empathy, emotional (or affective) empathy,
-    somatic empathy, and spiritual empathy.
-
-empathic anger
-    An emotion, a form of empathic distress.
-    
-    Empathic anger is felt in a situation
-    where someone else is being hurt by
-    another person or thing.
-
-    Empathic anger affects desires to help and
-    to punish.
-    
-    Two sub-categories of empathic anger are
-    trait empathic anger and state empathic
-    anger.
-
-    The higher a person's perspective-taking
-    ability, the less angry they are in
-    response to a provocation.
-    
-    Empathic concern does not, however,
-    significantly predict anger response, and
-    higher personal distress is associated
-    with increased anger.
-
-empathic distress
-    Feeling the perceived pain of another
-    person.
-    
-    This feeling can be transformed into
-    empathic anger, feelings of injustice, or
-    guilt.
-    
-    These emotions can be perceived as pro-
-    social; however, views differ as to
-    whether they serve as motives for moral
-    behavior.
-
-personal distress
-    An aversive, self-focused emotional
-    reaction to the apprehension or
-    comprehension of another's emotional state
-    or condition.
-    
-    This negative affective state often occurs
-    as a result of emotional contagion when
-    there is confusion between self and other.
-
-emotional contagion
-    A phenomenon of an automatic adoption of
-    an emotional state of another person.
-
-ambivert
-    A person who has a balance of extrovert
-    and introvert features in their
-    personality.
-    "Dr. Brian Little had attendees roaring
-    with laughter with his psychological
-    analysis of extraverts, introverts and
-    ambiverts and how we are more efficient
-    together."
+    Thus, according to phenomenology, the key
+    for understanding and grasping the essence
+    of any object is to grasp the structure of
+    consciousness which determines the object.
