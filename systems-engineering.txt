@@ -1,3 +1,30 @@
+composability
+    A system design principle that deals with
+    the inter-relationships of components.
+    
+    A highly composable system provides
+    components that can be selected and
+    assembled in various combinations to
+    satisfy specific user requirements.
+
+    In information systems, the essential
+    features that make a component composable
+    are that it be:
+    - self-contained (modular)
+        It can be deployed independently –
+        note that it may cooperate with other
+        components, but dependent components
+        are replaceable
+
+    - stateless
+        It treats each request as an
+        independent transaction, unrelated to
+        any previous request. Stateless is
+        just one technique; managed state and
+        transactional systems can also be
+        composable, but with greater
+        difficulty.
+
 Pluggable authentication module
     A pluggable authentication module is a
     mechanism to integrate multiple low-level
