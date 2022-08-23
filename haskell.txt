@@ -4676,9 +4676,9 @@ bind
     supplied on its right-hand side, which
     rewraps it. Simple!
 
-    One of the operators of Monad; Another is
-    'return', which is rather simple, it just
-    containerizes a value.
+    Bind is one of the operators of Monad;
+    Another is 'return', which is rather
+    simple, it just containerizes a value.
 
     (>>) and (>>=) are both bind variants.
 
