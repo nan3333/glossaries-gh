@@ -8,19 +8,26 @@ ansible-navigator
 
 artifact
     Ansible offers four distributed, re-usable
-    artifacts: variables files, task files,
-    playbooks, and roles.
-    - variables file
-      Contains only variables
-    - task file
-      Contains only tasks.
-    - playbook
-      Contains at least one play, and may
+    artifacts:
+    - variables files,
+    - task files,
+    - playbooks, and
+    - roles.
+
+    variables file:
+        Contains only variables
+
+    task file:
+        Contains only tasks.
+
+    playbook:
+        Contains at least one play, and may
       contain variables, tasks, and other
       content. You can re-use tightly focused
       playbooks, but you can only re-use them
       statically, not dynamically.
-    - role
+
+    role:
       Contains a set of related tasks,
       variables, defaults, handlers, and even
       modules or other plugins in a defined
