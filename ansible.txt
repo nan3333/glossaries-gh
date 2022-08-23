@@ -65,6 +65,11 @@ Automation Platform Controller
     Usually controlled by someone in IT
     Operations.
 
+    May be available on Azure, or something.
+
+    In the background it will download
+    playbooks from GitHub.
+
 Galaxy
 Ansible Galaxy
     Refers to the Galaxy website where users
@@ -72,11 +77,22 @@ Ansible Galaxy
     tool for installing, creating and managing
     roles.
 
+configuration management
+CM
+
 Ansible
 Engine
 Ansible Engine
     [red hat product]
     [IT automation tool]
+
+    An open source IT CM and automation
+    platform, provided by Red Hat.
+    
+    It uses human-readable YAML templates so
+    that users can program repetitive tasks to
+    occur automatically, without learning an
+    advanced language.
 
     The simplest way to automate your IT
     infrastructure.
@@ -1132,4 +1148,5 @@ AAP
 Ansible Automation Platform
     https://www.youtube.com/watch?v=EG9C7mVG3sQ
 
-    Scale your automation across the enterprise.
+    Scale your automation across the
+    enterprise.
