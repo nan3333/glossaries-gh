@@ -67,6 +67,8 @@ Ansible Galaxy
     tool for installing, creating and managing
     roles.
 
+    https://galaxy.ansible.com
+
 configuration management
 CM
 
@@ -133,6 +135,30 @@ playbook
     
     We will need to write a YAML file
     describing the tasks of our deploy.
+
+    They contain Plays (which are the basic
+    unit of Ansible execution).
+    
+    This is both an ‘execution concept’ and
+    how we describe the files on which
+    ansible-playbook operates.
+    
+    Playbooks are written in YAML and are easy
+    to read, write, share and understand.
+    
+    An Ansible playbook contains one or
+    multiple plays, each of which define the
+    work to be done for a configuration on a
+    managed server.
+    
+    Ansible plays are written in YAML.
+    
+    Every play is created by an administrator
+    with environment-specific parameters for
+    the target machines; there are no standard
+    plays.
+
+    https://docs.ansible.com/ansible/latest/user_guide/playbooks_intro.html#about-playbooks
 
 control station
     https://youtu.be/5hycyr-8EKs?t=140
@@ -276,6 +302,20 @@ Collection
     other versions of collections) with
     ansible-galaxy collection install
     <namespace.collection>.
+
+    A format in which Ansible content is
+    distributed that can contain playbooks,
+    roles, modules, and plugins.
+    
+    You can install and use collections
+    through Ansible Galaxy.
+    
+    To learn more about collections, see Using
+    collections.
+    
+    Collection resources can be used
+    independently and discretely from each
+    other.
 
 Collection name
     The second part of a FQ Collection Name.
@@ -527,6 +567,10 @@ Group Vars
     playbook.
 
 Handlers
+    A special form of a Task, that only
+    executes when notified by a previous task
+    which resulted in a ‘changed’ status.
+
     Handlers are just like regular tasks in an
     Ansible playbook (see Tasks) but are only
     run if the Task contains a notify keyword
@@ -617,6 +661,21 @@ Inventory
     Inventory can also be provided via an
     Inventory Script (sometimes called an
     "External Inventory Script").
+
+    A list of managed nodes provided by one or
+    more ‘inventory sources’.
+    
+    Your inventory can specify information
+    specific to each node, like IP address.
+    
+    It is also used for assigning groups, that
+    both allow for node selection in the Play
+    and bulk variable assignment.
+    
+    Sometimes an inventory source file is also
+    referred to as a ‘hostfile’.
+
+    https://docs.ansible.com/ansible/latest/user_guide/intro_inventory.html#intro-inventory
 
 Inventory Script
     A very simple program (or a complicated
@@ -758,6 +817,28 @@ Modules
     Ansible refers to the collection of
     available modules as a library.
 
+    The code or binaries that Ansible copies
+    to and executes on each managed node (when
+    needed) to accomplish the action defined
+    in each Task.
+    
+    Each module has a particular use, from
+    administering users on a specific type of
+    database to managing VLAN interfaces on a
+    specific type of network device.
+    
+    You can invoke a single module with a
+    task, or invoke several different modules
+    in a playbook.
+    
+    Ansible modules are grouped in
+    collections.
+    
+    For an idea of how many collections
+    Ansible includes, see the Collection
+    Index:
+    - https://docs.ansible.com/ansible/latest/collections/index.html#list-of-collections
+
 Multi-Tier
     The concept that IT systems are not
     managed one system at a time, but by
@@ -863,6 +944,18 @@ Play
     There can be one or many plays in a
     playbook.
 
+    The main context for Ansible execution,
+    this playbook object maps managed nodes
+    (hosts) to tasks.
+    
+    The Play contains variables, roles and an
+    ordered lists of tasks and can be run
+    repeatedly.
+    
+    It basically consists of an implicit loop
+    over the mapped hosts and tasks and
+    defines how to iterate over them.
+
 Pull Mode
 ansible-pull
     By default, Ansible runs in push mode,
@@ -964,6 +1057,14 @@ Role
     units that allow you to share behavior
     among playbooks - or even with other
     users.
+
+    A limited distribution of reusable Ansible
+    content (tasks, handlers, variables,
+    plugins, templates and files) for use
+    inside of a Play.
+    
+    To use any Role resource, the Role itself
+    must be imported into the Play.
 
 Rolling Update
     The act of addressing a number of nodes in
@@ -1071,6 +1172,17 @@ Task
     Then install it:
         ansible-galaxy install 0x0i.elasticsearch
 
+    The definition of an ‘action’ to be
+    applied to the managed host.
+    
+    Tasks must always be contained in a Play,
+    directly or indirectly (Role, or
+    imported/included task list file).
+    
+    You can execute a single task once with an
+    ad hoc command using ansible or ansible-
+    console (both create a virtual Play).
+
 Tasks
     A list of Task.
 
@@ -1145,6 +1257,13 @@ YAML
 
 AAP
 Ansible Automation Platform
+    Short for ‘Ansible Automation Platform’.
+    
+    This is a product that includes enterprise
+    level features and integrates many tools
+    of the Ansible ecosystem: ansible-core,
+    awx, galaxyNG, and so on.
+
     https://www.youtube.com/watch?v=EG9C7mVG3sQ
 
     Scale your automation across the
@@ -1234,5 +1353,39 @@ facter
     gem install facter
 
 Chef
+    Automation Software for Continuous
+    Delivery of Secure Applications and
+    Infrastructure.
 
 Puppet
+    A software configuration management tool
+    which includes its own declarative
+    language to describe system configuration.
+    
+    It is a model-driven solution that
+    requires limited programming knowledge to
+    use.
+
+Control node
+    The machine from which you run the Ansible
+    CLI tools (ansible-playbook , ansible,
+    ansible-vault and others).
+    
+    You can use any computer that meets the
+    software requirements as a control node -
+    laptops, shared desktops, and servers can
+    all run Ansible.
+    
+    Multiple control nodes are possible, but
+    Ansible itself does not coordinate across
+    them, see AAP for such features.
+
+Plugin
+    Pieces of code that expand Ansible’s core
+    capabilities, they can control how you
+    connect to a managed node (connection
+    plugins), manipulate data (filter plugins)
+    and even control what is displayed in the
+    console (callback plugins).
+
+    https://docs.ansible.com/ansible/latest/plugins/plugins.html#working-with-plugins
