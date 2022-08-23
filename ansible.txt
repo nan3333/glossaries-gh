@@ -1,3 +1,5 @@
+https://docs.ansible.com/ansible/latest/network/getting_started/basic_concepts.html
+
 https://docs.ansible.com/ansible/latest/reference_appendices/glossary.html
 
 Fact
@@ -1150,6 +1152,8 @@ Ansible Automation Platform
 
 internal setup module
 setup module
+    [module]
+
     This module is automatically called by
     playbooks to gather useful variables about
     remote hosts that can be used in
@@ -1169,6 +1173,13 @@ setup module
     https://docs.ansible.com/ansible/latest/collections/ansible/builtin/setup_module.html
 
 remote node
+
+command module
+    [module]
+
+    Executes a command on a remote node.
+
+    https://docs.ansible.com/ansible/2.4/command_module.html
 
 gather_subset
     [option]
