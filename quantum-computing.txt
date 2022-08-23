@@ -1370,13 +1370,21 @@ universal fault-tolerant quantum computer
     universal quantum operations using
     unreliable components.
     
-    See also universal quantum computer.
+    See also:
+    - "universal quantum computer"
 
 universal quantum computer
-    A universal quantum computer is a machine
-    that can simulate an arbitrary quantum
-    state from an arbitrary initial quantum
-    state.
+    A machine that can simulate an arbitrary
+    quantum state from an arbitrary initial
+    quantum state.
     
-    See also universal fault-tolerant quantum
-    computer.
+    See also:
+    - "universal fault-tolerant quantum computer"
+
+monogamy
+    [property of entanglement]
+
+maximal coordination
+    [property of entanglement]
+    
+    Makes entanglement powerful.
