@@ -1457,3 +1457,18 @@ Plugin
     console (callback plugins).
 
     https://docs.ansible.com/ansible/latest/plugins/plugins.html#working-with-plugins
+
+Vault
+    Secure your secrets with Ansible Vault.
+
+    Vault is implemented with file-level
+    granularity where the files are either
+    entirely encrypted or entirely
+    unencrypted.
+    
+    It uses the same password for encrypting
+    as well as for decrypting files which
+    makes using Ansible Vault very user-
+    friendly.
+
+    https://www.edureka.co/blog/ansible-vault-secure-secrets
