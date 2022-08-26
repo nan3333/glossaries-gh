@@ -17476,3 +17476,18 @@ foregone conclusion
 
     "Certainty the victory was a foregone
     conclusion."
+
+fool's errand
+fool's errand prank
+    A type of practical joke where a newcomer
+    to a group, typically in a workplace
+    context, is given an impossible or
+    nonsensical task by older or more
+    experienced members of the group.
+    
+    More generally, a fool's errand is a task
+    almost certain to fail.
+
+conciliatory
+    Intended or likely to placate or pacify.
+    "a conciliatory approach"
