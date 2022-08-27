@@ -4,25 +4,44 @@ nisus
     monads to strive toward the perfect
     realization of their innate and
     appropriate ends.
-    
+
     See also entelechy.
 
 entelechy
 entelechies
     The realization of potential.
-    
+
     That which realizes or makes actual what
     is otherwise merely potential.
-    
+
     The concept is intimately connected with
     Aristotle's distinction between matter and
     form, or the potential and the actual.
-    
+
     The supposed vital principle that guides
     the development and functioning of an
     organism or other system or organization.
-    
+
     "such self-organization required a special
-    biological force—entelechy."
+    biological force-entelechy."
 
     The soul.
+
+monad
+    In the thought of Gottfried Wilhelm
+    Leibniz, one of the ultimate indivisible
+    units of existence.
+
+    Monads are independent of one another and
+    innately have the power of action and
+    direction toward some end (see nisus).
+
+    Although no monad in reality acts on any
+    other, they work in a divinely
+    preestablished harmony so that an
+    appearance of causal connection is
+    maintained.
+
+    The concept of the monad was intended, in
+    part, to address the mind-body problem
+    arising from Cartesian dualism.
