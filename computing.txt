@@ -65,3 +65,24 @@ frame
     
     It contains the local variables and
     parameters of the function.
+
+meta-circular evaluator
+MCE
+meta-circular interpreter
+MCI
+    An interpreter which defines each feature
+    of the interpreted language using a
+    similar facility of the interpreter's host
+    language.
+    
+    For example, interpreting a lambda
+    application may be implemented using
+    function application.
+    
+    Meta-circular evaluation is most prominent
+    in the context of Lisp.
+    
+    A self-interpreter is a meta-circular
+    interpreter where the interpreted language
+    is nearly identical to the host language;
+    the two terms are often used synonymously. 
