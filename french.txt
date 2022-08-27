@@ -175,3 +175,6 @@ hearken
     Listen.
     "he refused to hearken to Tom's words of
     wisdom"
+
+précis
+    A summary or abstract of a text or speech.
