@@ -70,6 +70,21 @@ meta-circular evaluator
 MCE
 meta-circular interpreter
 MCI
+    An interpreter for a programming language
+    written in that language.
+    
+    Meta-circular interpreters can be used to
+    clarify or define the semantics of the
+    language by reducing the full language to
+    a sub-language in which the interpreter is
+    expressed.
+    
+    Historically, such definitional
+    interpreters become popular within the
+    functional programming community, see the
+    classical Definitional interpreters for
+    higher-order programming languages.
+
     An interpreter which defines each feature
     of the interpreted language using a
     similar facility of the interpreter's host
