@@ -45,3 +45,6 @@ monad
     The concept of the monad was intended, in
     part, to address the mind-body problem
     arising from Cartesian dualism.
+
+    "Pen.el is my monad of metaversal
+    consciousness"
