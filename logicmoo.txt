@@ -169,8 +169,6 @@ memories
     - I_T
     - C_D
 
-reification
-
 circumscription
     Restriction of something within limits.
 
