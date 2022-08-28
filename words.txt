@@ -17491,3 +17491,8 @@ fool's errand prank
 conciliatory
     Intended or likely to placate or pacify.
     "a conciliatory approach"
+
+compatriot
+    A fellow citizen or national of a country.
+    "Stich defeated his compatriot Boris
+    Becker in the quarter-finals"

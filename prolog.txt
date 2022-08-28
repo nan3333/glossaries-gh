@@ -1,3 +1,42 @@
+Monotone-Increasing Quantifier
+    A monotone increasing quantifier, like
+    `most`, is `monotone increasing` beacuse
+    when the predicate in the body of the
+    quantified expression is made less
+    restrictive, the truth value is preserved.
+
+    Thus,
+
+        Most men work hard.
+
+    entails:
+
+        Most men work,
+
+Monotone-Decreasing Quantifier
+    By contrast, for monotone decreasing
+    quantifiers, when the predicate in the
+    body of the quantified expression is made
+    less restrictive, the truth value is not
+    necessarily preserved. Quite the opposite.
+    It is preserved when the body is made more
+    restrictive.
+
+        Few men work.
+
+    entails:
+
+        Few men work hard.
+
+    Since `x works hard` entails `x works`, a
+    flat, scope-free representation for `few
+    men work hard` runs into problems, because
+    it would seem to allow the incorrect
+    inference `few men work`.
+
+monotonicity
+    https://sodocumentation.net/prolog/topic/3989/monotonicity
+
 logical purity
 pure
     At the heart of each great Prolog program
