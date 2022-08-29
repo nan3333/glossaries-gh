@@ -4128,6 +4128,8 @@ co-monad
 comonad
     ewwlinks +/"Control.Monad.Co" "http://hackage.haskell.org/package/kan-extensions-5.2/docs/Control-Monad-Co.html"
 
+    [[https://www.youtube.com/watch?v=HOmOQnQGtPU][Chris Penner - Comonads by Example 1/4 - YouTube]]
+
 array
     ewwlinks +/"13  Arrays" "https://www.haskell.org/tutorial/arrays.html"
 
