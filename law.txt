@@ -1,3 +1,11 @@
+scienter
+    A legal term for intent or knowledge of
+    wrongdoing.
+    
+    An offending party then has knowledge of
+    the "wrongness" of an act or event prior
+    to committing it.
+
 claimant
     The person who has been injured and who
     would be making a claim for their

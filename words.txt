@@ -17496,3 +17496,9 @@ compatriot
     A fellow citizen or national of a country.
     "Stich defeated his compatriot Boris
     Becker in the quarter-finals"
+
+cathartic
+    Providing psychological relief through the
+    open expression of strong emotions;
+    causing catharsis.
+    "crying is a cathartic release"
