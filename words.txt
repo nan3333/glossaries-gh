@@ -17502,3 +17502,9 @@ cathartic
     open expression of strong emotions;
     causing catharsis.
     "crying is a cathartic release"
+
+economize
+    Spend less; reduce one's expenses.
+    "I have to economize where I can"
+
+    "I am economizing to free up time"
