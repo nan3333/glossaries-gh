@@ -308,3 +308,22 @@ utility of a pure imaginary function
     intention behind invoking the command and
     the expectation of what it does are both
     subjective.
+
+thought prompt
+thought-prompt
+    A thought prompt is probably a multimodal
+    prompt (like a phantasmagoria) which
+    represents something like:
+    - A memory
+    - A dream
+    - An idea
+
+    A thought prompt is probably transmodal.
+
+transmodal
+transmodal style
+    'Transmodal' could be ascribed to a prompt
+    and in doing so would indicate that the
+    prompt transcends one or more modes.
+
+    The prompt might then be a thought prompt.
