@@ -12384,3 +12384,17 @@ Lunisolar calendar
     indicates both the Moon phase and the time
     of the solar year, that is the position of
     the Sun in the Earth's sky.
+
+cutting edge
+    The edge of a tool's blade.
+    "tools with cutting edges should be kept
+    sharp"
+
+    The latest or most advanced stage in the
+    development of something.
+    "researchers at the cutting edge of
+    molecular biology"
+
+    Highly advanced; innovative or pioneering.
+    "cutting-edge technology"
+
