@@ -306,6 +306,33 @@ parser combinator
     several parsers as input and returns a new
     parser as its output.
 
+    Because a parser combinator-based program
+    is generally slower than a parser
+    generator-based program, Parsec is
+    normally used for small domain- specific
+    languages, while Happy is used for
+    compilers such as GHC.
+
+compiler-compiler
+compiler generator
+    A programming tool that
+    creates a parser, interpreter, or compiler
+    from some form of formal description of a
+    programming language and machine.
+    
+parser generator
+    The most common type of compiler-compiler
+    is more precisely called a parser
+    generator.
+    
+    It only handles syntactic analysis.
+    
+    The input of a parser generator is a
+    grammar file, typically written in
+    Backus–Naur form (BNF) or extended
+    Backus–Naur form (EBNF) that defines the
+    syntax of a target programming language.
+
 endofunctor
     The category of functors is functors from
     category C to category D.
