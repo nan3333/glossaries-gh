@@ -2145,3 +2145,13 @@ whisk
 whip
     To incorporate air into an ingredient by
     beating rapidly, often with a whisk.
+
+beef tenderloin
+tenderloin
+eye fillet
+    (eye fillet in Australasia)
+    (filet in France)
+    (filé mignon in Brazil)
+    (fillet in the United Kingdom and South Africa)
+
+    Cut from the loin of beef.
