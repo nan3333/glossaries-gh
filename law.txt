@@ -17,6 +17,13 @@ Restorative Justice
     - find ways to make sure you don’t
       reoffend
 
+diversion
+    A scheme operated by the police that
+    allows first-time offenders to take
+    responsibility for their offending outside
+    the court system and avoid getting a
+    criminal record.
+
 affidavit
     A written statement voluntarily made by an
     affiant or deponent under an oath or
