@@ -17508,3 +17508,17 @@ economize
     "I have to economize where I can"
 
     "I am economizing to free up time"
+
+perennial
+    Present at all seasons of the year.
+
+    Persisting for several years usually with
+    new herbaceous growth from a perennating
+    part.
+
+    Persistent, enduring. 
+
+    Continuing without interruption :
+    constant, perpetual.
+
+    "perennial problems"
