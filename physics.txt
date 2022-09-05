@@ -1,5 +1,15 @@
 awesome-open https://github.com/SwapneelM/awesome-particle-physics-for-non-physicists
 
+soliton
+    In mathematics and physics, a soliton or
+    solitary wave is a self-reinforcing wave
+    packet that maintains its shape while it
+    propagates at a constant velocity.
+    
+    Solitons are caused by a cancellation of
+    nonlinear and dispersive effects in the
+    medium.
+
 Grand Unified Theory
     [model in particle physics]
 
