@@ -17522,3 +17522,13 @@ perennial
     constant, perpetual.
 
     "perennial problems"
+
+cease
+    Come or bring to an end.
+    "the hostilities ceased and normal life
+    was resumed"
+
+desist
+    Stop doing something; cease or abstain.
+    "each pledged to desist from acts of
+    sabotage"
