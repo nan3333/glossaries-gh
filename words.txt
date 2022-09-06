@@ -17551,3 +17551,50 @@ nonchalant
     displaying anxiety, interest, or
     enthusiasm.
     "she gave a nonchalant shrug"
+
+prolix
+    (of speech or writing)
+
+    Using or containing too many words;
+    tediously lengthy.
+
+    "he found the narrative too prolix and
+    discursive"
+
+garrulous
+    Excessively talkative, especially on
+    trivial matters.
+
+    "a garrulous cab driver"
+
+digressive
+    Characterized by digression; tending to
+    depart from the subject.
+
+    "a digressive account"
+
+circuitous
+    (of a route or journey)
+
+    Longer than the most direct way.
+
+    "the canal followed a circuitous route"
+
+discursive
+    Digressing from subject to subject.
+
+    "students often write dull, second-hand,
+    discursive prose"
+
+maundering
+    Move or act in a dreamy or idle manner.
+
+    "he maunders through the bank, composing
+    his thoughts"
+
+periphrastic
+    (of speech or writing)
+
+    Indirect and circumlocutory.
+
+    "the periphrastic nature of legal syntax"
