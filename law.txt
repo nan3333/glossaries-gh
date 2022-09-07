@@ -38,6 +38,14 @@ scienter
     the "wrongness" of an act or event prior
     to committing it.
 
+punitive damages
+exemplary damages
+    Damages assessed in order to punish the
+    defendant for outrageous conduct and/or to
+    reform or deter the defendant and others
+    from engaging in conduct similar to that
+    which formed the basis of the lawsuit.
+
 claimant
     The person who has been injured and who
     would be making a claim for their

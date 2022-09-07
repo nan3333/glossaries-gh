@@ -62,15 +62,18 @@ synchronous
     precisely the same time.
 
 Fauvism
-    [artistic movement]
     [artistic style]
 
-    Fauvism /ˈfoʊvɪzm̩/ is the style of les
-    Fauves, a group of early 20th-century
-    modern artists whose works emphasized
-    painterly qualities and strong color over
-    the representational or realistic values
-    retained by Impressionism.
+    The style of les Fauves.
+
+les Fauves
+    [artistic movement]
+
+    A group of early 20th-century modern
+    artists whose works emphasized painterly
+    qualities and strong color over the
+    representational or realistic values
+    retained by Impressionism.             
 
 Naturalism
     [artistic style]

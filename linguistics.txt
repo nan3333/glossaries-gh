@@ -1,3 +1,15 @@
+periphrasis
+    [#linguistics]
+
+    The use of one or more function words to
+    express meaning that otherwise may be
+    expressed by attaching an affix or clitic
+    to a word.
+    
+    The resulting phrase includes two or more
+    collocated words instead of one inflected
+    word.
+
 cognate
 lexical cognate
     [#historical linguistics]

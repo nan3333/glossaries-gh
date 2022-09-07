@@ -5995,3 +5995,11 @@ corecursion
     structures.
 
     https://youtu.be/7fylNa2wZaU?t=650
+
+itraverse
+itraversed
+TraversableWithIndex
+    The Haskell library lens contains a type
+    class TraversableWithIndex that defines
+    both the functions itraverse and
+    itraversed:

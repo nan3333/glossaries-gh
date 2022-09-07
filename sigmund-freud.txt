@@ -104,3 +104,7 @@ superego
     conscience, and its positive aspirations
     and ideals represent one's idealized self-
     image, or “ego ideal.” Sigmund Freud.
+
+    An internal representation of the external
+    social order, primarily inhibitory in its
+    effects; Self-control.
