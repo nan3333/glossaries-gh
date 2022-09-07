@@ -17639,3 +17639,15 @@ nepotism
     The term originated with the assignment of
     nephews to important positions by Catholic
     popes and bishops.
+
+legalism
+legalisms
+    Excessive adherence to law or formula.
+    "this petty legalism encouraged more to flee"
+
+    [#theology]
+
+    Adherence to moral law rather than to
+    personal religious faith.
+    "stress obedience apart from faith and you
+    produce legalism"
