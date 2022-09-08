@@ -1,3 +1,16 @@
+remand
+remanded
+pre-trial detention
+preventive detention
+provisional detention
+    The process of detaining a person until
+    their trial after they have been arrested
+    and charged with an offence.
+    
+    A person who is on remand is held in a
+    prison or detention centre or held under
+    house arrest.
+
 plaintiff
     The party who initiates a lawsuit before a
     court.
