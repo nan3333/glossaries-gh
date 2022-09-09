@@ -17651,3 +17651,8 @@ legalisms
     personal religious faith.
     "stress obedience apart from faith and you
     produce legalism"
+
+privation
+    A state in which food and other essentials
+    for well-being are lacking.
+    "years of rationing and privation"

@@ -12398,3 +12398,11 @@ cutting edge
     Highly advanced; innovative or pioneering.
     "cutting-edge technology"
 
+feature parity
+    The same features across all platforms and
+    systems, or as your competitors.
+    
+    Feature parity with your legacy system
+    means that your product offers the same
+    functionalities as it did before you
+    rebuilt it.

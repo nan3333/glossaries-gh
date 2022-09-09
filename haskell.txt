@@ -5,6 +5,42 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+short cut fusion
+    An optimizer method that merges some
+    function calls into one.
+    
+    E.g.
+        map f . map g
+
+            can be substituted by
+
+        map (f . g)
+
+            and
+
+        filter p . filter q
+
+            can be substituted by
+
+        filter (\x -> q x && p x)
+    
+    It can also help to remove intermediate
+    data structures.
+    
+    E.g.
+        Computing sum [1..n] does not require
+        an explicit list structure, and the
+        expression is actually translated into
+        a simple loop.
+
+    Short cut fusion allows elimination of intermediate data
+    structures using rewrite rules that can
+    also be performed automatically during
+    compilation.
+
+    https://wiki.haskell.org/Correctness_of_short_cut_fusion
+    https://wiki.haskell.org/Short_cut_fusion
+
 component
     [#cabal]
 

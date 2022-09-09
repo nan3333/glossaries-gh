@@ -1,3 +1,10 @@
+incarcerate
+incarcerated
+    Imprison or confine.
+
+    "many are incarcerated for property
+    offences"
+
 remand
 remanded
 pre-trial detention
