@@ -12406,3 +12406,10 @@ feature parity
     means that your product offers the same
     functionalities as it did before you
     rebuilt it.
+
+cavitation
+    A phenomenon in which the static pressure
+    of a liquid reduces to below the liquid's
+    vapour pressure, leading to the formation
+    of small vapor-filled cavities in the
+    liquid.

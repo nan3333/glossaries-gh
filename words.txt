@@ -17656,3 +17656,8 @@ privation
     A state in which food and other essentials
     for well-being are lacking.
     "years of rationing and privation"
+
+chutzpah
+    Extreme self-confidence or audacity.
+    "love him or hate him, you have to admire
+    Cohen's chutzpah"
