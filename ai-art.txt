@@ -1,0 +1,7 @@
+outpainting
+    Introduced by OpenAI Dall-E, is the
+    process of extrapolating an image beyond
+    its boundaries.
+    
+    The outpainting process keeps the theme of
+    the image as well as the style.
