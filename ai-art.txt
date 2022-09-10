@@ -5,3 +5,5 @@ outpainting
     
     The outpainting process keeps the theme of
     the image as well as the style.
+
+    https://mullikine.github.io/posts/still-life/
