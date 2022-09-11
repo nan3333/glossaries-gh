@@ -1,3 +1,6 @@
+inpainting
+    https://youtu.be/_Y1-KlTEmwk?t=74
+
 outpainting
     Introduced by OpenAI Dall-E, is the
     process of extrapolating an image beyond
