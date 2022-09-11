@@ -17661,3 +17661,6 @@ chutzpah
     Extreme self-confidence or audacity.
     "love him or hate him, you have to admire
     Cohen's chutzpah"
+
+obsolescent
+    Becoming obsolete.
