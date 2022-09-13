@@ -6067,3 +6067,196 @@ TraversableWithIndex
     class TraversableWithIndex that defines
     both the functions itraverse and
     itraversed:
+
+Abbreviations
+
+Abstract data type
+
+Algebraic data type
+
+Alpha conversion
+
+Anonymous function
+
+Applicative functor
+
+Beta reduction
+
+Bottom
+
+Camel case
+
+Closure
+
+Combinator
+
+Comparison of functional programming languages
+
+Concrete data type
+
+Confluent term rewriting system
+
+Constant applicative form
+
+Continuation
+
+Currying
+
+Deforestation
+
+Denotative
+
+DSL
+
+Dynamic
+
+Eager evaluation
+
+EDSL
+
+Embedded domain specific language
+
+Error
+
+Eta conversion
+
+Exception
+
+Existential type
+
+Fold
+
+Free expression
+
+Free monad
+
+Free structure
+
+Free variable
+
+Function
+
+Function composition
+
+Function inlining
+
+Function unfolding
+
+Functional dependencies
+
+Functional programming/Old version
+
+Garbage collector
+
+Generalised algebraic datatype
+
+Heterogenous collections
+
+Higher order function
+
+Hoare Property
+
+Import
+
+Impredicative types
+
+Infix operator
+
+Iterate
+
+Lambda abstraction
+
+Lambda calculus
+
+Lazy evaluation
+
+Lazy pattern match
+
+List comprehension
+
+Literate programming
+
+Maximal free expression
+
+Memory leak
+
+Monad (sans metaphors)
+
+Monomorphism
+
+Monomorphism restriction
+
+Multi-parameter type class
+
+Mutually recursive modules
+
+Non-strict semantics
+
+Parallel/Glossary
+
+Partial application
+
+Partial functions
+
+Pattern guard
+
+Peano numbers
+
+Phantom type
+
+Polymorphism
+
+Prelude
+
+Pure
+
+Recursion in a monad
+
+Reducible expression
+
+Refactoring
+
+Referential transparency
+
+Reified type
+
+Scoped type variables
+
+Section of an infix operator
+
+Seq
+
+Sharing
+
+Short cut fusion
+
+Short-circuiting
+
+Smart constructors
+
+Strict semantics
+
+Studly capitals
+
+Super combinator
+
+Tail recursion
+
+Terms
+
+Thunk
+
+Type class
+
+Type inference
+
+Type signature
+
+Type synonym
+
+Typing
+
+Variable
+
+Vogonism
+
