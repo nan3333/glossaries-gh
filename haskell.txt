@@ -20,6 +20,13 @@ pure function
     Given the same arguments, a pure function
     will *always* return the same result.
 
+    Order of function evaluation doesn't
+    matter in pure code - e.g.
+
+        let a = reverse "winston"
+            b = reverse "churchill"
+        in "sir " ++ a ++ " " b
+
 short cut fusion
     An optimizer method that merges some
     function calls into one.
