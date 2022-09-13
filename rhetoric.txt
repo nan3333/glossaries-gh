@@ -19,3 +19,11 @@ apophasis
     
     Accordingly, it can be seen as a
     rhetorical relative of irony.
+
+parabole
+    A comparison; specifically, a simile,
+    especially a formal simile, as in poetry
+    or poetic prose, taken from a present or
+    imagined object or event: distinguished
+    from a paradigm, or comparison with a real
+    past event.

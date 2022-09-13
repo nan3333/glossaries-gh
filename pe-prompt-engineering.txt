@@ -20,6 +20,11 @@ prompt-injection exploit
 
     Haha pwned!!
 
+    Therefore, robustness should be built into
+    the language.
+    - Through examples, say
+    - Or through sub-prompts
+
 mode signature
     [neologism]
 
