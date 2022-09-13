@@ -1,5 +1,39 @@
 https://www.quantamagazine.org/the-spooky-quantum-phenomenon-youve-never-heard-of-20220622/
 
+decoherence rate
+    A nonlinear channel parameter that
+    describes quantitatively the decay of the
+    off-diagonal elements of a density
+    operator in the decoherence basis.
+    
+    We address the question of how to
+    experimentally access such a nonlinear
+    parameter directly without the need of
+    complete process tomography.
+
+Quantum decoherence
+    The loss of quantum coherence.
+    
+    In quantum mechanics, particles such as
+    electrons are described by a wave
+    function, a mathematical representation of
+    the quantum state of a system; a
+    probabilistic interpretation of the wave
+    function is used to explain various
+    quantum effects.
+
+    Decoherence has been used to understand
+    the possibility of the collapse of the
+    wave function in quantum mechanics.
+    
+    Decoherence does not generate actual wave-
+    function collapse.
+    
+    It only provides a framework for apparent
+    wave-function collapse, as the quantum
+    nature of the system "leaks" into the
+    environment.
+
 bell inequalities
     https://youtu.be/9rIy0xY99a0?t=531
 
