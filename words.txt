@@ -17682,3 +17682,8 @@ substantiation
     To affirm as having substance; give body
     to; strengthen: to substantiate a
     friendship.
+
+disconcerting
+    Causing one to feel unsettled.
+    "he had a disconcerting habit of offering
+    jobs to people he met at dinner parties"
