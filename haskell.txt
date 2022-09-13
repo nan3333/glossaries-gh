@@ -1901,6 +1901,12 @@ monad
 monad functor
     [type class]
 
+    A monad is a container type together with
+    a few methods defined on it.
+    
+    Monads model different kinds of
+    computations.
+
     Something that specifies how to map a
     function onto instances of itself
     (instances that wrap basic values but also
