@@ -5,6 +5,21 @@ http://dev.stephendiehl.com/fun/001_basics.html
 http://learnyouahaskell.com/input-and-output
 lyah sequence
 
+purity
+pure function
+    Pure functions take values as arguments,
+    do some processing of those values, then
+    return a result value.
+    
+    A pure function does not depend on the
+    'state of the world'.
+    
+    The computation is entirely self-contained
+    and independent.
+    
+    Given the same arguments, a pure function
+    will *always* return the same result.
+
 short cut fusion
     An optimizer method that merges some
     function calls into one.
