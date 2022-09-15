@@ -1833,6 +1833,13 @@ Flarf
     Kenneth Goldsmith.
         
 Foot
+    The foot is the basic repeating rhythmic
+    unit that forms part of a line of verse in
+    most Indo-European traditions of poetry,
+    including English accentual-syllabic verse
+    and the quantitative meter of classical
+    ancient Greek and Latin poetry.
+
     The basic unit of measurement of
     accentual-syllabic meter.
     
