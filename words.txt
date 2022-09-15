@@ -17702,3 +17702,14 @@ replete
 overweening
     Showing excessive confidence or pride.
     "overweening ambition"
+
+propriety
+    Conformity to conventionally accepted
+    standards of behaviour or morals.
+    "he always behaved with the utmost
+    propriety"
+
+    The condition of being right, appropriate,
+    or fitting.
+    "they questioned the propriety of certain
+    investments made by the council"
