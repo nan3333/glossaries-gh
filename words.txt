@@ -17718,3 +17718,7 @@ congruous
     In agreement or harmony.
     "this explanation is congruous with
     earlier observations"
+
+plumage
+    A bird's feathers collectively.
+    "the male in full breeding plumage"

@@ -1,3 +1,9 @@
+Left
+Right
+    material elements = the "left".
+
+    soul = the "right".
+
 visio dei
 visio verbi dei
 visio beatifica
