@@ -12413,3 +12413,10 @@ cavitation
     vapour pressure, leading to the formation
     of small vapor-filled cavities in the
     liquid.
+
+retributive justice
+    A theory of punishment that when an
+    offender breaks the law, justice requires
+    that they suffer in return, and that the
+    response to a crime is proportional to the
+    offence.

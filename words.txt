@@ -17687,3 +17687,18 @@ disconcerting
     Causing one to feel unsettled.
     "he had a disconcerting habit of offering
     jobs to people he met at dinner parties"
+
+peradventure
+    Perhaps.
+    "peradventure I'm not as wealthy as he is"
+
+calumniate
+    Make false and defamatory statements
+    about.
+
+replete
+    Filled or well-supplied with something.
+
+overweening
+    Showing excessive confidence or pride.
+    "overweening ambition"

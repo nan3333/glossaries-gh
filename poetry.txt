@@ -5173,3 +5173,13 @@ Poetic effects
     levels (as those postulated in this text:
     Poetics I, Poetics II) are perceived,
     cognized, and/or experienced.
+
+syzygy
+    The combination of two metrical feet into
+    a single unit, similar to an elision.
+    
+    Consonantal or phonetic syzygy is also
+    similar to the effect of alliteration,
+    where one consonant is used repeatedly
+    throughout a passage, but not necessarily
+    at the beginning of each word.
