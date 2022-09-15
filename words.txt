@@ -17713,3 +17713,8 @@ propriety
     or fitting.
     "they questioned the propriety of certain
     investments made by the council"
+
+congruous
+    In agreement or harmony.
+    "this explanation is congruous with
+    earlier observations"
