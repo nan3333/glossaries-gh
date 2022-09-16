@@ -17722,3 +17722,13 @@ congruous
 plumage
     A bird's feathers collectively.
     "the male in full breeding plumage"
+
+sedition
+    Overt conduct, such as speech and
+    organization, that tends toward rebellion
+    against the established order.
+    
+    Sedition often includes subversion of a
+    constitution and incitement of discontent
+    toward, or insurrection against,
+    established authority.
