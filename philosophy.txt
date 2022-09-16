@@ -1,5 +1,11 @@
 https://plato.stanford.edu/contents.html
 
+tenet
+    A principle or belief, especially one of
+    the main principles of a religion or
+    philosophy.
+    "the tenets of a democratic society"
+
 potentiality
 actuality
     [#philosophy]

@@ -1,8 +1,8 @@
 Left
 Right
-    material elements = the "left".
+    Material elements = the "left".
 
-    soul = the "right".
+    Soul = the "right".
 
 visio dei
 visio verbi dei
