@@ -17732,3 +17732,9 @@ sedition
     constitution and incitement of discontent
     toward, or insurrection against,
     established authority.
+
+indelibly
+    In a way that cannot be removed or
+    forgotten.
+    "the community was indelibly marked by the
+    incident"
