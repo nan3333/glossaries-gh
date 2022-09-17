@@ -17745,3 +17745,6 @@ strident
     forceful way.
     "public pronouncements on the crisis
     became less strident"
+
+innominable
+    In capable of being named.
