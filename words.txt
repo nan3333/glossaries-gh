@@ -17738,3 +17738,10 @@ indelibly
     forgotten.
     "the community was indelibly marked by the
     incident"
+
+strident
+    Presenting a point of view, especially a
+    controversial one, in an excessively
+    forceful way.
+    "public pronouncements on the crisis
+    became less strident"
