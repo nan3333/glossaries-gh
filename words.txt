@@ -17748,3 +17748,10 @@ strident
 
 innominable
     In capable of being named.
+
+conflagration
+    An extensive fire which destroys a great
+    deal of land or property.
+    "tinder-dry conditions sparked fears of a
+    conflagration in many drought-devastated
+    communities"
