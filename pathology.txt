@@ -1,3 +1,8 @@
+sequela
+sequelae
+    A condition which is the consequence of a
+    previous disease or injury.
+
 heart murmur
     Sound of blood flowing through the heart,
     due to anything from healthy heart
