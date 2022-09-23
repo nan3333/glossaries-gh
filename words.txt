@@ -17838,3 +17838,15 @@ miasma
     Attempts to cleanse a city or a society
     from miasma may have the opposite effect
     of reinforcing it.
+
+fastidious
+    Very attentive to and concerned about
+    accuracy and detail.
+    "she dressed with fastidious care"
+
+esteem
+    Consider; deem.
+    "I should esteem it a favour if you could
+    speak to them"
+
+    "but in my esteem"
