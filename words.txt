@@ -17850,3 +17850,12 @@ esteem
     speak to them"
 
     "but in my esteem"
+
+indelible
+    Making marks that cannot be removed.
+
+    "indelible fingerprint"
+
+imperative
+    Of vital importance; crucial.
+    "immediate action was imperative"
