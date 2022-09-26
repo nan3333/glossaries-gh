@@ -6227,6 +6227,11 @@ colleague
     profession or business.
 
 apostate
+    A person who renounces a religious or
+    political belief or principle.
+    "after fifty years as an apostate he
+    returned to the faith"
+
     One who undertakes apostasy.
 
 apostasy
