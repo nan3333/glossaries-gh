@@ -30,7 +30,11 @@ GitOps
       when changes occur.
 
 Self-healing
-    The property that enables a system to perceive that it is not operating correctly and, without (or with) human intervention, make the necessary adjustments to restore itself to normalcy.
+    The property that enables a system to
+    perceive that it is not operating
+    correctly and, without (or with) human
+    intervention, make the necessary
+    adjustments to restore itself to normalcy.
 
 swarm
     [docker]
