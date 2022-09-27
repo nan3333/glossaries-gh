@@ -1,3 +1,34 @@
+GitOps
+    [methodology]
+
+    https://about.gitlab.com/topics/gitops/
+
+    An operational framework that takes DevOps
+    best practices used for application
+    development such as version control,
+    collaboration, compliance, and CI/CD
+    tooling, and applies them to
+    infrastructure automation.
+
+    GitOps is not a single product, plugin, or
+    platform.
+    
+    There is no one-size-fits-all answer to
+    this question, as the best way for teams
+    to put GitOps into practice will vary
+    depending on the specific needs and goals
+    of the team.
+    
+    However, some tips on how to get started
+    with GitOps include:
+    - using a dedicated GitOps repository for
+      all team members to share configurations
+      and code,
+    - automating the deployment of code
+      changes, and
+    - setting up alerts to notify the team
+      when changes occur.
+
 Self-healing
     The property that enables a system to perceive that it is not operating correctly and, without (or with) human intervention, make the necessary adjustments to restore itself to normalcy.
 
