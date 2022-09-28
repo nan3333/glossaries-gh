@@ -1,3 +1,10 @@
+posit
+    [number data type]
+
+    http://www.johngustafson.net/pdfs/BeatingFloatingPoint.pdf
+
+    Similar to floating point.
+
 continuation
     An abstract representation of the control
     state of a computer program.

@@ -17864,3 +17864,15 @@ indelible
 imperative
     Of vital importance; crucial.
     "immediate action was imperative"
+
+hoodwink
+hoodwinked
+    Deceive or trick.
+    "staff were hoodwinked into thinking the
+    cucumber was a sawn-off shotgun"
+
+brandishing
+    Wave or flourish (something, especially a
+    weapon) as a threat or in anger or
+    excitement.
+    "a man leaped out brandishing a knife"
