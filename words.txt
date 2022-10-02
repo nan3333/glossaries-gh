@@ -17922,3 +17922,7 @@ top of mind
     (idiomatic, business)
     Foremost in one's thoughts; of greatest
     concern or priority.
+
+extant
+    (especially of a document) still in
+    existence; surviving.

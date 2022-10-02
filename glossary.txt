@@ -12420,3 +12420,12 @@ retributive justice
     that they suffer in return, and that the
     response to a crime is proportional to the
     offence.
+
+phlebotomy
+    The process of making a puncture in a
+    vein, usually in the arm, with a cannula
+    for the purpose of drawing blood.
+    
+    The procedure itself is known as a
+    venipuncture, which is also used for
+    intravenous therapy.
