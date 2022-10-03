@@ -12429,3 +12429,9 @@ phlebotomy
     The procedure itself is known as a
     venipuncture, which is also used for
     intravenous therapy.
+
+twilight
+    The period of time before sunrise and
+    after sunset, in which the atmosphere is
+    partially illuminated by the sun, being
+    neither totally dark or completely lit.
