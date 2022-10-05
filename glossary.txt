@@ -12435,3 +12435,14 @@ twilight
     after sunset, in which the atmosphere is
     partially illuminated by the sun, being
     neither totally dark or completely lit.
+
+calisthenics
+callisthenics
+    A form of strength training consisting of
+    a variety of movements that exercise large
+    muscle groups, such as standing, grasping,
+    pushing, etc.
+    
+    These exercises are often performed
+    rhythmically and with minimal equipment,
+    as bodyweight exercises.

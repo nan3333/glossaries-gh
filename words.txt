@@ -17983,3 +17983,9 @@ repudiate
     Deny the truth or validity of.
     "the minister repudiated allegations of
     human rights abuses"
+
+misgiving
+    A feeling of doubt or apprehension about
+    the outcome or consequences of something.
+    "we have misgivings about the way the
+    campaign is being run"
