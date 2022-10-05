@@ -17970,3 +17970,16 @@ possessive pronouns
     Similar to other possessive pronouns such
     as his, hers, our and yours, theirs does
     not have an apostrophe.
+
+detractor
+    A person who disparages someone or
+    something.
+
+repudiate
+    Refuse to accept; reject.
+    "she has repudiated policies associated
+    with previous party leaders"
+
+    Deny the truth or validity of.
+    "the minister repudiated allegations of
+    human rights abuses"
