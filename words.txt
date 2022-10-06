@@ -17989,3 +17989,8 @@ misgiving
     the outcome or consequences of something.
     "we have misgivings about the way the
     campaign is being run"
+
+bellicose
+    Demonstrating aggression and willingness
+    to fight.
+    "a mood of bellicose jingoism"
