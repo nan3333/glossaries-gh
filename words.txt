@@ -17994,3 +17994,15 @@ bellicose
     Demonstrating aggression and willingness
     to fight.
     "a mood of bellicose jingoism"
+
+subterfuge
+    Deceit used in order to achieve one's
+    goal.
+    "he had to use subterfuge and bluff on
+    many occasions"
+
+espouse
+    Adopt or support (a cause, belief, or way
+    of life).
+    "she espoused the causes of justice and
+    freedom for all"
