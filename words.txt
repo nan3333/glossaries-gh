@@ -18038,3 +18038,9 @@ heedless
     attention.
     "‘Elaine!’ she shouted, heedless of
     attracting unwanted attention"
+
+vicarious
+    Experienced in the imagination through the
+    feelings or actions of another person.
+    "this catalogue brings vicarious pleasure
+    in luxury living"
