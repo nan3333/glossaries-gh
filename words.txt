@@ -18056,3 +18056,9 @@ inculcated
     persistent instruction.
     "I tried to inculcate in my pupils an
     attitude of enquiry"
+
+ostentation
+    The pretentious or showy display of wealth
+    and luxury, designed to impress.
+    "the office was spacious, but without any
+    trace of ostentation"
