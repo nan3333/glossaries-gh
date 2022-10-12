@@ -18044,3 +18044,15 @@ vicarious
     feelings or actions of another person.
     "this catalogue brings vicarious pleasure
     in luxury living"
+
+bombastic
+    High-sounding but with little meaning;
+    inflated.
+    "bombastic rhetoric"
+
+inculcate
+inculcated
+    Instil (an idea, attitude, or habit) by
+    persistent instruction.
+    "I tried to inculcate in my pupils an
+    attitude of enquiry"
