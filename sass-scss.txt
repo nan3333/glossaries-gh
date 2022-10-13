@@ -1,3 +1,8 @@
+border-image
+    https://youtu.be/ypstT5UfCsk?t=189
+
+    https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Border-image_generator
+
 media query
 @media
     gli -F .scss "@media"
