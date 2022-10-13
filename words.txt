@@ -18092,3 +18092,19 @@ acausal
 
     "synchronicity is an acusal connecting
     principle"
+
+anastasis
+anastases
+    Resurrection.
+
+    (plural anastases)
+
+    A recovery from a debilitating condition,
+    especially irradiation of human tissue.
+
+    Rebirth.
+
+    (Christianity)
+
+    Resurrection, especially the resurrection
+    of Jesus Christ.
