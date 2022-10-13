@@ -18062,3 +18062,8 @@ ostentation
     and luxury, designed to impress.
     "the office was spacious, but without any
     trace of ostentation"
+
+accede
+    Agree to a demand, request, or treaty.
+    "the authorities did not accede to the
+    strikers' demands"
