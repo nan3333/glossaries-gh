@@ -18067,3 +18067,19 @@ accede
     Agree to a demand, request, or treaty.
     "the authorities did not accede to the
     strikers' demands"
+
+confer
+confered
+    Grant or bestow (a title, degree, benefit,
+    or right).
+
+discarnate
+    (of a person or being) not having a
+    physical body.
+
+exoteric
+    (especially of a doctrine or mode of
+    speech) intended for or likely to be
+    understood by the general public.
+
+    "The exoteric church"
