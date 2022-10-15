@@ -18135,3 +18135,9 @@ recompense
     their jobs"
 
     "do it not out of recompense"
+
+meagre
+    (of something provided or available)
+    lacking in quantity or quality.
+    "they were forced to supplement their
+    meagre earnings"
