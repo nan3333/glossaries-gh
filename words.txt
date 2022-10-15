@@ -18141,3 +18141,11 @@ meagre
     lacking in quantity or quality.
     "they were forced to supplement their
     meagre earnings"
+
+insipid
+    Lacking flavour; weak or tasteless.
+    "mugs of insipid coffee"
+
+    Lacking vigour or interest.
+    "many artists continued to churn out
+    insipid, shallow works"
