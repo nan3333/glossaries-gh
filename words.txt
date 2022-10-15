@@ -18149,3 +18149,17 @@ insipid
     Lacking vigour or interest.
     "many artists continued to churn out
     insipid, shallow works"
+
+eulogize
+    Praise highly in speech or writing.
+
+dissimulation
+    Concealment of one's thoughts, feelings,
+    or character; pretense.
+
+forlorn
+    Pitifully sad and abandoned or lonely.
+
+malevolent
+    Having or showing a wish to do evil to
+    others.
