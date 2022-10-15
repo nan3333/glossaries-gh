@@ -18118,3 +18118,20 @@ agog
     "I'm all agog"
 
     "had the whole medical world agog"
+
+thrum
+thrums
+    Make a continuous rhythmic humming sound.
+
+recompense
+    Make amends to (someone) for loss or harm
+    suffered; compensate.
+    "offenders should recompense their
+    victims"
+
+    Compensation or reward given for loss or
+    harm suffered or effort made.
+    "adequate recompense for workers who lose
+    their jobs"
+
+    "do it not out of recompense"
