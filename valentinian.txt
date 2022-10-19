@@ -1,5 +1,26 @@
 $MYGIT/mullikine/glossaries/marcosianism.txt
 
+modelling
+    However much a portrait is inferior to an
+    actual face, just so is the world inferior
+    to the living realm (i.e. the Fullness).
+    
+    Now what is the cause of the effectiveness
+    of the portrait?
+    
+    It is the majesty of the face that has
+    furnished to the painter a prototype so
+    that the portrait might be honored by his
+    name.
+    
+    For the form was not reproduced with
+    perfect fidelity, yet the name completed
+    the deficiency in the act of modeling.
+    
+    And so also God invisibly cooperates with
+    what has been modeled (i.e. the material
+    world) to lend it credence.
+
 Charis
     In the system of Valentinus, was an
     alternative name, with Ennoea and Sige,
@@ -83,6 +104,7 @@ psychism
     and moralizing.
 
 type
+prototype
 
 image
     Valentinians believed that when they came
