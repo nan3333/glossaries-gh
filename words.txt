@@ -18180,3 +18180,10 @@ factious
 
 credence
     Mental acceptance as true or real.
+
+appellation
+    A legally defined and protected
+    geographical indication primarily used to
+    identify where the grapes for a wine were
+    grown, although other types of food often
+    have appellations as well.
