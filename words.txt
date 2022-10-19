@@ -18163,3 +18163,17 @@ forlorn
 malevolent
     Having or showing a wish to do evil to
     others.
+
+indelible
+    (of ink or a pen) making marks that cannot
+    be removed.
+    "an indelible marker pen"
+
+    "made a mark in indelible ink"
+
+afore
+    Before.
+
+factious
+    Relating or inclined to dissension.
+    "a factious country"

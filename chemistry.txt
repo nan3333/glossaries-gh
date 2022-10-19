@@ -1,5 +1,10 @@
 http://www.colby.edu/chemistry/OChem/STEREOCHEM/definitions.html
 
+substituent
+    One or a group of atoms that replaces (one
+    or more) atoms, thereby becoming a moiety
+    in the resultant (new) molecule.
+
 radical
     Any atom or molecule with a lone electron
     in an outermost valence shell.

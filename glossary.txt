@@ -12511,3 +12511,11 @@ sacred mystery
     A divine mystery which cannot be grasped
     by mere human reasoning and can only be
     revealed by God through grace.
+
+magical thinking
+superstitious thinking
+    The belief that unrelated events are
+    causally connected despite the absence of
+    any plausible causal link between them,
+    particularly as a result of supernatural
+    effects.
