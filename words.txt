@@ -18177,3 +18177,6 @@ afore
 factious
     Relating or inclined to dissension.
     "a factious country"
+
+credence
+    Mental acceptance as true or real.
