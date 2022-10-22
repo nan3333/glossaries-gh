@@ -18238,3 +18238,9 @@ prodigious
     extent, size, or degree.
     "the stove consumed a prodigious amount of
     fuel"
+
+expedient
+    (of an action) convenient and practical
+    although possibly improper or immoral.
+    "either side could break the agreement if
+    it were expedient to do so"
