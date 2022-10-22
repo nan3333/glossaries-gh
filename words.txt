@@ -18223,3 +18223,12 @@ thralldom
 dayspring
 dawn
     The beginning of the day.
+
+apolytrosis
+redemption
+deliverance
+liberation
+    A releasing effected by payment of ransom.
+
+    Liberation procured by the payment of a
+    ransom
