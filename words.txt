@@ -18232,3 +18232,9 @@ liberation
 
     Liberation procured by the payment of a
     ransom
+
+prodigious
+    Remarkably or impressively great in
+    extent, size, or degree.
+    "the stove consumed a prodigious amount of
+    fuel"
