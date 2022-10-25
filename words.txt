@@ -14586,6 +14586,7 @@ temperance
     doing.
 
 expound
+expounded
     Present and explain (a theory or idea) in
     detail.
     "he was expounding a powerful argument"
@@ -17307,16 +17308,6 @@ inhumane
     suffering; cruel.
     "confining wild horses is inhumane"
 
-expound
-    Present and explain (a theory or idea) in
-    detail.
-    "he was expounding a powerful argument"
-
-    Explain the meaning of (a literary or
-    doctrinal work).
-    "the abbess expounded the scriptures to
-    her nuns"
-
 grail
     The word “grail” probably comes from the
     Latin word gradale, which refers to a deep
@@ -18244,3 +18235,7 @@ expedient
     although possibly improper or immoral.
     "either side could break the agreement if
     it were expedient to do so"
+
+extant
+    Still in existence; surviving.
+    "an extant letter"
