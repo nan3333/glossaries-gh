@@ -18239,3 +18239,10 @@ expedient
 extant
     Still in existence; surviving.
     "an extant letter"
+
+acceptation
+    Acceptance; especially a favorable
+    reception or approval.
+
+    A generally accepted meaning of a word or
+    understanding of a concept.
