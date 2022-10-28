@@ -18254,3 +18254,10 @@ aeonic
 sublunary
     Belonging to this world as contrasted with
     a better or more spiritual one.
+
+puerile
+puerilities
+    Puerilities is the state or quality of
+    being a child; the quality of being
+    puerile; childish foolishness or
+    triviality.
