@@ -1,7 +1,10 @@
 gnostici
 gnostics
 
+demiurge
 Yaldabaoth
+Jaldabaoth
+Ildabaoth
     The son of Sophia, the personification of
     wisdom in Gnosticism, with whom he
     contends.
@@ -11,6 +14,34 @@ Yaldabaoth
     the imperfect Yaldabaoth, the son of
     Chaos, without the knowledge of the other
     aeons.
+
+    A being responsible for the creation of
+    the universe.
+
+    (Platonic philosophy)
+    The Maker or Creator of the world.
+
+    (Gnosticism and other theological systems)
+    A heavenly being, subordinate to the
+    Supreme Being, that is considered to be
+    the controller of the material world and
+    antagonistic to all that is purely
+    spiritual.
+
+    An evil deity and creator of the material
+    world in various Gnostic sects and
+    movements, sometimes represented as a
+    theriomorphic, lion-headed serpent.
+    
+    He is regarded as the Demiurge and false
+    god who keeps the souls trapped in
+    physical bodies, imprisoned in the
+    material universe.
+    
+    The name is probably derived from the
+    Aramaic expression yaldā bahôt (Imperial
+    Aramaic: ילדא בהות), which means
+    "descendant of Chaos" or "son of Chaos".
 
 Triple Powered One
     https://en.wikipedia.org/wiki/Allogenes#Temptation_of_Allogenes
@@ -529,20 +560,6 @@ Simonians
 precosmic
     Occurring or existing before the existence
     of the universe.
-
-demiurge
-    A being responsible for the creation of
-    the universe.
-
-    (Platonic philosophy)
-    The Maker or Creator of the world.
-
-    (Gnosticism and other theological systems)
-    A heavenly being, subordinate to the
-    Supreme Being, that is considered to be
-    the controller of the material world and
-    antagonistic to all that is purely
-    spiritual.
 
 archon
     [#gnosticism]
