@@ -18261,3 +18261,8 @@ puerilities
     being a child; the quality of being
     puerile; childish foolishness or
     triviality.
+
+adjure
+    Urge or request (someone) solemnly or
+    earnestly to do something.
+    "I adjure you to tell me the truth"
