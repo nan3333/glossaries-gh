@@ -18266,3 +18266,9 @@ adjure
     Urge or request (someone) solemnly or
     earnestly to do something.
     "I adjure you to tell me the truth"
+
+erudite
+    Having or showing great knowledge or
+    learning.
+    "Ken could turn any conversation into an
+    erudite discussion"
