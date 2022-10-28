@@ -123,7 +123,42 @@ Seed
     https://www.sagiodev.com/blog/stable_diffusion_parameters/
 
 Image size
+    The size of output image. Since Stable
+    Diffusion is trained with 512x512 images,
+    setting it to portrait or landscape sizes
+    can create unexpected issues. Leave it as
+    square whenever possible.
+
+    Recommendation:
+        Set image size as 512x512.
 
 Batch size
+    Batch size is the number of images
+    generated each time. Since the final
+    images are very dependent on the random
+    seed, it is always a good idea to generate
+    a few images at a time. This way, you can
+    get a good sense of what the current
+    prompt can do.
+
+    Recommendation:
+        Set batch size to 4 or 8.
 
 Restore faces
+    A dirty little secret of Stable Diffusion
+    is that it often has issues with faces and
+    eyes. Restore faces is a post-processing
+    method applied to images using AI trained
+    specifically to correct faces.
+
+    To turn it on, check the box next to
+    Restore faces. Go to Settings tab, under
+    Face restoration model, select CodeFormer.
+
+    Below are two examples. Without face
+    restoration is on the left. With face
+    restoration is on the right.
+
+    Recommendation:
+        Turn restore faces on when you
+        generate images with faces.
