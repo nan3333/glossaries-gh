@@ -12539,3 +12539,7 @@ gnosology
     version of transcendental idealism,
     Wissenschaftslehre, meaning "Doctrine of
     Knowledge".
+
+sublunary
+    Belonging to this world as contrasted with
+    a better or more spiritual one.
