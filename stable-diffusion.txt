@@ -91,6 +91,36 @@ Sampling methods
     https://www.sagiodev.com/blog/stable_diffusion_parameters/
 
 Seed
+    The random seed determines the initialize
+    noise pattern and hence the final image.
+
+    Setting it to -1 means using a random one
+    every time. It is useful when you want to
+    generate new images. On the other hand,
+    fixing it would result in the same images
+    in each new generation.
+
+    How to find the seed used for an image if
+    you use random seed? In the dialog box,
+    you should see something like:
+    - Steps: 20,
+    - Sampler: Euler a,
+    - CFG scale: 7,
+    - Seed: 4239744034,
+    - Size: 512x512,
+    - Model hash: 7460a6fa
+
+    Simply copy this seed value to seed input
+    box. If you generate more than one image
+    at a time, the seed value of the second
+    image is this number incremented by 1, and
+    so on.
+
+    Recommendation:
+        Set to -1 to explore. Fix to a value
+        for fine-tuning.
+
+    https://www.sagiodev.com/blog/stable_diffusion_parameters/
 
 Image size
 
