@@ -1,5 +1,9 @@
 $MYGIT/mullikine/glossaries/marcosianism.txt
 
+logion
+    A saying attributed to Christ, especially
+    one not recorded in the canonical Gospels.
+
 modelling
     However much a portrait is inferior to an
     actual face, just so is the world inferior
