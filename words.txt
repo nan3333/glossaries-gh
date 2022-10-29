@@ -18272,3 +18272,17 @@ erudite
     learning.
     "Ken could turn any conversation into an
     erudite discussion"
+
+Hebraism
+    A Hebrew idiom or expression.
+
+    A lexical item, usage or trait
+    characteristic of the Hebrew language.
+    
+    By successive extension it is often
+    applied to the Jewish people, their faith,
+    national ideology or culture.
+
+plenteous
+    Plentiful.
+    "the meal was astonishingly plenteous"
