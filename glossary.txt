@@ -12543,3 +12543,6 @@ gnosology
 sublunary
     Belonging to this world as contrasted with
     a better or more spiritual one.
+
+liturgical
+    Relating to liturgy or public worship.
