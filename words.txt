@@ -18296,3 +18296,8 @@ tarry
 opulent
     Ostentatiously costly and luxurious.
     "the opulent comfort of a limousine"
+
+polemical
+    Relating to or involving strongly
+    critical, controversial, or disputatious
+    writing or speech.
