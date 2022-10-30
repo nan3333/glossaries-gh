@@ -18292,3 +18292,7 @@ tarry
     place.
     "she could tarry a bit and not get home
     until four"
+
+opulent
+    Ostentatiously costly and luxurious.
+    "the opulent comfort of a limousine"
