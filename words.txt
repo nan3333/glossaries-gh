@@ -18286,3 +18286,9 @@ Hebraism
 plenteous
     Plentiful.
     "the meal was astonishingly plenteous"
+
+tarry
+    Stay longer than intended; delay leaving a
+    place.
+    "she could tarry a bit and not get home
+    until four"
