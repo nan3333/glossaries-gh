@@ -1022,27 +1022,60 @@ half volley
     played with the racket close to the
     ground.
 
-handicapping A system in which competitors are given advantages or compensations to equalize the chances of winning.[57][58]
+handicapping
+    A system in which competitors are given
+    advantages or compensations to equalize
+    the chances of winning.
+
 hardcourt (or hard court)
-    A type of court which is made of asphalt or concrete with a synthetic/acrylic layer on top. They can vary in color and tend to play medium-fast to fast.
+    A type of court which is made of asphalt
+    or concrete with a synthetic/acrylic layer
+    on top.
+    
+    They can vary in color and tend to play
+    medium-fast to fast.
+
 hardcourter (or hard-courter, hard courter)
-    Player who is particularly proficient or a specialist on hard courts.
+    Player who is particularly proficient or a
+    specialist on hard courts.
+
 hawk-Eye Live
-    Advanced version of the Hawk-Eye technology that calls shots in or out in real time (through speakers), fully replacing human line judges.[59]
+    Advanced version of the Hawk-Eye
+    technology that calls shots in or out in
+    real time (through speakers), fully
+    replacing human line judges.
+
 hawk-Eye
-    Computer system connected to cameras to track the path of the ball for replay purposes; used with the player challenge system to contest and review designated line calls.
+    Computer system connected to cameras to
+    track the path of the ball for replay
+    purposes; used with the player challenge
+    system to contest and review designated
+    line calls.
+
 head (or racket head)
-    Portion of the racket that contains the strings.[60]
+    Portion of the racket that contains the
+    strings.
+
 heavy (ball)
-    Ball hit with so much topspin that it feels "heavy" when the opposing player strikes it.
+    Ball hit with so much topspin that it
+    feels "heavy" when the opposing player
+    strikes it.
+
 hit and giggle
     non-competitive social tennis.
+
 hitting partner (or sparring partner)
-    specialist employed by a tennis player to practice strokes during training.
+    specialist employed by a tennis player to
+    practice strokes during training.
+
 hold (or hold serve)
-    To win the game when serving. Compare break.
-hot Dog
-    A shot where the player hits the ball between their legs.
+    To win the game when serving.
+    
+    Compare break.
+
+Hot Dog
+    A shot where the player hits the ball
+    between their legs.
 
 i-formation
     Formation used in doubles where the net
