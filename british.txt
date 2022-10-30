@@ -1,0 +1,6 @@
+conservatoire
+    A college for the study of classical music
+    or other arts, typically in the
+    continental European tradition.
+    "she studies piano and violin at the Paris
+    Conservatoire"
