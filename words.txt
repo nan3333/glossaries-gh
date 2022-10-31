@@ -18301,3 +18301,9 @@ polemical
     Relating to or involving strongly
     critical, controversial, or disputatious
     writing or speech.
+
+reconnoitre
+reconnoitring
+    Make a military observation of (a region).
+    "they reconnoitred the beach some weeks
+    before the landing"
