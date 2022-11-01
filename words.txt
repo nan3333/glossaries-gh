@@ -18307,3 +18307,18 @@ reconnoitring
     Make a military observation of (a region).
     "they reconnoitred the beach some weeks
     before the landing"
+
+travail
+    Painful or laborious effort.
+
+reprieve
+    Cancel or postpone the punishment of
+    (someone, especially someone condemned to
+    death).
+    "under the new regime, prisoners under
+    sentence of death were reprieved"
+
+    A cancellation or postponement of a
+    punishment.
+    "he accepted the death sentence and
+    refused to appeal for a reprieve"
