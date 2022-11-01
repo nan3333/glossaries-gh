@@ -18322,3 +18322,8 @@ reprieve
     punishment.
     "he accepted the death sentence and
     refused to appeal for a reprieve"
+
+reticence
+    The quality of being reticent; reserve.
+    "the traditional emotional reticence of
+    the British"
