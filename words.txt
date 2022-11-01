@@ -18327,3 +18327,12 @@ reticence
     The quality of being reticent; reserve.
     "the traditional emotional reticence of
     the British"
+
+vestment
+    A chasuble or other robe worn by the
+    clergy or choristers during services.
+    "a priest in green vestments came and
+    preached a long sermon"
+
+    A garment, especially a ceremonial or
+    official robe.
