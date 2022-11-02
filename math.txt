@@ -1,3 +1,18 @@
+exponentiation
+    Only right-associative.
+        In a chain of such operations, they
+        group for evaluation purposes from the
+        right.
+
+            λ> 2^3^2 
+            512 
+            -- is the same as 
+            λ> 2^(3^2) 
+            512 
+            -- but not 
+            λ> (2^3)^2 
+            64 
+
 primorial
 #
     [#mathematics]
