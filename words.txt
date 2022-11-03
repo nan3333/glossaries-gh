@@ -18336,3 +18336,10 @@ vestment
 
     A garment, especially a ceremonial or
     official robe.
+
+extemporaneous
+    Spoken or done without preparation.
+    "an extemporaneous speech"
+
+    "my remaks will be extemporaneous"
+    "extemporaneous speaking"
