@@ -10,3 +10,8 @@ docucomedy
     analyze or comment on current events and
     issues by using a fictional setting, or to
     parody the documentary form itself.
+
+dramedy
+    A television programme or film in which
+    the comic elements derive mainly from
+    character and plot development.
