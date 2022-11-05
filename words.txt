@@ -2559,6 +2559,13 @@ underbelly
 incumbent
     Necessary for (someone) as a duty or
     responsibility.
+    
+    "the government realized that it was
+    incumbent on them to act"
+
+    (of an official or regime)
+    Currently holding office.
+    "the incumbent President was defeated"
 
 prevailing
     Existing at a particular time; current.
