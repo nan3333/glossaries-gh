@@ -2428,7 +2428,7 @@ intercalate
     month into some calendar years to make the
     calendar follow the seasons or moon
     phases.
-    
+
     Lunisolar calendars may require
     intercalations of both days and months.
 
@@ -2559,7 +2559,7 @@ underbelly
 incumbent
     Necessary for (someone) as a duty or
     responsibility.
-    
+
     "the government realized that it was
     incumbent on them to act"
 
@@ -5816,14 +5816,14 @@ Hendiadys
     A figure of speech used for emphasis—"The
     substitution of a conjunction for a
     subordination".
-    
+
     The basic idea is to use two words linked
     by the conjunction "and" instead of the
     one modifying the other.
-    
+
     English names for hendiadys include two
     for one and figure of twins.
-    
+
     The term hendiaduo may also be used.
 
 Epistrophe
@@ -14339,7 +14339,7 @@ eisegesis
     "importing" or "drawing in" their own
     subjective interpretations into the text,
     unsupported by the text itself.
-    
+
     Eisegesis is often used as a derogatory
     term.
 
@@ -15962,7 +15962,7 @@ wile
     what one wants.
     "she didn't employ any feminine wiles to
     capture his attention"
-    
+
     Ephesians 6:11
     Put on the whole armour of God, that ye
     may be able to stand against the wiles of
@@ -15991,7 +15991,7 @@ hypocrisy
     claiming to have moral standards or
     beliefs to which one's own behavior does
     not conform.
-    
+
     In moral psychology, it is the failure to
     follow one's own expressed moral rules and
     principles.
@@ -16034,7 +16034,7 @@ aureole
     The radiance of luminous cloud which, in
     paintings of sacred personages, surrounds
     the whole figure.
-    
+
     In Romance languages, the noun Aureola is
     usually more related to the disc of light
     surrounding the head of sacred figures and
@@ -16091,7 +16091,7 @@ expostulate
 praxis
     The process by which a theory, lesson, or
     skill is enacted, embodied, or realized.
-    
+
     "Praxis" may also refer to the act of
     engaging, applying, exercising, realizing,
     or practicing ideas.
@@ -16100,7 +16100,7 @@ epithet
     A byname, or a descriptive term,
     accompanying or occurring in place of a
     name and having entered common usage.
-    
+
     It has various shades of meaning when
     applied to seemingly real or fictitious
     people, divinities, objects, and binomial
@@ -16178,7 +16178,7 @@ patronym
     A component of a personal name based on
     the given name of one's father,
     grandfather, or an earlier male ancestor.
-    
+
     Patronymics are still in use, including
     mandatory use, in many countries
     worldwide, although their use has largely
@@ -16264,7 +16264,7 @@ proselytise
 proselytism
     The policy of attempting to convert
     people's religious or political beliefs.
-    
+
     It has come to be seen as a form of
     involuntary forced conversion through
     bribery, coercion, or violence, as such,
@@ -16399,7 +16399,7 @@ motley
     Incongruously varied in appearance or
     character; disparate.
     "a motley crew of discontents and zealots"
-    
+
     (of clothing) made up of a variety of
     colours.
     "they wore the motley coat of jesters"
@@ -16419,7 +16419,7 @@ devolution
     the central government of a sovereign
     state to govern at a subnational level,
     such as a regional or local level.
-    
+
     It is a form of administrative
     decentralization.
 
@@ -16489,7 +16489,7 @@ excoriated
 irredeemably
     Not redeemable; incapable of being bought
     back or paid off.
-    
+
     (of paper money) not convertible into gold
     or silver.
 
@@ -16570,7 +16570,7 @@ treatise
     essay, and more concerned with
     investigating or exposing the principles
     of the subject and its conclusions.
-    
+
     A monograph is a treatise on a specialized
     topic.
 
@@ -16633,7 +16633,7 @@ sermonette
     religious messages that were aired by many
     U.S. television stations during their
     sign-on and sign-off periods.
-    
+
     Sermonettes were generally about three to
     five minutes in length, and featured
     religious clergy from churches in the
@@ -16658,7 +16658,7 @@ asinine
 nymph
     A nymph in ancient Greek folklore is a
     minor female nature deity.
-    
+
     Different from Greek goddesses, nymphs are
     generally regarded as personifications of
     nature, are typically tied to a specific
@@ -16690,7 +16690,7 @@ effeminate
 solipsistically
     With consideration only for one's own
     interest.
-    
+
     Of course, solipsistically, an actor wants
     to do projects that are good for him.
 
@@ -16718,7 +16718,7 @@ death knell
 
     The ringing of a church bell immediately
     after a death to announce it.
-    
+
     Historically it was the second of three
     bells rung around death, the first being
     the passing bell to warn of impending
@@ -16736,7 +16736,7 @@ death wail
     A keening, mourning lament, generally
     performed in ritual fashion soon after the
     death of a member of a family or tribe.
-    
+
     Examples of death wails have been found in
     numerous societies, including among the
     Celts of Europe; and various indigenous
@@ -16903,7 +16903,7 @@ exceptionalism
     country, society, institution, movement,
     individual, or time period is
     "exceptional".
-    
+
     The term carries the implication, whether
     or not specified, that the referent is
     superior in some way.
@@ -17020,7 +17020,7 @@ Brimstone
     An archaic term synonymous with sulfur,
     evokes the acrid odor of sulfur dioxide
     given off by lightning strikes.
-    
+
     Lightning was understood as divine
     punishment by many ancient religions; the
     association of sulfur with divine
@@ -17038,7 +17038,7 @@ windowdressing
 
     The act or an instance
     of making something appear deceptively
-    attractive or favorable. 
+    attractive or favorable.
 
     Something used to create a deceptively
     favorable or attractive impression.
@@ -17087,10 +17087,10 @@ legislator
     A person who writes and passes laws,
     especially someone who is a member of a
     legislature.
-    
+
     Legislators are often elected by the
     people of the state.
-    
+
     Legislatures may be supra-national,
     national, or local.
 
@@ -17185,10 +17185,10 @@ aspersion
 
     The act of sprinkling with water,
     especially holy water.
-    
+
     Aspersion is a method used in baptism as
     an alternative to immersion or affusion.
-    
+
     The word is formed of the Latin aspergere,
     'to sprinkle', of ad, 'to', and spargo, 'I
     scatter'.
@@ -17212,7 +17212,7 @@ faithfulness
     to someone or something, and putting that
     loyalty into consistent practice
     regardless of extenuating circumstances.
-    
+
     It may be exhibited by a husband or wife
     who does not engage in sexual
     relationships outside of the marriage.
@@ -17233,14 +17233,14 @@ intrusiveness
     A behavior, act, state or disposition
     towards being intrusive, interrupting and
     disturbing to others.
-    
+
     Intrusiveness is typically unwelcome and
     recipients of intrusive behavior may feel
     like the intruder is coming without
     welcome or invitation, invading their
     personal space, or interfering in their
     private life.
-    
+
     People who are introverted may be more
     likely to experience the feeling of being
     intruded upon.
@@ -17277,7 +17277,7 @@ cornucopia
 inappropriate
     The quality or state of being unsuitable
     or unfitting.
-    
+
     I cannot even begin to describe the
     inappropriateness of such language for the
     dinner table.
@@ -17300,12 +17300,12 @@ wallow
 
     People who wallow in self-pity are usually
     the ones suffering from low self-esteem.
-    
+
     They may even be a little bit
     narcissistic, thinking they are entitled
     to the best things and nothing less in
     life.
-    
+
     Self-pity may actually be a symptom of a
     greater issue.
 
@@ -17327,7 +17327,7 @@ grail
     Latin word gradale, which refers to a deep
     platter that foods were served on at
     medieval banquets.
-    
+
     Throughout the years, the Grail has been
     described as a dish, a ciborium, a
     chalice, a platter, a goblet and even a
@@ -17335,7 +17335,7 @@ grail
 
 ciborium
     A vessel, normally in metal.
-    
+
     It was originally a particular shape of
     drinking cup in Ancient Greece and Rome,
     but the word later came to refer to a
@@ -17360,10 +17360,10 @@ husbandman
 
     A free tenant farmer, or a small
     landowner.
-    
+
     The social status of a husbandman was
     below that of a yeoman.
-    
+
     The meaning of "husband" in this term is
     "master of house" rather than "married
     man".
@@ -17418,13 +17418,13 @@ glaring
 glare
     A facial expression showing disapproval,
     fierceness and/or hostility.
-    
+
     Glaring, in some cultures is considered
     offensive.
-    
+
     A glare may be induced by anger or
     frustration.
-    
+
     Visually, a glaring person tends to have
     their eyes fixed and heavily focused on a
     subject.
@@ -17443,7 +17443,7 @@ namaskaram
     A customary Hindu non-contact manner of
     respectfully greeting and honoring a
     person or group, used at any time of day.
-    
+
     It is found on the Indian subcontinent,
     and among the Nepalese and Indian
     diaspora.
@@ -17456,7 +17456,7 @@ absurdity
     unreasonable, meaningless or unsound in
     reason so as to be irrational or not taken
     seriously.
-    
+
     "Absurd" is an adjective used to describe
     an absurdity, e.g., "Tyler and the boys
     laughed at the absurd situation."
@@ -17485,7 +17485,7 @@ fool's errand prank
     context, is given an impossible or
     nonsensical task by older or more
     experienced members of the group.
-    
+
     More generally, a fool's errand is a task
     almost certain to fail.
 
@@ -17517,7 +17517,7 @@ perennial
     new herbaceous growth from a perennating
     part.
 
-    Persistent, enduring. 
+    Persistent, enduring.
 
     Continuing without interruption :
     constant, perpetual.
@@ -17541,11 +17541,11 @@ despatched
     The meaning of dispatch and despatch is
     the act of sending someone or something to
     a location.
-    
+
     Both spellings are correct, but dispatch
     is the American spelling, while despatch
     is the British variant of the term.
-    
+
     Despatch is now a rare spelling considered
     an alternate form of dispatch.
 
@@ -17634,10 +17634,10 @@ dissent
     prevailing idea or policy enforced under
     the authority of a government, political
     party or other entity or individual.
-    
+
     A dissenting person may be referred to as
     a dissenter.
-    
+
     The term's antonyms include agreement,
     consensus and consent.
 
@@ -17647,7 +17647,7 @@ nepotism
     including business, politics, academics,
     entertainment, sports, fitness, religion,
     and other activities.
-    
+
     The term originated with the assignment of
     nephews to important positions by Catholic
     popes and bishops.
@@ -17687,10 +17687,10 @@ puritanical
 substantiation
     To establish by proof or competent
     evidence: to substantiate a charge.
-    
+
     To give substantial existence to: to
     substantiate an idea through action.
-    
+
     To affirm as having substance; give body
     to; strengthen: to substantiate a
     friendship.
@@ -17739,7 +17739,7 @@ sedition
     Overt conduct, such as speech and
     organization, that tends toward rebellion
     against the established order.
-    
+
     Sedition often includes subversion of a
     constitution and incitement of discontent
     toward, or insurrection against,
@@ -17823,7 +17823,7 @@ miasma theory
     Death—were caused by a miasma, a noxious
     form of "bad air", also known as night
     air.
-    
+
     The theory held that epidemics were caused
     by miasma, emanating from rotting organic
     matter.
@@ -17834,19 +17834,19 @@ miasma
     In Greek mythology, a miasma is "a
     contagious power ... that has an
     independent life of its own.
-    
+
     Until purged by the sacrificial death of
     the wrongdoer, society would be
     chronically infected by catastrophe." An
     example is Atreus who invited his brother
     Thyestes to a delicious stew containing
     the bodies of his own sons.
-    
+
     A miasma contaminated the entire family of
     Atreus, where one violent crime led to
     another, providing fodder for many of the
     Greek heroic tales.
-    
+
     Attempts to cleanse a city or a society
     from miasma may have the opposite effect
     of reinforcing it.
@@ -17898,7 +17898,7 @@ anagogy
 anagogical
     A Greek word suggesting a "climb" or
     "ascent" upwards.
-    
+
     The anagogical is a method of mystical or
     spiritual interpretation of statements or
     events, especially scriptural exegesis,
@@ -17909,7 +17909,7 @@ mystagogue
     beliefs, and an educator or person who has
     knowledge of the sacred mysteries of a
     belief system.
-    
+
     Another word for mystagogue is hierophant.
 
 mystagogy
@@ -17918,7 +17918,7 @@ mystagogy
     The final period of the initiation of
     adults (Rite of Christian Initiation of
     Adults).
-    
+
     During this period the meaning of the
     Sacraments is explained to those who have
     newly received them.
@@ -17971,7 +17971,7 @@ possessive pronouns
 
     Theirs is the possessive pronoun in
     English grammar.
-    
+
     Similar to other possessive pronouns such
     as his, hers, our and yours, theirs does
     not have an apostrophe.
@@ -18197,7 +18197,7 @@ jurisprudence
 legal theory
     The theoretical study of the propriety of
     law.
-    
+
     Scholars of jurisprudence seek to explain
     the nature of law in its most general form
     and provide a deeper understanding of
@@ -18292,7 +18292,7 @@ Hebraism
 
     A lexical item, usage or trait
     characteristic of the Hebrew language.
-    
+
     By successive extension it is often
     applied to the Jewish people, their faith,
     national ideology or culture.
@@ -18384,3 +18384,13 @@ rebuke
     criticism.
     "he hadn't meant it as a rebuke, but Neil
     flinched"
+
+mollify
+mollified
+    Appease the anger or anxiety of (someone).
+
+    "From the sole of the foot even unto the
+    head there is no soundness in it; but
+    wounds, and bruises, and putrifying sores:
+    they have not been closed, neither bound
+    up, neither mollified with ointment."
