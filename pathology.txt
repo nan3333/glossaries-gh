@@ -1,3 +1,19 @@
+aphasia
+    A language disorder that affects a
+    person's ability to communicate.
+    
+    It can occur suddenly after a stroke or
+    head injury or develop slowly from a
+    growing brain tumour or disease.
+    
+    Aphasia affects a person's ability to
+    express and understand written and spoken
+    language.
+    
+    Once the underlying cause is treated, the
+    main treatment for aphasia is speech
+    therapy.
+
 sequela
 sequelae
     A condition which is the consequence of a
@@ -28,6 +44,32 @@ tachycardia
     
     Tachycardia is the medical term for a
     heart rate over 100 beats a minute.
+
+palsy
+    Weakness or problems with using the muscles.
+
+CP
+Cerebral palsy
+    A group of disorders that affect a
+    person's ability to move and maintain
+    balance and posture.
+    
+    CP is the most common motor disability in
+    childhood.
+    
+    Cerebral means having to do with the
+    brain.
+    
+    Palsy means weakness or problems with
+    using the muscles.
+
+    Caused by abnormal brain development or
+    damage to the developing brain that
+    affects a person's ability to control his
+    or her muscles.
+    
+    The symptoms of CP vary from person to
+    person.
 
 Bell's palsy
     An unexplained episode of facial muscle
