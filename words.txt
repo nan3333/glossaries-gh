@@ -18372,3 +18372,15 @@ vouchsafe
     Reveal or disclose (information).
     "you'd never vouchsafed that interesting
     titbit before"
+
+rebuke
+    Express sharp disapproval or criticism of
+    (someone) because of their behaviour or
+    actions.
+    "she had rebuked him for drinking too
+    much"
+
+    An expression of sharp disapproval or
+    criticism.
+    "he hadn't meant it as a rebuke, but Neil
+    flinched"

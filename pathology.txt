@@ -91,3 +91,12 @@ apoplexy
     use the term, but instead specify the
     anatomic location of the bleeding, such as
     cerebral, ovarian or pituitary.
+
+Palsy
+    Weakness or problems with using the
+    muscles.
+    
+    CP is caused by abnormal brain development
+    or damage to the developing brain that
+    affects a person's ability to control his
+    or her muscles.
