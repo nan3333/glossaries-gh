@@ -18362,3 +18362,13 @@ gainsay
     Deny or contradict (a fact or statement).
     "the impact of the railways cannot be
     gainsaid"
+
+vouchsafe
+    Give or grant (something) to (someone) in
+    a gracious or condescending manner.
+    "it is a blessing vouchsafed him by
+    heaven"
+
+    Reveal or disclose (information).
+    "you'd never vouchsafed that interesting
+    titbit before"

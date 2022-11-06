@@ -1,4 +1,6 @@
 Babbage
+    [computer scientist]
+
     An English polymath.
     
     A mathematician, philosopher, inventor and
@@ -26,3 +28,18 @@ Babbage
     His varied work in other fields has led
     him to be described as "pre-eminent" among
     the many polymaths of his century.
+
+    Babbage wrote a whole chapter on the topic
+    of religion, where he identified three
+    sources of divine knowledge:
+    - A priori or mystical experience
+    - From Revelation
+    - From the examination of the works of the
+      Creator
+
+Difference Engine
+    An automatic mechanical calculator
+    designed to tabulate polynomial functions.
+    
+    It was designed in the 1820s, and was
+    first created by Charles Babbage.
