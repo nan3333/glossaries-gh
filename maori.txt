@@ -141,7 +141,10 @@ Hui
     meeting, conference, gathering 
 
 Marae
-    the area for formal discourse in front of a meeting house; or the whole marae complex, including meeting house, dining hall, forecourt, etc. 
+    the area for formal discourse in front of
+    a meeting house; or the whole marae
+    complex, including meeting house, dining
+    hall, forecourt, etc. 
 
 Haere mai!
     Welcome! Enter! 
@@ -150,19 +153,23 @@ Nau mai!
     Welcome! 
 
 Tangihanga
-    funeral ceremony in which a body is mourned on a marae 
+    funeral ceremony in which a body is
+    mourned on a marae 
 
 Tangi
-    short (verbal version) for the above; or to cry, to mourn
+    short (verbal version) for the above; or
+    to cry, to mourn
 
 Karanga
-    the ceremony of calling to the guests to welcome them onto the marae 
+    the ceremony of calling to the guests to
+    welcome them onto the marae 
 
 Manuhiri
     guests, visitors 
 
 Tangata whenua
-    original people belonging to a place, local people, hosts
+    original people belonging to a place,
+    local people, hosts
 
 Whaikōrero
     the art and practice of speech making
@@ -172,13 +179,17 @@ kaiwhai kōrero
     Speaker (there are many other terms) 
 
 Haka
-    chant with dance for the purpose of challenge (see other references to haka on this site)
+    chant with dance for the purpose of
+    challenge (see other references to haka on
+    this site)
 
 Waiata
     song or chant which follows a speech
 
 Koha
-    gift, present (usually money, can be food or precious items, given by guest to hosts)
+    gift, present (usually money, can be food
+    or precious items, given by guest to
+    hosts)
 
 Whare nui
 wharenui
@@ -203,67 +214,91 @@ Ihi
     power, authority, essential force
 
 Mana
-    authority, power; secondary meaning: reputation, influence
+    authority, power; secondary meaning:
+    reputation, influence
 
 Manaakitanga
-    respect for hosts or kindness to guests, to entertain, to look after
+    respect for hosts or kindness to guests,
+    to entertain, to look after
 
 Mauri
-    hidden essential life force or a symbol of this
+    hidden essential life force or a symbol of
+    this
 
 Noa
-    safe from tapu (see below), non-sacred, not tabooed
+    safe from tapu (see below), non-sacred,
+    not tabooed
 
 Raupatu
     confiscate, take by force
 
 Rohe
-    boundary, a territory (either geographical or spiritual) of an iwi or hapū
+    boundary, a territory (either geographical
+    or spiritual) of an iwi or hapū
 
 Taihoa
-    to delay, to wait, to hold off to allow maturation of plans, etc.
+    to delay, to wait, to hold off to allow
+    maturation of plans, etc.
 
 Tapu
-    sacred, not to be touched, to be avoided because sacred, taboo
+    sacred, not to be touched, to be avoided
+    because sacred, taboo
 
 Tiaki
-    to care for, look after, guard (kaitiaki: guardian, trustee)
+    to care for, look after, guard (kaitiaki:
+    guardian, trustee)
 
 Taonga
     treasured possession or cultural item, anything precious
 
 Tino rangatiratanga
-    The highest possible independent chiefly authority, paramount authority, sometimes used for sovereignty
+    The highest possible independent chiefly
+    authority, paramount authority, sometimes
+    used for sovereignty
 
 Tūrangawaewae
-    a place to stand, a place to belong to, a seat or location of identity
+    a place to stand, a place to belong to, a
+    seat or location of identity
 
 Wehi
     to be held in awe
 
 Whakapapa
-    genealogy, to recite genealogy, to establish kin connections
+    genealogy, to recite genealogy, to
+    establish kin connections
 
 Whenua
-    land, homeland, country (also afterbirth, placenta)
+    land, homeland, country (also afterbirth,
+    placenta)
 
 Ariki
-    male or female of high inherited rank from senior line of descent
+    male or female of high inherited rank from
+    senior line of descent
 
 Hapū
-    clan, tribe, independent section of a people (modern usage – sub-tribe); pregnant
+    clan, tribe, independent section of a
+    people (modern usage – sub-tribe);
+    pregnant
 
 Iwi
-    people, nation (modern usage – tribe); bones
+    people, nation (modern usage – tribe);
+    bones
 
 Kaumātua
-    elder or elders, senior people in a kin group
+    elder or elders, senior people in a kin
+    group
 
 Ngāi Tātou
     A term for everyone present – ‘we all’
 
 Pākehā
-    this word is not an insult; its derivation is obscure; it is the Māori word for people living in New Zealand of British/European origin; originally it would not have included, for example, Dalmatians, Italians, Greeks, Indians, Chinese
+    this word is not an insult; its derivation
+    is obscure; it is the Māori word for
+    people living in New Zealand of
+    British/European origin; originally it
+    would not have included, for example,
+    Dalmatians, Italians, Greeks, Indians,
+    Chinese
 
 Rangatira
     person of chiefly rank, boss, owner
@@ -284,7 +319,8 @@ Tāne
     man/men, husband(s)
 
 Teina/taina
-    junior relative, younger brother of a brother, younger sister of a sister
+    junior relative, younger brother of a
+    brother, younger sister of a sister
 
 Tipuna/tupuna
     ancestor
@@ -293,7 +329,8 @@ Tuahine
     sister of a man
 
 Tuakana
-    senior relative, older brother of a brother, older sister of a sister
+    senior relative, older brother of a
+    brother, older sister of a sister
 
 Tungāne
     brother of a sister
@@ -302,7 +339,9 @@ Wahine
     woman, wife (wāhine: women, wives)
 
 Waka
-    canoe, canoe group (all the iwi and hapū descended from the crew of a founding waka)
+    canoe, canoe group (all the iwi and hapū
+    descended from the crew of a founding
+    waka)
 
 Whāngai
     fostered or adopted child, young person
@@ -323,7 +362,10 @@ Iti
     small, little
 
 Kai
-    in a place name, this signifies a place where a particular food source was plentiful, e.g., Kaikōura, the place where crayfish (kōura) abounded and were eaten
+    in a place name, this signifies a place
+    where a particular food source was
+    plentiful, e.g., Kaikōura, the place where
+    crayfish (kōura) abounded and were eaten
 
 Manga
     stream
@@ -344,7 +386,9 @@ Nui
     large, big
 
 Ō
-    or o means ‘of’ (so does a, ā); many names begin with Ō, meaning the place of so-and-so, e.g., Ōkahukura, Ōkiwi, Ōhau
+    or o means ‘of’ (so does a, ā); many names
+    begin with Ō, meaning the place of
+    so-and-so, e.g., Ōkahukura, Ōkiwi, Ōhau
 
 One
     sand, earth
@@ -407,7 +451,8 @@ Tēnā koutou
     formal greeting to many people
 
 Tēnā tātou katoa
-    formal inclusive greeting to everybody present, including oneself
+    formal inclusive greeting to everybody
+    present, including oneself
 
 Arero
     tongue
@@ -427,7 +472,8 @@ Kōpū
 
 Māhunga
 makawe
-    hair (always plural, indicated by ngā [the, plural]); also head
+    hair (always plural, indicated by ngā
+    [the, plural]); also head
 
 Manawa
     heart
