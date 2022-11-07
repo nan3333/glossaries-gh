@@ -1866,7 +1866,7 @@ Monoid
 
 <>
 (<>)
-    You may read it as +
+    You may read it as '+'.
 
     Addition is associative:
         x <> (y <> z) == (x <> y) <> z
