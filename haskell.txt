@@ -1864,7 +1864,45 @@ Monoid
         In the example, he folded a
         [Builder] into a Builder.
 
-semigroup
+<>
+(<>)
+    You may read it as +
+
+    Addition is associative:
+        x <> (y <> z) == (x <> y) <> z
+
+    See:
+    - "Semigroup".
+
+Semigroup
+    https://typeclasses.com/semigroup
+
+    In abstract algebra, a semigroup is a set
+    together with a binary operation.
+    
+    For set, in Haskell, you can more or less
+    substitute the word type; there are ways
+    in which types do not perfectly correspond
+    to sets, but it is close enough for this
+    purpose.
+    
+    A binary operation is a function that
+    takes two arguments.
+    
+    The binary operation must be closed – that
+    is, its two arguments and its return value
+    but must all be values from the same set.
+    
+    A semigroup must also obey one law: the
+    law of associativity.
+    
+    That is usually summarized as
+        x <> (y <> z) == (x <> y) <> z
+
+    If the <> operation is as yet unfamiliar
+    to you, you may read it as +; addition is
+    associative.
+
     http://hackage.haskell.org/package/semigroups
 
     Has:
