@@ -18398,3 +18398,12 @@ mollified
 ablution
     An act of washing oneself.
     "the women performed their ablutions"
+
+wrought
+    Made or fashioned in the specified way.
+    "well-wrought pop music"
+
+pique
+    A feeling of irritation or resentment
+    resulting from a slight, especially to
+    one's pride.
