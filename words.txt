@@ -18407,3 +18407,9 @@ pique
     A feeling of irritation or resentment
     resulting from a slight, especially to
     one's pride.
+
+irony
+    The expression of one's meaning by using
+    language that normally signifies the
+    opposite, typically for humorous or
+    emphatic effect.
