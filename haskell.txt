@@ -10,13 +10,13 @@ pure function
     Pure functions take values as arguments,
     do some processing of those values, then
     return a result value.
-    
+
     A pure function does not depend on the
     'state of the world'.
-    
+
     The computation is entirely self-contained
     and independent.
-    
+
     Given the same arguments, a pure function
     will *always* return the same result.
 
@@ -30,7 +30,7 @@ pure function
 short cut fusion
     An optimizer method that merges some
     function calls into one.
-    
+
     E.g.
         map f . map g
 
@@ -45,10 +45,10 @@ short cut fusion
             can be substituted by
 
         filter (\x -> q x && p x)
-    
+
     It can also help to remove intermediate
     data structures.
-    
+
     E.g.
         Computing sum [1..n] does not require
         an explicit list structure, and the
@@ -70,15 +70,15 @@ component
 
     A component is anything behind a stanza
     with its own set of dependencies, etc.
-    
+
     So it can be multiple sublibraries,
     multiple executables, test-suites, etc.
-    
+
     You can prefix component names with lib:
     or exe: to specify if its an executable
     component (like a test suite) or a library
     component.
-    
+
     Components are described a bit in the
     users guide:
     https://cabal.readthedocs.io/en/latest/setup-commands.html?highlight=component#runhaskell-setup-hs-configure
@@ -1879,23 +1879,23 @@ Semigroup
 
     In abstract algebra, a semigroup is a set
     together with a binary operation.
-    
+
     For set, in Haskell, you can more or less
     substitute the word type; there are ways
     in which types do not perfectly correspond
     to sets, but it is close enough for this
     purpose.
-    
+
     A binary operation is a function that
     takes two arguments.
-    
+
     The binary operation must be closed – that
     is, its two arguments and its return value
     but must all be values from the same set.
-    
+
     A semigroup must also obey one law: the
     law of associativity.
-    
+
     That is usually summarized as
         x <> (y <> z) == (x <> y) <> z
 
@@ -1963,7 +1963,7 @@ monad functor
 
     A monad is a container type together with
     a few methods defined on it.
-    
+
     Monads model different kinds of
     computations.
 
@@ -2109,7 +2109,7 @@ monad functor
     The typical monad introduction will tell
     you that monads are all about sneaking
     side effects into this model so you can do
-    I/O.  
+    I/O.
         But that’s just one application.
         Monads are really about composing
         functions, as we’ll see.
@@ -4591,7 +4591,7 @@ Either
     The Either type represents values with two
     possibilities: a value of type Either a b
     is either Left a or Right b.
-    
+
     The Either type is sometimes used to
     represent a value which is either correct
     or an error; by convention, the Left
@@ -4605,7 +4605,7 @@ Either
     Int. The Left constructor can be used only
     on Strings, and the Right constructor can
     be used only on Ints.
-    
+
     Constructors:
     - Left a
     - Right b
@@ -4630,30 +4630,30 @@ fmap
     Examples:
         Convert from a Maybe Int to a Maybe
         String using show:
-    
+
             >>> show <$> Nothing
             Nothing
-        
+
             >>> show <$> Just 3
             Just "3"
-    
+
         Convert from an Either Int Int to an
         Either Int String using show:
-    
+
             >>> show <$> Left 17
             Left 17
-        
+
             >>> show <$> Right 17
             Right "17"
-    
+
         Double each element of a list:
-    
+
             >>> (*2) <$> [1,2,3]
             [2,4,6]
 
         Apply even to the second element of a
         pair:
-        
+
             >>> even <$> (2,2)
             (2,True)
 
@@ -4770,7 +4770,7 @@ bind
     function.
 
     https://wiki.haskell.org/Simple_monad_examples
-    
+
     All you really need to know, is that the
     (>>=) operator either returns Nothing if
     it is passed Nothing on its left-hand
@@ -6008,10 +6008,10 @@ intercalate
     The words ‘intersperse’ and ‘intercalate’
     are near synonyms in English, although
     ‘intercalate’ has a few specialized uses.
-    
+
     ‘Intercalate’ is pronounced “in-ter’-kuh-
     late” with the main stress on the ter.
-    
+
     Cognate words such as intercalar in
     Spanish may be more commonly used than
     ‘intercalate’ is in English; we’ve been
@@ -6019,7 +6019,7 @@ intercalate
     specialized meaning of inserting
     meaningless words and phrases such as “I
     mean” or “like” between sentences.
-    
+
     We point this out here because for us it
     was a helpful mnemonic – inserting strings
     such as “like” into lists of strings.
@@ -6032,7 +6032,7 @@ Kleisli composition operator
 corecursion
     In CS, corecursion is a type of operation
     that is dual to recursion.
-    
+
     Whereas recursion works analytically,
     starting on data further from a base case
     and breaking it down into smaller data and
@@ -6041,17 +6041,17 @@ corecursion
     from a base case and building it up,
     iteratively producing data further removed
     from a base case.
-    
+
     Put simply, corecursive algorithms use the
     data that they themselves produce, bit by
     bit, as they become available, and needed,
     to produce further bits of data.
-    
+
     A similar but distinct concept is
     generative recursion which may lack a
     definite "direction" inherent in
     corecursion and recursion.
-    
+
     Where recursion allows programs to operate
     on arbitrarily complex data, so long as
     they can be reduced to simple data (base
@@ -6061,7 +6061,7 @@ corecursion
     as streams, so long as it can be produced
     from simple data (base cases) in a
     sequence of finite steps.
-    
+
     Where recursion may not terminate, never
     reaching a base state, corecursion starts
     from a base state, and thus produces
@@ -6070,7 +6070,7 @@ corecursion
     terminate under strict evaluation), or it
     may consume more than it produces and thus
     become non-productive.
-    
+
     Many functions that are traditionally
     analyzed as recursive can alternatively,
     and arguably more naturally, be
@@ -6078,18 +6078,18 @@ corecursion
     are terminated at a given stage, for
     example recurrence relations such as the
     factorial.
-    
+
     Corecursion can produce both finite and
     infinite data structures as results, and
     may employ self-referential data
     structures.
-    
+
     Corecursion is often used in conjunction
     with lazy evaluation, to produce only a
     finite subset of a potentially infinite
     structure (rather than trying to produce
     an entire infinite structure at once).
-    
+
     Corecursion is a particularly important
     concept in functional programming, where
     corecursion and codata allow total

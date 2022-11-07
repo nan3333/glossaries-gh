@@ -19,4 +19,138 @@ Schwerbehindert
 Furchtbar
     terrible or horrible
 
-Wunderbar
+wunderbar
+    Wonderful.
+
+    Tt may be used in English to hint at
+    German-ness or simply as a substitute for
+    wonderful.
+    
+    Numerous bilingual puns have been based on
+    wunderbar.
+
+wasser
+    water
+
+brot und Wasser
+    bread and water
+
+tag
+    day
+
+guten Tag
+    good day
+
+guten Tag
+    Good day
+
+hallo
+    Hello
+
+auf Wiedersehen
+    Goodbye
+
+bitte
+    Please
+
+danke
+    Thanks, Thank you
+
+entschuldigung
+    Sorry
+
+gesundheit
+    Bless you (after someone sneezes)
+
+ja
+    Yes
+
+nein
+    No
+
+wer?
+    Who?
+
+was?
+    What?
+
+warum?
+    Why?
+
+woher?
+    Where?
+
+montag
+    Monday
+
+dienstag
+    Tuesday
+
+mittwoch
+    Wednesday
+
+donnerstag
+    Thursday
+
+freitag
+    Friday
+
+samstag
+    Saturday
+
+sonntag
+    Sunday
+
+ich heiße Ben.
+    My name is Ben.
+
+wie heißt du?
+    What’s your name?
+
+wie geht es dir?
+    How are you?
+
+mir geht’s gut
+    I’m doing well.
+
+gut, danke.
+    Fine, thank you.
+
+nett, Sie kennen zu lernen.
+    Nice to meet you.
+
+wo ist die Toilette?
+    Where is the bathroom?
+
+was kostet das?
+    How much is this?
+
+sprechen Sie Englisch?
+    Do you speak English?
+
+ich kann kein Deutsch
+    I can't speak German
+
+wie komme ich zum Busbahnhof?
+    How can I get to the bus station?
+
+gibt es ein Restaurant in der Nähe?
+    Is there a restaurant nearby?
+
+kann ich zahlen, bitte?
+    Can I have the bill, please?
+
+wie viel Uhr ist es?
+    What time is it?
+
+ich habe mich verlaufen.
+    I am lost.
+
+ich verstehe nicht.
+    I do not understand.
+
+ich vermisse dich.
+    I miss you.
+
+ich liebe dich.
+    I love you.
