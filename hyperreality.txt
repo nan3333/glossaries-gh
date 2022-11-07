@@ -44,6 +44,7 @@ simulation
     i.e., within ourselves, technological
     simulations, etc.
 
+simulacra
 simulacrum
     The simulacrum is often defined as a copy
     with no original, or as Gilles Deleuze
@@ -66,8 +67,6 @@ simulacrum
     4. simulacrum, which "bears no relation to
        any reality whatsoever".
 
-simulacra
-simulacrum
     The reaction from the simulation.
 
     An image or representation of someone or
