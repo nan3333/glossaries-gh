@@ -149,8 +149,8 @@ Aberration
     - Coma
     - Field Curvature
     - Chromatic Focal Shift
-    - Spherical
-Aberration , Distortion , Lateral Color
+    - Spherical Aberration
+    - Distortion , Lateral Color
 
 Absolute Efficiency
     Regarding diffraction gratings, it is the
@@ -165,14 +165,24 @@ Absolute Efficiency
     - Diffraction Grating
 
 Absorption
-Light energy lost through transformation to another form, such as heat, while passing through a material.
+    Light energy lost through transformation
+    to another form, such as heat, while
+    passing through a material.
 
 Acceptance Angle
-The maximum angle within which an optical fiber, electro-optic detector, or other component can collect light.
+    The maximum angle within which an optical
+    fiber, electro-optic detector, or other
+    component can collect light.
 
 Achromatic Lens
-Correction for primary chromatic aberration at two wavelengths. The simplest form is an achromatic doublet, consisting of
-two optical elements, a positive crown glass element and a negative flint glass element, cemented together.
+    Correction for primary chromatic
+    aberration at two wavelengths.
+    
+    The simplest form is an achromatic
+    doublet, consisting of two optical
+    elements, a positive crown glass element
+    and a negative flint glass element,
+    cemented together.
 
     See also:
     - Crown Glass
@@ -182,9 +192,15 @@ two optical elements, a positive crown glass element and a negative flint glass 
     - Doublet Lens
 
 Achromatic Objective
-A type of microscope objective that has a flat field in approximately 65% of the center of the image, compared to the 80%
-of a Semi-Plan objective and the 95% of a Plan objective. They correct for chromatic aberration in the red and blue
-wavelengths and spherical aberration in the green wavelength.
+    A type of microscope objective that has a
+    flat field in approximately 65% of the
+    center of the image, compared to the 80%
+    of a Semi-Plan objective and the 95% of a
+    Plan objective.
+    
+    They correct for chromatic aberration in
+    the red and blue wavelengths and spherical
+    aberration in the green wavelength.
 
     See also:
     - Wide-Field Eyepiece
@@ -192,10 +208,20 @@ wavelengths and spherical aberration in the green wavelength.
     - Semi-Plan Objective
 
 Achromatic Singlet Lenses
-Novel aspheric lenses that correct for chromatic focal shift using a unique geometry rather than multiple substrate
-materials connected together. This unique design has been shown to have less chromatic focal shift on axis than
-traditional achromatic doublets by a factor of 3 and plano-convex (PCX) singlet lenses by a factor of almost 40. This
-performance degrades off axis. Browse product options or learn more here.
+    Novel aspheric lenses that correct for
+    chromatic focal shift using a unique
+    geometry rather than multiple substrate
+    materials connected together.
+    
+    This unique design has been shown to have
+    less chromatic focal shift on axis than
+    traditional achromatic doublets by a
+    factor of 3 and plano-convex (PCX) singlet
+    lenses by a factor of almost 40.
+    
+    This performance degrades off axis.
+    
+    Browse product options or learn more here.
 
     See also:
     - Wide-Field Eyepiece
@@ -203,71 +229,119 @@ performance degrades off axis. Browse product options or learn more here.
     - Semi-Plan Objective
 
 Airy Disk
-The resultant diffraction pattern created after a point source of light is imaged perfectly through an aperture,
-consisting of a bright central core surrounded by diffraction rings.
+    The resultant diffraction pattern created
+    after a point source of light is imaged
+    perfectly through an aperture, consisting
+    of a bright central core surrounded by
+    diffraction rings.
 
 Amici Prism
-Also known as a right angle roof prism, it inverts the image and changes the line of sight by 90°, still having left to
-right correct. It is essentially a right angle prism with a roof.
+    Also known as a right angle roof prism, it
+    inverts the image and changes the line of
+    sight by 90°, still having left tog right
+    correct.
+    
+    It is essentially a right angle prism with
+    a roof.
 
     See also:
     - Prism
 
 Amplifiers
-An electro-optical device for increasing the incident signal from a photodiode, photmultiplier, or similar
-current/voltage source.
+    An electro-optical device for increasing
+    the incident signal from a photodiode,
+    photmultiplier, or similar current/voltage
+    source.
 
     See also:
     - Photodiode
 
 Analog Signal
-A signal that continuously changes over time with respect to a reference level or standard. Analog-to-digital signal
-conversion involves sampling an analog signal at high frequency and representing each sample level by a number, stored as
-binary data. Analog cameras output analog video signals unlike digital cameras, in which case the analog-to-digital
-conversion takes place in the camera rather than in a computer.
+    A signal that continuously changes over
+    time with respect to a reference level or
+    standard.
+    
+    Analog-to-digital signal conversion
+    involves sampling an analog signal at high
+    frequency and representing each sample
+    level by a number, stored as binary data.
+    
+    Analog cameras output analog video signals
+    unlike digital cameras, in which case the
+    analog-to-digital conversion takes place
+    in the camera rather than in a computer.
 
     See also:
     - Digital Signal
     - Digital Signal Processing (DSP)
 
 Analyzer
-Polarizing filter placed over the objective lens in an imaging system, used in conjunction with polarized illumination,
-allowing only light of a particular polarization to be imaged.
+    Polarizing filter placed over the
+    objective lens in an imaging system, used
+    in conjunction with polarized
+    illumination, allowing only light of a
+    particular polarization to be imaged.
 
 Angle of Incidence
-The angle formed between a ray of light and the normal point of incidence to the surface it approaches.
+    The angle formed between a ray of light
+    and the normal point of incidence to the
+    surface it approaches.
 
     See also:
     - Angle of Reflection
     - Total Internal Reflection (TIR)
 
 Angle of Reflection
-The angle formed between a ray of light and the normal point of incidence to the surface it leaves.
+    The angle formed between a ray of light
+    and the normal point of incidence to the
+    surface it leaves.
 
     See also:
     - Angle of Incidence
 
 Angle Tolerance
-The maximum angle between surfaces measured using an autocollimator assembly.
+    The maximum angle between surfaces
+    measured using an autocollimator assembly.
 
 Angular Field of View (AFOV)
-The angle of a lens’s view cone, typically specified as the full angle (in degrees) with respect to the horizontal sensor
-dimension.  Used to determine FOV at a given working distance.
+    The angle of a lens’s view cone, typically
+    specified as the full angle (in degrees)
+    with respect to the horizontal sensor
+    dimension.
+    
+    Used to determine FOV at a given working
+    distance.
 
 Anodization
-The chemical oxidation of the surface of aluminum components to prevent corrosion and increase abrasion resistance. Black
-anodizing is not only cosmetically appealing, but also does not reflect light in optical, imaging and photonics systems.
+    The chemical oxidation of the surface of
+    aluminum components to prevent corrosion
+    and increase abrasion resistance.
+    
+    Black anodizing is not only cosmetically
+    appealing, but also does not reflect light
+    in optical, imaging and photonics systems.
 
 Anti-Reflection (AR) Coating
-A type of coating applied to optics designed to minimize reflections within an optical system and maximize throughout.
+    A type of coating applied to optics
+    designed to minimize reflections within an
+    optical system and maximize throughout.
 
     See also:
     - Cube Beamsplitter
 
 Aperture (f/#)
-Also denoted by f-number (or f/#) and f-stop. In optics, it refers to the ratio of the focal length to diameter; whereas,
-in imaging, it refers to the ratio of the focal length to exit pupil of the system. A low f/# (fast lens) has high light
-collecting ability while a high f/# (slow lens) has low light light collecting ability.
+    Also denoted by f-number (or f/#) and
+    f-stop.
+    
+    In optics, it refers to the ratio of the
+    focal length to diameter; whereas, in
+    imaging, it refers to the ratio of the
+    focal length to exit pupil of the system.
+    
+    A low f/# (fast lens) has high light
+    collecting ability while a high f/# (slow
+    lens) has low light light collecting
+    ability.
 
     See also:
     - Double Gauss Design
@@ -275,8 +349,12 @@ collecting ability while a high f/# (slow lens) has low light light collecting a
     - Aperture Stop
 
 Aperture Stop
-The limiting aperture that defines how much light is allowed through an optical system. It can be an optical lens surface
-or an iris, but it is always a physical surface.
+    The limiting aperture that defines how
+    much light is allowed through an optical
+    system.
+    
+    It can be an optical lens surface or an
+    iris, but it is always a physical surface.
 
     See also:
     - Iris Diaphragm
@@ -285,11 +363,17 @@ or an iris, but it is always a physical surface.
     - Aperture (f/#)
 
 Apochromatic
-Correction for primary chromatic aberration at three wavelengths.
+    Correction for primary chromatic
+    aberration at three wavelengths.
 
 Argon-Ion Laser
-A type of gas laser that uses argon ions as the amplification (lasing) medium. Although argon-ion lasers are generally
-larger and less efficient than Helium Neon (HeNe) lasers, they can be used to produce a wider variety of wavelengths.
+    A type of gas laser that uses argon ions
+    as the amplification (lasing) medium.
+    
+    Although argon-ion lasers are generally
+    larger and less efficient than Helium Neon
+    (HeNe) lasers, they can be used to produce
+    a wider variety of wavelengths.
 
     See also:
     - Gas Laser
@@ -297,40 +381,61 @@ larger and less efficient than Helium Neon (HeNe) lasers, they can be used to pr
     - Laser
 
 Aspect Ratio
-The ratio of width to height in a video device. NTSC, PAL, EIA, and CCIR video signals use a 4:3 aspect ratio.
+    The ratio of width to height in a video
+    device.
+    
+    NTSC, PAL, EIA, and CCIR video signals use
+    a 4:3 aspect ratio.
 
 Aspheric Lens
-A type of lens that is not spherical in construction. Its non-spherical geometric shape allows it to correct for
-spherical aberrations, inherently present in spherical optics.
+    A type of lens that is not spherical in
+    construction.
+    
+    Its non-spherical geometric shape allows
+    it to correct for spherical aberrations,
+    inherently present in spherical optics.
 
     See also:
     - Hybrid Molding
 
 Attenuation
-The loss of average optical power, usually given as decibels (dB) per unit distance.
+    The loss of average optical power, usually
+    given as decibels (dB) per unit distance.
 
     See also:
     - Decibel (dB)
 
 Autocollimator
-A single instrument combining the functions of a telescope and a collimator to detect small angular displacement of an
-optical flat by means of its own generated collimated light.
+    A single instrument combining the
+    functions of a telescope and a collimator
+    to detect small angular displacement of an
+    optical flat by means of its own generated
+    collimated light.
 
     See also:
     - Collimation
     - Collimated Light
 
 Automatic Gain Control (AGC)
-Used in cameras to maintain a constant average grayscale value despite changes in light levels by automatically adjusting
-the signal gain value.
+    Used in cameras to maintain a constant
+    average grayscale value despite changes in
+    light levels by automatically adjusting
+    the signal gain value.
 
     See also:
     - Gain
 
 Average Extinction
-When two polarizers are placed in front of a light source with transmission axes at 90 degrees to each other, the
-theoretical transmission should reach zero percent of the input. Because real polarizers will not reach this limit,
-average extinction is cited as a measure of how closely polarizers approach the theoretical limit.
+    When two polarizers are placed in front of
+    a light source with transmission axes at
+    90 degrees to each other, the theoretical
+    transmission should reach zero percent of
+    the input.
+    
+    Because real polarizers will not reach
+    this limit, average extinction is cited as
+    a measure of how closely polarizers
+    approach the theoretical limit.
 
 Axial Illumination
     Refers to light that strikes an object
