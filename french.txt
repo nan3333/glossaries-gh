@@ -314,17 +314,22 @@ Pourriez-vous l'écrire ? / Pourrais-tu l'écrire ?
     information you need can be an enormous
     help!
 
-Je cherche des chaussures.- I'm looking for shoes.
- Je cherche (I'm looking for) is the essential
-part of this phrase.
-Once you have that down, you can ask for
-anything you can name.
+Je cherche des chaussures.
+    I'm looking for shoes.
 
-For example, if you're shopping for clothes,
-you can replace des chaussures with any other
-article of clothing that you're looking for,
-like un manteau (a coat), une robe (a dress)
-un pantalon (a pair of pants), etc.
+    Je cherche (I'm looking for) is the
+    essential part of this phrase.  Once you
+    have that down, you can ask for anything
+    you can name.
+
+    For example, if you're shopping for
+    clothes, you can replace des chaussures
+    with any other article of clothing that
+    you're looking for, like:
+    - un manteau (a coat),
+    - une robe (a dress),
+    - un pantalon (a pair of pants),
+    - etc.
 
 Je ne connais pas ma taille.
     I don't know my size.
