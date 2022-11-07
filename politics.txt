@@ -1,3 +1,7 @@
+statecraft
+    The skillful management of state affairs;
+    statesmanship.
+
 caucus
     A meeting of supporters or members of a
     specific political party or movement.
