@@ -18394,3 +18394,7 @@ mollified
     wounds, and bruises, and putrifying sores:
     they have not been closed, neither bound
     up, neither mollified with ointment."
+
+ablution
+    An act of washing oneself.
+    "the women performed their ablutions"
