@@ -1,3 +1,28 @@
+parse
+deserialize
+read
+
+parser
+deserializer
+reader
+
+render
+serialize
+write
+
+renderer
+serializer
+writer
+
+parser-renderer
+    A tool that does both deserializing and
+    serializing.
+
+    It's both a parser and a renderer.
+
+    Example:
+    - https://github.com/200ok-ch/org-parser
+
 LR(0) & SLR(1)
     [parsing techniques]
 

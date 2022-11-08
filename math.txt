@@ -1,3 +1,5 @@
+https://mathvault.ca/math-glossary/
+
 exponentiation
     Only right-associative.
         In a chain of such operations, they
