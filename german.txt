@@ -813,22 +813,31 @@ dich kennenzulernen.
 
     (formal/informal)
 
-Haben Sie
-Hast du Hunger?
+Haben Sie Hunger?
+    (formal)
+
     Are you hungry?
 
-    (formal/informal)
+Hast du Hunger?
+    (informal)
 
-Haben Sie
-Hast du Durst?
+    Are you hungry?
+
+Haben Sie Durst?
+    (formal)
+
     Are you thirsty?
 
-    (formal/informal)
+Hast du Durst?
+    (informal)
 
-Wollen wir etwas zusammen essen
-trinken gehen?
-    Shall we get something to eat/drink
-    together?
+    Are you thirsty?
+
+Wollen wir etwas zusammen essen gehen?
+    Shall we get something to eat together?
+
+Wollen wir etwas zusammen trinken gehen?
+    Shall we get something to drink together?
 
 Frühstück
     Breakfast
@@ -842,10 +851,14 @@ Abendessen
 Ich möchte einen Tisch reservieren.
     I'd like to reserve a table.
 
-Einen Tisch für zwei
-drei
-vier bitte.
-    A table for two/three/four, please.
+Einen Tisch für zwei bitte.
+    A table for two, please.
+
+Einen Tisch für drei bitte.
+    A table for three, please.
+
+Einen Tisch für vier bitte.
+    A table for four, please.
 
 Ich habe eine Reservierung.
     I have a reservation.
