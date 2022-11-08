@@ -154,3 +154,445 @@ ich vermisse dich.
 
 ich liebe dich.
     I love you.
+
+null 
+    zero
+
+eins 
+    one
+
+zwei 
+    two
+
+drei 
+    three
+
+vier 
+    four
+
+fünf 
+    five
+
+sechs 
+    six
+
+sieben 
+    seve
+
+acht 
+    eight
+
+neun 
+    nine
+
+zehn 
+    te
+
+elf 
+    eleve
+
+zwölf 
+    twelve
+
+dreizehn 
+    thirtee
+
+vierzehn 
+    fourtee
+
+fünfzehn 
+    fifteen
+
+sechzehn 
+    sixteen
+
+siebzehn 
+    seventeen
+
+achtzehn 
+    eighteen
+
+neunzehn 
+    nineteen
+
+zwanzig 
+    twenty
+
+einundzwanzig 
+    twenty-one
+
+zweiundzwanzig 
+    twenty-two
+
+dreiundzwanzig  
+    twenty-three
+
+vierundzwanzig 
+    twenty-four
+
+fünfundzwanzig 
+    twenty-five
+
+sechsundzwanzig 
+    twenty-six
+
+siebenundzwanzig  
+    twenty-seven
+
+achtundzwanzig 
+    twenty-eight
+
+neunundzwanzig 
+    twenty-nine
+
+dreißig 
+    thirty
+
+einunddreißig 
+    thirty-one
+
+zweiunddreißig 
+    thirty-two
+
+vierzig 
+    forty
+
+fünfzig 
+    fifty
+
+sechzig 
+    sixty
+
+siebzig 
+    seventy
+
+achtzig 
+    eighty
+
+neunzig 
+    ninety
+
+hundert 
+    one hundred
+
+zweihundertfünfzig 
+    two hundred and fifty
+
+fünfhundert 
+    five hundred
+
+siebenhundertdreiundachtzig 
+    seven hundred and eighty three
+
+tausend 
+    one thousand
+
+Hallo 
+    Hello 
+
+    [any time of day]
+
+Hallo, wie geht’s? 
+    Hello, how are you?
+
+Guten Morgen 
+    Good morning
+
+Guten Tag 
+    [lit.
+    
+    good day]
+
+    Good afternoon
+
+Guten Abend 
+    Good evening
+
+Gute Nacht 
+    Good night
+
+Vielen Dank 
+    Thank you very much
+
+Ich danke Ihnen auch 
+    Thank you, too
+
+    [in reply to “thank you” from someone else
+    else]
+
+Tschüss, bis zum nächsten Mal 
+    Goodbye, see you next time
+
+Schönes Wetter heute, nicht wahr? 
+    It's lovely weather today, is not it?
+
+Mein Name ist _ 
+    My name is _____
+
+Ich bin Amerikaner, Kanadier, Engländer (male) 
+    I'm American / Canadian / English
+
+Ich bin Amerikanerin, Kanadierin, Engländerin (female) 
+    I'm American / Canadian / English
+
+Woher kommen Sie? 
+    Where are you from?
+
+Freut mich 
+    Nice to meet you!
+
+Es tut mir leid, aber ich verstehe nicht 
+    I'm sorry, but I do not understand
+
+Ich spreche nicht gut Deutsch 
+    I do not speak German very well
+
+Können Sie das bitte wiederholen? 
+    Could you say that again please?
+
+Können Sie bitte langsamer sprechen? 
+    Could you say that more slowly please?
+
+Schreiben Sie das bitte für mich auf 
+    Please write that down for me
+
+Was bedeutet das? 
+    What does that mean?
+
+Sprechen Sie Englisch? 
+    Do you speak English?
+
+Es tut mir leid 
+    I'm sorry
+
+Ich weiß nicht 
+    I do not know
+
+In Ordnung 
+    All right
+
+Macht nichts 
+    never mind
+
+Ein Tisch für eine Person bitte 
+    A table for one, please
+
+Ein Tisch für zwei Personen, bitte 
+    A table for two, please
+
+Haben Sie schon auf? 
+    Are you open yet?
+
+Können wir (auf einen Tisch) warten? 
+    Can we wait (for a table)?
+
+Können wir dort sitzen? 
+    Can we sit over there?
+
+Entschuldigung! 
+    Excuse me!
+
+    [Calling a waiter]
+
+Was empfehlen Sie? 
+    What do you recommend?
+
+Was ist das beliebteste Gericht? 
+    What's your most popular dish?
+
+Was ist das? 
+    What is this?
+
+Was für Bier haben Sie? 
+    What type of beer do you have?
+
+Ein kleines Bier bitte 
+    A small beer, please
+
+Ein großes Bier bitte 
+    A large beer, please
+
+Bringen Sie mir bitte eine Auswahl von leckeren Sachen 
+    Please bring me a selection of nice things
+
+Bitte wählen Sie etwas 
+    It's up to you / You can decide
+
+Die Rechnung, bitte 
+    The bill, please
+
+Kann ich bitte die Speisekarte haben? 
+    Can I have the menu, please?
+
+Ich möchte nach _____ 
+    I want to go to
+
+Wann fährt der nächste Zug / Bus nach _____? 
+    What time is the next train/bus to __?
+
+Was kostet das? 
+    How much is it?
+
+Einmal/ zweimal (nach _____), bitte 
+    1 ticket / 2 tickets (to _____), please
+
+Wie lange dauert das? 
+    How long does it take?
+
+Wohin muss ich jetzt gehen? 
+    Where should I go now?
+
+Wann fährt er ab? 
+    When does it leave?
+
+Wie spät ist es (jetzt)? 
+    What time is it (now)?
+
+Hält der Zug/ Bus in _? 
+    Does this train/bus stop in _____?
+
+Entschuldigen Sie, ist dies _____?
+    Excuse me, is this _____ ?
+
+    [Useful when you're on the bus / train and
+    are not sure when to get off]
+
+Können Sie das bitte für mich aufschreiben? 
+    Can you write that down for me?
+
+Zeigen Sie mir das bitte auf der Karte? 
+    Can you show me on the map?
+
+Wo ist _____ auf der Karte? 
+    Where is _____ on the map?
+
+Entschuldigung, darf ich Sie etwas fragen? 
+    Excuse me, could I ask you something?
+
+Ich möchte nach _____ 
+    I want to go to _
+
+    [If you know the name of your destination]
+
+Ich möchte dahin 
+    I want to go here
+
+    [Pointing to your destination on the map]
+
+Ich habe mich verlaufen 
+    I'm lost (on foot)
+
+Ich habe mich verfahren 
+    I'm lost (by car)
+
+Wie komme ich dahin? 
+    How can I get there?
+
+Geht es hier lang? 
+    Is it this way?
+
+    [Useful for checking if you're walking in
+    the right direction]
+
+Zeigen Sie mir das bitte auf der Karte? 
+    Can you show me on the map?
+
+Wo ist __?
+    Where is _ ?
+
+Das gefällt mir 
+    I like this
+
+Was kostet das? 
+    How much is this?
+
+Bitte wiederholen Sie das 
+    Can you say that again please?
+
+Schreiben Sie das bitte für mich auf? 
+    Can you write that down for me?
+
+Und wenn ich das alles kaufe? 
+    If I buy these together?
+
+    [A useful way to knock the price down]
+
+Das ist mir zu teuer 
+    it's too expensive for me
+
+Geben Sie mir einen Rabatt? 
+    Can you give me a discount?
+
+Ich suche nach _____ 
+    I'm looking for a _____
+
+Ich schaue mich nur um 
+    I'm just looking around
+
+Danke, ich suche noch weiter 
+    Thank you, I'll keep looking
+
+    [if you're getting hassled to buy
+    something]
+
+Moment, bitte 
+    Just a moment
+
+Ja, bitte 
+    Yes, please
+
+Nein, danke 
+    No, thanks
+
+Können Sie mir bitte helfen? 
+    Can you help me, please?
+
+Ich brauche einen Arzt 
+    I need to see a doctor
+
+Es geht mir nicht gut 
+    I do not feel well
+
+Es geht ihm/ihr nicht gut 
+    he / she does not feel well
+
+Gibt es ein Krankenhaus in der Nähe? 
+    Is there a hospital near here?
+
+Fahren Sie mich bitte zum Krankenhaus 
+    Take me to the hospital
+
+    [To a taxi driver]
+
+Es tut hier weh 
+    It hurts here
+
+    [pointing to body part]
+
+Ich brauche Medizin 
+    I need some medicine
+
+Es tut mir leid, Sie zu stören, aber… 
+    I'm sorry to bother you, but …
+
+Kann ich Sie schnell etwas fragen? 
+    Could I ask you something quickly?
+
+Ich suche ein Restaurant mit gutem Essen hier in der Nähe 
+    I'm looking for a place with good food
+    around here
+
+Ich suche ein nettes Café in der Nähe 
+    I'm looking for a nice cafe in the area
+
+Wissen Sie etwas über _____? 
+    Do you know anything about _____ ?
+
+Gibt es hier in der Nähe etwas Interessantes zu sehen? 
+    Is there anything interesting to see in
+    this area?
+
+Trotzdem danke 
+    Thank you anyway
+
+    [if the person can not help you]
