@@ -851,11 +851,19 @@ Ich habe eine Reservierung.
     I have a reservation.
 
 Kann ich
+    Can I?
+
 Können wir die Speisekarte
-Getränkekarte
+    Can we see the menu?
+
+können wir die getränkekarte
+    Can we see the drinks menu?
+
+können wir die Weinkarte
+    Can we see the wine menu?
+
 Weinkarte haben bitte?
-    Can I/Can we see the menu/drinks/wine menu
-    please?
+    Wine menu please?
 
 Was ist das?
     What is this?
@@ -866,8 +874,8 @@ Können Sie etwas empfehlen?
 Haben Sie etwas vegetarisches?
     Do you have something vegetarian?
 
-Ich esse kein
-keine X.
+Ich esse kein X.
+Ich esse keine X.
     I don't eat X.
 
 Ich bin allergisch gegen X.
