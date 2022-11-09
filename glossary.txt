@@ -12505,3 +12505,15 @@ phylacteries
     texts on vellum, worn by Jewish men at
     morning prayer as a reminder to keep the
     law.
+
+mezzanine
+mezzanines
+    [#architecture]
+
+    An intermediate floor or storey in between
+    the main floors of a building;
+    specifically, one that is directly above
+    the ground floor which does not extend
+    over the whole floorspace of the building,
+    and so resembles a large balcony
+    overlooking the ground floor; an entresol.
