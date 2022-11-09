@@ -18413,3 +18413,8 @@ irony
     language that normally signifies the
     opposite, typically for humorous or
     emphatic effect.
+
+funerary
+    Relating to a funeral or the commemoration
+    of the dead.
+    "funerary ceremonies"
