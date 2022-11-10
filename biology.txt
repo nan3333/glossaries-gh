@@ -22,3 +22,14 @@ analog
 
     "Analogs are everywhere. Homologs are much
     harder to find."
+
+imago
+imaginal stage
+    The imago is the last stage an insect
+    attains during its metamorphosis, its
+    process of growth and development; it is
+    also called the imaginal stage, the stage
+    in which the insect attains maturity.
+    
+    It follows the final ecdysis of the
+    immature instars.
