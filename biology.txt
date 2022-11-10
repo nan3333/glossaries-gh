@@ -39,3 +39,14 @@ imaginal
     "imaginal education methods"
 
     Relating to an adult insect or imago.
+
+entomology
+    The study of insects and their
+    relationship to humans, the environment,
+    and other organisms.
+    
+    Entomologists make great contributions to
+    such diverse fields as agriculture,
+    chemistry, biology, human/animal health,
+    molecular science, criminology, and
+    forensics.
