@@ -1,3 +1,9 @@
+Lumens
+lm
+    A measure of the total amount of visible
+    light (to the human eye) from a lamp or
+    light source.
+
 stigmatism
     The condition of an optical system (such
     as a lens or mirror) in which rays of
