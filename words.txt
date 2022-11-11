@@ -18427,3 +18427,21 @@ eponymous
     The adjectives which are derived from the
     word eponym include eponymous and
     eponymic.
+
+autological
+homological
+    An autological word (also called
+    homological word) is a word that expresses
+    a property that it also possesses (e.g.,
+    "word" is a word, "noun" is a noun,
+    "English" is an English word,
+    "pentasyllabic" has five syllables, and
+    "writable" is writable.
+    
+    The opposite is a heterological word, one
+    that does not apply to itself (e.g.
+    
+    the word "long" is not long,
+    "monosyllabic" has more than one syllable,
+    "dactyl" is not a dactyl), and
+    "misspelled" is not misspelled.
