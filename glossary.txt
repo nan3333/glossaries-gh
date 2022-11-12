@@ -12517,3 +12517,16 @@ mezzanines
     over the whole floorspace of the building,
     and so resembles a large balcony
     overlooking the ground floor; an entresol.
+
+augury
+augury
+    The practice from ancient Roman religion
+    of interpreting omens from the observed
+    behavior of birds.
+    
+    When the individual, known as the augur,
+    interpreted these signs, it is referred to
+    as "taking the auspices".
+    
+    'Auspices' is from the Latin auspicium and
+    auspex, literally "one who looks at birds.
