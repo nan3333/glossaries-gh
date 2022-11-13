@@ -14386,19 +14386,6 @@ spurn
     "he spoke gruffly, as if afraid that his
     invitation would be spurned"
 
-catechist
-    A teacher of the principles of Christian
-    religion, especially one using a
-    catechism.
-
-propitiation
-    The action of propitiating or appeasing a
-    god, spirit, or person.
-    "he lifted his hands in propitiation"
-
-    Atonement, especially that of Jesus
-    Christ.
-
 placate
 placation
     If you placate someone, you stop them from
