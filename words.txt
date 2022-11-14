@@ -18432,3 +18432,8 @@ homological
     "monosyllabic" has more than one syllable,
     "dactyl" is not a dactyl), and
     "misspelled" is not misspelled.
+
+contemn
+    Treat or regard with contempt.
+    "it lay in Deronda's nature usually to
+    contemn the feeble"
