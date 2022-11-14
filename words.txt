@@ -18444,3 +18444,15 @@ phronesis
     wisdom, or, colloquially, sense is an
     ancient Greek word for a type of wisdom or
     intelligence relevant to practical action.
+
+censer
+incense burner
+perfume burner
+pastille burner
+    A vessel made for burning incense or
+    perfume in some solid form.
+    
+    They vary greatly in size, form, and
+    material of construction, and have been in
+    use since ancient times throughout the
+    world.
