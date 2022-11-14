@@ -18437,3 +18437,10 @@ contemn
     Treat or regard with contempt.
     "it lay in Deronda's nature usually to
     contemn the feeble"
+
+phronesis
+    Translated into English by terms such as
+    prudence, practical virtue and practical
+    wisdom, or, colloquially, sense is an
+    ancient Greek word for a type of wisdom or
+    intelligence relevant to practical action.
