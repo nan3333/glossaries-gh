@@ -18460,3 +18460,8 @@ pastille burner
 asinine
     Extremely stupid or foolish.
     "Lydia ignored his asinine remark"
+
+fickleness
+    Changeability, especially as regards one's
+    loyalties or affections.
+    "the fickleness of youth"
