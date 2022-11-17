@@ -30,6 +30,13 @@ stipulable
     That can be stipulated.
 
 stipulable sign
+
+semiotic other
+
+object experienced
+
+semiotic self
+
 logogram
 logograph
 lexigraph
