@@ -18465,3 +18465,15 @@ fickleness
     Changeability, especially as regards one's
     loyalties or affections.
     "the fickleness of youth"
+
+malignant
+    Evil in nature or effect; malevolent.
+    "in the hands of malignant fate"
+
+    (of a disease) very virulent or
+    infectious.
+
+    Malignancy is the tendency of a medical
+    condition to become progressively worse.
+    Malignancy is most familiar as a
+    characterization of cancer.
