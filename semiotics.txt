@@ -1,3 +1,35 @@
+stipulate
+    Demand or specify (a requirement),
+    typically as part of an agreement.
+    "he stipulated certain conditions before
+    their marriage"
+    
+    To specify or agree to as a condition in
+    an agreement: The two firms stipulated a
+    payment deadline.
+
+    To agree to (a fact) in order to reduce
+    the scope of the dispute to be resolved by
+    a court. Used of litigants.
+
+    To concede for the purposes of argument:
+    "Even if we stipulate that it's the
+    president's duty to bring any American
+    soldier home who's been held in captivity,
+    it's perfectly reasonable to ask if this
+    was a deal he should have made" (Bernard
+    Goldberg).
+
+    To state or specify a demand or provision
+    in an agreement: The law stipulates for a
+    ban on the chemical.
+
+    To form an agreement.
+
+stipulable
+    That can be stipulated.
+
+stipulable sign
 logogram
 logograph
 lexigraph
