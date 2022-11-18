@@ -1,3 +1,12 @@
+libation
+    A ritual pouring of a liquid, or grains
+    such as rice, as an offering to a deity or
+    spirit, or in memory of the dead.
+    
+    It was common in many religions of
+    antiquity and continues to be offered in
+    cultures today.
+
 Jainism
     [#religion]
 
