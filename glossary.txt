@@ -12534,3 +12534,9 @@ augury
     
     'Auspices' is from the Latin auspicium and
     auspex, literally "one who looks at birds.
+
+perfidy
+    A form of deception in which one side
+    promises to act in good faith with the
+    intention of breaking that promise once
+    the unsuspecting enemy is exposed.
