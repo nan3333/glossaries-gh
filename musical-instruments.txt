@@ -46,3 +46,12 @@ woodwind
     There are two main types of woodwind
     instruments: flutes and reed instruments
     (otherwise called reed pipes).
+
+viol
+viola da gamba
+gamba
+    AEuropean bowed and fretted string
+    instrument played on the leg (da gamba),
+    used at court and in the home primarily
+    during the Renaissance and Baroque
+    periods.
