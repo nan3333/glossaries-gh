@@ -18477,3 +18477,9 @@ malignant
     condition to become progressively worse.
     Malignancy is most familiar as a
     characterization of cancer.
+
+manifesto
+    A published declaration of the intentions,
+    motives, or views of the issuer, be it an
+    individual, group, political party or
+    government.
