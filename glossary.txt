@@ -12540,3 +12540,15 @@ perfidy
     promises to act in good faith with the
     intention of breaking that promise once
     the unsuspecting enemy is exposed.
+
+pourquoi story
+origin story
+pourquoi tale
+etiological tale
+    A fictional narrative that explains why
+    something is the way it is, for example
+    why a snake has no legs, or why a tiger
+    has stripes.
+    
+    Many legends and folk tales are pourquoi
+    stories.
