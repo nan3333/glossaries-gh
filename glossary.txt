@@ -12552,3 +12552,9 @@ etiological tale
     
     Many legends and folk tales are pourquoi
     stories.
+
+trailhead
+    The point at which a trail begins, where
+    the trail is often intended for hiking,
+    biking, horseback riding, or off-road
+    vehicles.

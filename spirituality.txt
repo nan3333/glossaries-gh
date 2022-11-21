@@ -336,3 +336,11 @@ gnosology
 sublunary
     Belonging to this world as contrasted with
     a better or more spiritual one.
+
+trailhead
+    The point at which a trail begins, where
+    the trail is often intended for hiking,
+    biking, horseback riding, or off-road
+    vehicles.
+
+    https://www.youtube.com/watch?v=c7tN60XZffo
