@@ -21,3 +21,16 @@ echidna train
     at once, who follow her around single
     file, more or less nose to tail, in what
     are known as ‘echidna trains’.
+
+dog
+   A recent analysis of veterinary records
+   revealed that dogs under 20 pounds had an
+   average lifespan of 11 years while those
+   over 90 pounds typically lived for only 8
+   years.
+   
+   Medium and large dogs fell in the middle at
+   around 11 years.
+
+cat
+   Average lifespan: 12-18 years.
