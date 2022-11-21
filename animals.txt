@@ -20,7 +20,7 @@ echidna train
     season females can attract multiple males
     at once, who follow her around single
     file, more or less nose to tail, in what
-    are known as ‘echidna trains’.
+    are known as 'echidna trains'.
 
 dog
    A recent analysis of veterinary records
@@ -28,9 +28,19 @@ dog
    average lifespan of 11 years while those
    over 90 pounds typically lived for only 8
    years.
-   
+
    Medium and large dogs fell in the middle at
    around 11 years.
+
+   The aging profile of dogs varies according
+   to their adult size (often determined by
+   their breed):
+   - smaller dogs often live over 15-16 years
+     (the max is 20 years),
+   - medium and large size dogs typically 10
+     to 20 years, and
+   - some giant dog breeds such as mastiffs,
+     often only 7 to 8 years.
 
 cat
    Average lifespan: 12-18 years.
