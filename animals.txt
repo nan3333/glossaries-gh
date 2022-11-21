@@ -23,24 +23,91 @@ echidna train
     are known as 'echidna trains'.
 
 dog
-   A recent analysis of veterinary records
-   revealed that dogs under 20 pounds had an
-   average lifespan of 11 years while those
-   over 90 pounds typically lived for only 8
-   years.
+    Jack Russell Terrier 12.72 years
+    Yorkshire Terrier 12.54 years
+    Border Collie 12.10 years
+    Springer Spaniel 11.92 years
+    Crossbred 11.82 years
+    Labrador Retriever 11.77 years
+    Staffordshire Bull Terrier 11.33 years
+    Cocker Spaniel 11.31 years
+    Shih-tzu 11.05 years
+    Cavalier King Charles Spaniel 10.45 years
+    German Shepherd Dog 10.16 years
+    Boxer 10.04 years
+    Beagle 9.85 years
+    Husky 9.53 years
+    Chihuahua 7.91 years
+    American Bulldog 7.79 years
+    Pug 7.65 years
+    English Bulldog 7.39 years
+    French Bulldog 4.53 years
 
-   Medium and large dogs fell in the middle at
-   around 11 years.
-
-   The aging profile of dogs varies according
-   to their adult size (often determined by
-   their breed):
-   - smaller dogs often live over 15-16 years
-     (the max is 20 years),
-   - medium and large size dogs typically 10
-     to 20 years, and
-   - some giant dog breeds such as mastiffs,
-     often only 7 to 8 years.
+    Afghan Hound                      12
+    Airedale Terrier                  11
+    Akita                             10
+    American Cocker Spaniel           11
+    Australian Shepherd               12
+    Basset Hound                      11
+    Beagle                            12
+    Bearded Collie                    13
+    Bernese Mountain Dog               8
+    Bichon Frise                      12
+    Border Collie                     13
+    Boston Terrier                    11
+    Boxer                              9
+    Brittany Spaniel                  13
+    Bull Terrier                      10
+    Bulldog                            6
+    Bullmastitt                        8
+    Cairn Terrier                     14
+    Cardigan Welsh Corgi              13
+    Cavalier King Charles Spaniel     11
+    Chesapeake Bay Retriever           9
+    Chow Chow                          9
+    Collie                            11
+    Dachshund                         13
+    Dalmatian                         11
+    Doberman                          10
+    English Cocker Spaniel            12
+    English Setter                    12
+    English Spring Spaniel            13
+    French Bulldog                     9
+    German Shepherd                   10
+    German Short-haired Pointer       11
+    Giant Schnauzer                   10
+    Golden Retriever                  12
+    Great Dane                         7
+    Great Pyrenees                     9
+    Greyhound                          9
+    Irish Setter                      12
+    Irish Wolfhound                    7
+    Jack and Parson Russell Terriers  14
+    Keeshond                          12
+    Labrador Retriever                12
+    Lhasa Apso                        14
+    Maltese                           12
+    Mastiff                            7
+    Miniature Dachshund               14
+    Miniature Poodle                  14
+    Miniature Schnauzer               12
+    NewToundland                       9
+    Old English Sheepdog              11
+    Pekingese                         12
+    Pembroke Welsh Corgi              12
+    Pomeranian                        10
+    Pug                               11
+    Rottweiler                         9
+    Saint Bernard                      8
+    Samoyed                           12
+    Shetland Sheepdog                 13
+    Shih Tzu                          13
+    Staffordshire Bull Terrier        12
+    Standard Poodle                   12
+    Toy Poodle                        13
+    Weimaraner                        10
+    West Highland White Terrier       13
+    Whippet                           13
 
 cat
    Average lifespan: 12-18 years.
