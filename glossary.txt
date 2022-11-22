@@ -12579,3 +12579,15 @@ flea market
     goods.
     
     This type of market is often seasonal.
+
+melee
+pell-mell
+    Disorganized hand-to-hand combat in
+    battles fought at abnormally close range
+    with little central control once it
+    starts.
+    
+    In military aviation, a melee has been
+    defined as "an air battle in which several
+    aircraft, both friend and foe, are
+    confusingly intermingled".
