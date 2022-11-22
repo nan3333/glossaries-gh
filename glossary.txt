@@ -12571,3 +12571,11 @@ mumbo-jumbo
     
     For example, "I don't understand all that
     legal mumbo jumbo in the fine print."
+
+second hand market
+flea market
+    A type of street market that provides
+    space for vendors to sell previously-owned
+    goods.
+    
+    This type of market is often seasonal.
