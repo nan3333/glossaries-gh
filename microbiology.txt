@@ -103,3 +103,23 @@ mitosis
 
 spindle fibers
     https://biology.stackexchange.com/q/44262
+
+    Spindle fibers form a protein structure
+    that divides the genetic material in a
+    cell.
+    
+    [...] At the beginning of nuclear
+    division, two wheel-shaped protein
+    structures called centrioles position
+    themselves at opposite ends of the cell
+    forming cell poles.
+    
+microtubules
+    Long protein fibers that extend from the
+    centrioles in all possible directions,
+    forming what is called a spindle.
+
+spindle
+    Long protein fibers that extend from the
+    centrioles in all possible directions,
+    forming what is called a spindle.
