@@ -18502,3 +18502,7 @@ cankered
     "the actor offers little evidence of
     Angelo's cankered mind or of his inner
     torment"
+
+proposal
+    A proposal is the act of asking someone to
+    marry you.

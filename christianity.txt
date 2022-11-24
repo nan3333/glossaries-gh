@@ -1492,6 +1492,8 @@ solus Christus
 soli Deo gloria
 
 sola scriptura
+    [doctrine]
+
     Meaning by scripture alone, is a Christian
     theological doctrine held by most
     Protestant Christian denominations, in
