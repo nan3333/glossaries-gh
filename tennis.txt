@@ -628,9 +628,18 @@ cyclops
     
     Succeeded by Hawk-Eye.
 
-dampener A small rubber device affixed to the strings of the racket to absorb some of the vibration caused by hitting the ball.[43]
+dampener
+    A small rubber device affixed to the
+    strings of the racket to absorb some of
+    the vibration caused by hitting the ball.
+
 Davis Cup
-    International, annual men's tennis competition in which teams from participating countries compete in a single-elimination format, with matches occurring at several stages during the year.[44]
+    International, annual men's tennis
+    competition in which teams from
+    participating countries compete in a
+    single-elimination format, with matches
+    occurring at several stages during the
+    year.
 
 dead net
 dead net cord
