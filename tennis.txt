@@ -1312,18 +1312,29 @@ love game
     scoring a single point.
 
 love hold
+hold to love
     Game won by the server without the
     opponent scoring a single point.
 
+
+    To win the game when serving with the
+    opponent scoring zero points.
+
+    "to hold to love"
+
+break to love
+    To win the game when receiving with the
+    opponent scoring zero points.
+
+    "to break to love"
+
 love
-    A score of zero (e.g.
-    
-    "15-0" is spoken "fifteen-love"; "to hold
-    to love" means "to win the game when
-    serving with the opponent scoring zero
-    points"; "to break to love" means "to win
-    the game when receiving with the opponent
-    scoring zero points").
+    A score of zero.
+
+    For example:
+    - "15-0" is spoken "fifteen-love";
+    - hold to love
+    - break to love
     
     Thought to be derived from the French
     term, l'oeuf, literally the egg, meaning
@@ -1331,7 +1342,8 @@ love
     claiming it to be from the Dutch word lof
     doen, meaning honour.
 
-lucky loser ("LL")
+lucky loser
+LL
     Highest-ranked player to lose in the final
     round of qualifying for a tournament, but
     still ends up qualifying because of a
