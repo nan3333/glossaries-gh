@@ -73,7 +73,8 @@ all-Comers
     play the title holder in the Challenge
     Round.
 
-all-court (or all-court game)
+all-court
+all-court game
     Style of play that is a composite of all
     the different playing styles, which
     includes baseline, transition, and serve
@@ -103,7 +104,10 @@ alternate
     
     Such a player may be a lucky loser.
 
-American doubles (or American singles, Australian doubles and cut-throat tennis)
+American doubles
+American singles
+Australian doubles
+cut-throat tennis
     Informal and unsanctioned variation of
     tennis played with three players—two on
     one side of the court and one on the
@@ -121,7 +125,8 @@ American doubles (or American singles, Australian doubles and cut-throat tennis)
     
     See also: Canadian doubles.
 
-approach shot (or approach)
+approach shot
+approach
     A groundstroke shot used as a setup as the
     player approaches the net, often using
     underspin or topspin.
@@ -134,7 +139,8 @@ ATP Finals
     featuring the eight top-ranked men in the
     world (plus two alternates).
 
-ATP Race (or ATP Race to Milan/Turin/London; formerly ATP Champions Race)
+ATP Race
+ATP Race to Milan/Turin/London; formerly ATP Champions Race
     ATP point ranking system that starts at
     the beginning of the year and by the end
     of the year mirrors the ATP entry system
@@ -285,7 +291,9 @@ bisque
     
     Abolished by the LTA in 1890.
 
-block (or blocked shot, blocked return)
+block
+blocked shot
+blocked return
     Defensive shot with relatively little
     backswing and shortened action instead of
     a full swing, usually while returning a
@@ -430,7 +438,8 @@ career Golden Slam
     Tennis at the Olympics was not played from
     1928 to 1984.
 
-career Grand Slam (or career slam)
+career Grand Slam
+career slam
     Players who have won all four Major
     championships over the course of their
     career (but not within the same calendar
@@ -503,7 +512,8 @@ challenger
 champions tiebreak
     See super tiebreak.
 
-change-over (or change of ends)
+change-over
+change of ends
     90 second rest time after every odd-
     numbered game when the players change
     ends.
@@ -525,14 +535,18 @@ chop
     Shot hit with extreme underspin, opposite
     of topspin.
 
-clay (or clay court, claycourt)
+clay
+clay court
+claycourt
     a natural surface made of crushed shale,
     stone, brick or clay on which tennis is
     played, most notably at the French Open.
     
     See: clay court.
 
-claycourter (or clay-courter, clay courter)
+claycourter
+clay-courter
+clay courter
     Player who is particularly proficient or a
     specialist on clay courts.
 
@@ -600,7 +614,8 @@ crosscourt shot
     Hitting the ball diagonally into the
     opponent's court.
 
-cut-throat tennis (or cutthroat tennis)
+cut-throat tennis
+cutthroat tennis
     see American doubles.
 
 cyclops
@@ -617,7 +632,8 @@ dampener A small rubber device affixed to the strings of the racket to absorb so
 Davis Cup
     International, annual men's tennis competition in which teams from participating countries compete in a single-elimination format, with matches occurring at several stages during the year.[44]
 
-dead net (or dead net cord)
+dead net
+dead net cord
     Situation in which a player scores by
     inadvertently hitting the ball in such a
     way that it touches the upper cord of the
@@ -711,7 +727,8 @@ double break point
     consecutive break point opportunities in
     game, or a score of 15–40.
 
-double break (or double-break)
+double break
+double-break
     An advantage of two breaks of service in a
     set.
 
@@ -720,7 +737,8 @@ double fault
     causing the player serving to lose the
     point.
 
-double-handed backhand (or double-hander)
+double-handed backhand
+double-hander
     See two-handed backhand.
 
 doubles net
@@ -754,7 +772,9 @@ draw
     starting lineup or the main draw of the
     tournament.
 
-drive volley (or drive-volley, swing volley)
+drive volley
+drive-volley
+swing volley
     a tennis volley executed with full swing
     or topspin drive, thus with pace and
     conventionally at shoulder height; in the
@@ -816,7 +836,8 @@ fault
     
     See also double fault and foot fault.
 
-Fed Cup (or Federation Cup)
+Fed Cup
+Federation Cup
     See Billie Jean King Cup.
 
 first serve
@@ -837,7 +858,8 @@ five
     a score of 40–15 is sometimes spoken as
     "forty–five").
 
-flat (or flat shot)
+flat
+flat shot
     Shot with relatively little spin and
     usually hard-hit.
 
@@ -852,7 +874,8 @@ flatliner
 follow through
     Portion of a swing after the ball is hit.
 
-foot fault (or footfault)
+foot fault
+footfault
     Type of service fault in which a player,
     during the serve, steps on or over the
     baseline into the court before striking
@@ -879,7 +902,9 @@ forehand
     with the front of the racket hand facing
     the ball; contrasted with backhand.
 
-frame shot (or frame, wood shot)
+frame shot
+frame
+wood shot
     A mishit on the frame of the racket rather
     than the strings.
 
@@ -951,13 +976,16 @@ Grand Slam
     
     See also Career Grand Slam.
 
-grass (or grass court)
+grass
+grass court
     A natural turf surface tennis is played
     on, most notably at Wimbledon.
     
     See: grass court.
 
-grasscourter (or grass-courter, grass courter)
+grasscourter
+grass-courter
+grass courter
     Player who is particularly proficient or a
     specialist on grass courts.
 
@@ -1027,7 +1055,8 @@ handicapping
     advantages or compensations to equalize
     the chances of winning.
 
-hardcourt (or hard court)
+hardcourt
+hard court
     A type of court which is made of asphalt
     or concrete with a synthetic/acrylic layer
     on top.
@@ -1035,7 +1064,9 @@ hardcourt (or hard court)
     They can vary in color and tend to play
     medium-fast to fast.
 
-hardcourter (or hard-courter, hard courter)
+hardcourter
+hard-courter
+hard courter
     Player who is particularly proficient or a
     specialist on hard courts.
 
@@ -1052,11 +1083,13 @@ hawk-Eye
     system to contest and review designated
     line calls.
 
-head (or racket head)
+head
+racket head
     Portion of the racket that contains the
     strings.
 
-heavy (ball)
+heavy
+heavy ball
     Ball hit with so much topspin that it
     feels "heavy" when the opposing player
     strikes it.
@@ -1064,11 +1097,13 @@ heavy (ball)
 hit and giggle
     non-competitive social tennis.
 
-hitting partner (or sparring partner)
+hitting partner
+sparring partner
     specialist employed by a tennis player to
     practice strokes during training.
 
-hold (or hold serve)
+hold
+hold serve
     To win the game when serving.
     
     Compare break.
@@ -1137,7 +1172,8 @@ junk ball
     upset the flow of the game and the rhythm
     of the opposition.
 
-junk baller (or junkballer)
+junk baller
+junkballer
     Player that hits junk balls; often used in
     a derogative manner.
 
@@ -1211,7 +1247,8 @@ let
     for a serve, a let is technically the
     result, even if the word goes unspoken.
 
-line call (or call)
+line call
+call
     Call made by the line judge.
     
     A call of 'out' will be made in
@@ -1224,7 +1261,9 @@ line call (or call)
     flattened and the arms stretched
     downwards.
 
-line judge (or linesman, lineswoman or line umpire)
+line judge
+linesman
+lineswoman or line umpire
     Person designated to observe the passage
     of tennis balls over the boundary lines of
     the court.
@@ -1381,7 +1420,8 @@ MIPTC
     Existed from 1974 until the creation of
     the ATP Tour in 1989.
 
-mis-hit (or mishit)
+mis-hit
+mishit
     Stroke in which the racket fails to make
     contact with the ball in the "sweetspot"
     area of the strings.
@@ -1429,7 +1469,8 @@ net posts
     case the posts are placed 3 feet (0.914 m)
     outside the singles court.
 
-net sticks (or singles sticks)
+net sticks
+singles sticks
     Pair of poles placed on the singles line
     to support the net during a singles match.
 
@@ -1510,7 +1551,10 @@ on serve
     An advantage set requires at least one
     break to win.
 
-one-handed backhand (or single-handed backhand, single-hander, one-hander)
+one-handed backhand
+single-handed backhand
+single-hander
+one-hander
     Backhand stroke hit with one hand on the
     grip.
 
@@ -1546,7 +1590,8 @@ out
     An error in which the ball lands outside
     the playing area.
 
-overgrip (or overwrap)
+overgrip
+overwrap
     padded tape spirally wrapped over the
     handle or grip of the racket to absorb
     moisture or add gripping assistance.
@@ -1574,7 +1619,8 @@ paint the lines
     To hit shots that land as close to the
     lines of the court as possible.
 
-pass (or passing shot)
+pass
+passing shot
     Type of shot, usually played in the
     vicinity of thvee baseline, that passes by
     (not over) the opponent at the net.
@@ -1684,7 +1730,8 @@ qualifier ("Q")
 qualifying draw
     See draw.
 
-racket (or racquet)
+racket
+racquet
     Bat with a long handle and a large looped
     frame with a string mesh tautly stretched
     across it, the frame made of wood, metal,
@@ -1838,7 +1885,8 @@ scoring
 scratch
     Withdrawal from a match due to an injury.
 
-second serve (or second service)
+second serve
+second service
     Second and final of the two serve attempts
     a player is allowed at the beginning of a
     point, not counting net cord let serves
@@ -1851,7 +1899,8 @@ second snap
     popping back in position before the ball
     leaves contact with the racket.
 
-seed (or seeding)
+seed
+seeding
     Player whose position in a tournament has
     been arranged based on their ranking so as
     not to meet other ranking players in the
@@ -1897,14 +1946,16 @@ serve out
     To win a set (and possibly therefore, the
     match) by holding serve.
 
-serve (verb and noun. Also service, noun)
+serve
+service
     The starting stroke of each point.
     
     The ball must be hit into the opponent's
     service box, specifically the box's half
     that is diagonally opposite the server.
 
-service box (or service court)
+service box
+service court
     Rectangular area of the court, marked by
     the sidelines and the service lines, that
     a serve is supposed to land in.
@@ -1971,14 +2022,16 @@ shot clock
     First used in Grand Slams at the
     Australian Open in 2018.
 
-single-handed backhand (or single-hander)
+single-handed backhand
+single-hander
     See one-handed backhand.
 
 singles net
     A net used for playing singles; shorter
     than a doubles net.
 
-singles sticks (or net sticks)
+singles sticks
+net sticks
     Pair of poles which are placed underneath
     the net near the singles sideline for the
     purpose of raising it for singles play.
@@ -2072,7 +2125,8 @@ stick volley
     Volley hit crisply, resulting in shot with
     a sharp downward trajectory.
 
-stiffness (or racket stiffness)
+stiffness
+racket stiffness
     The resistance of the racket to bending
     upon impact with the ball.
 
@@ -2124,7 +2178,8 @@ sudden death tiebreak
     Introduced in 1965 by Jimmy Van Alen as a
     component of the VASSS.
 
-super tiebreak (or Champions tiebreak)
+super tiebreak
+Champions tiebreak
     A tiebreak variation played with a first
     to ten points format instead of seven;
     usually used in doubles to decide a match
@@ -2273,7 +2328,12 @@ tube
     
     "he tubed his opponent."
 
-tweener (also called tweeny, tweenie, hot dog, Gran Willy or Sabatweenie — the last two being named after Guillermo Vilas and Gabriela Sabatini respectively, who pioneered the shot in the 1970s and 80s)
+tweener (also called tweeny
+tweenie
+hot dog
+Gran Willy or Sabatweenie — the last two being named after Guillermo Vilas and Gabriela Sabatini respectively
+who pioneered the shot in the 1970s
+80s
     A difficult trick shot in which a player
     hits the ball between their legs.
     
@@ -2290,7 +2350,8 @@ tweener racket
     transitional racket for young
     professionals.
 
-twist serve (or American twist serve)
+twist serve
+American twist serve
     Serve hit with a combination of slice and
     topspin which results in a curving
     trajectory and high bounce in the opposite
@@ -2298,20 +2359,26 @@ twist serve (or American twist serve)
     
     See also kick serve.
 
-two-handed backhand (or double-handed backhand, double-hander, two-hander)
+two-handed backhand
+double-handed backhand
+double-hander
+two-hander
     Backhand stroke hit with both hands on the
     grip.
 
-umpire (or chair umpire)
+umpire
+chair umpire
     Person designated to enforce the rules of
     the game during play, usually sitting on a
     high chair beside the net.
 
-underhand serve (or underarm serve)
+underhand serve
+underarm serve
     A serve in which the player lobs the ball
     from below shoulder level.
 
-underspin (or backspin or undercut)
+underspin
+backspin or undercut
     Spin of a ball where the top of the ball
     rotates away from the direction of travel;
     the spin is underneath the ball, causing
@@ -2410,7 +2477,9 @@ WCT
     lasted until the emergence of the ATP Tour
     in 1990.
 
-wrong-foot (or wrong foot, wrongfoot)
+wrong-foot
+wrong foot
+wrongfoot
     To hit the ball in the opposite horizontal
     direction to that expected by the
     opponent, causing them to switch direction
