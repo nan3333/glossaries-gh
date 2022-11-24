@@ -140,7 +140,10 @@ ATP Finals
     world (plus two alternates).
 
 ATP Race
-ATP Race to Milan/Turin/London; formerly ATP Champions Race
+ATP Race to Milan
+ATP Race to Turin
+ATP Race to London
+ATP Champions Race
     ATP point ranking system that starts at
     the beginning of the year and by the end
     of the year mirrors the ATP entry system
@@ -149,7 +152,8 @@ ATP Race to Milan/Turin/London; formerly ATP Champions Race
     The top eight players at the end of the
     year qualify for the ATP Finals.
 
-ATP Tour (formerly ATP World Tour)
+ATP Tour
+ATP World Tour
     Worldwide top-tier tennis tour for men
     organized by the Association of Tennis
     Professionals.
@@ -2104,14 +2108,16 @@ spank
 sparring partner
     see hitting partner.
 
-special exempt ("SE")
+special exempt
+SE
     Players who are unable to appear in a
     tournament's qualifying draw because they
     are still competing in the final rounds of
     a previous tournament can be awarded a
     spot in the main draw by special exempt.
 
-special ranking ("SR")
+special ranking
+SR
     See protected ranking.
 
 spin
@@ -2129,7 +2135,8 @@ split step
     This lets the player go more quickly in
     either direction.
 
-spot serving/spot server
+spot serving
+spot server
     Serving with precision, resulting in the
     ball landing either on or near the
     intersection of the center service line
