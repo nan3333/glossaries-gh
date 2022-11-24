@@ -792,11 +792,15 @@ swing volley
 drive
     Groundstroke hit with a flat trajectory.
 
-drop (a set)
-    to lose (the set)
+drop
+drop a set
+    To lose the set.
 
-drop shot (colloquial
-    dropper): Play in which the player hits
+drop shot
+dropper
+    (colloquial dropper)
+
+    Play in which the player hits
     the ball lightly enough to just go over
     the net, usually with backspin; designed
     to catch a player who is away from the net
