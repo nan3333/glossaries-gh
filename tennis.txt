@@ -2222,8 +2222,11 @@ sweetspot
 swing volley
     See drive volley.
 
-tanking (noun
-    tank): Colloquial term for losing a match
+tanking
+tank
+    (noun tank)
+
+    Colloquial term for losing a match
     on purpose; or to purposely lose a non-
     vital set, so as to focus energy and
     attention on a match-deciding set.
@@ -2341,7 +2344,8 @@ triple crown
     mixed doubles) at one event, especially a
     Grand Slam tournament.
 
-T (the T)
+T
+the T
     The spot on a tennis court where the
     center line and the service line intersect
     perpendicularly to form a "T" shape.
@@ -2443,7 +2447,9 @@ volley
     net, by a player before the ball bounces
     on their own side of the court.
 
-walkover ("WO" or "w/o")
+walkover
+WO
+w/o
     Unopposed victory.
     
     A walkover is awarded when the opponent
@@ -2470,7 +2476,8 @@ wide
     A call to indicate that the ball has
     landed out of court, beyond the sideline.
 
-wild card ("WC")
+wild card
+WC
     Player allowed to play in a tournament,
     even if their rank is not adequate or they
     do not register in time.
