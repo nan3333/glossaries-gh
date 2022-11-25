@@ -38,7 +38,7 @@ Attributes
 
     vim +/"IS_TITLE" "$MYGIT/ines/spacy-course/exercises/solution_02_13.py"
 
-    $NOTES/ws/spacy/attributes.org
+    e:$NOTES/ws/spacy/attributes.org
 
 match-rule
     Consists of:
