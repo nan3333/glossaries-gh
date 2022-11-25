@@ -1,3 +1,14 @@
+SDCL
+Software Development Life Cycle
+    [#systems engineering]
+
+    Information systems and software
+    engineering, the systems development life
+    cycle, also referred to as the application
+    development life-cycle, is a process for
+    planning, creating, testing, and deploying
+    an information system.
+
 agile vs scrum
     https://www.guru99.com/agile-vs-scrum.html#:~:text=Agile%20is%20a%20continuous%20iteration,the%20software%20after%20each%20sprint.
 
