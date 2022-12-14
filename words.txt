@@ -18506,3 +18506,17 @@ cankered
 proposal
     A proposal is the act of asking someone to
     marry you.
+
+confirmatory
+    Serving to establish the truth or
+    correctness of something that is suspected
+    or reported.
+    "we have confirmatory evidence of
+    long-term health effects"
+
+    Serving to make an arrangement or
+    agreement definite or valid.
+    "a confirmatory phone call"
+
+    "We want it to be confirmatory, not
+    exploratory."
