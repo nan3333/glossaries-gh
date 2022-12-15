@@ -18520,3 +18520,13 @@ confirmatory
 
     "We want it to be confirmatory, not
     exploratory."
+
+oblique
+    Neither parallel nor at right angles to a
+    specified or implied line; slanting.
+    "we sat on the settee oblique to the
+    fireplace"
+
+    Not expressed or done in a direct way.
+    "he issued an oblique attack on the
+    President"
