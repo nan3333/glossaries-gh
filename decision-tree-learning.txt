@@ -21,7 +21,8 @@ algorithms used in decision trees
 ID3
     [algorithm] 
 
-    The core algorithm for building decision trees.
+    The core algorithm for building decision
+    trees.
     
     Employs a top-down, greedy search through
     the space of possible branches with no
