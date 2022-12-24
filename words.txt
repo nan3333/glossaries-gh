@@ -18560,3 +18560,14 @@ suppliant
     humble way.
     
     Making appeals & requests.
+
+formidable
+    Inspiring fear or respect through being
+    impressively large, powerful, intense, or
+    capable.  "a formidable opponent"
+
+pretence
+    An attempt to make something that is not
+    the case appear true.
+    "his anger is masked by a pretence that
+    all is well"
