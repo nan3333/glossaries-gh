@@ -1,3 +1,14 @@
+Delta-V
+Δv
+    Commonplace notation used in mathematics
+    and particularly in physics to denote a
+    change or difference in velocity.
+    
+    In the context of a motor vehicle crash,
+    Δv specifically refers to the change in
+    velocity between pre-collision and post-
+    collision trajectories of a vehicle.
+
 Kármán line
     Represents both the attempt to define a
     boundary between Earth's atmosphere and
@@ -7,10 +18,16 @@ Kármán line
     international record-keeping body for
     aeronautics
 
-moon base alpha
-
 low Earth orbit
 LEO
+    An orbit that is relatively close to
+    Earth's surface.
+    
+    It is normally at an altitude of less than
+    1000 km but could be as low as 160 km
+    above Earth – which is low compared to
+    other orbits, but still very far above
+    Earth's surface.
 
 Kessler Syndrome
     A theoretical scenario in which the
