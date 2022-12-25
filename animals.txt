@@ -26,9 +26,12 @@ puggle
     A baby echidna.
 
 echidna train
+echidna love train
     Puggle-production is not always quite that
     simple, however, as during the breeding
     season females can attract multiple males
     at once, who follow her around single
     file, more or less nose to tail, in what
     are known as 'echidna trains'.
+
+    https://www.youtube.com/watch?v=n55y_s1haEM
