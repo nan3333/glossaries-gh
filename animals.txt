@@ -1,3 +1,14 @@
+quokka
+    A small macropod about the size of a
+    domestic cat.
+    
+    It is the only member of the genus
+    Setonix.
+    
+    Like other marsupials in the macropod
+    family, the quokka is herbivorous and
+    mainly nocturnal.
+
 owls
 strigiformes
     Owls are birds from the order
