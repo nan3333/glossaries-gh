@@ -4,3 +4,11 @@ conservatoire
     continental European tradition.
     "she studies piano and violin at the Paris
     Conservatoire"
+
+hey presto
+    A phrase announcing the successful
+    completion of a trick, or to suggest that
+    something has been done so easily that it
+    seems to be magic.
+    "press the start button and, hey presto, a
+    copy comes out the other end"
