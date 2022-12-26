@@ -12596,3 +12596,14 @@ doozy
     Something outstanding or unique of its
     kind.
     "it's gonna be a doozy of a black eye"
+
+rolodex
+    A rotating card file device used to store
+    business contact information.
+    
+    Its name, a portmanteau of the words
+    rolling and index, has become somewhat
+    genericized for any personal organizer
+    performing this function, or as a metonym
+    for the total of an individual's
+    accumulated business contacts.
