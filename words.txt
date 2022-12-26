@@ -183,11 +183,22 @@ seltzer
 tonic
 
 starlet
-    A young actress with aspirations to become a star.
+    A young actress with aspirations to become
+    a star.
+
+    Blood-red.
 
 sanguine
+    Optimistic or positive, especially in an
+    apparently bad or difficult situation.
+    "he is sanguine about prospects for the
+    global economy"
 
 parasitizing
+    Infest or exploit (an organism or part) as
+    a parasite.
+    "these small worms parasitize the
+    alimentary tract of animals and birds"
 
 visceral
     relating to deep inward feelings rather
@@ -298,6 +309,15 @@ snark
     Devious and underhand.
 
 collocation
+    The habitual juxtaposition of a particular
+    word with another word or words with a
+    frequency greater than chance.
+    "the words have a similar range of
+    collocation"
+
+    The action of placing things side by side
+    or in position.
+    "the collocation of the two pieces"
 
 idiosyncratic
     Relating to idiosyncrasy; peculiar or
@@ -350,23 +370,21 @@ plebe
     A newly entered cadet or freshman,
     especially at a military or naval academy.
 
-Conflation
-   1. A blowing together, as of many instruments in a concert,
-      or of many fires in a foundry. [R.] --Bacon.
-      [1913 Webster]
+conflation
+   A blowing together, as of many instruments
+   in a concert, or of many fires in a
+   foundry.
 
-   2. a fusing together; merger of two or more things or ideas
-      into one.
-      [PJC]
+   A fusing together; merger of two or more
+   things or ideas into one.
 
-Tenacious
-   1. Holding fast, or inclined to hold fast; inclined to retain
-      what is in possession; as, men tenacious of their just
-      rights.
-      [1913 Webster]
+tenacious
+   Holding fast, or inclined to hold fast;
+   inclined to retain what is in possession;
+   as, men tenacious of their just rights.
 
-   2. Apt to retain; retentive; as, a tenacious memory.
-      [1913 Webster]
+   Apt to retain; retentive; as, a tenacious
+   memory.
 
 pretentious
     Attempting to impress by affecting greater
