@@ -545,6 +545,11 @@ archetype
     expected to be perfect.
 
 unbecoming
+    (of behaviour) not fitting or appropriate;
+    unseemly.
+    "it was unbecoming for a university to do
+    anything so crass as advertising its
+    wares"
 
 prerogative
     [#law]
@@ -659,6 +664,9 @@ rapport
     and communicate well.
 
 sporadic
+    Occurring at irregular intervals or only
+    in a few places; scattered or isolated.
+    "sporadic fighting broke out"
 
 curiosity
 
@@ -801,6 +809,8 @@ Kleptocracy
     the wider population.
 
 innocuous
+    Not harmful or offensive.
+    "it was an innocuous question"
 
 dewy-eyed
     Having eyes that are moist with tears
@@ -811,6 +821,9 @@ pedantic
     https://www.merriam-webster.com/dictionary/pedantic
 
 chorale
+    A hymn or psalm sung to a traditional or
+    composed melody in church. also : a
+    harmonization of a chorale melody.
 
 euphemism
     A mild or indirect word or expression
@@ -913,15 +926,19 @@ pittance
     money.
 
 tumultuous
+    Making an uproar or loud, confused noise.
+    "tumultuous applause"
 
 aught
     Anything at all.
 
 baptism of fire
-    a difficult introduction to a new job or activity.
+    A difficult introduction to a new job or
+    activity.
 
 antecedents
-    a thing that existed before or logically precedes another.
+    A thing that existed before or logically
+    precedes another.
 
 stoically
     Without showing one's feelings or
