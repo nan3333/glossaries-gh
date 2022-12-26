@@ -386,6 +386,21 @@ tenacious
    Apt to retain; retentive; as, a tenacious
    memory.
 
+tenacity
+    The quality or fact of being able to grip
+    something firmly; grip.
+    "the sheer tenacity of the limpet"
+
+    The quality or fact of being very
+    determined; determination.
+    "you have to admire the tenacity of these
+    two guys"
+    
+    The quality or fact of continuing to
+    exist; persistence.
+    "the tenacity of certain myths within the
+    historical record"
+
 pretentious
     Attempting to impress by affecting greater
     importance or merit than is actually
