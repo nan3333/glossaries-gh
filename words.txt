@@ -11216,6 +11216,14 @@ emancipation
     group, or more generally, in discussion of
     many matters.
 
+byname
+    A nickname, especially one given to
+    distinguish a person from others with the
+    same given name.
+    "surnames started off as bynames to
+    distinguish two persons in the same
+    locality"
+
 epithet
     A byname, or a descriptive term,
     accompanying or occurring in place of a
