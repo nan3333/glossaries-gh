@@ -12591,3 +12591,8 @@ pell-mell
     defined as "an air battle in which several
     aircraft, both friend and foe, are
     confusingly intermingled".
+
+doozy
+    Something outstanding or unique of its
+    kind.
+    "it's gonna be a doozy of a black eye"

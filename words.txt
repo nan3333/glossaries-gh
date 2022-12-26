@@ -18571,3 +18571,8 @@ pretence
     the case appear true.
     "his anger is masked by a pretence that
     all is well"
+
+condemned
+    Sentenced to a particular punishment,
+    especially death.
+    "condemned prisoners awaiting execution"

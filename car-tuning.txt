@@ -10,6 +10,28 @@ carby
     carb in the UK and North America or carby
     in Australia.
 
+    A device used by an internal combustion
+    engine to control and mix air and fuel
+    entering the engine.
+    
+    The primary method of adding fuel to the
+    intake air is through the venturi tube in
+    the main metering circuit, however various
+    other components are also used to provide
+    extra fuel or air in specific
+    circumstances.
+    
+    Since the 1990s, carburetors have been
+    largely replaced by fuel injection for
+    cars and trucks, however carburetors are
+    still used by some small engines (e.g.
+    
+    lawnmowers, generators and concrete
+    mixers) and motorcycles.
+    
+    Diesel engines have always used fuel
+    injection instead of carburetors.
+
 camshaft
 cam
     NLG: "Camshaft" refers to the shaft that
