@@ -4,3 +4,14 @@ Encephalology
 Encephalopathy
 
 Encephalography
+
+metastability
+    [#computational neuroscience]
+    [theory]
+
+    The theory of metastability refers to the
+    human brain's ability to integrate several
+    functional parts and to produce neural
+    oscillations in a cooperative and
+    coordinated manner, providing the basis
+    for conscious activity.
