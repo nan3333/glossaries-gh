@@ -6626,19 +6626,6 @@ enharmonic scale
 diesis
     The double dagger symbol ‡.
 
-quantization
-    [mathematics]
-    [digital signal processing]
-
-    The process of mapping input values from a
-    large set to output values in a smaller
-    set, often with a finite number of
-    elements.
-
-    Examples:
-    - Rounding
-    - truncation
-
 censoriousness
 censorious
     Harshly critical or expressing censure;
@@ -18634,3 +18621,7 @@ condemned
     Sentenced to a particular punishment,
     especially death.
     "condemned prisoners awaiting execution"
+
+debauchery
+    Excessive indulgence in sex, alcohol, or
+    drugs.

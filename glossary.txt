@@ -8646,15 +8646,58 @@ heptatonic
 
     The major, and all forms of the minor.
 
+pel
+picture element
+
+quantization
+    [mathematics]
+    [digital signal processing]
+
+    The process of mapping input values from a
+    large set to output values in a smaller
+    set, often with a finite number of
+    elements.
+
+    The process of mapping continuous infinite
+    values to a smaller set of discrete finite
+    values.
+    
+    In the context of simulation and embedded
+    computing, it is about approximating real-
+    world values with a digital representation
+    that introduces limits on the precision
+    and range of a value.
+
+    Examples:
+    - Rounding
+    - truncation
+
 Vector quantisation
 VQ
+    A classical quantization technique from
+    signal processing that allows the modeling
+    of probability density functions by the
+    distribution of prototype vectors.
+    
+    It was originally used for data
+    compression.
+    
+    It works by dividing a large set of points
+    (vectors) into groups having approximately
+    the same number of points closest to them.
+    
+    Each group is represented by its centroid
+    point, as in k-means and some other
+    clustering algorithms.
+
     The assignment of one code word to a group
     of two or more picture elements.
 
     Compression is achieved through the number
     of available code words being less than
     the number of permutations of the possible
-    values of the input pels in the group.
+    values of the input pels (picture
+    elements) in the group.
 
 semantic satiation
     [psychological phenomenon]
