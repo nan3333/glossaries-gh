@@ -1473,6 +1473,10 @@ doxological
     some version of the Kaddish serves to
     terminate each section of the service.
 
+demoniac
+    A person supposedly possessed by an evil
+    spirit.
+
 demonized
     Afflicted by a demon.
 
@@ -1575,3 +1579,6 @@ typological symbolism
     assumption that God placed anticipations
     of Christ in the laws, events, and people
     of the Old Testament.
+
+hierateia
+    The priesthood, the office of a priest.
