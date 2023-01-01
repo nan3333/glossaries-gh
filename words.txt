@@ -18623,3 +18623,9 @@ condemned
 debauchery
     Excessive indulgence in sex, alcohol, or
     drugs.
+
+skulduggery
+    Underhand, unscrupulous, or dishonest
+    behaviour or activities.
+    "a firm that investigates commercial
+    skulduggery"
