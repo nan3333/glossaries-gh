@@ -18,3 +18,11 @@ psychohistory
     collected as the 1951 novel Foundation.
 
     https://en.wikipedia.org/wiki/Psychohistory_(fictional)
+
+ansible
+    A hypothetical device that enables users
+    to communicate instantaneously across
+    great distances; that is, a
+    faster-than-light communication device.
+
+    Plural: ansibles
