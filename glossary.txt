@@ -12650,3 +12650,9 @@ rolodex
     performing this function, or as a metonym
     for the total of an individual's
     accumulated business contacts.
+
+rose-colored glasses
+    An optimistic perception of something; a
+    positive opinion; seeing something in a
+    positive way, often thinking of it as
+    better than it actually is.
