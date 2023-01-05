@@ -55,6 +55,16 @@ formal equivalence
     tends to employ a more natural rendering
     but with less literal accuracy.
 
+    Formal equivalence is a literal, word-for-
+    word translation.
+    
+    The goal is to stay as close to the
+    original text as possible.
+    
+    The translation will preserve the lexical
+    details, grammatical structure,
+    vocabulary, and syntax of the source text.
+
 reverse formal equivalence
     A more recent methodology being undertaken
     with the Real Bible Translation (RBT)
