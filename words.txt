@@ -18629,3 +18629,13 @@ skulduggery
     behaviour or activities.
     "a firm that investigates commercial
     skulduggery"
+
+providential
+    Occurring at a favourable time; opportune.
+    "his appearance had seemed more than just
+    providential"
+
+    Involving divine foresight or providence.
+    "they took it for granted that the order
+    of the world reflects a designing
+    providential hand"
