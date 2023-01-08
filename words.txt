@@ -18639,3 +18639,11 @@ providential
     "they took it for granted that the order
     of the world reflects a designing
     providential hand"
+
+diminution
+    A reduction in the size, extent, or
+    importance of something.
+
+vehemently
+    In a forceful, passionate, or intense
+    manner; with great feeling.
