@@ -18647,3 +18647,8 @@ diminution
 vehemently
     In a forceful, passionate, or intense
     manner; with great feeling.
+
+blooper
+    An embarrassing error.
+    "he poked fun at his own tendency to utter
+    bloopers"
