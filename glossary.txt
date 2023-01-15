@@ -12656,3 +12656,12 @@ rose-colored glasses
     positive opinion; seeing something in a
     positive way, often thinking of it as
     better than it actually is.
+
+scrupulosity
+    A psychological disorder primarily
+    characterized by pathological guilt or
+    obsession associated with moral or
+    religious issues that is often accompanied
+    by compulsive moral or religious
+    observance and is highly distressing and
+    maladaptive.
