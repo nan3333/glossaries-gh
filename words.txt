@@ -18729,3 +18729,12 @@ propitiation
     While some use the term interchangeably
     with expiation, others draw a sharp
     distinction between the two.
+
+garrulity
+    The quality of being wordy and talkative.
+
+    synonyms:
+    - garrulousness,
+    - loquaciousness,
+    - loquacity,
+    - talkativeness.
